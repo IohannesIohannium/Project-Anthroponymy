@@ -1,0 +1,729 @@
+name_list_turkmen = {
+
+	female_last_names = {
+		dyn_tk_Abdulayev_f dyn_tk_Abdulin_f dyn_tk_Abdullayev_f dyn_tk_Abdulov_f 
+		dyn_tk_Garayev_f dyn_tk_Ibragimov_f dyn_tk_Muhadow_f dyn_tk_Niyazov_f 
+		dyn_tk_Mezlauk_f dyn_tk_Paskutsky_f dyn_tk_Aronstam_f dyn_tk_Popok_f 
+		dyn_tk_Mukhamedov_f dyn_tk_Cubin_f dyn_tk_Fonin_f dyn_tk_Batyrov_f 
+		dyn_tk_Babayev_f dyn_tk_Karayev_f dyn_tk_Ovezov_f dyn_tk_Gapurov_f 
+	}
+
+	dynasty_names = {
+		dyn_tk_Abdulayev dyn_tk_Abdulin dyn_tk_Abdullayev dyn_tk_Abdulov dyn_tk_Garayev
+		dyn_tk_Ibragimov dyn_tk_Muhadow dyn_tk_Niyazov dyn_tk_Mezlauk dyn_tk_Paskutsky
+		dyn_tk_Aronstam dyn_tk_Popok dyn_tk_Mukhamedov dyn_tk_Cubin dyn_tk_Fonin
+		dyn_tk_Batyrov dyn_tk_Babayev dyn_tk_Karayev dyn_tk_Ovezov dyn_tk_Gapurov 
+		dyn_tk_Ahmetov dyn_tk_Allamyradov dyn_tk_Annadurdyev dyn_tk_Atayev
+		dyn_tk_Aydogdyev dyn_tk_Bayramov dyn_tk_Berdimuhamedov dyn_tk_Berdiyev
+		dyn_tk_Charyev dyn_tk_Charyyev dyn_tk_Dovletov dyn_tk_Durdyev
+		dyn_tk_Garryyev dyn_tk_Geldiyev dyn_tk_Gurbanov dyn_tk_Hojamammedov 
+		dyn_tk_Jumayev dyn_tk_Jumayyev dyn_tk_Mammedov dyn_tk_Meredov
+		dyn_tk_Molladurdyev dyn_tk_Mollayev dyn_tk_Mukhammetov dyn_tk_Muradov
+		dyn_tk_Nazarov dyn_tk_Nazaryev dyn_tk_Nurmuhamedov dyn_tk_Nurmukhamedov
+		dyn_tk_Nuryyev dyn_tk_Orazov dyn_tk_Rakhmanov dyn_tk_Rejepov 
+		dyn_tk_Saparmammedov dyn_tk_Saparmuradov dyn_tk_Serdarov dyn_tk_Shageldiyev
+		dyn_tk_Taganov
+	}
+	
+	male_names = {
+		tk_Alty tk_Aly tk_Aman tk_Arslanbek tk_Atajan tk_Basim tk_Baymuhammet tk_Begenc
+		tk_Berdi tk_Berdimyrat tk_Berdy tk_Byashim tk_Cariyar tk_Dayanc tk_Deniz tk_Didar
+		tk_Dowlet tk_Dowran tk_Durdy tk_Durdymamet tk_Dzhamaldin tk_Elyarbek tk_Eymir
+		tk_Eyyub tk_Ezizjan tk_Gadyr tk_Gapbar tk_Gurban tk_Gurbanguly tk_Gurbanmyrat
+		tk_Gylyc tk_Hemra tk_Intizar tk_Isanguly tk_Julyen tk_Jumageldi tk_Kadyr tk_Kasym
+		tk_Kasymguly tk_Kerim tk_Khodzhakuli tk_Magtymguly tk_Maksat tk_Mati tk_Mekan
+		tk_Meret tk_Meylis tk_Muhammetnazar tk_Murgen tk_Myrat tk_Myratgeldy tk_Nadyr
+		tk_Nasyr tk_Nedir tk_Nepes tk_Nurmuhammet tk_Nurmyrat tk_Nury tk_Oraz tk_Orazgeldi
+		tk_Owez tk_Palwan tk_Parahat tk_Rahat tk_Rahym tk_Rasit tk_Sadyk tk_Salyh tk_Sapar
+		tk_Sapardurdy tk_Saparmyrat tk_Saylaw tk_Sirli tk_Sohbet tk_Soyeg tk_Sylap tk_Tagan
+		tk_Torgay tk_Toy-toyly tk_Wepa tk_Yagmyr tk_Yhlas tk_Yunus tk_Yyldyrym
+	}
+
+	female_names = {
+		tk_Abadan tk_Aibolek tk_Akgyz tk_Akja tk_Aknur tk_Aksoltan tk_Arzygul tk_Aygyl
+		tk_Ayjan tk_Aynagozel tk_Aysoltan tk_Bibi tk_Cynar tk_Deniz tk_Dildara tk_Dileg
+		tk_Dilnaza tk_Doyduk tk_Dunya tk_Durli tk_Dursun tk_Dzhamilya tk_Gowher tk_Gozel
+		tk_Gulalek tk_Gulayym tk_Gulbadam tk_Gulhumar tk_Gulsat tk_Gultac tk_Gulya tk_Gunca
+		tk_Gurbanbibi tk_Gyulya tk_Hatyja tk_Hesel tk_Humay tk_Hurma tk_Huyri tk_Intizar
+		tk_Intizara tk_Jahan tk_Jahanay tk_Jemal tk_Jennet tk_Jeren tk_Julyen tk_Keyik
+		tk_Kumus tk_Lacyn tk_Lale tk_Mahri tk_Mahym tk_Maya tk_Mayabibi tk_Maysa
+		tk_Merjen tk_Miwe tk_Nabat tk_Nafisa tk_Nartac tk_Nurgozel tk_Ogulgerek tk_Ogulnar
+		tk_Ogulnur tk_Ogulsapar tk_Ogulsat tk_Ogultac tk_Orazgul tk_Owadan tk_Owlak
+		tk_Pamyk tk_Patma tk_Rabyga tk_Rahat tk_Reyhan tk_Ryzwan tk_Sacly tk_Sadap tk_Saher
+		tk_Sapartac tk_Saryya tk_Seker tk_Selbi tk_Semsat tk_Sofiya tk_Sulgun tk_Sumbul
+		tk_Suray tk_Tawus tk_Tazegul tk_Toty tk_Toy-toyly tk_Tylla tk_Tyllagozel tk_Yildyz
+		tk_Yupek tk_Zohre tk_Zyba tk_Zybagozel
+	}
+}
+name_list_kazakh = {
+
+	female_last_names = {
+		dyn_kk_Abdulayev_f dyn_kk_Abdulin_f dyn_kk_Abdullayev_f dyn_kk_Abdulov_f 
+		dyn_kk_Abildaev_f dyn_kk_Aitmukhambetov_f dyn_kk_Akhmetov_f 
+		dyn_kk_Aliyev_f dyn_kk_Aronov_f dyn_kk_Azovski_f dyn_kk_Bayzhanov_f 
+		dyn_kk_Ibragimov_f dyn_kk_Iskakov_f dyn_kk_Ismagulov_f dyn_kk_Karimov_f 
+		dyn_kk_Karimova_f dyn_kk_Kedryuk_f dyn_kk_Nabiyev_f dyn_kk_Nazarbayev_f 
+		dyn_kk_Niyazov_f dyn_kk_Niyazova_f dyn_kk_Niyazymbetov_f dyn_kk_Sadykov_f 
+		dyn_kk_Tagaev_f dyn_kk_Tynyshbaev_f dyn_kk_Usenov_f dyn_kk_Zhakiyanov_f 
+		dyn_kk_Zhaparov_f dyn_kk_Zhumagaziyev_f 
+	}
+
+	dynasty_names = {
+		dyn_kk_Abdulayev dyn_kk_Abdulin dyn_kk_Abdullayev dyn_kk_Abdulov dyn_kk_Abildaev
+		dyn_kk_Aitmukhambetov dyn_kk_Akhmetov dyn_kk_Aliyev dyn_kk_Aronov
+		dyn_kk_Azovski dyn_kk_Bayzhanov dyn_kk_Ibragimov dyn_kk_Iskakov dyn_kk_Ismagulov
+		dyn_kk_Karimov dyn_kk_Karimova dyn_kk_Kedryuk dyn_kk_Nabiyev dyn_kk_Nazarbayev
+		dyn_kk_Niyazov dyn_kk_Niyazova dyn_kk_Niyazymbetov dyn_kk_Sadykov dyn_kk_Tagaev
+		dyn_kk_Tynyshbaev dyn_kk_Usenov dyn_kk_Zhakiyanov dyn_kk_Zhaparov
+		dyn_kk_Zhumagaziyev
+		dyn_kk_Abdimomynov dyn_kk_Abdirakhmanov dyn_kk_Abishev dyn_kk_Abishov
+		dyn_kk_Abzhanov dyn_kk_Adilov dyn_kk_Aitkhozhin dyn_kk_Akhmetov
+		dyn_kk_Akhmetzhanov dyn_kk_Akimov dyn_kk_Akylbekov dyn_kk_Alibekov
+		dyn_kk_Alimov dyn_kk_Amangeldiyev dyn_kk_Amirov dyn_kk_Anuarbekov
+		dyn_kk_Aubakirov dyn_kk_Auezov dyn_kk_Aymaganbetov dyn_kk_Azamatov
+		dyn_kk_Baibekov dyn_kk_Balabekov dyn_kk_Bazarbayev dyn_kk_Bekzhanov
+		dyn_kk_Bidaibekov dyn_kk_Bikenov dyn_kk_Bolatov dyn_kk_Bulekbayev
+		dyn_kk_Dauletbekov dyn_kk_Duisenov dyn_kk_Dyusenbayev dyn_kk_Ermekov
+		dyn_kk_Gabdullin dyn_kk_Galimov dyn_kk_Gazizov dyn_kk_Ilyasov dyn_kk_Iskakov
+		dyn_kk_Issayev dyn_kk_Kabdeshov dyn_kk_Kabiyev dyn_kk_Kairatov
+		dyn_kk_Kaldybekov dyn_kk_Kamalov dyn_kk_Karimov dyn_kk_Kassenov
+		dyn_kk_Kenzhebayev dyn_kk_Khamzayev dyn_kk_Khanov dyn_kk_Khasenov
+		dyn_kk_Kuanyshev dyn_kk_Kudaibergenov dyn_kk_Kurmangaliyev dyn_kk_Kurmanov
+		dyn_kk_Makhanov dyn_kk_Malikov dyn_kk_Maratov dyn_kk_Maulenov
+		dyn_kk_Mukhamedov dyn_kk_Muratov dyn_kk_Mustafin dyn_kk_Nurlanov
+		dyn_kk_Nurlybekov dyn_kk_Ormanov dyn_kk_Ospanov dyn_kk_Rakhimov
+		dyn_kk_Rakhmetov dyn_kk_Rustemov dyn_kk_Sabitov dyn_kk_Sagyndykov
+		dyn_kk_Sauletov dyn_kk_Serikov dyn_kk_Sharipov dyn_kk_Shomakhov
+		dyn_kk_Suleimenov dyn_kk_Suleymanov dyn_kk_Syzdykov dyn_kk_Takhir
+		dyn_kk_Talgatov dyn_kk_Tanatarov dyn_kk_Temirbekov dyn_kk_Temirov
+		dyn_kk_Timurov dyn_kk_Tokhtarov dyn_kk_Tolibaev dyn_kk_Tursynbekov
+		dyn_kk_Turysbekov dyn_kk_Usenov dyn_kk_Yeleusizov dyn_kk_Yermakhanov
+		dyn_kk_Yermekov dyn_kk_Yerzhanov dyn_kk_Yeskendir dyn_kk_Yessenov
+		dyn_kk_Yessenzholov dyn_kk_Yessimbekov dyn_kk_Yeszhanov dyn_kk_Yuldashev
+		dyn_kk_Zhabar dyn_kk_Zhabayev dyn_kk_Zhadigerov dyn_kk_Zhailaubayev
+		dyn_kk_Zhailaubek dyn_kk_Zhailauov dyn_kk_Zhainazarov dyn_kk_Zhaisanbayev
+		dyn_kk_Zhakayev dyn_kk_Zhakibekov dyn_kk_Zhaksygeldinov dyn_kk_Zhaksylykov
+		dyn_kk_Zhakupov dyn_kk_Zhakypov dyn_kk_Zhalgasbay dyn_kk_Zhalgasbayev
+		dyn_kk_Zhalgasov dyn_kk_Zhambylov dyn_kk_Zhamshitov dyn_kk_Zhamylov
+		dyn_kk_Zhan dyn_kk_Zhanabay dyn_kk_Zhanabayev dyn_kk_Zhanal dyn_kk_Zhanaliev
+		dyn_kk_Zhanar dyn_kk_Zhanarbai dyn_kk_Zhanatayev dyn_kk_Zhanatbek
+		dyn_kk_Zhanaydarov dyn_kk_Zhanbay dyn_kk_Zhanbolat dyn_kk_Zhanbotaev
+		dyn_kk_Zhandar dyn_kk_Zhandarbekov dyn_kk_Zhandaulet dyn_kk_Zhandauletov
+		dyn_kk_Zhandosbek dyn_kk_Zhandosov dyn_kk_Zhaneldin dyn_kk_Zhanerke
+		dyn_kk_Zhanibekov dyn_kk_Zhaniyev dyn_kk_Zhanseit dyn_kk_Zhanseitov
+		dyn_kk_Zhansultanov dyn_kk_Zhantayev dyn_kk_Zhantikin dyn_kk_Zhantore
+		dyn_kk_Zhanuzak dyn_kk_Zhanuzakov dyn_kk_Zhanybekov dyn_kk_Zhanyl
+		dyn_kk_Zhapar dyn_kk_Zhaparov dyn_kk_Zhaparovich dyn_kk_Zhapayev
+		dyn_kk_Zharasov dyn_kk_Zharasuly dyn_kk_Zharkyn dyn_kk_Zharkynbekov
+		dyn_kk_Zharmakhan dyn_kk_Zharmukhamedov dyn_kk_Zharylgapov dyn_kk_Zhasimov
+		dyn_kk_Zhaslan dyn_kk_Zhassulan dyn_kk_Zhasulan dyn_kk_Zhasulanov
+		dyn_kk_Zhasulanovich dyn_kk_Zhasulanuly dyn_kk_Zhaukerov dyn_kk_Zhauyrov
+		dyn_kk_Zhaylauov dyn_kk_Zhaylym dyn_kk_Zheksembaev dyn_kk_Zheksembayev
+		dyn_kk_Zheksenbekov dyn_kk_Zhemisbayev dyn_kk_Zhenisbayev dyn_kk_Zhenislamov
+		dyn_kk_Zhenisov dyn_kk_Zhetpisbayev dyn_kk_Zhetpisov dyn_kk_Zhibekov
+		dyn_kk_Zhigerov dyn_kk_Zholakhanov dyn_kk_Zholaman dyn_kk_Zholamanbek
+		dyn_kk_Zholamanov dyn_kk_Zholamanuly dyn_kk_Zholdybay dyn_kk_Zholdybayev
+		dyn_kk_Zholshybekov dyn_kk_Zhuanyshev dyn_kk_Zhuldyz dyn_kk_Zhumabay
+		dyn_kk_Zhumabayev dyn_kk_Zhumagaliev dyn_kk_Zhumagulov dyn_kk_Zhumakhan
+		dyn_kk_Zhumakhanov dyn_kk_Zhumakhmetov dyn_kk_Zhumanov dyn_kk_Zhumatay
+		dyn_kk_Zhunisbek dyn_kk_Zhunusov dyn_kk_Zhunussov dyn_kk_Zhupar
+		dyn_kk_Zhuparbay dyn_kk_Zhuravlev dyn_kk_Zhussupov dyn_kk_Zhusupov
+		dyn_kk_Zhuzbayev 
+	}
+	
+	male_names = {
+		kk_Adilet kk_Aibek kk_Ali kk_Alikhan kk_Alisher kk_Arman kk_Arslan kk_Aybek
+		kk_Azamat kk_Azat kk_Bakhtiyar kk_Bolat kk_Bulat kk_Eldar kk_Erasyl kk_Islam
+		kk_Makhmud kk_Mukhamed kk_Mukhtar kk_Nurasyl kk_Nurislam kk_Nurlan
+		kk_Nursultan kk_Nurzhan kk_Ramazan kk_Rinat kk_Ruslan kk_Rustam kk_Serik
+		kk_Shamil kk_Sukhrab kk_Talgat kk_Temir kk_Timur
+	}
+
+	female_names = {
+		kk_Aiday kk_Aigerim kk_Aigul kk_Aiman kk_Aina kk_Ainur kk_Aliya kk_Amina kk_Anar
+		kk_Anara kk_Anargul kk_Aruzhan kk_Asel kk_Ayaulym kk_Aygerim kk_Ayna kk_Bibigul
+		kk_Dinara kk_Elmira kk_Gauhar kk_Gulmira kk_Gulnar kk_Gulnara kk_Gulnaz kk_Inkar
+		kk_Inzhu kk_Madina kk_Mariyam kk_Nazgul kk_Saltanat kk_Saule kk_Sezim kk_Zarina
+		kk_Zhuldyz
+	}
+}
+name_list_kyrgyz = {
+
+	female_last_names = {
+		dyn_ky_Abdiev_f dyn_ky_Abdraimov_f dyn_ky_Abdrakhmanov_f dyn_ky_Abdullaev_f
+		dyn_ky_Abdurakhmanov_f dyn_ky_Abdykadyrov_f dyn_ky_Abdyldaev_f dyn_ky_Abdyrakhmanov_f
+		dyn_ky_Aitmatov_f dyn_ky_Akayev_f dyn_ky_Akhmedov_f dyn_ky_Akmatov_f dyn_ky_Aliev_f
+		dyn_ky_Alimov_f dyn_ky_Alymkulov_f dyn_ky_Anarbaev_f dyn_ky_Asanaliev_f dyn_ky_Asanov_f
+		dyn_ky_Askarov_f dyn_ky_Aydarov_f dyn_ky_Azimov_f dyn_ky_Bakirov_f dyn_ky_Baltabaev_f
+		dyn_ky_Bazarbaev_f dyn_ky_Beg_f dyn_ky_Egemberdiev_f dyn_ky_Ergashev_f dyn_ky_Ergeshov_f
+		dyn_ky_Gasanov_f dyn_ky_Ibraev_f dyn_ky_Ibragimov_f dyn_ky_Ibraimov_f dyn_ky_Imanaliev_f
+		dyn_ky_Isaev_f dyn_ky_Isakov_f dyn_ky_Ismailov_f dyn_ky_Israilov_f dyn_ky_Kadyrov_f
+		dyn_ky_Kambarov_f dyn_ky_Karabaev_f dyn_ky_Karimov_f dyn_ky_Kasymov_f
+		dyn_ky_Kaveshnikov_f dyn_ky_Khasanov_f dyn_ky_Kubanychbek_f dyn_ky_Kudayberdiev_f
+		dyn_ky_Kurbanov_f dyn_ky_Kurmanaliev_f dyn_ky_Mamadaliev_f dyn_ky_Mamataliev_f
+		dyn_ky_Mamatov_f dyn_ky_Mamazhanov_f dyn_ky_Mambetaliev_f dyn_ky_Mambetov_f
+		dyn_ky_Mamytov_f dyn_ky_Mirzaev_f dyn_ky_Muratov_f dyn_ky_Musaev_f dyn_ky_Nazarov_f
+		dyn_ky_Nurmatov_f dyn_ky_Omorov_f dyn_ky_Omuraliev_f dyn_ky_Omurzakov_f
+		dyn_ky_Orozaliev_f dyn_ky_Orozbaev_f dyn_ky_Orozov_f dyn_ky_Orunbaev_f
+		dyn_ky_Osmonaliev_f dyn_ky_Osmonov_f dyn_ky_Raimberdiev_f dyn_ky_Rakhmanov_f
+		dyn_ky_Ryskulov_f dyn_ky_Sabirov_f dyn_ky_Sadykov_f dyn_ky_Saliev_f dyn_ky_Satarov_f
+		dyn_ky_Satybaldiev_f dyn_ky_Shakirov_f dyn_ky_Shamshiev_f dyn_ky_Sharipov_f
+		dyn_ky_Sheraliev_f dyn_ky_Shermatov_f dyn_ky_Sulaymanov_f dyn_ky_Sultanov_f
+		dyn_ky_Sydykov_f dyn_ky_Taalaybek_f dyn_ky_Tagaev_f dyn_ky_Tashmatov_f dyn_ky_Tazhibaev_f
+		dyn_ky_Temirov_f dyn_ky_Toktosunov_f dyn_ky_Turdubaev_f dyn_ky_Turesbekov_f
+		dyn_ky_Turgunbaev_f dyn_ky_Tursunov_f dyn_ky_Umarov_f dyn_ky_Usenov_f dyn_ky_Usmanov_f
+		dyn_ky_Yernazarov_f dyn_ky_Yuldashev_f dyn_ky_Yusupov_f dyn_ky_Zakirov_f dyn_ky_Zhakypov_f
+		dyn_ky_Zhaparov_f dyn_ky_Zholdoshev_f dyn_ky_Zholdoshov_f dyn_ky_Zhoroev_f
+		dyn_ky_Zhumabaev_f dyn_ky_Zhumaev_f dyn_ky_Zhumaliev_f dyn_ky_Zhunusov_f
+		dyn_ky_Zhusupov_f
+	}
+
+	dynasty_names = {
+		dyn_ky_Abdiev dyn_ky_Abdraimov dyn_ky_Abdrakhmanov dyn_ky_Abdullaev
+		dyn_ky_Abdurakhmanov dyn_ky_Abdykadyrov dyn_ky_Abdyldaev dyn_ky_Abdyrakhmanov
+		dyn_ky_Aitmatov dyn_ky_Akayev dyn_ky_Akhmedov dyn_ky_Akmatov dyn_ky_Aliev
+		dyn_ky_Alimov dyn_ky_Alymkulov dyn_ky_Anarbaev dyn_ky_Asanaliev dyn_ky_Asanov
+		dyn_ky_Askarov dyn_ky_Aydarov dyn_ky_Azimov dyn_ky_Bakirov dyn_ky_Baltabaev
+		dyn_ky_Bazarbaev dyn_ky_Beg dyn_ky_Egemberdiev dyn_ky_Ergashev dyn_ky_Ergeshov
+		dyn_ky_Gasanov dyn_ky_Ibraev dyn_ky_Ibragimov dyn_ky_Ibraimov dyn_ky_Imanaliev
+		dyn_ky_Isaev dyn_ky_Isakov dyn_ky_Ismailov dyn_ky_Israilov dyn_ky_Kadyrov
+		dyn_ky_Kambarov dyn_ky_Karabaev dyn_ky_Karimov dyn_ky_Kasymov
+		dyn_ky_Kaveshnikov dyn_ky_Khasanov dyn_ky_Kubanychbek dyn_ky_Kudayberdiev
+		dyn_ky_Kurbanov dyn_ky_Kurmanaliev dyn_ky_Mamadaliev dyn_ky_Mamataliev
+		dyn_ky_Mamatov dyn_ky_Mamazhanov dyn_ky_Mambetaliev dyn_ky_Mambetov
+		dyn_ky_Mamytov dyn_ky_Mirzaev dyn_ky_Muratov dyn_ky_Musaev dyn_ky_Nazarov
+		dyn_ky_Nurmatov dyn_ky_Omorov dyn_ky_Omuraliev dyn_ky_Omurzakov
+		dyn_ky_Orozaliev dyn_ky_Orozbaev dyn_ky_Orozov dyn_ky_Orunbaev
+		dyn_ky_Osmonaliev dyn_ky_Osmonov dyn_ky_Raimberdiev dyn_ky_Rakhmanov
+		dyn_ky_Ryskulov dyn_ky_Sabirov dyn_ky_Sadykov dyn_ky_Saliev dyn_ky_Satarov
+		dyn_ky_Satybaldiev dyn_ky_Shakirov dyn_ky_Shamshiev dyn_ky_Sharipov
+		dyn_ky_Sheraliev dyn_ky_Shermatov dyn_ky_Sulaymanov dyn_ky_Sultanov
+		dyn_ky_Sydykov dyn_ky_Taalaybek dyn_ky_Tagaev dyn_ky_Tashmatov dyn_ky_Tazhibaev
+		dyn_ky_Temirov dyn_ky_Toktosunov dyn_ky_Turdubaev dyn_ky_Turesbekov
+		dyn_ky_Turgunbaev dyn_ky_Tursunov dyn_ky_Umarov dyn_ky_Usenov dyn_ky_Usmanov
+		dyn_ky_Yernazarov dyn_ky_Yuldashev dyn_ky_Yusupov dyn_ky_Zakirov dyn_ky_Zhakypov
+		dyn_ky_Zhaparov dyn_ky_Zholdoshev dyn_ky_Zholdoshov dyn_ky_Zhoroev
+		dyn_ky_Zhumabaev dyn_ky_Zhumaev dyn_ky_Zhumaliev dyn_ky_Zhunusov
+		dyn_ky_Zhusupov
+	}
+	
+	male_names = {
+		ky_Adilet ky_Adis ky_Aibek ky_Alik ky_Almaz ky_Asan ky_Azamat ky_Azat ky_Aziz
+		ky_Bakyt ky_Bekjan ky_Bolot ky_Chingiz ky_Damir ky_Emil ky_Esel ky_Ermek ky_Ilyas
+		ky_Islambek ky_Izatbek ky_Jyral ky_Kuban ky_Kylych ky_Mirbek ky_Nurbek ky_Nurlan
+		ky_Nurdeen ky_Omar ky_Prince ky_Sultan ky_Timurbek ky_Usen ky_Ulan ky_Yajub
+		ky_Zamir
+	}
+
+	female_names = {
+		ky_Adel ky_Adinai ky_Aida ky_Aidai ky_Aidana ky_Aidina ky_Aigerim ky_Aigul ky_Aijamal
+		ky_Ailin ky_Ainura ky_Aima ky_Aisulu ky_Aiza ky_Akmaral ky_Aliya ky_Altynai ky_Amina
+		ky_Asel ky_Ayana ky_Aziza ky_Azem ky_Baktigul ky_Begaiym ky_Begimai ky_Cholpon
+		ky_Cholponai ky_Diana ky_Dariga ky_Darixa ky_Dayana ky_Dilara ky_Dimira ky_Dinara
+		ky_Eldana ky_Elina ky_Elgiza ky_Erkaiym ky_Gauhar ky_Gulsana ky_Gulzat ky_Jamilya
+		ky_Kanykei ky_Kauhar ky_Kunduz ky_Keres ky_Leila ky_Mirgul ky_Nargiza ky_Nazgul
+		ky_Nazira ky_Gulperi ky_Nurayda ky_Nurjamal ky_Nurzat ky_Saikal ky_Saltanat ky_Sezim
+		ky_Zarina ky_Zamira
+	}
+}
+name_list_uzbek = {
+
+	female_last_names = {
+		dyn_uz_Abdulayev_f dyn_uz_Abdulin_f dyn_uz_Abdullayev_f dyn_uz_Abdulov_f 
+		dyn_uz_Babayev_f dyn_uz_Burkhanov_f dyn_uz_Ibragimov_f dyn_uz_Karimov_f 
+		dyn_uz_Nabiyev_f dyn_uz_Niyazov_f dyn_uz_Yoldoshev_f dyn_uz_Ivanov_f 
+		dyn_uz_Kirkiz_f dyn_uz_Gikalo_f dyn_uz_Zelensky_f dyn_uz_Ikramov_f 
+		dyn_uz_Yakovlev_f dyn_uz_Yusupov_f dyn_uz_Mukhitdinov_f dyn_uz_Kamolov_f 
+		dyn_uz_Rashidov_f dyn_uz_Usmonxojayev_f dyn_uz_Nisonov_f dyn_uz_Mirziyoyev_f 
+	}
+
+	dynasty_names = {
+		dyn_uz_Abdulayev dyn_uz_Abdulin dyn_uz_Abdullayev dyn_uz_Abdulov dyn_uz_Babayev
+		dyn_uz_Burkhanov dyn_uz_Ibragimov dyn_uz_Karimov dyn_uz_Nabiyev dyn_uz_Niyazov
+		dyn_uz_Yoldoshev dyn_uz_Ivanov dyn_uz_Kirkiz dyn_uz_Gikalo dyn_uz_Zelensky
+		dyn_uz_Ikramov dyn_uz_Yakovlev dyn_uz_Yusupov dyn_uz_Mukhitdinov dyn_uz_Kamolov
+		dyn_uz_Rashidov dyn_uz_Usmonxojayev dyn_uz_Nisonov dyn_uz_Mirziyoyev
+		dyn_uz_Abdulayev dyn_uz_Abdullaev dyn_uz_Abdurakhmanov dyn_uz_Abduvakhitov
+		dyn_uz_Abduvaliyev dyn_uz_Ablyazov dyn_uz_Adilov dyn_uz_Akbarov
+		dyn_uz_Akhmedov dyn_uz_Akramov dyn_uz_Alimov dyn_uz_Allayarov dyn_uz_Amirov
+		dyn_uz_Anvarov dyn_uz_Asadov dyn_uz_Azimov dyn_uz_Azizov dyn_uz_Bahramov
+		dyn_uz_Bakhtiyorov dyn_uz_Baratov dyn_uz_Bekmirzaev dyn_uz_Berdiyev
+		dyn_uz_Bozorov dyn_uz_Dostiyev dyn_uz_Egamberdiev dyn_uz_Elmurodov
+		dyn_uz_Erkinov dyn_uz_Farhodov dyn_uz_Fazilov dyn_uz_Fozilov dyn_uz_Gafurov
+		dyn_uz_Ganiev dyn_uz_Gaziev dyn_uz_Gulamov dyn_uz_Habibov dyn_uz_Hasanov
+		dyn_uz_Husanov dyn_uz_Ibragimov dyn_uz_Ilyasov dyn_uz_Inogamov dyn_uz_Isakov
+		dyn_uz_Islomov dyn_uz_Jabbarov dyn_uz_Jahangirov dyn_uz_Jamolov dyn_uz_Javohir
+		dyn_uz_Jumayev dyn_uz_Kadirov dyn_uz_Kamolov dyn_uz_Karimov dyn_uz_Khamidov
+		dyn_uz_Khaydarov dyn_uz_Khurshidov dyn_uz_Komilov dyn_uz_Kudratov
+		dyn_uz_Kurbanov dyn_uz_Mahmudov dyn_uz_Makhamadiev dyn_uz_Mamasaliev
+		dyn_uz_Marufov dyn_uz_Mavlonov dyn_uz_Mekhmonov dyn_uz_Mirzayev
+		dyn_uz_Mirzoev dyn_uz_Mirzojavohir dyn_uz_Mukhammedov dyn_uz_Muratov
+		dyn_uz_Musayev dyn_uz_Nigmatov dyn_uz_Nodirov dyn_uz_Nuriddinov dyn_uz_Olimov
+		dyn_uz_Otabekov dyn_uz_Oybekov dyn_uz_Ozodbekov dyn_uz_Qodiriy dyn_uz_Qosimov
+		dyn_uz_Qudratilloev dyn_uz_Rahmatov dyn_uz_Rajabov dyn_uz_Ravshanov
+		dyn_uz_Rustamov dyn_uz_Ruzimatov dyn_uz_Sabirov dyn_uz_Salimov dyn_uz_Sanjarov
+		dyn_uz_Sharipov dyn_uz_Shirinov dyn_uz_Shukhratov dyn_uz_Sirojiddinov
+		dyn_uz_Sultonov dyn_uz_Tahirov dyn_uz_Tursunov dyn_uz_Umarov dyn_uz_Usmanov
+		dyn_uz_Utkirbekov dyn_uz_Uzokov dyn_uz_Vohidov dyn_uz_Xayrullaev
+		dyn_uz_Xolmirzayev dyn_uz_Xudoyberdiyev dyn_uz_Yodgorov dyn_uz_Yuldoshev
+		dyn_uz_Yusupov dyn_uz_Zafar dyn_uz_Zafarov dyn_uz_Zainiddinov dyn_uz_Zakirov
+		dyn_uz_Zaynidinov dyn_uz_Ziyavuddinov dyn_uz_Zohid dyn_uz_Zoir dyn_uz_Zoirbekov
+		dyn_uz_Zokhid dyn_uz_Zokhidov dyn_uz_Zokir dyn_uz_Zokirbek dyn_uz_Zubaydullaev
+		dyn_uz_Zufar dyn_uz_Zuhraev dyn_uz_Zuhriddin dyn_uz_Zuhriddinov dyn_uz_Zuhro
+		dyn_uz_Zukhra dyn_uz_Zukhuriddinov dyn_uz_Zulayho dyn_uz_Zulaykho dyn_uz_Zulfija
+		dyn_uz_Zulfikar dyn_uz_Zulfikarov dyn_uz_Zulfiya dyn_uz_Zulfiyat dyn_uz_Zulfiyayev
+		dyn_uz_Zunnur 
+	}
+	
+	male_names = {
+		uz_Abdul uz_Abdulla uz_Abdullo uz_Alisher uz_Azamat uz_Aziz uz_Bahrom uz_Baxtiyor
+		uz_Dilshod uz_Eldor uz_Farruh uz_Islom uz_Jamshid uz_Jasur uz_Javohir uz_Kamoliddin
+		uz_Mahmud uz_Mansur uz_Muhammad uz_Ruslan uz_Rustam uz_Sherali uz_Sherzod
+		uz_Shuhrat uz_Shukhrat uz_Temur uz_Umid
+	}
+
+	female_names = {
+		uz_Aziza uz_Durdona uz_Feruza uz_Guli uz_Gulnora uz_Iroda uz_Nargiza uz_Nigina
+		uz_Nigora uz_Nilufar uz_Saodat uz_Sevara uz_Shahnoza uz_Sitora uz_Umida uz_Yulduz
+	}
+}
+name_list_tajik = {
+
+	dynasty_names = {
+		dyn_tg_Abdulayev dyn_tg_Abdulin dyn_tg_Abdullayev dyn_tg_Abdulov dyn_tg_Ibragimov
+		dyn_tg_Karimov dyn_tg_Nabiyev dyn_tg_Niyazov dyn_tg_Makhamov dyn_tg_Rahmon
+		dyn_tg_Abdukholikov dyn_tg_Abdulayev dyn_tg_Abdullaev dyn_tg_Abdurahmonov
+		dyn_tg_Abduvakhitov dyn_tg_Abduvaliyev dyn_tg_Abibulloev dyn_tg_Abirov
+		dyn_tg_Ahmedov dyn_tg_Akbarov dyn_tg_Akhmadov dyn_tg_Akhmedov
+		dyn_tg_Akramov dyn_tg_Alimov dyn_tg_Alimuradov dyn_tg_Aliyev dyn_tg_Amirov
+		dyn_tg_Anvarov dyn_tg_Azimov dyn_tg_Azizov dyn_tg_Babadzhanov dyn_tg_Bakayev
+		dyn_tg_Bakhromov dyn_tg_Baratov dyn_tg_Barotov dyn_tg_Boboev dyn_tg_Bolatov
+		dyn_tg_Dalerov dyn_tg_Dastanov dyn_tg_Davlatov dyn_tg_Dilafruzov dyn_tg_Djamalov
+		dyn_tg_Dustov dyn_tg_Egamberdiev dyn_tg_Ergashev dyn_tg_Eshonov
+		dyn_tg_Fayzulloev dyn_tg_Firdavsiev dyn_tg_Gafurov dyn_tg_Ghafuri dyn_tg_Ghozi
+		dyn_tg_Gulmurodov dyn_tg_Gulnazarov dyn_tg_Gulyamov dyn_tg_Habibulloev
+		dyn_tg_Hasanov dyn_tg_Husanov dyn_tg_Ibrohimov dyn_tg_Ilyosov dyn_tg_Imomaliyev
+		dyn_tg_Ismoilov dyn_tg_Jabborov dyn_tg_Jafarov dyn_tg_Jumayev dyn_tg_Kamolov
+		dyn_tg_Karimov dyn_tg_Khaydarov dyn_tg_Khodzhayev dyn_tg_Khojiboev
+		dyn_tg_Kholov dyn_tg_Khurshedov dyn_tg_Komilov dyn_tg_Kurbonov
+		dyn_tg_Mahmudov dyn_tg_Maksumov dyn_tg_Mamasaliev dyn_tg_Mansurov
+		dyn_tg_Maqsudov dyn_tg_Marufiev dyn_tg_Mirzaev dyn_tg_Mirzoev dyn_tg_Mirzoyan
+		dyn_tg_Muminov dyn_tg_Muslimov dyn_tg_Nabiyev dyn_tg_Nasimov dyn_tg_Nasriddinov
+		dyn_tg_Nematov dyn_tg_Nizomov dyn_tg_Nozimov dyn_tg_Nuriddinov
+		dyn_tg_Nuritdinov dyn_tg_Odilov dyn_tg_Olimov dyn_tg_Osmanov dyn_tg_Ovaysiyev
+		dyn_tg_Ozodov dyn_tg_Qosimov dyn_tg_Qudratov dyn_tg_Rahimov dyn_tg_Rajabov
+		dyn_tg_Rakhmonov dyn_tg_Rustamov dyn_tg_Sadriddinov dyn_tg_Safarov
+		dyn_tg_Safarzoda dyn_tg_Saidov dyn_tg_Saitov dyn_tg_Salimov dyn_tg_Samandarov
+		dyn_tg_Sattorov dyn_tg_Shamsiyev dyn_tg_Sharipov dyn_tg_Shokirov
+		dyn_tg_Shukhratov dyn_tg_Siddiqov dyn_tg_Sirojiddinov dyn_tg_Sobirov
+		dyn_tg_Sultonov dyn_tg_Tabarov dyn_tg_Tahirzoda dyn_tg_Tajiev dyn_tg_Talbakov
+		dyn_tg_Tashkhodzhaev dyn_tg_Tavakkalov dyn_tg_Tavberidze dyn_tg_Tavrizov
+		dyn_tg_Teshabaev dyn_tg_Tohirzoda dyn_tg_Tolibov dyn_tg_Toshmatov
+		dyn_tg_Tursunov dyn_tg_Umarov dyn_tg_Urozov dyn_tg_Urunov dyn_tg_Usmanov
+		dyn_tg_Usmonov dyn_tg_Ustoqulov dyn_tg_Uzakov dyn_tg_Valiev dyn_tg_Xayrulloev
+		dyn_tg_Xolmirzayev dyn_tg_Xolmurodov dyn_tg_Yodgorov dyn_tg_Yusupov
+		dyn_tg_Zafar dyn_tg_Zafarov dyn_tg_Zafarshoev dyn_tg_Zainutdinov dyn_tg_Zakirov
+		dyn_tg_Zardiev dyn_tg_Zarifov dyn_tg_Zavkibekov dyn_tg_Zaydov dyn_tg_Zaynidinov
+		dyn_tg_Zaynuddinov dyn_tg_Zikirinov dyn_tg_Zinatullin dyn_tg_Zohidov
+		dyn_tg_Zoirbekov dyn_tg_Zokhidov dyn_tg_Zokirov dyn_tg_Zubaidulloev dyn_tg_Zufarov
+		dyn_tg_Zuhraev dyn_tg_Zukhriddinov dyn_tg_Zulfikarov dyn_tg_Zunnur 
+	}
+	
+	male_names = {
+		tg_Abdullo tg_Alisher tg_Aziz tg_Bahrom tg_Bakhtiyor tg_Daler tg_Davlat tg_Dilshod
+		tg_Farrukh tg_Firuz tg_Jamshed tg_Muhammad tg_Olim tg_Rustam tg_Sherali
+		tg_Sherzod tg_Shuhrat
+	}
+
+	female_names = {
+		tg_Farzona tg_Firuza tg_Nigina tg_Nigora tg_Shahnoza tg_Sitora tg_Tahmina
+	}
+}
+name_list_afghan = {
+
+	dynasty_names = {
+		dyn_prs_Achakzai dyn_prs_Abdul dyn_prs_Afghan dyn_prs_Afghanzada dyn_prs_Ahmadi
+		dyn_prs_Ahmadzai dyn_prs_Akbar dyn_prs_Akhtar dyn_prs_Alakozai dyn_prs_Alam
+		dyn_prs_Alizai dyn_prs_Amin dyn_prs_Aurakzai dyn_prs_Aziz dyn_prs_Barakzai
+		dyn_prs_Dawlatzai dyn_prs_Durrani dyn_prs_Ibrahimi dyn_prs_Iqbal dyn_prs_Ishaqzai
+		dyn_prs_Kabir dyn_prs_Karzai dyn_prs_Khan dyn_prs_Malikzai dyn_prs_Mohammad
+		dyn_prs_Mohammadzai dyn_prs_Nawabi dyn_prs_Niazai dyn_prs_Noor dyn_prs_Noorzai
+		dyn_prs_Nuristani dyn_prs_Orakzai dyn_prs_Popalzai dyn_prs_Poya dyn_prs_Rahman
+		dyn_prs_Rasul dyn_prs_Sadozai dyn_prs_Safi dyn_prs_Sardar dyn_prs_Sediqi
+		dyn_prs_Shah dyn_prs_Shahnawaz dyn_prs_Sherkhanzai dyn_prs_Sherzai dyn_prs_Shirzai
+		dyn_prs_Sidiqi dyn_prs_Stanikzai dyn_prs_Taheri dyn_prs_Ullah dyn_prs_Yasin
+		dyn_prs_Yousafzai dyn_prs_Yusufi dyn_prs_Yusufzai dyn_prs_Zadran dyn_prs_Zahid
+		dyn_prs_Zalmai dyn_prs_Zazai
+	}
+	
+	male_names = {
+		prs_Aimal prs_Arman prs_Aurang prs_Babak prs_Bakht prs_Beltoon prs_Dagar prs_Ghatool
+		prs_Gulzar prs_Khushal prs_Khyber prs_Kushan prs_Lmar prs_Marjan prs_Nangial
+		prs_Paiman prs_Rangeen prs_Rustam prs_Sarbaz prs_Shahzar prs_Shino prs_Spetselai
+		prs_Taban prs_Toofan prs_Wais prs_Yama prs_Zalmay prs_Zargan prs_Zarmast prs_Ziar
+	}
+
+	female_names = {
+		prs_Anahita prs_Ariana prs_Bibi prs_Forozan prs_Freshta prs_Gulnar prs_Hila prs_Kawtara
+		prs_Khatol prs_Lalzari prs_Malala prs_Mina prs_Naghma prs_Nasrin prs_Nazo prs_Nurani
+		prs_Palwasha prs_Parisa prs_Rodaba prs_Shanzai prs_Shinkai prs_Spogmay prs_Torpekai
+		prs_Wadana prs_Wawrina prs_Wazmakai prs_Yalda prs_Zaituna prs_Zareena prs_Zarghun
+		prs_Zohal
+	}
+}
+name_list_arabic = {
+
+	female_last_names = {
+		dyn_ar_bin_Aamir_f dyn_ar_bin_Aashid_f dyn_ar_bin_Aashish_f dyn_ar_bin_Abbud_f
+		dyn_ar_bin_Abdelaziz_f dyn_ar_bin_Abdiel_f dyn_ar_bin_Abdul_f dyn_ar_bin_Abdulaziz_f
+		dyn_ar_bin_Abdullah_f dyn_ar_bin_Abdulmalik_f dyn_ar_bin_Abdulrahman_f
+		dyn_ar_bin_Abdulsalaam_f dyn_ar_bin_Abu_f dyn_ar_bin_Abubakr_f dyn_ar_bin_Adad_f
+		dyn_ar_bin_Adel_f dyn_ar_bin_Adhem_f dyn_ar_bin_Adil_f dyn_ar_bin_Afif_f dyn_ar_bin_Ahmad_f
+		dyn_ar_bin_Ahmed_f dyn_ar_bin_Aiman_f dyn_ar_bin_Akbar_f dyn_ar_bin_Akeem_f
+		dyn_ar_bin_Akil_f dyn_ar_bin_Aladdin_f dyn_ar_bin_Ali_f dyn_ar_bin_Allah_f dyn_ar_bin_Amal_f
+		dyn_ar_bin_Amar_f dyn_ar_bin_Ameer_f dyn_ar_bin_Amer_f dyn_ar_bin_Amin_f
+		dyn_ar_bin_Amir_f dyn_ar_bin_Amit_f dyn_ar_bin_Anwar_f dyn_ar_bin_Aref_f dyn_ar_bin_Arif_f
+		dyn_ar_bin_Arnan_f dyn_ar_bin_Asadel_f dyn_ar_bin_Ashraf_f dyn_ar_bin_Aslan_f
+		dyn_ar_bin_Aswad_f dyn_ar_bin_Atif_f dyn_ar_bin_Atiq_f dyn_ar_bin_Ayame_f
+		dyn_ar_bin_Ayman_f dyn_ar_bin_Ayoub_f dyn_ar_bin_Azim_f dyn_ar_bin_Aziz_f
+		dyn_ar_bin_Badr_f dyn_ar_bin_Bahir_f dyn_ar_bin_Bahjat_f dyn_ar_bin_Basheer_f
+		dyn_ar_bin_Basim_f dyn_ar_bin_Bassam_f dyn_ar_bin_Bilal_f dyn_ar_bin_Coman_f
+		dyn_ar_bin_Dabir_f dyn_ar_bin_Dawud_f dyn_ar_bin_Dekel_f dyn_ar_bin_Dijani_f
+		dyn_ar_bin_Diya_f dyn_ar_bin_Dodi_f dyn_ar_bin_Ebi_f dyn_ar_bin_Ehsan_f dyn_ar_bin_Emad_f
+		dyn_ar_bin_Emin_f dyn_ar_bin_Fadi_f dyn_ar_bin_Fadil_f dyn_ar_bin_Fahim_f dyn_ar_bin_Faisal_f
+		dyn_ar_bin_Faiz_f dyn_ar_bin_Faraj_f dyn_ar_bin_Farid_f dyn_ar_bin_Faris_f dyn_ar_bin_Farran_f
+		dyn_ar_bin_Farouq_f dyn_ar_bin_Faruq_f dyn_ar_bin_Fathi_f dyn_ar_bin_Fawzi_f
+		dyn_ar_bin_Faysal_f dyn_ar_bin_Fouad_f dyn_ar_bin_Fuad_f dyn_ar_bin_Gadi_f
+		dyn_ar_bin_Habib_f dyn_ar_bin_Haddad_f dyn_ar_bin_Hadi_f dyn_ar_bin_Hafeez_f
+		dyn_ar_bin_Hafiz_f dyn_ar_bin_Haidar_f dyn_ar_bin_Hakeem_f dyn_ar_bin_Hakim_f
+		dyn_ar_bin_Halim_f dyn_ar_bin_Hamal_f dyn_ar_bin_Hamdi_f dyn_ar_bin_Hameed_f
+		dyn_ar_bin_Hamid_f dyn_ar_bin_Hammad_f dyn_ar_bin_Hamza_f dyn_ar_bin_Hamzah_f
+		dyn_ar_bin_Hanif_f dyn_ar_bin_Haroun_f dyn_ar_bin_Hasan_f dyn_ar_bin_Hashim_f
+		dyn_ar_bin_Hasim_f dyn_ar_bin_Hassad_f dyn_ar_bin_Hassan_f dyn_ar_bin_Hathem_f
+		dyn_ar_bin_Hatim_f dyn_ar_bin_Hazim_f dyn_ar_bin_Hesam_f dyn_ar_bin_Heydar_f
+		dyn_ar_bin_Hibah_f dyn_ar_bin_Hilal_f dyn_ar_bin_Hilel_f dyn_ar_bin_Hisein_f
+		dyn_ar_bin_Hisham_f dyn_ar_bin_Hosain_f dyn_ar_bin_Hosni_f dyn_ar_bin_Husain_f
+		dyn_ar_bin_Husayn_f dyn_ar_bin_Hueseyin_f dyn_ar_bin_Husnain_f dyn_ar_bin_Hussam_f
+		dyn_ar_bin_Hussein_f dyn_ar_bin_Ibraheem_f dyn_ar_bin_Ibrahim_f dyn_ar_bin_Idiamin_f
+		dyn_ar_bin_Ihab_f dyn_ar_bin_Imani_f dyn_ar_bin_Imran_f dyn_ar_bin_Ismail_f
+		dyn_ar_bin_Jabbar_f dyn_ar_bin_Jafar_f dyn_ar_bin_Jakeem_f dyn_ar_bin_Jaleel_f
+		dyn_ar_bin_Jalil_f dyn_ar_bin_Jamahl_f dyn_ar_bin_Jamal_f dyn_ar_bin_Jamil_f
+		dyn_ar_bin_Javad_f dyn_ar_bin_Jinan_f dyn_ar_bin_Jumah_f dyn_ar_bin_Kabir_f
+		dyn_ar_bin_Kadar_f dyn_ar_bin_Kadeem_f dyn_ar_bin_Kadin_f dyn_ar_bin_Kadir_f
+		dyn_ar_bin_Kaleef_f dyn_ar_bin_Kaleel_f dyn_ar_bin_Kalil_f dyn_ar_bin_Kamal_f
+		dyn_ar_bin_Kamali_f dyn_ar_bin_Kamil_f dyn_ar_bin_Kandari_f dyn_ar_bin_Karam_f
+		dyn_ar_bin_Kardal_f dyn_ar_bin_Kareem_f dyn_ar_bin_Karif_f dyn_ar_bin_Karim_f
+		dyn_ar_bin_Kaseem_f dyn_ar_bin_Kasib_f dyn_ar_bin_Kasim_f dyn_ar_bin_Khailil_f
+		dyn_ar_bin_Khaled_f dyn_ar_bin_Khalid_f dyn_ar_bin_Khalil_f dyn_ar_bin_Khari_f
+		dyn_ar_bin_Khayrat_f dyn_ar_bin_Koran_f dyn_ar_bin_Lateef_f dyn_ar_bin_Mahmoud_f
+		dyn_ar_bin_Mahmud_f dyn_ar_bin_Maimun_f dyn_ar_bin_Makram_f dyn_ar_bin_Malik_f
+		dyn_ar_bin_Mamduh_f dyn_ar_bin_Mansoor_f dyn_ar_bin_Mansur_f dyn_ar_bin_Marid_f
+		dyn_ar_bin_Marwan_f dyn_ar_bin_Masoud_f dyn_ar_bin_Masud_f dyn_ar_bin_Mazen_f
+		dyn_ar_bin_Mehdi_f dyn_ar_bin_Mehmet_f dyn_ar_bin_Mekhi_f dyn_ar_bin_Moamen_f
+		dyn_ar_bin_Mohammed_f dyn_ar_bin_Mohsen_f dyn_ar_bin_Moneeb_f dyn_ar_bin_Mubarak_f
+		dyn_ar_bin_Muhammad_f dyn_ar_bin_Muhammed_f dyn_ar_bin_Muftah_f
+		dyn_ar_bin_Muhanna_f dyn_ar_bin_Munir_f dyn_ar_bin_Murtada_f dyn_ar_bin_Musad_f
+		dyn_ar_bin_Mushtaq_f dyn_ar_bin_Mustafa_f dyn_ar_bin_Muzzammil_f dyn_ar_bin_Nabeel_f
+		dyn_ar_bin_Nabil_f dyn_ar_bin_Nader_f dyn_ar_bin_Nadim_f dyn_ar_bin_Naeem_f
+		dyn_ar_bin_Nahim_f dyn_ar_bin_Najar_f dyn_ar_bin_Najee_f dyn_ar_bin_Naji_f dyn_ar_bin_Najib_f
+		dyn_ar_bin_Namdar_f dyn_ar_bin_Nasair_f dyn_ar_bin_Nasawi_f dyn_ar_bin_Nasser_f
+		dyn_ar_bin_Nazih_f dyn_ar_bin_Nazir_f dyn_ar_bin_Nihad_f dyn_ar_bin_Nizar_f
+		dyn_ar_bin_Numar_f dyn_ar_bin_Nuri_f dyn_ar_bin_Nusair_f dyn_ar_bin_Nyel_f
+		dyn_ar_bin_Omar_f dyn_ar_bin_Omri_f dyn_ar_bin_Owais_f dyn_ar_bin_Qaasim_f
+		dyn_ar_bin_Qamar_f dyn_ar_bin_Qasim_f dyn_ar_bin_Quran_f dyn_ar_bin_Qusay_f
+		dyn_ar_bin_Rabi_f dyn_ar_bin_Raed_f dyn_ar_bin_Raffi_f dyn_ar_bin_Rafi_f dyn_ar_bin_Rafiq_f
+		dyn_ar_bin_Rahim_f dyn_ar_bin_Rahman_f dyn_ar_bin_Rahsaan_f dyn_ar_bin_Rahsan_f
+		dyn_ar_bin_Rahul_f dyn_ar_bin_Rajab_f dyn_ar_bin_Ramadan_f dyn_ar_bin_Rami_f
+		dyn_ar_bin_Ramir_f dyn_ar_bin_Ramzi_f dyn_ar_bin_Rashaad_f dyn_ar_bin_Rashad_f
+		dyn_ar_bin_Rasheed_f dyn_ar_bin_Rasheem_f dyn_ar_bin_Rashid_f dyn_ar_bin_Reyham_f
+		dyn_ar_bin_Reza_f dyn_ar_bin_Rida_f dyn_ar_bin_Riyad_f dyn_ar_bin_Riyaz_f dyn_ar_bin_Rushdi_f
+		dyn_ar_bin_Saad_f dyn_ar_bin_Sadik_f dyn_ar_bin_Sadiq_f dyn_ar_bin_Safwan_f
+		dyn_ar_bin_Sahar_f dyn_ar_bin_Said_f dyn_ar_bin_Saleem_f dyn_ar_bin_Salih_f
+		dyn_ar_bin_Salim_f dyn_ar_bin_Salman_f dyn_ar_bin_Sameer_f dyn_ar_bin_Sami_f
+		dyn_ar_bin_Samir_f dyn_ar_bin_Sayyid_f dyn_ar_bin_Seif_f dyn_ar_bin_Shadi_f
+		dyn_ar_bin_Shafiq_f dyn_ar_bin_Shahien_f dyn_ar_bin_Shareef_f dyn_ar_bin_Sharif_f
+		dyn_ar_bin_Shaukat_f dyn_ar_bin_Shazad_f dyn_ar_bin_Shereef_f dyn_ar_bin_Sherin_f
+		dyn_ar_bin_Shukri_f dyn_ar_bin_Sidiq_f dyn_ar_bin_Sina_f dyn_ar_bin_Soda_f dyn_ar_bin_Sohil_f
+		dyn_ar_bin_Suha_f dyn_ar_bin_Sulaiman_f dyn_ar_bin_Syed_f dyn_ar_bin_Taha_f
+		dyn_ar_bin_Tahid_f dyn_ar_bin_Tahir_f dyn_ar_bin_Talal_f dyn_ar_bin_Talib_f dyn_ar_bin_Tamer_f
+		dyn_ar_bin_Tarek_f dyn_ar_bin_Tariq_f dyn_ar_bin_Tawfiq_f dyn_ar_bin_Umar_f
+		dyn_ar_bin_Usman_f dyn_ar_bin_Wafa_f dyn_ar_bin_Wahid_f dyn_ar_bin_Wa-il_f
+		dyn_ar_bin_Waleed_f dyn_ar_bin_Walid_f dyn_ar_bin_Wathan_f dyn_ar_bin_Yahya_f
+		dyn_ar_bin_Yamil_f dyn_ar_bin_Yasar_f dyn_ar_bin_Yasir_f dyn_ar_bin_Yazid_f
+		dyn_ar_bin_Youness_f dyn_ar_bin_Yousef_f dyn_ar_bin_Yusuf_f dyn_ar_bin_Zahir_f
+		dyn_ar_bin_Zahur_f dyn_ar_bin_Zaid_f dyn_ar_bin_Zaki_f dyn_ar_bin_Zamil_f dyn_ar_bin_Zayn_f
+		dyn_ar_bin_Ziyad_f dyn_ar_bin_Zuhd_f
+	}
+
+	dynasty_names = {
+		dyn_ar_bin_Aamir dyn_ar_bin_Aashid dyn_ar_bin_Aashish dyn_ar_bin_Abbud
+		dyn_ar_bin_Abdelaziz dyn_ar_bin_Abdiel dyn_ar_bin_Abdul dyn_ar_bin_Abdulaziz
+		dyn_ar_bin_Abdullah dyn_ar_bin_Abdulmalik dyn_ar_bin_Abdulrahman
+		dyn_ar_bin_Abdulsalaam dyn_ar_bin_Abu dyn_ar_bin_Abubakr dyn_ar_bin_Adad
+		dyn_ar_bin_Adel dyn_ar_bin_Adhem dyn_ar_bin_Adil dyn_ar_bin_Afif dyn_ar_bin_Ahmad
+		dyn_ar_bin_Ahmed dyn_ar_bin_Aiman dyn_ar_bin_Akbar dyn_ar_bin_Akeem
+		dyn_ar_bin_Akil dyn_ar_bin_Aladdin dyn_ar_bin_Ali dyn_ar_bin_Allah dyn_ar_bin_Amal
+		dyn_ar_bin_Amar dyn_ar_bin_Ameer dyn_ar_bin_Amer dyn_ar_bin_Amin
+		dyn_ar_bin_Amir dyn_ar_bin_Amit dyn_ar_bin_Anwar dyn_ar_bin_Aref dyn_ar_bin_Arif
+		dyn_ar_bin_Arnan dyn_ar_bin_Asadel dyn_ar_bin_Ashraf dyn_ar_bin_Aslan
+		dyn_ar_bin_Aswad dyn_ar_bin_Atif dyn_ar_bin_Atiq dyn_ar_bin_Ayame
+		dyn_ar_bin_Ayman dyn_ar_bin_Ayoub dyn_ar_bin_Azim dyn_ar_bin_Aziz
+		dyn_ar_bin_Badr dyn_ar_bin_Bahir dyn_ar_bin_Bahjat dyn_ar_bin_Basheer
+		dyn_ar_bin_Basim dyn_ar_bin_Bassam dyn_ar_bin_Bilal dyn_ar_bin_Coman
+		dyn_ar_bin_Dabir dyn_ar_bin_Dawud dyn_ar_bin_Dekel dyn_ar_bin_Dijani
+		dyn_ar_bin_Diya dyn_ar_bin_Dodi dyn_ar_bin_Ebi dyn_ar_bin_Ehsan dyn_ar_bin_Emad
+		dyn_ar_bin_Emin dyn_ar_bin_Fadi dyn_ar_bin_Fadil dyn_ar_bin_Fahim dyn_ar_bin_Faisal
+		dyn_ar_bin_Faiz dyn_ar_bin_Faraj dyn_ar_bin_Farid dyn_ar_bin_Faris dyn_ar_bin_Farran
+		dyn_ar_bin_Farouq dyn_ar_bin_Faruq dyn_ar_bin_Fathi dyn_ar_bin_Fawzi
+		dyn_ar_bin_Faysal dyn_ar_bin_Fouad dyn_ar_bin_Fuad dyn_ar_bin_Gadi
+		dyn_ar_bin_Habib dyn_ar_bin_Haddad dyn_ar_bin_Hadi dyn_ar_bin_Hafeez
+		dyn_ar_bin_Hafiz dyn_ar_bin_Haidar dyn_ar_bin_Hakeem dyn_ar_bin_Hakim
+		dyn_ar_bin_Halim dyn_ar_bin_Hamal dyn_ar_bin_Hamdi dyn_ar_bin_Hameed
+		dyn_ar_bin_Hamid dyn_ar_bin_Hammad dyn_ar_bin_Hamza dyn_ar_bin_Hamzah
+		dyn_ar_bin_Hanif dyn_ar_bin_Haroun dyn_ar_bin_Hasan dyn_ar_bin_Hashim
+		dyn_ar_bin_Hasim dyn_ar_bin_Hassad dyn_ar_bin_Hassan dyn_ar_bin_Hathem
+		dyn_ar_bin_Hatim dyn_ar_bin_Hazim dyn_ar_bin_Hesam dyn_ar_bin_Heydar
+		dyn_ar_bin_Hibah dyn_ar_bin_Hilal dyn_ar_bin_Hilel dyn_ar_bin_Hisein
+		dyn_ar_bin_Hisham dyn_ar_bin_Hosain dyn_ar_bin_Hosni dyn_ar_bin_Husain
+		dyn_ar_bin_Husayn dyn_ar_bin_Hueseyin dyn_ar_bin_Husnain dyn_ar_bin_Hussam
+		dyn_ar_bin_Hussein dyn_ar_bin_Ibraheem dyn_ar_bin_Ibrahim dyn_ar_bin_Idiamin
+		dyn_ar_bin_Ihab dyn_ar_bin_Imani dyn_ar_bin_Imran dyn_ar_bin_Ismail
+		dyn_ar_bin_Jabbar dyn_ar_bin_Jafar dyn_ar_bin_Jakeem dyn_ar_bin_Jaleel
+		dyn_ar_bin_Jalil dyn_ar_bin_Jamahl dyn_ar_bin_Jamal dyn_ar_bin_Jamil
+		dyn_ar_bin_Javad dyn_ar_bin_Jinan dyn_ar_bin_Jumah dyn_ar_bin_Kabir
+		dyn_ar_bin_Kadar dyn_ar_bin_Kadeem dyn_ar_bin_Kadin dyn_ar_bin_Kadir
+		dyn_ar_bin_Kaleef dyn_ar_bin_Kaleel dyn_ar_bin_Kalil dyn_ar_bin_Kamal
+		dyn_ar_bin_Kamali dyn_ar_bin_Kamil dyn_ar_bin_Kandari dyn_ar_bin_Karam
+		dyn_ar_bin_Kardal dyn_ar_bin_Kareem dyn_ar_bin_Karif dyn_ar_bin_Karim
+		dyn_ar_bin_Kaseem dyn_ar_bin_Kasib dyn_ar_bin_Kasim dyn_ar_bin_Khailil
+		dyn_ar_bin_Khaled dyn_ar_bin_Khalid dyn_ar_bin_Khalil dyn_ar_bin_Khari
+		dyn_ar_bin_Khayrat dyn_ar_bin_Koran dyn_ar_bin_Lateef dyn_ar_bin_Mahmoud
+		dyn_ar_bin_Mahmud dyn_ar_bin_Maimun dyn_ar_bin_Makram dyn_ar_bin_Malik
+		dyn_ar_bin_Mamduh dyn_ar_bin_Mansoor dyn_ar_bin_Mansur dyn_ar_bin_Marid
+		dyn_ar_bin_Marwan dyn_ar_bin_Masoud dyn_ar_bin_Masud dyn_ar_bin_Mazen
+		dyn_ar_bin_Mehdi dyn_ar_bin_Mehmet dyn_ar_bin_Mekhi dyn_ar_bin_Moamen
+		dyn_ar_bin_Mohammed dyn_ar_bin_Mohsen dyn_ar_bin_Moneeb dyn_ar_bin_Mubarak
+		dyn_ar_bin_Muhammad dyn_ar_bin_Muhammed dyn_ar_bin_Muftah
+		dyn_ar_bin_Muhanna dyn_ar_bin_Munir dyn_ar_bin_Murtada dyn_ar_bin_Musad
+		dyn_ar_bin_Mushtaq dyn_ar_bin_Mustafa dyn_ar_bin_Muzzammil dyn_ar_bin_Nabeel
+		dyn_ar_bin_Nabil dyn_ar_bin_Nader dyn_ar_bin_Nadim dyn_ar_bin_Naeem
+		dyn_ar_bin_Nahim dyn_ar_bin_Najar dyn_ar_bin_Najee dyn_ar_bin_Naji dyn_ar_bin_Najib
+		dyn_ar_bin_Namdar dyn_ar_bin_Nasair dyn_ar_bin_Nasawi dyn_ar_bin_Nasser
+		dyn_ar_bin_Nazih dyn_ar_bin_Nazir dyn_ar_bin_Nihad dyn_ar_bin_Nizar
+		dyn_ar_bin_Numar dyn_ar_bin_Nuri dyn_ar_bin_Nusair dyn_ar_bin_Nyel
+		dyn_ar_bin_Omar dyn_ar_bin_Omri dyn_ar_bin_Owais dyn_ar_bin_Qaasim
+		dyn_ar_bin_Qamar dyn_ar_bin_Qasim dyn_ar_bin_Quran dyn_ar_bin_Qusay
+		dyn_ar_bin_Rabi dyn_ar_bin_Raed dyn_ar_bin_Raffi dyn_ar_bin_Rafi dyn_ar_bin_Rafiq
+		dyn_ar_bin_Rahim dyn_ar_bin_Rahman dyn_ar_bin_Rahsaan dyn_ar_bin_Rahsan
+		dyn_ar_bin_Rahul dyn_ar_bin_Rajab dyn_ar_bin_Ramadan dyn_ar_bin_Rami
+		dyn_ar_bin_Ramir dyn_ar_bin_Ramzi dyn_ar_bin_Rashaad dyn_ar_bin_Rashad
+		dyn_ar_bin_Rasheed dyn_ar_bin_Rasheem dyn_ar_bin_Rashid dyn_ar_bin_Reyham
+		dyn_ar_bin_Reza dyn_ar_bin_Rida dyn_ar_bin_Riyad dyn_ar_bin_Riyaz dyn_ar_bin_Rushdi
+		dyn_ar_bin_Saad dyn_ar_bin_Sadik dyn_ar_bin_Sadiq dyn_ar_bin_Safwan
+		dyn_ar_bin_Sahar dyn_ar_bin_Said dyn_ar_bin_Saleem dyn_ar_bin_Salih
+		dyn_ar_bin_Salim dyn_ar_bin_Salman dyn_ar_bin_Sameer dyn_ar_bin_Sami
+		dyn_ar_bin_Samir dyn_ar_bin_Sayyid dyn_ar_bin_Seif dyn_ar_bin_Shadi
+		dyn_ar_bin_Shafiq dyn_ar_bin_Shahien dyn_ar_bin_Shareef dyn_ar_bin_Sharif
+		dyn_ar_bin_Shaukat dyn_ar_bin_Shazad dyn_ar_bin_Shereef dyn_ar_bin_Sherin
+		dyn_ar_bin_Shukri dyn_ar_bin_Sidiq dyn_ar_bin_Sina dyn_ar_bin_Soda dyn_ar_bin_Sohil
+		dyn_ar_bin_Suha dyn_ar_bin_Sulaiman dyn_ar_bin_Syed dyn_ar_bin_Taha
+		dyn_ar_bin_Tahid dyn_ar_bin_Tahir dyn_ar_bin_Talal dyn_ar_bin_Talib dyn_ar_bin_Tamer
+		dyn_ar_bin_Tarek dyn_ar_bin_Tariq dyn_ar_bin_Tawfiq dyn_ar_bin_Umar
+		dyn_ar_bin_Usman dyn_ar_bin_Wafa dyn_ar_bin_Wahid dyn_ar_bin_Wa-il
+		dyn_ar_bin_Waleed dyn_ar_bin_Walid dyn_ar_bin_Wathan dyn_ar_bin_Yahya
+		dyn_ar_bin_Yamil dyn_ar_bin_Yasar dyn_ar_bin_Yasir dyn_ar_bin_Yazid
+		dyn_ar_bin_Youness dyn_ar_bin_Yousef dyn_ar_bin_Yusuf dyn_ar_bin_Zahir
+		dyn_ar_bin_Zahur dyn_ar_bin_Zaid dyn_ar_bin_Zaki dyn_ar_bin_Zamil dyn_ar_bin_Zayn
+		dyn_ar_bin_Ziyad dyn_ar_bin_Zuhd
+	}
+	
+	male_names = {
+		ar_Aamir ar_Aashid ar_Aashish ar_Abbud ar_Abdelaziz ar_Abdiel ar_Abdul ar_Abdulaziz
+		ar_Abdullah ar_Abdulmalik ar_Abdulrahman ar_Abdulsalaam ar_Abu ar_Abubakr ar_Adad
+		ar_Adel ar_Adhem ar_Adil ar_Afif ar_Ahmad ar_Ahmed ar_Aiman ar_Akbar ar_Akeem
+		ar_Akil ar_Aladdin ar_Ali ar_Allah ar_Amal ar_Amar ar_Ameer ar_Amer ar_Amin ar_Amir
+		ar_Amit ar_Anwar ar_Aref ar_Arif ar_Arnan ar_Asadel ar_Ashraf ar_Aslan ar_Aswad
+		ar_Atif ar_Atiq ar_Ayame ar_Ayman ar_Ayoub ar_Azim ar_Aziz ar_Badr ar_Bahir ar_Bahjat
+		ar_Basheer ar_Basim ar_Bassam ar_Bilal ar_Coman ar_Dabir ar_Dawud ar_Dekel ar_Dijani
+		ar_Diya ar_Dodi ar_Ebi ar_Ehsan ar_Emad ar_Emin ar_Fadi ar_Fadil ar_Fahim ar_Faisal
+		ar_Faiz ar_Faraj ar_Farid ar_Faris ar_Farran ar_Farouq ar_Faruq ar_Fathi ar_Fawzi
+		ar_Faysal ar_Fouad ar_Fuad ar_Gadi ar_Habib ar_Haddad ar_Hadi ar_Hafeez ar_Hafiz
+		ar_Haidar ar_Hakeem ar_Hakim ar_Halim ar_Hamal ar_Hamdi ar_Hameed ar_Hamid
+		ar_Hammad ar_Hamza ar_Hamzah ar_Hanif ar_Haroun ar_Hasan ar_Hashim ar_Hasim
+		ar_Hassad ar_Hassan ar_Hathem ar_Hatim ar_Hazim ar_Hesam ar_Heydar ar_Hibah
+		ar_Hilal ar_Hilel ar_Hisein ar_Hisham ar_Hosain ar_Hosni ar_Husain ar_Husayn
+		ar_Hueseyin ar_Husnain ar_Hussam ar_Hussein ar_Ibraheem ar_Ibrahim ar_Idiamin ar_Ihab
+		ar_Imani ar_Imran ar_Ismail ar_Jabbar ar_Jafar ar_Jakeem ar_Jaleel ar_Jalil ar_Jamahl
+		ar_Jamal ar_Jamil ar_Javad ar_Jinan ar_Jumah ar_Kabir ar_Kadar ar_Kadeem ar_Kadin
+		ar_Kadir ar_Kaleef ar_Kaleel ar_Kalil ar_Kamal ar_Kamali ar_Kamil ar_Kandari ar_Karam
+		ar_Kardal ar_Kareem ar_Karif ar_Karim ar_Kaseem ar_Kasib ar_Kasim ar_Khailil ar_Khaled
+		ar_Khalid ar_Khalil ar_Khari ar_Khayrat ar_Koran ar_Lateef ar_Mahmoud ar_Mahmud
+		ar_Maimun ar_Makram ar_Malik ar_Mamduh ar_Mansoor ar_Mansur ar_Marid ar_Marwan
+		ar_Masoud ar_Masud ar_Mazen ar_Mehdi ar_Mehmet ar_Mekhi ar_Moamen
+		ar_Mohammed ar_Mohsen ar_Moneeb ar_Mubarak ar_Muhammad ar_Muhammed
+		ar_Muftah ar_Muhanna ar_Munir ar_Murtada ar_Musad ar_Mushtaq ar_Mustafa
+		ar_Muzzammil ar_Nabeel ar_Nabil ar_Nader ar_Nadim ar_Naeem ar_Nahim ar_Najar
+		ar_Najee ar_Naji ar_Najib ar_Namdar ar_Nasair ar_Nasawi ar_Nasser ar_Nazih ar_Nazir
+		ar_Nihad ar_Nizar ar_Numar ar_Nuri ar_Nusair ar_Nyel ar_Omar ar_Omri ar_Owais
+		ar_Qaasim ar_Qamar ar_Qasim ar_Quran ar_Qusay ar_Rabi ar_Raed ar_Raffi ar_Rafi
+		ar_Rafiq ar_Rahim ar_Rahman ar_Rahsaan ar_Rahsan ar_Rahul ar_Rajab ar_Ramadan
+		ar_Rami ar_Ramir ar_Ramzi ar_Rashaad ar_Rashad ar_Rasheed ar_Rasheem ar_Rashid
+		ar_Reyham ar_Reza ar_Rida ar_Riyad ar_Riyaz ar_Rushdi ar_Saad ar_Sadik ar_Sadiq
+		ar_Safwan ar_Sahar ar_Said ar_Saleem ar_Salih ar_Salim ar_Salman ar_Sameer ar_Sami
+		ar_Samir ar_Sayyid ar_Seif ar_Shadi ar_Shafiq ar_Shahien ar_Shareef ar_Sharif ar_Shaukat
+		ar_Shazad ar_Shereef ar_Sherin ar_Shukri ar_Sidiq ar_Sina ar_Soda ar_Sohil ar_Suha
+		ar_Sulaiman ar_Syed ar_Taha ar_Tahid ar_Tahir ar_Talal ar_Talib ar_Tamer ar_Tarek
+		ar_Tariq ar_Tawfiq ar_Umar ar_Usman ar_Wafa ar_Wahid ar_Wa-il ar_Waleed ar_Walid
+		ar_Wathan ar_Yahya ar_Yamil ar_Yasar ar_Yasir ar_Yazid ar_Youness ar_Yousef ar_Yusuf
+		ar_Zahir ar_Zahur ar_Zaid ar_Zaki ar_Zamil ar_Zayn ar_Ziyad ar_Zuhd
+	}
+
+	female_names = {
+		ar_Aamal ar_Abdah ar_Abia ar_Abida ar_Abir ar_Abira ar_Abiha ar_Abla ar_Adara ar_Adila
+		ar_Adiva ar_Adjah ar_Afaaf ar_Afaf ar_Afra ar_Afriah ar_Afton ar_Ahlam ar_Ahsia ar_Ain
+		ar_Aisha ar_Aishah ar_Akilah ar_Akram ar_Alaia ar_Ale ar_Aleah ar_Ali ar_Alia ar_Alima
+		ar_Alina ar_Aliya ar_Almira ar_Alya ar_Amal ar_Amani ar_Amatullah ar_Amimah ar_Amina
+		ar_Aminah ar_Amira ar_Amna ar_Anisa ar_Ara ar_Aseel ar_Ashra ar_Asiya ar_Asma
+		ar_Atifa ar_Ayasha ar_Ayesha ar_Aza ar_Aziah ar_Aziza ar_Azza ar_Bahira ar_Bahiyya
+		ar_Banah ar_Baraka ar_Barakah ar_Barika ar_Basimah ar_Basma ar_Basmah ar_Bathsira
+		ar_Batool ar_Bibi ar_Buthayna ar_Cala ar_Cantara ar_Chardae ar_Charde ar_Dahah ar_Daifa
+		ar_Dalal ar_Dalia ar_Dananir ar_Dhakirah ar_Dima ar_Doha ar_Du-a ar_Duha ar_Duqaq
+		ar_Ehteram ar_Elaheh ar_Elmira ar_Eman ar_Emine ar_Eram ar_Faaiza ar_Fadia ar_Fadila
+		ar_Fairuz ar_Faizah ar_Falestine ar_Farah ar_Fardoos ar_Farhaana ar_Farida ar_Fatemeh
+		ar_Fathiyya ar_Fatima ar_Fatimah ar_Fatma ar_Fatunah ar_Fayza ar_Fayruz ar_Fizza
+		ar_Fukayna ar_Genna ar_Ghada ar_Ghaliya ar_Ghaniyah ar_Hababah ar_Habibah
+		ar_Habibeh ar_Hadil ar_Hadya ar_Hafiya ar_Hafsa ar_Hafsah ar_Haideh ar_Hala ar_Haleh
+		ar_Halima ar_Hamida ar_Hamideh ar_Hana ar_Hanan ar_Haneen ar_Hanifa ar_Haniyya
+		ar_Hatima ar_Hawwa ar_Hinda ar_Hoda ar_Huda ar_Husniyah ar_Iamar ar_Iesha ar_Ihsan
+		ar_Ilham ar_Iman ar_Inam ar_Inan ar_Innas ar_Ismat ar_Isra ar_Jalila ar_Jamila ar_Jasmine
+		ar_Jena ar_Jenaw ar_Jinan ar_Jomana ar_Juju ar_Jumana ar_Kali ar_Kalifa ar_Kalila
+		ar_Kamala ar_Kamilah ar_Karida ar_Karima ar_Karimah ar_Khadija ar_Khadijah ar_Khalida
+		ar_Khalifa ar_Khalilah ar_Kobra ar_Laila ar_Lakia ar_Layla ar_Leen ar_Leila ar_Leyla ar_Lina
+		ar_Loelia ar_Lubna ar_Lujayn ar_Lulah ar_Madiha ar_Magda ar_Maha ar_Mahasin
+		ar_Mahlagha ar_Mahlayba ar_Maimuna ar_Maiza ar_Majidah ar_Malak ar_Malika ar_Maliki
+		ar_Manhalah ar_Mariah ar_Mariyah ar_Marwa ar_Maysun ar_Mariam ar_Mouna
+		ar_Mufidah ar_Munira ar_Muslimah ar_Nabila ar_Nabilia ar_Nada ar_Nadira ar_Nadrah
+		ar_Nadya ar_Naeemah ar_Nafisa ar_Nahida ar_Naila ar_Nailah ar_Naima ar_Naimah
+		ar_Najla ar_Najlah ar_Najmah ar_Najwa ar_Nathifa ar_Nawal ar_Nedira ar_Nida ar_Nima
+		ar_Nini ar_Noha ar_Noura ar_Nuha ar_Nujood ar_Numa ar_Nur ar_Nuri ar_Nusaiba
+		ar_Oma ar_Qamar ar_Qubilah ar_Rabi ar_Rabiah ar_Radwa ar_Rahmat ar_Raja ar_Rana
+		ar_Randa ar_Ranya ar_Rashida ar_Rayya ar_Raziya ar_Reem ar_Rezeya ar_Rida ar_Rihana
+		ar_Rima ar_Rukhsar ar_Rusa ar_Saba ar_Sabah ar_Sabra ar_Sadaf ar_Sadika ar_Sadira
+		ar_Saduf ar_Safa ar_Safia ar_Safinaz ar_Safiya ar_Safwah ar_Saham ar_Sahar ar_Sahara
+		ar_Saliha ar_Salima ar_Salimah ar_Salma ar_Salwa ar_Sara ar_Soso ar_Samar ar_Samara
+		ar_Samarah ar_Sameen ar_Sami ar_Samira ar_Samya ar_Sana ar_Sanah ar_Sara ar_Sarab
+		ar_Sawsan ar_Semeeah ar_Sereen ar_Shadiya ar_Shadya ar_Shafiqa ar_Shagayegh
+		ar_Shahar ar_Shahida ar_Shahira ar_Shahrazad ar_Shahrizad ar_Shajar ar_Shakira
+		ar_Shamoona ar_Sharda ar_Sharday ar_Shareen ar_Sharifa ar_Sheba ar_Shiklah ar_Shurooq
+		ar_Siham ar_Sisi ar_Soheyla ar_Subreen ar_Suha ar_Suhad ar_Suhair ar_Sulema ar_Sulma
+		ar_Sultaana ar_Summar ar_Sundus ar_Tabina ar_Taliba ar_Tamasha ar_Tarra ar_Ulayyah
+		ar_Ulima ar_Umniya ar_Uzma ar_Wafa ar_Wahiba ar_Wahshiyah ar_Walaa ar_Widad
+		ar_Yamilex ar_Yamina ar_Yara ar_Yasmeen ar_Yasmin ar_Yasmina ar_Yazmina ar_Yusra
+		ar_Zada ar_Zahira ar_Zahra ar_Zahrah ar_Zakiayah ar_Zakiyya ar_Zara ar_Zaria ar_Zaynab
+		ar_Zebeebah ar_Zeina ar_Zena ar_Zizi ar_Zubaydah ar_Zuhair ar_Zukha ar_Zulaikha
+		ar_Zuleika ar_Zunaira ar_Zuzi
+	}
+}
+name_list_berber = {
+
+	dynasty_names = {
+		dyn_ber_Aarab dyn_ber_Abdel dyn_ber_Abdeli dyn_ber_Abdellaoui dyn_ber_Abdo
+		dyn_ber_Abdou dyn_ber_Abid dyn_ber_Abou dyn_ber_Achour dyn_ber_Adam
+		dyn_ber_Ahmed dyn_ber_Aissa dyn_ber_Aissaoui dyn_ber_Ait dyn_ber_Alami
+		dyn_ber_Alaoui dyn_ber_Ali dyn_ber_Allali dyn_ber_Amara dyn_ber_Amari
+		dyn_ber_Ameur dyn_ber_Amine dyn_ber_Amrani dyn_ber_Amraoui dyn_ber_Amri
+		dyn_ber_Aouita dyn_ber_Arazi dyn_ber_Ayoub dyn_ber_Aziz dyn_ber_Azizi
+		dyn_ber_Azzouz dyn_ber_Azzouzi dyn_ber_Baba dyn_ber_Bacha dyn_ber_Bachir
+		dyn_ber_Badr dyn_ber_Bahari dyn_ber_Bakkali dyn_ber_Barca dyn_ber_Batel dyn_ber_Bel
+		dyn_ber_Belaid dyn_ber_Belarbi dyn_ber_Belghazi dyn_ber_Belhadj dyn_ber_Belhaj
+		dyn_ber_Belkacem dyn_ber_Belkacemi dyn_ber_Belkadi dyn_ber_Ben dyn_ber_Benaissa
+		dyn_ber_Benali dyn_ber_Benamar dyn_ber_Benamara dyn_ber_Benani dyn_ber_Benarbia
+		dyn_ber_Benbella dyn_ber_Benbouchta dyn_ber_Benbrahim dyn_ber_Bencheikh
+		dyn_ber_Benchekroun dyn_ber_Bendjedid dyn_ber_Benhamou dyn_ber_Benhassi
+		dyn_ber_Benhouna dyn_ber_Benida dyn_ber_Benjelloun dyn_ber_Benkirane
+		dyn_ber_Benmoussa dyn_ber_Bennani dyn_ber_Bennis dyn_ber_Bennouna
+		dyn_ber_Benomar dyn_ber_Bensaid dyn_ber_Bensalem dyn_ber_Benslimane
+		dyn_ber_Bensouda dyn_ber_Benyahia dyn_ber_Benyoucef dyn_ber_Benzai
+		dyn_ber_Benzakour dyn_ber_Benzine dyn_ber_Berioui dyn_ber_Berkane dyn_ber_Berrada
+		dyn_ber_Berui dyn_ber_Bidouane dyn_ber_Bou dyn_ber_Bouaouiche dyn_ber_Bouaziz
+		dyn_ber_Bouchta dyn_ber_Boudiaf dyn_ber_Boukhalfa dyn_ber_Boukrouna
+		dyn_ber_Boulami dyn_ber_Boulmerka dyn_ber_Bouras dyn_ber_Bouziane dyn_ber_Bouzid
+		dyn_ber_Bouzidi dyn_ber_Brahim dyn_ber_Brahimi dyn_ber_Chabane dyn_ber_Chahid
+		dyn_ber_Chaib dyn_ber_Chakir dyn_ber_Chami dyn_ber_Chaoui dyn_ber_Chaouki
+		dyn_ber_Charaf dyn_ber_Chergui dyn_ber_Cherif dyn_ber_Cherifi dyn_ber_Cherkaoui
+		dyn_ber_Chikh dyn_ber_Choukri dyn_ber_Chraibi dyn_ber_Dadi dyn_ber_Dahbi
+		dyn_ber_Dahmane dyn_ber_Dahmani dyn_ber_Dali dyn_ber_Daoud dyn_ber_Daoudi
+		dyn_ber_Diouri dyn_ber_Djamel dyn_ber_Djoudi dyn_ber_Drissi dyn_ber_Eddine
+		dyn_ber_El_Alami dyn_ber_El_Alaoui dyn_ber_El_Amrani dyn_ber_Elghorfi
+		dyn_ber_El_Idrissi dyn_ber_Fadili dyn_ber_Farah dyn_ber_Fares dyn_ber_Fassi
+		dyn_ber_Fathi dyn_ber_Fati dyn_ber_Fatima dyn_ber_Fikri dyn_ber_Filali dyn_ber_Fouad
+		dyn_ber_Gasmi dyn_ber_Guessous dyn_ber_Hachemi dyn_ber_Hachimi dyn_ber_Hacini
+		dyn_ber_Had dyn_ber_Haddad dyn_ber_Hadj dyn_ber_Hadji dyn_ber_Hafid
+		dyn_ber_Hafidi dyn_ber_Hajji dyn_ber_Hakim dyn_ber_Hamdaoui dyn_ber_Hamdi
+		dyn_ber_Hamidi dyn_ber_Hamza dyn_ber_Hanane dyn_ber_Hassan dyn_ber_Hassani
+		dyn_ber_Hayat dyn_ber_Hecini dyn_ber_Hicham dyn_ber_Hilali dyn_ber_Hissou
+		dyn_ber_Hocine dyn_ber_Houari dyn_ber_Housni dyn_ber_Idrissi dyn_ber_Imane
+		dyn_ber_Ismaili dyn_ber_Jabri dyn_ber_Kabbaj dyn_ber_Kaci dyn_ber_Kaddour
+		dyn_ber_Kadi dyn_ber_Kadiri dyn_ber_Kadri dyn_ber_Kamal dyn_ber_Kamel dyn_ber_Kara
+		dyn_ber_Karim dyn_ber_Karimi dyn_ber_Kettani dyn_ber_Khadija dyn_ber_Khaled
+		dyn_ber_Khalid dyn_ber_Khalil dyn_ber_Khatabi dyn_ber_Khelifa dyn_ber_Khelifi
+		dyn_ber_Lahlafi dyn_ber_Lahlou dyn_ber_Lahsini dyn_ber_Laib dyn_ber_Lamrani
+		dyn_ber_Larbi dyn_ber_Latmani dyn_ber_Lazrak dyn_ber_Lotfi dyn_ber_Louahla
+		dyn_ber_Loukili dyn_ber_Lounis dyn_ber_Maazouzi dyn_ber_Madani dyn_ber_Madi
+		dyn_ber_Mahdi dyn_ber_Makhlouf dyn_ber_Malek dyn_ber_Malki dyn_ber_Mammeri
+		dyn_ber_Mansouri dyn_ber_Maroc dyn_ber_Mebarki dyn_ber_Mehdi dyn_ber_Mejda
+		dyn_ber_Mekouar dyn_ber_Merabet dyn_ber_Messaoudi dyn_ber_Meziane
+		dyn_ber_Meziani dyn_ber_Mimi dyn_ber_Mohamed dyn_ber_Mohammed
+		dyn_ber_Mokhtari dyn_ber_Mokrani dyn_ber_Morceli dyn_ber_Mounir dyn_ber_Mourad
+		dyn_ber_Mourit dyn_ber_Moussa dyn_ber_Moussaoui dyn_ber_Moutawakel
+		dyn_ber_Mustapha dyn_ber_Nacer dyn_ber_Naciri dyn_ber_Nait dyn_ber_Naji
+		dyn_ber_Nassiri dyn_ber_Nina dyn_ber_Nounou dyn_ber_Nouri dyn_ber_Omari
+		dyn_ber_Ouali dyn_ber_Ouaziz dyn_ber_Ouazzani dyn_ber_Ould dyn_ber_Rachid
+		dyn_ber_Rachidi dyn_ber_Radi dyn_ber_Rahmani dyn_ber_Rahmouni dyn_ber_Rais
+		dyn_ber_Raji dyn_ber_Rami dyn_ber_Reda dyn_ber_Regragui dyn_ber_Rehal
+		dyn_ber_Rochdi dyn_ber_Saadi dyn_ber_Sabir dyn_ber_Sabri dyn_ber_Sadik
+		dyn_ber_Sahiri dyn_ber_Sahraoui dyn_ber_Said dyn_ber_Saidani dyn_ber_Saidi
+		dyn_ber_Salah dyn_ber_Salhi dyn_ber_Salmi dyn_ber_Sami dyn_ber_Saoudi dyn_ber_Sara
+		dyn_ber_Sarl dyn_ber_Sbai dyn_ber_Sebti dyn_ber_Seddiki dyn_ber_Sediki
+		dyn_ber_Sekkat dyn_ber_Selmi dyn_ber_Semlali dyn_ber_Senhaji dyn_ber_Si
+		dyn_ber_Simo dyn_ber_Slaoui dyn_ber_Slimani dyn_ber_Smail dyn_ber_Sofiane
+		dyn_ber_Solrani dyn_ber_Sousou dyn_ber_Soussi dyn_ber_Taha dyn_ber_Tahiri
+		dyn_ber_Tahri dyn_ber_Taibi dyn_ber_Talbi dyn_ber_Taleb dyn_ber_Tazi dyn_ber_Touati
+		dyn_ber_Touil dyn_ber_Touimi dyn_ber_Toumi dyn_ber_Touzani dyn_ber_Wahbi
+		dyn_ber_Warzazi dyn_ber_Yacine dyn_ber_Yahia dyn_ber_Yahiaoui dyn_ber_Yassine
+		dyn_ber_Youcef dyn_ber_Yousfi dyn_ber_Youssef dyn_ber_Zakaria dyn_ber_Zaki
+		dyn_ber_Zaoui dyn_ber_Zenati dyn_ber_Zerrouki dyn_ber_Ziani dyn_ber_Zidane
+		dyn_ber_Zine dyn_ber_Zitouna dyn_ber_Zitouni dyn_ber_Zizou dyn_ber_Zouabri
+		dyn_ber_Zouaoui
+	}
+	
+	male_names = {
+		ber_Abayghur ber_Abazza ber_Acku ber_Adal ber_Adergazuz ber_Adum ber_Agama
+		ber_Agellid ber_Ahamatu ber_Akawel ber_Akorakor ber_Amayas ber_Amder ber_Amellal
+		ber_Amenzu ber_Amma ber_Amri ber_Antaken ber_Aqqasen ber_Aras ber_Asirem
+		ber_Awlagh ber_Awragh ber_Axamuk ber_Aytarel ber_Azar ber_Azouiel ber_Badda
+		ber_Beketa ber_Berkan ber_Bezzi ber_Buxtuc ber_Dali ber_El_Khir ber_El_Mostafa
+		ber_Firhun ber_Gaya ber_Ghanim ber_Gildun ber_Gulussa ber_Jemmu ber_Hotha ber_Ibiza
+		ber_Iccaam ber_Ifni ber_Iften ber_Iher ber_Immegan ber_Iraten ber_Issam ber_Itri
+		ber_Ixfensen ber_Ixzi ber_Kenan ber_Keraja ber_Louen ber_Lunis ber_Lwennas
+		ber_Masgaba ber_Masinisan ber_Masmud ber_Mazer ber_Mejdan ber_Mennad ber_Mezwar
+		ber_Muh-end ber_Muh-uc ber_Salla ber_Sammer ber_Sifaks ber_Suggut ber_Takfarinas
+		ber_Tegama ber_Ugdada ber_Urtilan ber_Uzmir ber_Wayaasi ber_Xamida ber_Yaghmurasen
+		ber_Yanni ber_Yellel ber_Yunes ber_Zayar ber_Zeggar ber_Zigza
+	}
+
+	female_names = {
+		ber_Aazzi ber_Adjan ber_Aduda ber_Aldjiya ber_Amghnna ber_Anya ber_Bakka ber_Bibya
+		ber_Cabha ber_Cuca ber_Dassin ber_Dassine ber_Dhabba ber_Dihya ber_Dimya
+		ber_Faghissa ber_Fariza ber_Ferada ber_Ferrudja ber_Gedduda ber_Ghenima ber_Ghida
+		ber_Gwejda ber_Hadeja ber_Hedda ber_Iza ber_Jdira ber_Jeddjiga ber_Kahina ber_Kana
+		ber_Kanimana ber_Kella ber_Kenwa ber_Kisa ber_Kulla ber_Laysa ber_Lumsi ber_Lundja
+		ber_Lwiza ber_Lyaqut ber_Madele ber_Massa ber_Megduda ber_Mellila ber_Menza
+		ber_Mernissa ber_Myassa ber_Raisha ber_Rula ber_Ruza ber_Sekkura ber_Silya ber_Susaa
+		ber_Tadla ber_Tadmut ber_Tafrara ber_Tafsut ber_Tahat ber_Taklit ber_Talalit ber_Taljat
+		ber_Tamallat ber_Tamilla ber_Tamrust ber_Taninna ber_Tariwelt ber_Tasa ber_Tawnat
+		ber_Tazirit ber_Tfit ber_Tigmi ber_Tikinas ber_Timmi ber_Tisent ber_Titem ber_Triya
+		ber_Umeyda ber_Werina ber_Wiza ber_Wnissa ber_Zamra ber_Zibba ber_Zilgum
+		ber_Zunagha ber_Zwira
+	}
+}

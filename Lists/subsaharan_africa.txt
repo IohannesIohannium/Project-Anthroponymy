@@ -1,0 +1,756 @@
+name_list_congolese = {
+
+	dynasty_names = {
+		kg_Angola kg_Angolo kg_Kimpa kg_Longi kg_Luzolo kg_Manzambi kg_Masa kg_Matondo
+		kg_Mawete kg_Maza kg_Mbuetete kg_Mfumu kg_Mfulutoma kg_Miezi kg_Muanda
+		kg_Mvemba kg_Mvembaur kg_Namibi kg_Nsemi kg_Ntangu kg_Ntinu kg_Nzinga
+		kg_Nzola kg_Sema kg_Vita kg_Wasakumunua kg_Yulu kg_Zayi kg_Zulu
+	}
+	
+	male_names = {
+		kg_Angola kg_Angolo kg_Kimpa kg_Longi kg_Luzolo kg_Manzambi kg_Masa kg_Matondo
+		kg_Mawete kg_Maza kg_Mbuetete kg_Mfumu kg_Mfulutoma kg_Miezi kg_Muanda
+		kg_Mvemba kg_Mvembaur kg_Namibi kg_Nsemi kg_Ntangu kg_Ntinu kg_Nzinga
+		kg_Nzola kg_Sema kg_Vita kg_Wasakumunua kg_Yulu kg_Zayi kg_Zulu
+	}
+
+	female_names = {
+		kg_Angola kg_Angolo kg_Kimpa kg_Longi kg_Luzolo kg_Manzambi kg_Masa kg_Matondo
+		kg_Mawete kg_Maza kg_Mbuetete kg_Mfumu kg_Mfulutoma kg_Miezi kg_Muanda
+		kg_Mvemba kg_Mvembaur kg_Namibi kg_Nsemi kg_Ntangu kg_Ntinu kg_Nzinga
+		kg_Nzola kg_Sema kg_Vita kg_Wasakumunua kg_Yulu kg_Zayi kg_Zulu
+	}
+}
+name_list_ethiopian = {
+
+	dynasty_names = {
+		am_Abadi am_Abdul am_Abebe am_Abera am_Abraha am_Abraham am_Adane am_Addis
+		am_Aemro am_Afeworq am_Ahmed am_Aklilu am_Alebachew am_Alemayehu am_Ali
+		am_Amanuel am_Amare am_Amir am_Araya am_Asmelash am_Assefa am_Aweke
+		am_Ayalew am_Azmera am_Bekele am_Belay am_Berhane am_Berhanu am_Berhe
+		am_Berihun am_Beyene am_Bilal am_Dawit am_Dereje am_Desalegn am_Desta
+		am_Eshete am_Eshetu am_Estifanos am_Ezana am_Fasiledas am_Ferid am_Fikadu
+		am_Fethee am_Fisseha am_Gebreal am_Gebre am_Gebru am_Giorgis am_Getachew
+		am_Giday am_Girmay am_Girmachew am_Goitom am_Gondar am_Habtamu am_Habtom
+		am_Hagos am_Haile am_Hailesilassie am_Hakim am_Halefom am_Hamdail am_Hamza
+		am_Hashim am_Hussein am_Ibrahim am_Iskinder am_Ismael am_Iyassu am_Jemal
+		am_Jefar am_Jima am_Jugurtha am_Kafa am_Kahsay am_Kaleb am_Kaleab am_Kaliti
+		am_Kasahun am_Kasim am_Kedaref am_Kelile am_Khalid am_Kidan am_Kidane am_Kifle
+		am_Kinfe am_Kiros am_Lema am_Lemma am_Majid am_Mamo am_Measho
+		am_Mebrahtu am_Mehari am_Mekonnen am_Melaku am_Meles am_Melesse
+		am_Mengesha am_Merille am_Mesfin am_Miruts am_Mohammed am_Mulugeta
+		am_Mustafa am_Nazaret am_Nebil am_Negash am_Negasi am_Negus am_Nigussie
+		am_Olivea am_Omer am_Ogbay am_Rahad am_Ras am_Retta am_Salsawi am_Sarsa
+		am_Sarsa-Dengel am_Sebsibe am_Selam am_Selassie am_Selemun am_Semere
+		am_Seyoum am_Silassie am_Sisay am_Taddese am_Tamirat am_Tariky am_Taye
+		am_Tedros am_Teferi am_Tegene am_Tegeni am_Teka am_Teklay am_Tekle am_Teklit
+		am_Teklu am_Temesgen am_Teruworq am_Tesfa am_Tesfay am_Tesfaye am_Tesfayo
+		am_Tessema am_Tewelde am_Tewodros am_Tolosa am_Tsadiq am_Tsegay am_Tsegaye
+		am_Tsehaye am_Walid am_Wolday am_Wolde am_Woldu am_Workayehu am_Worke
+		am_Yazid am_Yemane am_Yohannes am_Youssef am_Yusuf am_Zegeye am_Zemichael
+		am_Zerabruk am_Zere
+	}
+	
+	male_names = {
+		am_Abadi am_Abdul am_Abebe am_Abera am_Abraha am_Abraham am_Adane am_Addis
+		am_Aemro am_Afeworq am_Ahmed am_Aklilu am_Alebachew am_Alemayehu am_Ali
+		am_Amanuel am_Amare am_Amir am_Araya am_Asmelash am_Assefa am_Aweke
+		am_Ayalew am_Azmera am_Bekele am_Belay am_Berhane am_Berhanu am_Berhe
+		am_Berihun am_Beyene am_Bilal am_Dawit am_Dereje am_Desalegn am_Desta
+		am_Eshete am_Eshetu am_Estifanos am_Ezana am_Fasiledas am_Ferid am_Fikadu
+		am_Fethee am_Fisseha am_Gebreal am_Gebre am_Gebru am_Giorgis am_Getachew
+		am_Giday am_Girmay am_Girmachew am_Goitom am_Gondar am_Habtamu am_Habtom
+		am_Hagos am_Haile am_Hailesilassie am_Hakim am_Halefom am_Hamdail am_Hamza
+		am_Hashim am_Hussein am_Ibrahim am_Iskinder am_Ismael am_Iyassu am_Jemal
+		am_Jefar am_Jima am_Jugurtha am_Kafa am_Kahsay am_Kaleb am_Kaleab am_Kaliti
+		am_Kasahun am_Kasim am_Kedaref am_Kelile am_Khalid am_Kidan am_Kidane am_Kifle
+		am_Kinfe am_Kiros am_Lema am_Lemma am_Majid am_Mamo am_Measho
+		am_Mebrahtu am_Mehari am_Mekonnen am_Melaku am_Meles am_Melesse
+		am_Mengesha am_Merille am_Mesfin am_Miruts am_Mohammed am_Mulugeta
+		am_Mustafa am_Nazaret am_Nebil am_Negash am_Negasi am_Negus am_Nigussie
+		am_Olivea am_Omer am_Ogbay am_Rahad am_Ras am_Retta am_Salsawi am_Sarsa
+		am_Sarsa-Dengel am_Sebsibe am_Selam am_Selassie am_Selemun am_Semere
+		am_Seyoum am_Silassie am_Sisay am_Taddese am_Tamirat am_Tariky am_Taye
+		am_Tedros am_Teferi am_Tegene am_Tegeni am_Teka am_Teklay am_Tekle am_Teklit
+		am_Teklu am_Temesgen am_Teruworq am_Tesfa am_Tesfay am_Tesfaye am_Tesfayo
+		am_Tessema am_Tewelde am_Tewodros am_Tolosa am_Tsadiq am_Tsegay am_Tsegaye
+		am_Tsehaye am_Walid am_Wolday am_Wolde am_Woldu am_Workayehu am_Worke
+		am_Yazid am_Yemane am_Yohannes am_Youssef am_Yusuf am_Zegeye am_Zemichael
+		am_Zerabruk am_Zere
+	}
+
+	female_names = {
+		am_Abeba am_Abebech am_Abeho am_Aberash am_Abrihet am_Adanech am_Adina
+		am_Adiyam am_Adiymon am_Ageritu am_Ainalem am_Akilework am_Alam am_Alem
+		am_Aleminesh am_Alemitu am_Alemnesh am_Alemzewd am_Alitash am_Almaz
+		am_Ambai am_Amhara am_Amina am_Aminat am_Asrat am_Astede am_Aster am_Ayana
+		am_Azmera am_Bedria am_Belkis am_Berhan am_Berhane am_Berta am_Bergena
+		am_Bilen am_Birtukan am_Bisin am_Brutukan am_Buzayue am_Chara am_China
+		am_Debas am_Debre am_Debtera am_Dengel am_Derartu am_Desse am_Desta am_Dilla
+		am_Enkutatash am_Eskadar am_Etenesh am_Etetu am_Falasha am_Falashina am_Fana
+		am_Fannah am_Fatima am_Fatuma am_Fereweini am_Firehywet am_Genat am_Genet
+		am_Gete am_Goai am_Guanch am_Gu_ay am_Habesha am_Hadas am_Haimanot
+		am_Hiwot am_Kayla am_Keren am_Kess am_Kifle am_Kirsay am_Legessie am_Lemlem
+		am_Letay am_Lishan am_Lonam am_Magdala am_Maharene am_Makda am_Makeda
+		am_Mamit am_Mandera am_Meaza am_Medhin am_Melesse am_Menen am_Merkeb
+		am_Meskerum am_Misrak am_Mulu am_Nabata am_Nyala am_Ozora am_Qwala
+		am_Retta am_Seble am_Seble-Wengel am_Selam am_Selamawit am_Selassie am_Selome
+		am_Semainesh am_Semen am_Semhar am_Senaiet am_Senait am_Serkalem am_Sesen
+		am_Shemsia am_Shinasha am_Sindu am_Sisay am_Taitu am_Teberih am_Tebrih am_Teru
+		am_Tesfanish am_Tieba am_Tiebe am_Tigist am_Tiruwork am_Totit am_Tsaye
+		am_Tsegaberhan am_Tsehay am_Tsehayinesh am_Wagaye am_Walasma am_Worq
+		am_Wub am_Yalem am_Yeshi am_Yordanos am_Zahabu am_Zala am_Zaudida
+		am_Zawditu am_Zemzem am_Zena am_Zenet am_Zenit
+	}
+}
+name_list_somali = {
+
+	dynasty_names = {
+		so_Aabbediid so_Abroone so_Abshir so_Abtidoon so_Afgab so_Allaalle so_Almis
+		so_Amare so_Araarsame so_Awsame so_Aways so_Ayaanle so_Ayaxoow so_Aye
+		so_Baashe so_Bacalwaan so_Badhiidh so_Bahdoon so_Barkhad so_Barre so_Barsame
+		so_Baxnaan so_Beyle so_Biixi so_Bile so_Bisinle so_Bisle so_Boorle so_Bootaan
+		so_Boqorre so_Bucul so_Bullaale so_Bulxan so_Buraale so_Buux so_Caateye so_Cabbane
+		so_Cabsiiye so_Caddaawe so_Cadoosh so_Caaggane so_Calas so_Calasoow so_Careys
+		so_Carre so_Cartan so_Carraale so_Casoowe so_Catoosh so_Casood so_Cawaale so_Cawad
+		so_Cawke so_Cawil so_Cawl so_Caydiid so_Caynaan so_Caynaanshe so_Celeeye so_Cige
+		so_Cigaal so_Cigalle so_Ciidaways so_Ciiltire so_Ciise so_Cilmi so_Cokiye so_Colaad
+		so_Coldiid so_Coldoon so_Colow so_Cosoble so_Daaliy so_Dalal so_Dalmaraways
+		so_Damal so_Dawaale so_Deeq so_Deheeye so_Dhakak so_Dharaar so_Dhabar
+		so_Dhamac so_Dheeg so_Dhiblaawe so_Dhinbiil so_Dhooddi so_Dhuule so_Dhuux
+		so_Dhuxul so_Dicin so_Didar so_Digaale so_Diirrane so_Diiriye so_Dillaal so_Dirir
+		so_Dubbad so_Dubbe so_Ducaale so_Duddub so_Dugsiiye so_Erasto so_Faahiye so_Faarax
+		so_Food so_Foosi so_Fure so_Gaafane so_Gaarane so_Gabeyre so_Gaboose so_Gaboobe
+		so_Gabyow so_Gacayte so_Gadiid so_Gafle so_Galaal so_Galab so_Galayax so_Galbeyte
+		so_Gallad so_Gamadiid so_Gamiye so_Garaad so_Garre so_Geeddi so_Geeddow
+		so_Geeldoon so_Geelle so_Geeljire so_Geesaale so_Geesi so_Gobdoon so_Godane
+		so_Good so_Guhaad so_Guraase so_Gurey so_Gurmad so_Gurxan so_Guuldoon
+		so_Guuleed so_Guutaale so_Guure so_Habbane so_Halas so_Hanad so_Haybe so_Hiirane
+		so_Hirad so_Hiraab so_Hidan so_Hufane so_Hurre so_Huruuse so_Iftin so_Iidle so_Ilays
+		so_Irbad so_Jaajuumow so_Jaamac so_Jabane so_Jayte so_Jiilaal so_Jowhar so_Kaahin
+		so_Kaahiye so_Kaariye so_Kaarshe so_Kediye so_Kamas so_Karbaashe so_Kartiile
+		so_Kawaaliye so_Kayd so_Keenadiid so_Keynaan so_Keyse so_Khayre so_Kiile so_Koombe
+		so_Kooshin so_Koosafaare so_Kuluc so_Kunciil so_Lediye so_Liban so_Liibaan so_Loodoon
+		so_Looyaan so_Maax so_Maawel so_Madar so_Madoobe so_Magan so_Mahad so_Malow
+		so_Mataan so_Maxabe so_Maydhane so_Maygaag so_Mayow so_Migil so_Miicaad
+		so_Miiggane so_Mire so_Mooge so_Mudcin so_Naalleeye so_Nabaddoon so_Nageeye
+		so_Nasiiye so_Obsiiye so_Odawaa so_Oogle so_Qaar so_Qamaan so_Qabille so_Qalinle
+		so_Qaloon so_Qarshe so_Qorane so_Qarshiile so_Qayaad so_Qaybdiid so_Raage
+		so_Riyaale so_Rooble so_Rirashe so_Sade so_Sahal so_Samaale so_Samaane so_Samadoon
+		so_Samakaab so_Samatalis so_Samatar so_Samawade so_Saxardiid so_Sharmaarke
+		so_Sharmooge so_Shidane so_Shide so_Shirdoon so_Shire so_Shirshore so_Shirwac
+		so_Siyaad so_Sooyaan so_Suban so_Suubbane so_Sugaal so_Suge so_Sugulle so_Suudi
+		so_Tabale so_Tadalesh so_Talasame so_Taraar so_Tubeec so_Tukaale so_Tosane
+		so_Ubaxle so_Ugaas so_Waaberi so_Waaheen so_Waare so_Waaruf so_Waasuge
+		so_Wacays so_Waraabe so_Wardheere so_Warfaa so_Warmooge so_Warsame
+		so_Weheliye so_Xaad so_Xaashi so_Xaayow so_Xabbad so_Xalane so_Xandulle so_Xarbi
+		so_Xareed so_Xayd so_Xildiid so_Xiirey so_Xirsi so_Xoosh so_Xujaale so_Yaabe so_Yabaal
+		so_Yabare so_Yalaxoow
+	}
+	
+	male_names = {
+		so_Aabbediid so_Abroone so_Abshir so_Abtidoon so_Afgab so_Allaalle so_Almis
+		so_Amare so_Araarsame so_Awsame so_Aways so_Ayaanle so_Ayaxoow so_Aye
+		so_Baashe so_Bacalwaan so_Badhiidh so_Bahdoon so_Barkhad so_Barre so_Barsame
+		so_Baxnaan so_Beyle so_Biixi so_Bile so_Bisinle so_Bisle so_Boorle so_Bootaan
+		so_Boqorre so_Bucul so_Bullaale so_Bulxan so_Buraale so_Buux so_Caateye so_Cabbane
+		so_Cabsiiye so_Caddaawe so_Cadoosh so_Caaggane so_Calas so_Calasoow so_Careys
+		so_Carre so_Cartan so_Carraale so_Casoowe so_Catoosh so_Casood so_Cawaale so_Cawad
+		so_Cawke so_Cawil so_Cawl so_Caydiid so_Caynaan so_Caynaanshe so_Celeeye so_Cige
+		so_Cigaal so_Cigalle so_Ciidaways so_Ciiltire so_Ciise so_Cilmi so_Cokiye so_Colaad
+		so_Coldiid so_Coldoon so_Colow so_Cosoble so_Daaliy so_Dalal so_Dalmaraways
+		so_Damal so_Dawaale so_Deeq so_Deheeye so_Dhakak so_Dharaar so_Dhabar
+		so_Dhamac so_Dheeg so_Dhiblaawe so_Dhinbiil so_Dhooddi so_Dhuule so_Dhuux
+		so_Dhuxul so_Dicin so_Didar so_Digaale so_Diirrane so_Diiriye so_Dillaal so_Dirir
+		so_Dubbad so_Dubbe so_Ducaale so_Duddub so_Dugsiiye so_Erasto so_Faahiye so_Faarax
+		so_Food so_Foosi so_Fure so_Gaafane so_Gaarane so_Gabeyre so_Gaboose so_Gaboobe
+		so_Gabyow so_Gacayte so_Gadiid so_Gafle so_Galaal so_Galab so_Galayax so_Galbeyte
+		so_Gallad so_Gamadiid so_Gamiye so_Garaad so_Garre so_Geeddi so_Geeddow
+		so_Geeldoon so_Geelle so_Geeljire so_Geesaale so_Geesi so_Gobdoon so_Godane
+		so_Good so_Guhaad so_Guraase so_Gurey so_Gurmad so_Gurxan so_Guuldoon
+		so_Guuleed so_Guutaale so_Guure so_Habbane so_Halas so_Hanad so_Haybe so_Hiirane
+		so_Hirad so_Hiraab so_Hidan so_Hufane so_Hurre so_Huruuse so_Iftin so_Iidle so_Ilays
+		so_Irbad so_Jaajuumow so_Jaamac so_Jabane so_Jayte so_Jiilaal so_Jowhar so_Kaahin
+		so_Kaahiye so_Kaariye so_Kaarshe so_Kediye so_Kamas so_Karbaashe so_Kartiile
+		so_Kawaaliye so_Kayd so_Keenadiid so_Keynaan so_Keyse so_Khayre so_Kiile so_Koombe
+		so_Kooshin so_Koosafaare so_Kuluc so_Kunciil so_Lediye so_Liban so_Liibaan so_Loodoon
+		so_Looyaan so_Maax so_Maawel so_Madar so_Madoobe so_Magan so_Mahad so_Malow
+		so_Mataan so_Maxabe so_Maydhane so_Maygaag so_Mayow so_Migil so_Miicaad
+		so_Miiggane so_Mire so_Mooge so_Mudcin so_Naalleeye so_Nabaddoon so_Nageeye
+		so_Nasiiye so_Obsiiye so_Odawaa so_Oogle so_Qaar so_Qamaan so_Qabille so_Qalinle
+		so_Qaloon so_Qarshe so_Qorane so_Qarshiile so_Qayaad so_Qaybdiid so_Raage
+		so_Riyaale so_Rooble so_Rirashe so_Sade so_Sahal so_Samaale so_Samaane so_Samadoon
+		so_Samakaab so_Samatalis so_Samatar so_Samawade so_Saxardiid so_Sharmaarke
+		so_Sharmooge so_Shidane so_Shide so_Shirdoon so_Shire so_Shirshore so_Shirwac
+		so_Siyaad so_Sooyaan so_Suban so_Suubbane so_Sugaal so_Suge so_Sugulle so_Suudi
+		so_Tabale so_Tadalesh so_Talasame so_Taraar so_Tubeec so_Tukaale so_Tosane
+		so_Ubaxle so_Ugaas so_Waaberi so_Waaheen so_Waare so_Waaruf so_Waasuge
+		so_Wacays so_Waraabe so_Wardheere so_Warfaa so_Warmooge so_Warsame
+		so_Weheliye so_Xaad so_Xaashi so_Xaayow so_Xabbad so_Xalane so_Xandulle so_Xarbi
+		so_Xareed so_Xayd so_Xildiid so_Xiirey so_Xirsi so_Xoosh so_Xujaale so_Yaabe so_Yabaal
+		so_Yabare so_Yalaxoow
+	}
+
+	female_names = {
+		so_Absan so_Almas so_Aragsan so_Arrawelo so_Astur so_Ayaan so_Axado so_Baarlin
+		so_Bacado so_Barkhado so_Barni so_Barwaaqo so_Basra so_Batuulo so_Baxsan so_Beydan
+		so_Bilan so_Biliiso so_Bishaaro so_Bullo so_Buuxo so_Cajabo so_Calaso so_Canbaro
+		so_Carro so_Cawo so_Cawrala so_Ceebla so_Cosob so_Cudbi so_Culus so_Cutiya
+		so_Deggane so_Dalays so_Deeqa so_Degmo so_Dhudhi so_Faduun so_Falis so_Filsan
+		so_Gaasira so_Gallado so_Gargaaro so_Habboon so_Hadliya so_Halgan so_Haweeya
+		so_Hibaaq so_Hira so_Hodan so_Hodman so_Hoodo so_Idil so_Idman so_Iftin so_Iglan
+		so_Ilhaan so_Ilwaad so_Ilays so_Jamaad so_Jarmaad so_Jiijo so_Kaaha so_Kaafiya so_Kiin
+		so_Koos so_Ladan so_Laqanyo so_Libin so_Liin so_Lula so_Maane so_Maandeeq
+		so_Magool so_Mahado so_Malabo so_Malyuun so_Marwo so_Melaaneey so_Milgo
+		so_Mudan so_Mullaaxo so_Muxubbo so_Nagaad so_Naruuro so_Nashaad so_Nasteexo
+		so_Nurto so_Najax so_Nahlaa so_Nakhaa so_Naju so_Nayruus so_Qalanjo so_Qumman
+		so_Ralliya so_Roda so_Ruun so_Sada so_Saado so_Sabaad so_Sagal so_Saluugla so_Saredo
+		so_Saxarla so_Shacni so_Shaqlan so_Shuun so_Shankaroon so_Siman so_Siraad
+		so_Sohane so_Suubban so_Taliso so_Tawllan so_Timiro so_Tisa so_Toolmoon so_Toosan
+		so_Tusmo so_Ubax so_Ugaaso so_Ugbaad so_Yurub so_Waris so_Warsan so_Wiilo
+		so_Xaadsan so_Xaali so_Xabado so_Xaddiyo so_Xalan so_Xareedo so_Xiddig so_Aasiya
+		so_Canab so_Asli so_Cadar so_Dhahabo so_Hibo so_Nadifo so_Xalimo so_Safia so_Israa
+		so_Najma
+	}
+}
+name_list_ghanan = {
+
+	dynasty_names = {
+		dyn_ak_Abban dyn_ak_Abbey dyn_ak_Abdul dyn_ak_Abeasi dyn_ak_Aboagye
+		dyn_ak_Acheampong dyn_ak_Ackah dyn_ak_Acquah dyn_ak_Adam dyn_ak_Adane
+		dyn_ak_Addae dyn_ak_Addai dyn_ak_Addo dyn_ak_Addy dyn_ak_Adjei dyn_ak_Adjetey
+		dyn_ak_Ado dyn_ak_Adomako dyn_ak_Adu dyn_ak_Aduamah dyn_ak_Adumensa
+		dyn_ak_Adusei dyn_ak_Adwowa-Inkabi dyn_ak_Afenynu dyn_ak_Afful dyn_ak_Afrani
+		dyn_ak_Afrifa dyn_ak_Afriyie dyn_ak_Agbemabiase dyn_ak_Aggrey dyn_ak_Agyapong
+		dyn_ak_Agyei dyn_ak_Agyekum dyn_ak_Agyeman dyn_ak_Agyemang dyn_ak_Ahwoi
+		dyn_ak_Aidoo dyn_ak_Ak-Amenya dyn_ak_Akoto dyn_ak_Akrobettoe dyn_ak_Akuffo
+		dyn_ak_Alhassan dyn_ak_Allotey dyn_ak_Amankwah dyn_ak_Amartey dyn_ak_Amihere
+		dyn_ak_Amissah dyn_ak_Ammah dyn_ak_Amoah dyn_ak_Amoako dyn_ak_Amodako
+		dyn_ak_Ampofo dyn_ak_Amponsah dyn_ak_Anane dyn_ak_Andoh dyn_ak_Anim
+		dyn_ak_Ankomah dyn_ak_Ankrah dyn_ak_Annan dyn_ak_Annor dyn_ak_Ansah
+		dyn_ak_Ansong dyn_ak_Antwi dyn_ak_Appiah dyn_ak_Arhin dyn_ak_Arkaah
+		dyn_ak_Armah dyn_ak_Arthur dyn_ak_Aryee dyn_ak_Asamoah dyn_ak_Asante
+		dyn_ak_Asare dyn_ak_Asiamah dyn_ak_Asiedu dyn_ak_Asomaning dyn_ak_Assiful
+		dyn_ak_Atta dyn_ak_Awoonor dyn_ak_Awuah dyn_ak_Awuku dyn_ak_Ayensu
+		dyn_ak_Ayitteh dyn_ak_Baah dyn_ak_Badu dyn_ak_Baffoe dyn_ak_Baffour
+		dyn_ak_Baiden dyn_ak_Baidoo dyn_ak_Bediako dyn_ak_Biney dyn_ak_Biritwum
+		dyn_ak_Blankson dyn_ak_Boadi dyn_ak_Boadu dyn_ak_Boafo dyn_ak_Boakye
+		dyn_ak_Boamah dyn_ak_Boateng dyn_ak_Bonsu dyn_ak_Bosu dyn_ak_Botchway
+		dyn_ak_Bright dyn_ak_Busia dyn_ak_Commodore dyn_ak_Cudjoe dyn_ak_Dadzie
+		dyn_ak_Damte dyn_ak_Danquah dyn_ak_Danso dyn_ak_Darko dyn_ak_Debrah
+		dyn_ak_Dodi dyn_ak_Dodoo dyn_ak_Doe dyn_ak_Dokyi dyn_ak_Domakyaareh
+		dyn_ak_Donkoh dyn_ak_Donkor dyn_ak_Douna dyn_ak_Duah dyn_ak_Dubango
+		dyn_ak_Duku dyn_ak_Ekuban dyn_ak_Emmanuel dyn_ak_Eshun dyn_ak_Essel
+		dyn_ak_Essien dyn_ak_Fiadzomor dyn_ak_Forson dyn_ak_Fosu dyn_ak_Frempong
+		dyn_ak_Frimpong dyn_ak_Futa dyn_ak_Gbedema dyn_ak_Guma dyn_ak_Gyamfi
+		dyn_ak_Gyampoh dyn_ak_Gyan dyn_ak_Gyasi dyn_ak_Gyekye dyn_ak_Gyepi
+		dyn_ak_Gyimah dyn_ak_Hamidou dyn_ak_Iddrisu dyn_ak_Ibrahim dyn_ak_Issah
+		dyn_ak_Kalitsi dyn_ak_Klemesu dyn_ak_Kofi dyn_ak_Konadu dyn_ak_Koomson
+		dyn_ak_Koran dyn_ak_Koranteng dyn_ak_Kotei dyn_ak_Kpakpa dyn_ak_Krote
+		dyn_ak_Kufuor dyn_ak_Kuma dyn_ak_Kumah dyn_ak_Kumi dyn_ak_Kusi dyn_ak_Kwaku
+		dyn_ak_Kwakwa dyn_ak_Kwakye dyn_ak_Kwame dyn_ak_Kwarteng dyn_ak_Kwei
+		dyn_ak_Kwofie dyn_ak_Kyei dyn_ak_Lalai dyn_ak_Lamptey dyn_ak_Larbi dyn_ak_Lartey
+		dyn_ak_Laryea dyn_ak_Lokko dyn_ak_Love dyn_ak_Mahama dyn_ak_Mante
+		dyn_ak_Manu dyn_ak_Marfo dyn_ak_Martey dyn_ak_Mbroh dyn_ak_Mensah
+		dyn_ak_Mohammed dyn_ak_Musah dyn_ak_Nana dyn_ak_Narh dyn_ak_Nartey
+		dyn_ak_Nii dyn_ak_Nikoi dyn_ak_Nkansah dyn_ak_Nkrumah dyn_ak_Nortey
+		dyn_ak_Nsiah dyn_ak_Ntim dyn_ak_Nuako dyn_ak_Nunoo dyn_ak_Nyarko
+		dyn_ak_Obeng dyn_ak_Ocansey dyn_ak_Ocran dyn_ak_Odoom dyn_ak_Oduro
+		dyn_ak_Ofedie dyn_ak_Offei dyn_ak_Offrata dyn_ak_Ofori dyn_ak_Ofosu
+		dyn_ak_Ohene dyn_ak_Okai dyn_ak_Okaija dyn_ak_Okine dyn_ak_Okyere
+		dyn_ak_Omaboe dyn_ak_Opare dyn_ak_Opoku dyn_ak_Opong dyn_ak_Oppong
+		dyn_ak_Osae dyn_ak_Osei dyn_ak_Otchere dyn_ak_Otoo dyn_ak_Owusu dyn_ak_Papa
+		dyn_ak_Papafio dyn_ak_Peprah dyn_ak_Poku dyn_ak_Quaicoe dyn_ak_Quansah
+		dyn_ak_Quarshie dyn_ak_Quartey dyn_ak_Quatey dyn_ak_Quaye dyn_ak_Sabah
+		dyn_ak_Sackey dyn_ak_Sadami dyn_ak_Sakyi dyn_ak_Salia dyn_ak_Salifu dyn_ak_Sam
+		dyn_ak_Sarfo dyn_ak_Sarpong dyn_ak_Seidu dyn_ak_Sekyi dyn_ak_Sembene
+		dyn_ak_Solomon dyn_ak_Sowah dyn_ak_Tagoe dyn_ak_Takyi dyn_ak_Tamakloe
+		dyn_ak_Tawiah dyn_ak_Tetteh dyn_ak_Tettey dyn_ak_Teye dyn_ak_Tsegah
+		dyn_ak_Tuffuor dyn_ak_Twum dyn_ak_Twumasi dyn_ak_Vigbedor dyn_ak_Wiredu
+		dyn_ak_Wontumi dyn_ak_Yakubu dyn_ak_Yamoah dyn_ak_Yankah dyn_ak_Yankey
+		dyn_ak_Yaote dyn_ak_Yaw dyn_ak_Yeboa dyn_ak_Yeboah dyn_ak_Yussif dyn_ak_Zakari
+	}
+	
+	male_names = {
+		ak_Abeeku ak_Abrafo ak_Abrefa ak_Adeben ak_Adika ak_Adofo ak_Adom ak_Adusa
+		ak_Adwin ak_Afram ak_Akwasi ak_Anim ak_Ata ak_Atsu ak_Badu ak_Boakye ak_Bobo
+		ak_Domevlo ak_Dzigbode ak_Essian ak_Fodjour ak_Gyamfi ak_Hilla ak_Kobena
+		ak_Kodwo ak_Kodzo ak_Kofi ak_Kojo ak_Koku ak_Komla ak_Konta ak_Kosi ak_Kpodo
+		ak_Kuaku ak_Kufuo ak_Kumi ak_Kutu ak_Kwabena ak_Kwadwo ak_Kweku ak_Kwame
+		ak_Kwao ak_Kwashie ak_Kwasi ak_Kwesi ak_Kwodwo ak_Kyereti ak_Manu ak_Mawuli
+		ak_Mensah ak_Nkruma ak_Nsoah ak_Odom ak_Offin ak_Ohene ak_Ohini ak_Okatakyie
+		ak_Oko ak_Osei ak_Pra ak_Tano ak_Tawia ak_Tse ak_Tuaco ak_Tutu ak_Nana-Yaw
+		ak_Yawo ak_Yesuto ak_Yooku ak_Yorko
+	}
+
+	female_names = {
+		ak_Aba ak_Ababuo ak_Abena ak_Abla ak_Adjoa ak_Adojoa ak_Adowa ak_Adwoa
+		ak_Afafa ak_Afua ak_Agbenyaga ak_Ago ak_Akosua ak_Akpenamawu ak_Aku ak_Akua
+		ak_Akwete ak_Akwokwo ak_Ama ak_Amma ak_Atakuma ak_Atsukpi ak_Awo ak_Baba
+		ak_Do ak_Doaui ak_Dofi ak_Ebo ak_Efia ak_Efua ak_Ekua ak_Enyonyam ak_Esi
+		ak_Esinam ak_Gyamfua ak_Gzifa ak_Hola ak_Juba ak_Kafui ak_Kakra ak_Kakru ak_Kaya
+		ak_Kessie ak_Kojo ak_Koko ak_Kontar ak_Kpodo ak_Kukua ak_Kunto ak_Mama
+		ak_Mansa ak_Mawunyaga ak_Mawusi ak_Morowa ak_Naki ak_Nana ak_Nanymka
+		ak_Nkruma ak_Nyana ak_Ozigbodi ak_Panyin ak_Serwa ak_Sisi ak_Sroda ak_Tano
+		ak_Tawia ak_Tawiah ak_Thema ak_Xetsa ak_Yaa ak_Ye
+	}
+}
+name_list_swahili = {
+
+	dynasty_names = {
+		dyn_sw_Adamu dyn_sw_Baharia dyn_sw_Dhadho dyn_sw_Fuli dyn_sw_Hassani
+		dyn_sw_Juma dyn_sw_Kahinu dyn_sw_Kimachu dyn_sw_Madhubuti dyn_sw_Magombo
+		dyn_sw_Mathenge dyn_sw_Msuya dyn_sw_Naomi dyn_sw_Nazari dyn_sw_Sayyid
+		dyn_sw_Simba dyn_sw_Sinema
+	}
+	
+	male_names = {
+		sw_Abasi sw_Abdu sw_Abdullahi sw_Abiria sw_Adamu sw_Adin sw_Afla sw_Ajabu
+		sw_Ajali sw_Akida sw_Alama sw_Alamisi sw_Alasiri sw_Alfajiri sw_Ali sw_Amali
+		sw_Amani sw_Amaziah sw_Amiri sw_Amwa sw_Anga sw_Angaza sw_Anza sw_Asani
+		sw_Asante sw_Ashon sw_Ashur sw_Ashura sw_Asili sw_Asimwe sw_Asubuhi sw_Auni
+		sw_Ayubu sw_Aza sw_Azizi sw_Babu sw_Bado sw_Bahari sw_Bakari sw_Balozi sw_Bamba
+		sw_Baraka sw_Bashiri sw_Binadamu sw_Bomani sw_Bopo sw_Buibui sw_Chane sw_Chui
+		sw_Chuma sw_Darweshi sw_Daudi sw_Dipili sw_Dogo sw_Elimu sw_Enzi sw_Erevu
+		sw_Fahamu sw_Fakihi sw_Faraji sw_Farasi sw_Fariji sw_Feruzi sw_Fumo sw_Fupi sw_Haji
+		sw_Haki sw_Hamadi sw_Hamidi sw_Hamisi sw_Hanisi sw_Hasa sw_Hasani sw_Hassani
+		sw_Heri sw_Hiji sw_Hishima sw_Hurani sw_Husani sw_Ibada sw_Idi sw_Idili sw_Ijumaa
+		sw_Imamu sw_Imani sw_Ishara sw_Issa sw_Jaali sw_Jabali sw_Jabari sw_Jabiri sw_Jafari
+		sw_Jahari sw_Jahi sw_Jalali sw_Jamari sw_Jasiri sw_Jela sw_Jelani sw_Jenebi sw_Jengo
+		sw_Jimoh sw_Joshi sw_Juma sw_Jumaane sw_Jumange sw_Kabona sw_Kafara sw_Kafil
+		sw_Kamau sw_Kamili sw_Kamisi sw_Kandoro sw_Kanu sw_Kawawe sw_Khalfani
+		sw_Khamisi sw_Khari sw_Kheri sw_Kibwe sw_Kifimbo sw_Kijana sw_Kijme sw_Kimani
+		sw_Kiongozi sw_Kipawa sw_Kito sw_Kitwana sw_Kombo sw_Kondo sw_Kongoresi
+		sw_Kukimbia sw_Kumbufa sw_Kumbuka sw_Kwanza sw_Kweli sw_Machupa sw_Majaliwa
+		sw_Mamba sw_Mansa sw_Marko sw_Maskini sw_Masud sw_Matata sw_Mbita
+		sw_Mbwana sw_Mchawi sw_Mdogo sw_Mfaume sw_Mhina sw_Mjibu sw_Mosi sw_Moyo
+		sw_Msabaha sw_Msafiri sw_Msemaji sw_Mshangama sw_Mtafiti sw_Mtawa sw_Mtembei
+		sw_Mtume sw_Musa sw_Mwaka sw_Mwalimu sw_Mwana sw_Mwenye sw_Mwinyi
+		sw_Mwita sw_Mzale sw_Mzee sw_Mzuri sw_Mzwanza sw_Nassor sw_Nuru sw_Omari
+		sw_Pendo sw_Pili sw_Pupa sw_Radhi sw_Rafiki sw_Rajabu sw_Rashidi sw_Sadaka
+		sw_Sadiki sw_Sadiku sw_Safi sw_Safwani sw_Saka sw_Salehe sw_Salin sw_Sefu
+		sw_Shaaboni sw_Shamba sw_Shangwe sw_Shani sw_Shibe sw_Shibisha sw_Shida
+		sw_Shomari sw_Sifa sw_Simba sw_Siwatu sw_Siwazuri sw_Songoro sw_Sudi sw_Suhuba
+		sw_Sulubu sw_Tafiti sw_Tajiri sw_Tawfiki sw_Tayari sw_Tembo sw_Tendaji sw_Tiifu
+		sw_Tisa sw_Tumaini sw_Ubora sw_Ubwa sw_Ufanisi sw_Utende sw_Utendi sw_Uzuri
+		sw_Vuai sw_Waziri sw_Yakubu sw_Yohana sw_Yusufu sw_Zahir sw_Zahur sw_Zakia
+		sw_Zakwani sw_Zwadi sw_Zuberi
+	}
+
+	female_names = {
+		sw_Aadila sw_Abiria sw_Abla sw_Adhra sw_Adia sw_Adila sw_Adimu sw_Afaafa sw_Afiya
+		sw_Ahadi sw_Ainru sw_Ajia sw_Akilah sw_Akina sw_Alama sw_Alamisi sw_Alasiri
+		sw_Aleela sw_Alila sw_Amali sw_Amani sw_Ambata sw_Amina sw_Aminia sw_Amne
+		sw_Angaza sw_Anisun sw_Arafa sw_Arifa sw_Asatira sw_Asha sw_Ashura sw_Asia
+		sw_Asubuhi sw_Asya sw_Aza sw_Aziza sw_Azize sw_Bahati sw_Bakari sw_Barika
+		sw_Bashira sw_Batini sw_Baya sw_Bayo sw_Bayyina sw_Bibi sw_Bimkubwa sw_Binti
+		sw_Bishara sw_Busara sw_Bushira sw_Chane sw_Chausiku sw_Chiku sw_Chriki sw_Chuki
+		sw_Dabiku sw_Dafina sw_Dalila sw_Dalili sw_Dhakiya sw_Ducha sw_Duni sw_Eidi
+		sw_Endesha sw_Eshe sw_Etana sw_Fadiya sw_Fahari sw_Faika sw_Fanaka sw_Fanana
+		sw_Farashuu sw_Farasi sw_Fathiya sw_Fila sw_Firyali sw_Furaha sw_Gamila sw_Gasira
+		sw_Gheche sw_Goma sw_Habiba sw_Hadiya sw_Haiba sw_Haifa sw_Hakima sw_Hala
+		sw_Halili sw_Halima sw_Halisi sw_Hamida sw_Hanifa sw_Hanuni sw_Haoriyao sw_Hasa
+		sw_Hashiki sw_Hasina sw_Haya sw_Hiari sw_Hiba sw_Hususa sw_Ieeda sw_Imani
+		sw_Inaya sw_Ishi sw_Ita sw_Ituri sw_Jaha sw_Jahi sw_Jamila sw_Jasira sw_Jina sw_Jioni
+		sw_Jirani sw_Johari sw_Jokha sw_Jokla sw_Juwayria sw_Kabisa sw_Kadija sw_Kaidi
+		sw_Kalere sw_Kamaria sw_Kameke sw_Kamili sw_Kanai sw_Kanoni sw_Karima sw_Kesi
+		sw_Khadija sw_Kiaga sw_Kibali sw_Kibibi sw_Kiburi sw_Kidawa sw_Kijakazi sw_Kinaya
+		sw_Kioja sw_Kipenzi sw_Kisasa sw_Kisima sw_Kivuli sw_Koffi sw_Latifah sw_Leta sw_Lila
+		sw_Lulu sw_Madaha sw_Madiha sw_Mafunda sw_Maisha sw_Maijani sw_Malaika
+		sw_Maliha sw_Malika sw_Mapenzi sw_Marini sw_Marjani sw_Masara sw_Masika
+		sw_Mchumba sw_Merah sw_Mkiwa sw_Mosi sw_Moza sw_Mpenzi sw_Msaada sw_Msiba
+		sw_Mtama sw_Mtumwa sw_Mufiida sw_Munira sw_Mvita sw_Mwajuma sw_Mwaka
+		sw_Mwamini sw_Mwanaidi sw_Mwanajuma sw_Mwanakweli sw_Mwasaa sw_Mwatabu
+		sw_Mwema sw_Nabila sw_Nadhari sw_Nadiya sw_Nadja sw_Nafisika sw_Naima sw_Najia
+		sw_Najma sw_Neema sw_Nia sw_Niara sw_Njema sw_Nuha sw_Nuru sw_Nyah sw_Paka
+		sw_Panya sw_Penda sw_Pili sw_Rabuwa sw_Rafiya sw_Raha sw_Ramla sw_Raziya
+		sw_Rehema sw_Ruqayah sw_Saada sw_Saba sw_Sabiha sw_Sadaka sw_Sadikika
+		sw_Safisha sw_Safiya sw_Saida sw_Sakina sw_Salima sw_Samiha sw_Samira sw_Sanaa
+		sw_Sanura sw_Sauda sw_Semeni sw_Shahida sw_Shangilia sw_Shani sw_Sharifa
+		sw_Shawana sw_Shifaa sw_Sikidhani sw_Sijaona sw_Siri sw_Siti sw_Somo sw_Subira
+		sw_Suhaila sw_Sulayma sw_Surayya sw_Taabu sw_Tabia sw_Tamasha sw_Tatu sw_Tawa
+		sw_Tisa sw_Tisha sw_Tosha sw_Tufaha sw_Tumaini sw_Uzima sw_Uzuri sw_Wanyika
+		sw_Waseme sw_Winda sw_Yumna sw_Yusra sw_Zaafarani sw_Zahara sw_Zahina
+		sw_Zainabu sw_Zakiya sw_Zalika sw_Zawadi sw_Zawati sw_Zuri sw_Zulfa sw_Zuwena
+		sw_Zwena
+	}
+}
+name_list_nigerian = {
+
+	dynasty_names = {
+		dyn_ha_Abdullahi dyn_ha_Abu dyn_ha_Adamu dyn_ha_Aliyu dyn_ha_Alkali
+		dyn_ha_Amadi dyn_ha_Audu dyn_ha_Bature dyn_ha_Burja dyn_ha_Dauda dyn_ha_Garba
+		dyn_ha_Habe dyn_ha_Isah dyn_ha_Junaidu dyn_ha_Madaki dyn_ha_Muhktar
+		dyn_ha_Mustapha dyn_ha_Raji dyn_ha_Rumfa dyn_ha_Shagari dyn_ha_Shehu
+		dyn_ha_Sule dyn_ha_Tijani dyn_ha_Yahaya dyn_ha_Yakubu
+	}
+	
+	male_names = {
+		ha_Abashe ha_Adamu ha_Ajuji ha_Aminu ha_Auta ha_Bakano ha_Balarabe ha_Barmani
+		ha_BiSalla ha_Ciwake ha_Danasabe ha_Danjuma ha_Dan-Kano ha_Danladi ha_Danlami
+		ha_Dan-More ha_Dantala ha_Daren ha_Daren-Tuwo ha_Dikko ha_Dogo ha_Dogon-Jokado
+		ha_Duka ha_Fodio ha_Gaddo ha_Galadima ha_Hassan ha_Husayn ha_Husseini ha_Iggi
+		ha_Jakada ha_Jirgi ha_Juji ha_Lahidi ha_Laraba ha_Mai-Zaria ha_Noma ha_Rabo ha_Risku
+		ha_Shaba ha_Shekarau ha_Shuka ha_Talatu ha_Tanimu ha_Tanko ha_Tatau ha_Tatu
+		ha_Yakubu ha_Yalwa ha_Yaro ha_Yohance ha_Zaki
+	}
+
+	female_names = {
+		ha_Altine ha_Amina ha_Aminatu ha_Annakiya ha_Arziki ha_Asabe ha_Assibi ha_Asura
+		ha_Audi ha_Auta ha_Ayesho ha_Balaraba ha_Batunya ha_Daura ha_Delu ha_Gaddo
+		ha_Gude ha_Gumbo ha_Hanazullunni ha_Hasana ha_Huseina ha_Jummai ha_Kaka
+		ha_Kande ha_Koshi ha_Ladi ha_Lami ha_Laminde ha_Lantala ha_Lantana ha_Lanti
+		ha_Laraba ha_Larai ha_Lauretu ha_Lisha ha_Lubabah ha_Marka ha_Monafiki ha_Nagode
+		ha_Rabo ha_Rita ha_Shatu ha_Shetu ha_Talatu ha_Tani ha_Tanisha ha_Tarana ha_Turunku
+		ha_Yalwa ha_Yar-Arziki ha_Yar-Jekada ha_Zaila ha_Zamangirra
+	}
+}
+name_list_senegalese = {
+
+	dynasty_names = {
+		dyn_wo_Aidara dyn_wo_Alioune dyn_wo_Alpha dyn_wo_Amar dyn_wo_Anne dyn_wo_Aw
+		dyn_wo_Ba dyn_wo_Babou dyn_wo_Badiane dyn_wo_Badji dyn_wo_Bah
+		dyn_wo_Bakhoum dyn_wo_Balde dyn_wo_Bamba dyn_wo_Barro dyn_wo_Barry
+		dyn_wo_Basse dyn_wo_Bassene dyn_wo_Bathily dyn_wo_Bayo dyn_wo_Beye
+		dyn_wo_Biaye dyn_wo_Binetu dyn_wo_Bintou dyn_wo_Biteye dyn_wo_Bodian
+		dyn_wo_Boiro dyn_wo_Bop dyn_wo_Bousso dyn_wo_Boye dyn_wo_Camara dyn_wo_Ciss
+		dyn_wo_Cisse dyn_wo_Cissokho dyn_wo_Coly dyn_wo_Confafafobo dyn_wo_Conde
+		dyn_wo_Coulibaly dyn_wo_Dabo dyn_wo_Daffe dyn_wo_Danfa dyn_wo_Danfakha
+		dyn_wo_Dansokho dyn_wo_Daour dyn_wo_Deh dyn_wo_Demba dyn_wo_Dembele
+		dyn_wo_Deme dyn_wo_Dia dyn_wo_Diabate dyn_wo_Diaby dyn_wo_Diack
+		dyn_wo_Diagane dyn_wo_Diagne dyn_wo_Diakhate dyn_wo_Diakhite dyn_wo_Diakite
+		dyn_wo_Diallo dyn_wo_Diamanka dyn_wo_Diame dyn_wo_Diane dyn_wo_Diankha
+		dyn_wo_Diao dyn_wo_Diarra dyn_wo_Diasse dyn_wo_Diassy dyn_wo_Diatta
+		dyn_wo_Diaw dyn_wo_Diawara dyn_wo_Diba dyn_wo_Dicko dyn_wo_Diedhiou
+		dyn_wo_Dieko dyn_wo_Dieme dyn_wo_Diene dyn_wo_Dieng dyn_wo_Dieye
+		dyn_wo_Dime dyn_wo_Diob dyn_wo_Diom dyn_wo_Diome dyn_wo_Dione
+		dyn_wo_Diongue dyn_wo_Diop dyn_wo_Dior dyn_wo_Diouf dyn_wo_Dioum
+		dyn_wo_Diouri dyn_wo_Diur dyn_wo_Djiba dyn_wo_Djigo dyn_wo_Djite
+		dyn_wo_Doucoure dyn_wo_Drame dyn_wo_Drammeh dyn_wo_Fall dyn_wo_Faty
+		dyn_wo_Faye dyn_wo_Fofana dyn_wo_Gadiaga dyn_wo_Gano dyn_wo_Gassama
+		dyn_wo_Gaye dyn_wo_Gning dyn_wo_Gningue dyn_wo_Gomis dyn_wo_Goudiaby
+		dyn_wo_Gueye dyn_wo_Guisse dyn_wo_Hane dyn_wo_Hanne dyn_wo_Housseyni
+		dyn_wo_Ka dyn_wo_Kabore dyn_wo_Kama dyn_wo_Kamara dyn_wo_Kande
+		dyn_wo_Kandji dyn_wo_Kane dyn_wo_Kanoute dyn_wo_Kante dyn_wo_Kasse
+		dyn_wo_Karamoko dyn_wo_Kebe dyn_wo_Keita dyn_wo_Kholle dyn_wo_Khoule
+		dyn_wo_Khouma dyn_wo_Koita dyn_wo_Konate dyn_wo_Kone dyn_wo_Konte
+		dyn_wo_Kouame dyn_wo_Lam dyn_wo_Laye dyn_wo_Leye dyn_wo_Lo dyn_wo_Loum
+		dyn_wo_Ly dyn_wo_Maissa dyn_wo_Mandiang dyn_wo_Mane dyn_wo_Manga
+		dyn_wo_Mangane dyn_wo_Mansaly dyn_wo_Mar dyn_wo_Marone dyn_wo_M-Backe
+		dyn_wo_Mballo dyn_wo_Mbaye dyn_wo_Mbengue dyn_wo_Mbida dyn_wo_Mbodj
+		dyn_wo_Mbodji dyn_wo_Mboup dyn_wo_Mbow dyn_wo_Meck dyn_wo_Mendy
+		dyn_wo_M-Maye dyn_wo_Ndao dyn_wo_Ndaw dyn_wo_Ndiaye dyn_wo_N-Diaye
+		dyn_wo_Ndione dyn_wo_Ndiongue dyn_wo_Ndir dyn_wo_Ndong dyn_wo_Ndongo
+		dyn_wo_Ndour dyn_wo_Ndoye dyn_wo_N-Dyare dyn_wo_Ngom dyn_wo_Nguer
+		dyn_wo_Niane dyn_wo_Niang dyn_wo_Niass dyn_wo_Niasse dyn_wo_Paye dyn_wo_Pene
+		dyn_wo_Pouye dyn_wo_Sabaly dyn_wo_Sadio dyn_wo_Sagna dyn_wo_Sagne
+		dyn_wo_Sakho dyn_wo_Salane dyn_wo_Sall dyn_wo_Samb dyn_wo_Samba
+		dyn_wo_Sambe dyn_wo_Sambou dyn_wo_Sane dyn_wo_Sankhare dyn_wo_Sarr
+		dyn_wo_Savane dyn_wo_Seck dyn_wo_Segnane dyn_wo_Sembene dyn_wo_Sene
+		dyn_wo_Senghor dyn_wo_Seydi dyn_wo_Seye dyn_wo_Sidibe dyn_wo_Sidime
+		dyn_wo_Sine dyn_wo_Sock dyn_wo_Sonko dyn_wo_Souare dyn_wo_Sougoufare
+		dyn_wo_Soumare dyn_wo_Sow dyn_wo_Sy dyn_wo_Syll dyn_wo_Sylla dyn_wo_Tall
+		dyn_wo_Tamba dyn_wo_Tendeng dyn_wo_Thiam dyn_wo_Thiandoum dyn_wo_Thiao
+		dyn_wo_Thiare dyn_wo_Thiaw dyn_wo_Thiombane dyn_wo_Thiongane dyn_wo_Thior
+		dyn_wo_Thioub dyn_wo_Thioune dyn_wo_Thioye dyn_wo_Tidjiani dyn_wo_Tine
+		dyn_wo_Top dyn_wo_Tounkara dyn_wo_Toure dyn_wo_Traore dyn_wo_Vilane
+		dyn_wo_Wade dyn_wo_Wagne dyn_wo_Wane dyn_wo_Wilane dyn_wo_Willane
+		dyn_wo_Yade dyn_wo_Yamar
+	}
+	
+	male_names = {
+		wo_Abdou wo_Abdoul wo_Abdoulaye wo_Abdourahim wo_Abooue wo_Aboubacar
+		wo_Adama wo_Alioune wo_Alsane wo_Amadou wo_Asse wo_Babacar wo_Babukar
+		wo_Bakau wo_Birago wo_Birame wo_Cheikh wo_Cheikhou wo_Djibo wo_Djibril wo_Fallou
+		wo_Hachim wo_Hamadou wo_Ibou wo_Ibrahim wo_Ibrahima wo_Idrissa wo_Isaaka
+		wo_Jawara wo_Lamine wo_Lat wo_Laye wo_Madio wo_Malik wo_Mamadou
+		wo_Massamba wo_Momar wo_Moussa wo_Moustapha wo_Musa wo_Ndeye wo_Ndiaye
+		wo_Oumar wo_Ousmane wo_Papa wo_Pape wo_Samba wo_Sedar wo_Senghor
+		wo_Serigne wo_Souleymane wo_Youseff wo_Youssou wo_Youssouf wo_Youssoufa
+	}
+
+	female_names = {
+		wo_Anta wo_Abibatou wo_Absatou wo_Aicha wo_Aida wo_Aissatou wo_Alimatou
+		wo_Amina wo_Aminata wo_Aoua wo_Arida wo_Astou wo_Awa wo_Binata wo_Bineta
+		wo_Binta wo_Bouli wo_Camara wo_Debo wo_Dial wo_Diatta wo_Fama wo_Fatimata
+		wo_Fatimatou wo_Fatou wo_Fatoumata wo_Fatou-Maty wo_Habsatou wo_Halimatou
+		wo_Jaineba wo_Jama wo_Kadija wo_Khadi wo_Khady wo_Leldo wo_Maimouna wo_Mame
+		wo_Mamouna wo_Mariama wo_Mata wo_Mbaye wo_Mena wo_Mane wo_Medina
+		wo_Miriama wo_Nabou wo_Nafissatou wo_Ndeye wo_Ndioro wo_Ramatoulaye
+		wo_Ramatula wo_Ramatulai wo_Roukia wo_Rokhaya wo_Safara wo_Safietou wo_Saraitou
+		wo_Saybatou wo_Seynabou wo_Sokhna wo_Thioro wo_Yande wo_Youma wo_Zanibou
+	}
+}
+name_list_south_african = {
+
+	dynasty_names = {
+		dyn_zu_Akhalwaya dyn_zu_Bacela dyn_zu_Bali dyn_zu_Balindlela dyn_zu_Baloyi
+		dyn_zu_Bapela dyn_zu_Bhasin dyn_zu_Biko dyn_zu_Boesak dyn_zu_Bokwe dyn_zu_Botha
+		dyn_zu_Buthelezi dyn_zu_Cele dyn_zu_Chabeli dyn_zu_Chinamano dyn_zu_Chosane
+		dyn_zu_Chuenyane dyn_zu_Dalindyebo dyn_zu_Dana dyn_zu_Dandala dyn_zu_Dladla
+		dyn_zu_Dlamini dyn_zu_Duka dyn_zu_Dyantyi dyn_zu_Galada dyn_zu_Gobodo
+		dyn_zu_Gola dyn_zu_Goniwe dyn_zu_Gqoba dyn_zu_Gqozo dyn_zu_Gumede
+		dyn_zu_Gwamanda dyn_zu_Gwavu dyn_zu_Gwaxula dyn_zu_Hadebe dyn_zu_Holomisa
+		dyn_zu_Jadezweni dyn_zu_Jabavu dyn_zu_Kani dyn_zu_Kekana dyn_zu_Kgopong
+		dyn_zu_Khoza dyn_zu_Khumalo dyn_zu_Kolisi dyn_zu_Kubatsi dyn_zu_Kumalo
+		dyn_zu_Kunene dyn_zu_Lata dyn_zu_Latakgomo dyn_zu_Lbvolu dyn_zu_Leseme
+		dyn_zu_Luthuli dyn_zu_Lutuli dyn_zu_Luvoyo dyn_zu_Mabandla dyn_zu_Mabaso
+		dyn_zu_Macozoma dyn_zu_Madhlopa dyn_zu_Madikizela dyn_zu_Magubane
+		dyn_zu_Mahlambeni dyn_zu_Mahlangu dyn_zu_Maimela dyn_zu_Maisela dyn_zu_Majola
+		dyn_zu_Makeba dyn_zu_Makete dyn_zu_Makgetla dyn_zu_Makhubela dyn_zu_Makwetla
+		dyn_zu_Malangeni dyn_zu_Malanje dyn_zu_Malinga dyn_zu_Malope dyn_zu_Maluleke
+		dyn_zu_Mamaboki dyn_zu_Manci dyn_zu_Mandela dyn_zu_Mantashe dyn_zu_Manzini
+		dyn_zu_Mapisa dyn_zu_Mase dyn_zu_Masekela dyn_zu_Maseko dyn_zu_Mashinini
+		dyn_zu_Masondo dyn_zu_Matanzima dyn_zu_Mathebula dyn_zu_Mathibela
+		dyn_zu_Mathivha dyn_zu_Matlala dyn_zu_Matshikiza dyn_zu_Mayekiso
+		dyn_zu_Mazibuko dyn_zu_Mazwai dyn_zu_Mbalula dyn_zu_Mbatha dyn_zu_Mbeki
+		dyn_zu_Mbelu dyn_zu_Mbonyana dyn_zu_Mchunu dyn_zu_Mdladlana dyn_zu_Mfeketo
+		dyn_zu_Mhlaba dyn_zu_Mhlongo dyn_zu_Mhlungu dyn_zu_Mjempu dyn_zu_Mkhize
+		dyn_zu_Mkhwanazi dyn_zu_Mlambo dyn_zu_Mlamla dyn_zu_Modise dyn_zu_Mofokeng
+		dyn_zu_Mogajane dyn_zu_Mogotsci dyn_zu_Mogudi dyn_zu_Moikangoa
+		dyn_zu_Mojapelo dyn_zu_Moketsie dyn_zu_Mokganyetsi dyn_zu_Mokoena
+		dyn_zu_Molebatsi dyn_zu_Molefe dyn_zu_Moleketi dyn_zu_Moloi dyn_zu_Moraba
+		dyn_zu_Mosethli dyn_zu_Moshesh dyn_zu_Mosikili dyn_zu_Mosime dyn_zu_Motala
+		dyn_zu_Motlhabi dyn_zu_Motseki dyn_zu_Motsepe dyn_zu_Motshekgo
+		dyn_zu_Moutlana dyn_zu_Moyo dyn_zu_Mphahlele dyn_zu_Mqhayi dyn_zu_Msimanga
+		dyn_zu_Msuwana dyn_zu_Mthembu dyn_zu_Mthethwa dyn_zu_Mthombothi
+		dyn_zu_Mtshali dyn_zu_Mtyanda dyn_zu_Muribwathoho dyn_zu_Mvovo dyn_zu_Mxenge
+		dyn_zu_Mzamane dyn_zu_Naude dyn_zu_Ncamashe dyn_zu_Ncobo dyn_zu_Ncube
+		dyn_zu_Ndingane dyn_zu_Ndlebe dyn_zu_Ndlovu dyn_zu_Ndodana dyn_zu_Ndulula
+		dyn_zu_Ndungane dyn_zu_Ngakame dyn_zu_Ngcobo dyn_zu_Ngcuka dyn_zu_Ngobeni
+		dyn_zu_Ngonyama dyn_zu_Ngubane dyn_zu_Ngwenya dyn_zu_Nkabinde dyn_zu_Nkomo
+		dyn_zu_Nkondo dyn_zu_Nkosi dyn_zu_Nkwinti dyn_zu_Noko dyn_zu_Nokwe
+		dyn_zu_Nongqayi dyn_zu_Nongxa dyn_zu_Nonkumbi dyn_zu_Noruwana dyn_zu_Notshe
+		dyn_zu_Nqakula dyn_zu_Ntapane dyn_zu_Ntini dyn_zu_Ntlali dyn_zu_Ntlhe dyn_zu_Ntuli
+		dyn_zu_Nxumalo dyn_zu_Nyatsumba dyn_zu_Phatudi dyn_zu_Phiri dyn_zu_Pityana
+		dyn_zu_Punguzwa dyn_zu_Qoboza dyn_zu_Radebe dyn_zu_Ramaala dyn_zu_Ramaphosa
+		dyn_zu_Ramasodi dyn_zu_Renene dyn_zu_Rothele dyn_zu_Sandile dyn_zu_Sangqu
+		dyn_zu_Sebe dyn_zu_Sekhukhune dyn_zu_Sepeng dyn_zu_Serenyane dyn_zu_Sharangabo
+		dyn_zu_Sibanda dyn_zu_Sibiya dyn_zu_Sigcau dyn_zu_Sigcawu dyn_zu_Sindiswa
+		dyn_zu_Singana dyn_zu_Sisulu dyn_zu_Sithole dyn_zu_Skweyiya dyn_zu_Sobukwe
+		dyn_zu_Soga dyn_zu_Sonjica dyn_zu_Sontonga dyn_zu_Tambo dyn_zu_Tengo
+		dyn_zu_Thloloe dyn_zu_Thugwane dyn_zu_Tladinyane dyn_zu_Tsebe dyn_zu_Tshabalala
+		dyn_zu_Tshwete dyn_zu_Tutu dyn_zu_Tyala dyn_zu_Vavi dyn_zu_Vusani dyn_zu_Ximiya
+		dyn_zu_Xuma dyn_zu_Zulu dyn_zu_Zwane dyn_zu_Zuwela
+	}
+	
+	male_names = {
+		zu_Akhona zu_Anisha zu_Anuiyelewa zu_Ayanda zu_Ayele zu_Ayize zu_Bokang
+		zu_Bonginkosi zu_Cetshwayo zu_Chaka zu_Chophezidudleni zu_Dimi zu_Dingaan
+		zu_Dingane zu_Dinizulu zu_Es_kia zu_Gatsha zu_Jabu zu_Khela zu_Lewele zu_Liod
+		zu_Luthuli zu_Luzuko zu_Luanda zu_Mabhuza zu_Magashe zu_Makhenkesi zu_Mangaliso
+		zu_Mangisi zu_Mangosuthu zu_Masibulele zu_Mbengeni zu_Mbongeni zu_Mcwaviseni
+		zu_Med zu_Mninwa zu_Mohale zu_Mokete zu_Mongane zu_Mpilo zu_Mpumelele
+		zu_Mthunzi zu_Munyadizwa zu_Mveli zu_Mxolisi zu_Nameni zu_Nandiphe zu_Ndaweni
+		zu_Nkenke zu_Nkosi zu_Nkosinathi zu_Ntombiziyamkhweba zu_Olwethu zu_Paki
+		zu_Phetuxolo zu_Qunta zu_Rolihlahla zu_Serake zu_Sibusiso zu_Simthembele zu_Sipho
+		zu_Siyabulele zu_Sokhaya zu_Thabang zu_Thabiso zu_Thabo zu_Themba zu_Tsediso
+		zu_Unathi zu_Xola zu_Xolelwa zu_Yera zu_Zukisa zu_Zuko zu_Zwelakhe
+	}
+
+	female_names = {
+		zu_Akhona zu_Anathi zu_Anisha zu_Atshadi zu_Ayanda zu_Ayele zu_Bathabile zu_Bhanoyi
+		zu_Busiswa zu_Buyelwa zu_Buyiswa zu_Fundiswa zu_Funeka zu_Hauna zu_Hlamalani
+		zu_Inganathi zu_Leleti zu_Linda zu_Lindiwe zu_Lulala zu_Lulama zu_Lyanda zu_Makatse
+		zu_Makena zu_Makhosozana zu_Mandisa zu_Mavivi zu_Mesi zu_Mpho zu_Mphonyana
+		zu_Nande zu_Nandiphe zu_Nkosazana zu_Nkosinathi zu_Nnonseng zu_Nobantu
+		zu_Nobathembu zu_Nokuthula zu_Nomalanga zu_Nomasonto zu_Nomatyala zu_Nombeko
+		zu_Nomhle zu_Nomonde zu_Nomzansi zu_Nonkumbi zu_Nontsikelelo zu_Nonyameko
+		zu_Nozizwe zu_Onthatile zu_Ntiti zu_Ntozake zu_Phetuxolo zu_Pumzile zu_Sanki
+		zu_Sankie zu_Shange zu_Siboniso zu_Simthembile zu_Siphiwe zu_Siyabulele zu_Sponono
+		zu_Thandeka zu_Thandi zu_Thandiswa zu_Themba zu_Tinyiko zu_Tovhowani zu_Unathi
+		zu_Xolelwa zu_Zenani zu_Zintle zu_Zinzi zu_Zola zu_Zukisa
+	}
+}
+name_list_zimbabwean = {
+
+	dynasty_names = {
+		dyn_ny_Banana dyn_ny_Banga dyn_ny_Bhebhe dyn_ny_Birir dyn_ny_Bwerinofa
+		dyn_ny_Chakaipa dyn_ny_Chapwanya dyn_ny_Chauke dyn_ny_Chibanda
+		dyn_ny_Chidyausiku dyn_ny_Chidzero dyn_ny_Chidzeru dyn_ny_Chidziva dyn_ny_Chihota
+		dyn_ny_Chimusasa dyn_ny_Chirombo dyn_ny_Chitepo dyn_ny_Chitsvatsva
+		dyn_ny_Chiwira dyn_ny_Chrima dyn_ny_Chuma dyn_ny_Dangarembga dyn_ny_Dhliwayo
+		dyn_ny_Dlamini dyn_ny_Dludlu dyn_ny_Dube dyn_ny_Gatsi dyn_ny_Gondo
+		dyn_ny_Gonzo dyn_ny_Gumbo dyn_ny_Gwenzi dyn_ny_Hadebe dyn_ny_Hove
+		dyn_ny_Hungwe dyn_ny_Kagona dyn_ny_Kangwena dyn_ny_Karimanzira dyn_ny_Katiyo
+		dyn_ny_Katomeni dyn_ny_Katsande dyn_ny_Khumalo dyn_ny_Khupe dyn_ny_Lenneiye
+		dyn_ny_Lesabe dyn_ny_Lieros dyn_ny_Mahachi dyn_ny_Mahamba dyn_ny_Mahoso
+		dyn_ny_Majoni dyn_ny_Makhalisa dyn_ny_Makhulu dyn_ny_Makoni dyn_ny_Makumbe
+		dyn_ny_Malinga dyn_ny_Mankaba dyn_ny_Mapfumo dyn_ny_Maphosa dyn_ny_Maposa
+		dyn_ny_Mapuranga dyn_ny_Maraire dyn_ny_Marufu dyn_ny_Masaku dyn_ny_Masuku
+		dyn_ny_Masvarise dyn_ny_Matambanadzo dyn_ny_Matchaba dyn_ny_Mathe
+		dyn_ny_Mazhindu dyn_ny_Mbangwn dyn_ny_Mbedzi dyn_ny_Mhlanga dyn_ny_Midzi
+		dyn_ny_Mlambo dyn_ny_Mlilo dyn_ny_Mombeshora dyn_ny_Motsi dyn_ny_Moyo
+		dyn_ny_Mpala dyn_ny_Mpofu dyn_ny_Msipa dyn_ny_Mubako dyn_ny_Muchemwa
+		dyn_ny_Muchenje dyn_ny_Mudenda dyn_ny_Mudzingwa dyn_ny_Mugabe
+		dyn_ny_Mugadza dyn_ny_Mugwagwa dyn_ny_Mukonoweshuro dyn_ny_Mukumana
+		dyn_ny_Muleya dyn_ny_Munemo dyn_ny_Mungoshi dyn_ny_Munsaka dyn_ny_Murerwa
+		dyn_ny_Mutasa dyn_ny_Mutero dyn_ny_Muyama dyn_ny_Muyambo dyn_ny_Muza
+		dyn_ny_Muzorewa dyn_ny_Ncube dyn_ny_Ndebele dyn_ny_Ndhlovu dyn_ny_Ndlovu
+		dyn_ny_Ndou dyn_ny_Ngidhi dyn_ny_Nguni dyn_ny_Ngwenya dyn_ny_Nhamo
+		dyn_ny_Nhongo dyn_ny_Nkiwane dyn_ny_Nkomo dyn_ny_Nyagumbo
+		dyn_ny_Nyamapfene dyn_ny_Nyandoro dyn_ny_Nyathi dyn_ny_Nyoni dyn_ny_Nzenza
+		dyn_ny_Olonga dyn_ny_Paradza dyn_ny_Rise dyn_ny_Rukwava dyn_ny_Rungano
+		dyn_ny_Ruzvidzo dyn_ny_Sakara dyn_ny_Sande dyn_ny_Saruchera dyn_ny_Sekeramayi
+		dyn_ny_Seranika dyn_ny_Shamuyarira dyn_ny_Shoko dyn_ny_Shonhiwa dyn_ny_Shumba
+		dyn_ny_Siamusiye dyn_ny_Sibanda dyn_ny_Sigauke dyn_ny_Sikara dyn_ny_Simango
+		dyn_ny_Sithole dyn_ny_Siziba dyn_ny_Tafirenyika dyn_ny_Takawira dyn_ny_Taruvinga
+		dyn_ny_Tekene dyn_ny_Tekere dyn_ny_Tembo dyn_ny_Tfumaindiru dyn_ny_Tigere
+		dyn_ny_Tongagara dyn_ny_Tshuma dyn_ny_Tsimba dyn_ny_Tsuro dyn_ny_Tungwarara
+		dyn_ny_Vera dyn_ny_Wafawanaka dyn_ny_Zindoga dyn_ny_Zuenyika dyn_ny_Zulu
+		dyn_ny_Zuze dyn_ny_Zvobgo
+	}
+	
+	male_names = {
+		ny_Banga ny_Betserai ny_Chaga ny_Changa ny_Chenzira ny_Dakarai ny_Gamba
+		ny_Goredenna ny_Hondo ny_Jabulani ny_Jiri ny_Kamali ny_Kaseko ny_Katura ny_Kokayi
+		ny_Lobengula ny_Mashama ny_Matope ny_Moyo ny_Mqabukonyongolo ny_Ndabaningi
+		ny_Nyenyedzi ny_Petiri ny_Rudo ny_Runako ny_Savieri ny_Sekayi ny_Sifiye ny_Sodindo
+		ny_Tawanda ny_Tendekayi ny_Tichawonno ny_Ushindi ny_Ziyapaya ny_Zuka
+	}
+
+	female_names = {
+		ny_Chamakomo ny_Chemwapuwa ny_Chipo ny_Dorleta ny_Ebe-Zanzi ny_Farai ny_Japera
+		ny_Jendayi ny_Kambo ny_Kariba ny_Katura ny_Maiba ny_Mapenzi ny_Massassi
+		ny_Mazvita ny_Moyo ny_Mudiwa ny_Muzwudzani ny_Mwaurayeni ny_Mwazwenyi
+		ny_Nehanda ny_Nenande ny_Nyanda ny_Rufaro ny_Sandawana ny_Sangeya ny_Sekai
+		ny_Shoorai ny_Sibongile ny_Simba ny_Sitembile ny_Sukutai ny_Zuzuru ny_Zvishavane
+	}
+}
+name_list_malagasy = {
+	dynasty_names = {
+		dyn_mg_Andriamatsinoro dyn_mg_Andriamifehy dyn_mg_Andrianiombonana
+		dyn_mg_Andriatsima dyn_mg_Fahaterahana dyn_mg_Ilaimaharitra dyn_mg_Julie
+		dyn_mg_Kahinu dyn_mg_Kanto dyn_mg_Kilobo dyn_mg_Malala dyn_mg_Manoelantsoa
+		dyn_mg_Misely dyn_mg_Ny dyn_mg_Raharimampionona dyn_mg_Raharimanana
+		dyn_mg_Raharison dyn_mg_Rajaonarimampianina dyn_mg_Rakotoharimalala
+		dyn_mg_Rakotomalala dyn_mg_Rakotomanana dyn_mg_Rakotomandimbindraibe
+		dyn_mg_Rakotondrazaka dyn_mg_Rakotoson dyn_mg_Ramiaramanana
+		dyn_mg_Randriamarozaka dyn_mg_Randrianalijaona dyn_mg_Randrianasoloemeray
+		dyn_mg_Ratsimiziva dyn_mg_Ratsiraka dyn_mg_Ravelonomenjanahary
+		dyn_mg_Razafindrakoto dyn_mg_Razafinkarefo dyn_mg_Razakananantena
+		dyn_mg_Razakanantenaina dyn_mg_Sandratriniaina dyn_mg_Tomasy dyn_mg_Toto
+		dyn_mg_Tsiranana dyn_mg_Voavy 
+	}
+	male_names = {
+		mg_Aintsoa mg_Amboara mg_Ampinga mg_Ando mg_Andrianampoinimerina mg_Andrianary
+		mg_Andriantafika mg_Andriantsoa mg_Andriniaina mg_Andry mg_Anjara mg_Anjarasoa
+		mg_Antra mg_Antsa mg_Asandratra mg_Asara mg_Asimbola mg_Avotra mg_Bary
+		mg_Beloha mg_Dera mg_Diavolana mg_Diera mg_Dimbisoa mg_Dimby mg_Dina mg_Embona
+		mg_Ermenegilde mg_Ezekiela mg_Fahafahana mg_Fahasambarana mg_Faliarivo
+		mg_Falimampionona mg_Falisoa mg_Faly mg_Famenontsoa mg_Fanaja mg_Fanambinantsoa
+		mg_Fanamperana mg_Fanantenana mg_Fanantenanirainy mg_Fandresena mg_Faneva
+		mg_Fanilo mg_Fanilonay mg_Fankalazana mg_Fano mg_Fanomezana mg_Fanomezantsoa
+		mg_Faramalalako mg_Faranirina mg_Farasoa mg_Fatratra mg_Fehizoro mg_Fenitra
+		mg_Feno mg_Fenohanitra mg_Fenohasina mg_Fenohery mg_Fenosoa mg_Fetra mg_Fety
+		mg_Fiadanantsoa mg_Fiaro mg_Fiderana mg_Fidihasina mg_Fidimalala mg_Fidinirina
+		mg_Fidisoa mg_Fifaliana mg_Fikasana mg_Filamatra mg_Finaritra mg_Finiavana
+		mg_Finidy mg_Finoana mg_Fitahiana mg_Fitia mg_Fitiavana mg_Hafaliana
+		mg_Haingolalao mg_Haja mg_Hajanirina mg_Hajasoa mg_Hamisoa mg_Hantsa mg_Harena
+		mg_Harenamamy mg_Harenasoa mg_Hasimbola mg_Hasina mg_Hasiniaina mg_Hasintsoa
+		mg_Helisoa mg_Hendry mg_Henika mg_Henikaja mg_Herihajaina mg_Herihira
+		mg_Herilalaina mg_Herilaza mg_Herimalala mg_Herimamy mg_Herimena mg_Herimino
+		mg_Herinambinina mg_Herinirina mg_Herintahina mg_Herintsoa mg_Herisoa
+		mg_Heritanjona mg_Herivola mg_Hery mg_Hirantsoa mg_Hobisoa mg_Hoby
+		mg_Iasimanana mg_Ifaliana mg_Ikotokely mg_Ilo mg_Iloaina mg_Iombonantsoa mg_Jao
+		mg_Jaona mg_Johary mg_Kajy mg_Kalo mg_Kaloina mg_Kamara mg_Kamora mg_Kanto
+		mg_Lahatra mg_Lahisoa mg_Laingo mg_Lalaina mg_Lalainasoa mg_Lalandy
+		mg_Lalaonirina mg_Landivola mg_Landy mg_Lantosoa mg_Lavorary mg_Laza
+		mg_Lazamaniraka mg_Liantsoa mg_Lisy mg_Liva mg_Lofo mg_Loharano mg_Lokio
+		mg_Lovanirina mg_Maevasoa mg_Mahafaly mg_Mahaleo mg_Mahaliana mg_Mahanina
+		mg_Maharo mg_Mahary mg_Mahatia mg_Mahatsangy mg_Mahavita mg_Mahefasoa
+		mg_Mahenika mg_Maherisoa mg_Mahery mg_Mahitsy mg_Mahony mg_Mailaka mg_Malalasoa
+		mg_Mamihaja mg_Mamihasina mg_Mamilaza mg_Maminirina mg_Mamiratra mg_Mamisoa
+		mg_Mamonjisoa mg_Mamonjy mg_Mampionona mg_Mamy mg_Manambina mg_Mananjara
+		mg_Manantsoa mg_Manarivo mg_Mandamina mg_Mandresy mg_Manganirina mg_Manjaka
+		mg_Manohisoa mg_Marisika mg_Masoandro mg_Matoky mg_Matsilo mg_Mazoto
+		mg_Mboahangy mg_Mbolanirina mg_Mbolasoa mg_Mbora mg_Mendrika mg_Mety mg_Miadana
+		mg_Miahy mg_Miaina mg_Miandra mg_Miandrasoa mg_Miandry mg_Miangola mg_Mianoka
+		mg_Miantsa mg_Miaramanana mg_Miarana mg_Miaro mg_Miasy mg_Mihaja
+		mg_Miharihasina mg_Mihary mg_Mihasoa mg_Mihobisoa mg_Mihoby mg_Mikajy
+		mg_Milamina mg_Milanto mg_Mino mg_Minosoa mg_Miorika mg_Mioty mg_Miranto
+		mg_Mirija mg_Mirindra mg_Misaina mg_Misandratra mg_Misely mg_Mitsiky
+		mg_Mitsimbina mg_Mpanefy mg_Nahary mg_Nambinina mg_Nandrasana mg_Narindra
+		mg_Narisoa mg_Nary mg_Nasaina mg_Nasandratra mg_Nekena mg_Nirina mg_Nirintsoa
+		mg_Njaka mg_Nofy mg_Nomenjanahary mg_Notahina mg_Olinirina mg_Ombana mg_Onimamy
+		mg_Onisoa mg_Onja mg_Onjalalaina mg_Ony mg_Orimbato mg_Rajo mg_Ramboasalama
+		mg_Ravo mg_Ravoniaina mg_Rehareha mg_Riaka mg_Riana mg_Riantsoa mg_Rindra
+		mg_Rindranirina mg_Rohintsoa mg_Rohy mg_Rovalala mg_Safidiko mg_Safidy
+		mg_Sahala mg_Sahaza mg_Salahy mg_Sambatra mg_Sanda mg_Sandratra mg_Santatra
+		mg_Saotra mg_Sariaka mg_Sendra mg_Sitraka mg_Soafaniry mg_Soafinaritra
+		mg_Soamaraina mg_Soamazava mg_Soamiangaly mg_Soaniriko mg_Soanomena mg_Solofo
+		mg_Tafika mg_Tahina mg_Tahiry mg_Takalo mg_Tambatra mg_Tana mg_Tanamasoandro
+		mg_Tanjona mg_Tanteraka mg_Taratra mg_Teza mg_Tiana mg_Tiavina mg_Tojohafaliana
+		mg_Tojohasina mg_Tojonirina mg_Tokinaina mg_Toky mg_Tolotra mg_Tomasy
+		mg_Tongasoa mg_Tsaina mg_Tsalama mg_Tsaraleha mg_Tsaramandresy mg_Tsarasata
+		mg_Tsiafoy mg_Tsiaro mg_Tsidy mg_Tsiferana mg_Tsihala mg_Tsikiaina mg_Tsilavina
+		mg_Tsimihahy mg_Tsiory mg_Tsiraka mg_Tsirava mg_Tsiresy mg_Tsirihanitra
+		mg_Tsiriry mg_Tsiry mg_Tsivalaka mg_Tsivery mg_Tsizaraina mg_Tsoa mg_Vahatra
+		mg_Vahinala mg_Vahisoa mg_Vakoka mg_Valiha mg_Vanona mg_Vatsy mg_Vero
+		mg_Veromanitra mg_Vimbina mg_Vintanasoa mg_Vivy mg_Vola mg_Volamena mg_Volana
+		mg_Volasoa mg_Volatsara mg_Voninahitra mg_Vony mg_Zava mg_Zotovo 
+	}
+	female_names = {
+		mg_Adolfia mg_Ahitra mg_Aintsoa mg_Amboara mg_Ando mg_Andreana mg_Andriantsoa
+		mg_Anjara mg_Anjarasoa mg_Antra mg_Antsa mg_Arivetso mg_Aro mg_Asandratra
+		mg_Asara mg_Asimbola mg_Avana mg_Avotra mg_Baholy mg_Bakoly mg_Baovola mg_Bary
+		mg_Bodomalala mg_Dalia mg_Danieline mg_Dera mg_Diamondra mg_Diavolana mg_Diera
+		mg_Dihy mg_Dimbisoa mg_Dimby mg_Dina mg_Egyptienne mg_Eja mg_Elisette mg_Embona
+		mg_Fahafahana mg_Fahasambarana mg_Faliarivo mg_Falimampionona mg_Falisoa
+		mg_Faly mg_Famenontsoa mg_Fanaja mg_Fanambinantsoa mg_Fanantenana
+		mg_Fanantenanirainy mg_Fandresena mg_Faniry mg_Fankalazana mg_Fanomezana
+		mg_Fanomezantsoa mg_Faramalalako mg_Faranirina mg_Farasoa mg_Fatratra
+		mg_Fehizoro mg_Felana mg_Felantsoa mg_Fenitra mg_Feno mg_Fenohanitra
+		mg_Fenohasina mg_Fenohery mg_Fenosoa mg_Fetra mg_Fety mg_Fiadanantsoa mg_Fiaro
+		mg_Fiderana mg_Fidihasina mg_Fidimalala mg_Fidinirina mg_Fidisoa mg_Fifaliana
+		mg_Fikasana mg_Filamatra mg_Finaritra mg_Finiavana mg_Finidy mg_Finoana
+		mg_Fitahiana mg_Fitia mg_Fitiavana mg_Hafaliana mg_Haingo mg_Haingolalaina
+		mg_Haingolalao mg_Haja mg_Hajanirina mg_Hajasoa mg_Hamisoa mg_Hanitra mg_Hanta
+		mg_Hantsa mg_Harena mg_Harenamamy mg_Harenasoa mg_Hasimbola mg_Hasina
+		mg_Hasiniaina mg_Hasintsoa mg_Helisoa mg_Hendry mg_Henika mg_Henikaja
+		mg_Henintsoa mg_Herihajaina mg_Herihira mg_Herilalaina mg_Herilaza
+		mg_Herimalala mg_Herimamy mg_Herimena mg_Herimino mg_Herinambinina
+		mg_Herinantenaina mg_Herinirina mg_Herintahina mg_Herintsoa mg_Herisoa
+		mg_Heritanjona mg_Herivola mg_Hirantsoa mg_Hobisoa mg_Hoby mg_Holisoa mg_Holy
+		mg_Iasimanana mg_Ifaliana mg_Ilo mg_Iloaina mg_Ilopifaliana mg_Iombonantsoa
+		mg_Jihy mg_Kajy mg_Kalo mg_Kaloina mg_Kamara mg_Kamora mg_Kanto mg_Kantohary
+		mg_Kemba mg_Kintana mg_Lahatra mg_Laingo mg_Lalaina mg_Lalainasoa mg_Lalandy
+		mg_Lalao mg_Lalaonirina mg_Laly mg_Landivola mg_Landy mg_Lanitra mg_Lantosoa
+		mg_Lavorary mg_Laza mg_Lazamaniraka mg_Liantsoa mg_Lisy mg_Liva mg_Lofo
+		mg_Loharano mg_Lovana mg_Lovanirina mg_Maevasoa mg_Mahaliana mg_Mahanina
+		mg_Maharo mg_Mahary mg_Mahatia mg_Mahatsangy mg_Mahavita mg_Mahefasoa
+		mg_Mahenika mg_Maherisoa mg_Mahitsy mg_Mahony mg_Mailaka mg_Malalasoa
+		mg_Mamihaja mg_Mamihasina mg_Mamilaza mg_Maminirina mg_Mamiratra mg_Mamisoa
+		mg_Mamonjisoa mg_Mamonjy mg_Mampionona mg_Mamy mg_Manambina mg_Mananjara
+		mg_Manantena mg_Manarivo mg_Mandamina mg_Mandresy mg_Manganirina mg_Manjaka
+		mg_Manohisoa mg_Marevaka mg_Marisika mg_Masoandro mg_Matoky mg_Matsilo
+		mg_Maximienne mg_Mazoto mg_Mboahangy mg_Mbolanirina mg_Mbolasoa mg_Mbora
+		mg_Mendrika mg_Mety mg_Miadana mg_Miahy mg_Miaina mg_Miandra mg_Miandrasoa
+		mg_Miandry mg_Miangaly mg_Miangola mg_Mianoka mg_Miantsa mg_Miaramanana
+		mg_Miarana mg_Miaro mg_Miary mg_Miasy mg_Miharihasina mg_Mihary mg_Mihasoa
+		mg_Mihobisoa mg_Mihoby mg_Mikajy mg_Milamina mg_Milanto mg_Milay mg_Mino
+		mg_Minosoa mg_Miora mg_Miorika mg_Mioty mg_Mirana mg_Miranto mg_Mirantsoa
+		mg_Mirija mg_Mirindra mg_Misaina mg_Misandratra mg_Mitsiky mg_Mitsimbina
+		mg_Nahary mg_Nambinina mg_Nambinintsoa mg_Nandrasana mg_Nantenaina mg_Narindra
+		mg_Narisoa mg_Nary mg_Nasaina mg_Nasandratra mg_Nekena mg_Nekenah mg_Nirina
+		mg_Nirintsoa mg_Nofy mg_Nomena mg_Nomenjanahary mg_Noro mg_Notahina
+		mg_Olinirina mg_Olitiana mg_Ombana mg_Onimamy mg_Onisoa mg_Onja mg_Onjalalaina
+		mg_Ony mg_Orimbato mg_Rahely mg_Raivo mg_Rajo mg_Ravaka mg_Ravo mg_Ravoniaina
+		mg_Rehareha mg_Reniala mg_Riaka mg_Riana mg_Riantsoa mg_Rindra mg_Rindranirina
+		mg_Rohintsoa mg_Rohy mg_Rovalala mg_Safidiko mg_Safidy mg_Sahala mg_Sahaza
+		mg_Sahondra mg_Salahy mg_Sambatra mg_Sanda mg_Sandratra mg_Santatra mg_Saotra
+		mg_Sariaka mg_Sarobidy mg_Sendra mg_Sitraka mg_Soafaniry mg_Soafinaritra
+		mg_Soamaraina mg_Soamazava mg_Soamiangaly mg_Soamiary mg_Soaniriko mg_Soanomena
+		mg_Soatiana mg_Tahina mg_Tahiry mg_Takalo mg_Tambatra mg_Tana mg_Tanamasoandro
+		mg_Tandra mg_Tanteraka mg_Taratra mg_Tatamo mg_Teza mg_Tiana mg_Tiavina
+		mg_Tojohafaliana mg_Tojohasina mg_Tojonirina mg_Tokinaina mg_Toky mg_Tolotra
+		mg_Tongasoa mg_Tsaina mg_Tsalama mg_Tsaraleha mg_Tsaramandresy mg_Tsarasata
+		mg_Tsaroana mg_Tsiafoy mg_Tsiaro mg_Tsidy mg_Tsiferana mg_Tsihala mg_Tsikiaina
+		mg_Tsiky mg_Tsilavina mg_Tsiory mg_Tsirava mg_Tsiresy mg_Tsirihanitra
+		mg_Tsiriry mg_Tsiry mg_Tsivery mg_Tsizaraina mg_Tsoa mg_Vahatra mg_Vahinala
+		mg_Vahisoa mg_Vakoka mg_Valiha mg_Valisoa mg_Vanona mg_Vatosoa mg_Vatsy mg_Vazo
+		mg_Vero mg_Veromanitra mg_Vimbina mg_Vintanasoa mg_Vivy mg_Voahangy
+		mg_Voahirana mg_Vola mg_Volamena mg_Volana mg_Volasoa mg_Volatsara
+		mg_Voninahitra mg_Vony mg_Vorona mg_Ymelda mg_Zava 
+	}
+}

@@ -1,0 +1,642 @@
+name_list_eskimo = {
+# Northern Northwest Coast Sprachbund
+
+	dynasty_names = {
+		dyn_esx_Adjuk dyn_esx_Aglukak dyn_esx_Ahatatak dyn_esx_Akeeagok
+		dyn_esx_Akeeshoo dyn_esx_Akerelrea dyn_esx_Akerolik dyn_esx_Akittirq dyn_esx_Akpalialuk
+		dyn_esx_Akpik dyn_esx_Akulukjuk dyn_esx_Alainga dyn_esx_Alaku dyn_esx_Alialrea
+		dyn_esx_Aliyak dyn_esx_Alonak dyn_esx_Alookie dyn_esx_Aloralrea dyn_esx_Amagoalik
+		dyn_esx_Anawak dyn_esx_Angasan dyn_esx_Anghik dyn_esx_Angnakak dyn_esx_Angootealok
+		dyn_esx_Anguhadluq dyn_esx_Anguti dyn_esx_Angutingurniq dyn_esx_Aniqmiuq
+		dyn_esx_Annanack dyn_esx_Ansong dyn_esx_Apak dyn_esx_Arlook dyn_esx_Arlooktoo
+		dyn_esx_Arnaittuq dyn_esx_Arnakaw dyn_esx_Arnalukjuak dyn_esx_Arnaquq
+		dyn_esx_Arnatuk dyn_esx_Arnauyumayuq dyn_esx_Ashevak dyn_esx_Ashoona
+		dyn_esx_Askoak dyn_esx_Attagutaluk dyn_esx_Audlaluk dyn_esx_Autut dyn_esx_Ayagalrea
+		dyn_esx_Ayek dyn_esx_Ayuluk dyn_esx_Chiklak dyn_esx_Chimeralrea dyn_esx_Chuathbaluk
+		dyn_esx_Echalook dyn_esx_Eegeesiak dyn_esx_Eetuk dyn_esx_Egoak dyn_esx_Egotak
+		dyn_esx_Ekho dyn_esx_Emiuk dyn_esx_Enuaraq dyn_esx_Eshulutak dyn_esx_Etidlooie
+		dyn_esx_Etoangat dyn_esx_Etok dyn_esx_Etook dyn_esx_Etuangat dyn_esx_Ikkidluat
+		dyn_esx_Illchuk dyn_esx_Imgalrea dyn_esx_Immaroitok dyn_esx_Ingniruk
+		dyn_esx_Inukpuk dyn_esx_Ipeelie dyn_esx_Irqittuq dyn_esx_Irniq dyn_esx_Ishulutak
+		dyn_esx_Ishulutaq dyn_esx_Ittimangnaq dyn_esx_Ittunga dyn_esx_Iyaituk
+		dyn_esx_Kakee dyn_esx_Kannak dyn_esx_Karetak dyn_esx_Kasaluak dyn_esx_Kassaiuli
+		dyn_esx_Kiatainaq dyn_esx_Kilabuk dyn_esx_Kolit dyn_esx_Komangapik dyn_esx_Koneak
+		dyn_esx_Kootoo dyn_esx_Kopanuk dyn_esx_Kuliktana dyn_esx_Kunuk dyn_esx_Kusugak
+		dyn_esx_Lucassie dyn_esx_Maksagak dyn_esx_Marniq dyn_esx_Meyok dyn_esx_Mikijuk
+		dyn_esx_Muckpa dyn_esx_Naitok dyn_esx_Nakasuk dyn_esx_Nakoyak dyn_esx_Nangmalik
+		dyn_esx_Napayok dyn_esx_Nashalook dyn_esx_Natatok dyn_esx_Natsiapik
+		dyn_esx_Naukatsik dyn_esx_Nilgak dyn_esx_Ningeongan dyn_esx_Ningiuruvik
+		dyn_esx_Niptanatiak dyn_esx_Niuqtuq dyn_esx_Novoligak dyn_esx_Nowyook
+		dyn_esx_Nungaq dyn_esx_Nutaraq dyn_esx_Nuvaqirq dyn_esx_Nyuurnibe dyn_esx_Ohaituk
+		dyn_esx_Olanna dyn_esx_Omilgoitok dyn_esx_Oonark dyn_esx_Ootoova dyn_esx_Palluq
+		dyn_esx_Pigalak dyn_esx_Pingayak dyn_esx_Pissuk dyn_esx_Pitka dyn_esx_Pitseolak
+		dyn_esx_Pitsiulak dyn_esx_Qanatsiaq dyn_esx_Qarpik dyn_esx_Qimirpiq
+		dyn_esx_Quarqortog dyn_esx_Quinnayuak dyn_esx_Sammortuk dyn_esx_Saunik
+		dyn_esx_Senungetuk dyn_esx_Serkoak dyn_esx_Sheupiapik dyn_esx_Takirak
+		dyn_esx_Takumjenak dyn_esx_Talretok dyn_esx_Tanuyak dyn_esx_Tartak
+		dyn_esx_Tatletik dyn_esx_Tattuinee dyn_esx_Tigullagaq dyn_esx_Tiktak dyn_esx_Tkachuk
+		dyn_esx_Tomaganuk dyn_esx_Totalik dyn_esx_Towtoongie dyn_esx_Tucktoo
+		dyn_esx_Tudlik dyn_esx_Tungilik dyn_esx_Tungwenuk dyn_esx_Tunutmoak dyn_esx_Ugyuk
+		dyn_esx_Ullulaq dyn_esx_Unatweenuk dyn_esx_Uniuqsaraq dyn_esx_Ussak dyn_esx_Waska
+	}
+	
+	male_names = {
+		esx_Aglukaq esx_Ahlooloo esx_Aisa esx_Aiyarani esx_Akitirq esx_Alaittuq esx_Allie
+		esx_Alooloo esx_Alootook esx_Amakvik esx_Amidlak esx_Amosie esx_Annoray esx_Anoee
+		esx_Aola esx_Aoudla esx_Ashevak esx_Ashoona esx_Atkak esx_Atuat esx_Audla esx_Audlaluk
+		esx_Audlatek esx_Augeak esx_Aullalu esx_Avinga esx_Bammiuk esx_Echalook esx_Eelee
+		esx_Eeteenik esx_Epirvik esx_Etidlooie esx_Evalun esx_Goo esx_Igruk esx_Ilkoo esx_Inuksuk
+		esx_Inuktalik esx_Iola esx_Ipeelee esx_Ipellie esx_Iqaluk esx_Iqaluq esx_Iyola esx_Jaco
+		esx_Jaipity esx_Jamasie esx_Japeetee esx_Jayko esx_Jina esx_Jobie esx_Josie esx_Jotah
+		esx_Juanasi esx_Kadlak esx_Kajulik esx_Kanak esx_Kangiak esx_Kapugen esx_Kasudluak
+		esx_Kavavau esx_Kellypalik esx_Kiakshuk esx_Kipokaktoak esx_Koadloak esx_Komakjuak
+		esx_Koonoo esx_Kootoo esx_Kooyoo esx_Kopak esx_Kuttaktok esx_Loottee esx_Lyta
+		esx_Malitut esx_Mammak esx_Mattoo esx_Mikijuk esx_Moonie esx_Mosesie esx_Munamee
+		esx_Mususi esx_Nanook esx_Natak esx_Nauya esx_Netsiak esx_Nikupsuk esx_Nowdla
+		esx_Nowya esx_Nugaleak esx_Nukkapiak esx_Nuna esx_Nuqaq esx_Nutaraluk esx_Ohadluk
+		esx_Oingoon esx_Okakluk esx_Okalikjuak esx_Okkarlik esx_Okkiksuk esx_Onalik
+		esx_Ooloopie esx_Oongalik esx_Osoochiak esx_Papak esx_Parnguna esx_Pauloosie
+		esx_Pauta esx_Pee esx_Pitseolak esx_Pitsiula esx_Poasie esx_Poota esx_Pootoogoo
+		esx_Pudlat esx_Pudlo esx_Putugu esx_Putulik esx_Qaqaq esx_Qarqangaarjuk esx_Qatsiya
+		esx_Qaunnaaluk esx_Qayalik esx_Qiatsuq esx_Quissa esx_Quma esx_Qumalu esx_Qumaluk
+		esx_Saila esx_Samwillie esx_Sarkak esx_Silasie esx_Sowniapik esx_Tanuchulk esx_Tatigat
+		esx_Temela esx_Thukkekina esx_Tiktak esx_Timootee esx_Tivi esx_Toon esx_Toonoo
+		esx_Towkie esx_Tugak esx_Tukpunga esx_Tuma esx_Tungilik esx_Tunu esx_Tuqiqi
+		esx_Tuttu esx_Twamie esx_Uiverunna esx_Ukalik esx_Ulgavik esx_Uttakiyok esx_Yaw
+	}
+	
+	female_names = {
+		esx_Aggeok esx_Agnakluwak esx_Aima esx_Ainiaq esx_Anjij esx_Akigik esx_Akimayuq
+		esx_Aklavik esx_Akoodiksik esx_Akulukjuk esx_Akycha esx_Aleqasina esx_Alluluk
+		esx_Aluq esx_Amittu esx_Angmadlok esx_Angnuk esx_Anirniq esx_Arnqaq esx_Aolayok
+		esx_Arnakallak esx_Arpik esx_Ashevak esx_Atoat esx_Aviliaju esx_Eegie esx_Eeleeseepee
+		esx_Ekarak esx_Eleesapee esx_Evaloo esx_Evee esx_Eyuka esx_Geela esx_Hiti esx_Iga
+		esx_Igah esx_Ikilluaq esx_Ikuma esx_Inaluk esx_Ineak esx_Inoudtliak esx_Ipooeetuq esx_Iqaluq
+		esx_Iqirquq esx_Itakulla esx_Itee esx_Juili esx_Kablutsiak esx_Kadlak esx_Kaitanak
+		esx_Kaitanaq esx_Kaitaq esx_Kakasa esx_Kalluk esx_Kamiti esx_Kappak esx_Katoo
+		esx_Kaudjak esx_Kavavau esx_Kenojuak esx_Kibcarjuk esx_Kiloonik esx_Kingmeata
+		esx_Kirima esx_Kirimia esx_Kolaut esx_Komangapik esx_Koonoo esx_Kooyoo
+		esx_Kooyook esx_Kowichuk esx_Kowtok esx_Kringnuktak esx_Kudjuakjuk esx_Kudloo
+		esx_Kunuatok esx_Kuptana esx_Leetia esx_Lyta esx_Maina esx_Malaya
+		esx_Malee esx_Mayoreak esx_Meeka esx_Meetik esx_Meriwa esx_Migishoo
+		esx_Mikigak esx_Mupaloo esx_Naita esx_Nakashuk esx_Nakyuraq esx_Naluiyuk
+		esx_Napachie esx_Napatachie esx_Naqi esx_Nastapoka esx_Nauja esx_Nauksaut
+		esx_Nauyak esx_Neevee esx_Neveeooyak esx_Ningeogapik esx_Ninukatsiaq esx_Nivikanguak
+		esx_Noayak esx_Nooterakjuk esx_Nugalluq esx_Nuqingaq esx_Okpak esx_Ooa
+		esx_Oolanie esx_Oolasee esx_Ooleekeepa esx_Ooleena esx_Ooloota esx_Oolootah
+		esx_Oomalaq esx_Oominisar esx_Oopik esx_Ootoovah esx_Oshutsiak esx_Oviloo
+		esx_Ovilu esx_Padtlunguak esx_Paneloo esx_Paningajak esx_Parsa esx_Pitaloosie
+		esx_Pitseolak esx_Pitsiula esx_Piuliak esx_Pudloo esx_Putuguk esx_Qaqsauq
+		esx_Qattalik esx_Qaunak esx_Qaunaq esx_Qayaq esx_Qiluqi esx_Qimirpik
+		esx_Qimmikpikuluk esx_Qiyuk esx_Quissa esx_Quliruaq esx_Quppa esx_Quyuq
+		esx_Saila esx_Sanaaq esx_Savfak esx_Sanna esx_Sheouak esx_Shooyoo esx_Shua
+		esx_Siaja esx_Siasi esx_Sila esx_Silana esx_Simaiyok esx_Simata esx_Simatuq
+		esx_Suakunguak esx_Tala esx_Tamareesee esx_Taslak esx_Tassurapik esx_Tatigat
+		esx_Timangiak esx_Toonookashak esx_Towkie esx_Tukumik esx_Tungwak esx_Tunnuk
+		esx_Tunu esx_Tuuti esx_Udluriak esx_Uppahjak esx_Uqaitu esx_Ussuqi
+	}
+}
+name_list_cascadian = {
+	# Sprachbunds: Northwest Coast, Plateau, Northern California
+	dynasty_names = {
+		xx__Tait xx__Nak_wala xx_Ahantchuyuk xx_Ahtna xx_Babine xx_Beaver xx_Chehali
+		xx_Chemapho xx_Chepenefa xx_Chilcotin xx_Clatskanai xx_Clatskanie xx_Comox
+		xx_Cowichan xx_Cowlitz xx_C_imauc_a xx_Dakelh xx_Deg_Hit_an xx_Deisleen
+		xx_Dena_ina xx_Ditidaqiic_aq_Cicqi7 xx_Dxwdew7abs xx_Dxwlesucid
+		xx_Dxwsqwali7abs xx_Dene_Suline xx_Galice xx_Galyax xx_Gitlo_p xx_Gitxsan
+		xx_Gunaaxoo xx_Gut_sala xx_Gwich_in xx_Gantiyaakw_seedi xx_Hailzaqvla xx_Halalt
+		xx_Halkomelem xx_Halq_emeylem xx_Hare xx_Heinya xx_Hinyaa xx_Holikachuk
+		xx_Hunq_um7i7num7 xx_Hutyeyu xx_Han xx_Hel_q_emin_em_ xx_Jilkoot xx_Jilkaat
+		xx_K_aayk_aani xx_Kaska xx_Katzie xx_Khaachxhana_aak_w xx_Kheixh_ xx_Kimsquit
+		xx_Kinbasket xx_Klallam xx_Kooyu xx_Koyukon xx_Kuskokwim xx_Kwak_wala
+		xx_Kwalhioqua xx_Kwantlen xx_Kwatna xx_Kwikwetlem xx_Keex_ xx_Kwinayl
+		xx_Laaxaayik xx_Lamalcha xx_Lillooet xx_Litu-aa xx_Luckiamute xx_Lushootseed
+		xx_Lyackson xx_Lek_wengin_eng xx_Malahat xx_Mountain xx_Musqueam xx_Nicola
+		xx_Nisqa_a xx_Nlaka_pamux xx_Nooksack xx_Npoqiniscn xx_Nsiylxcen xx_Nuucaan_ul
+		xx_Nuxalk xx_Nxa7amxcin xx_Nexws£_ay_emucen xx_Pacheedaht xx_Pak-quw-chin
+		xx_Penelakut xx_Pentlatch xx_Pen£_ac xx_Q_widishch_a__tx xx_Q_way_ayilq_
+		xx_Qalispe xx_Quinault xx_S_awdaan xx_Saanyaa xx_Santiam xx_Sanya xx_Sarcee
+		xx_Sa7qwebixw xx_Sduhubs xx_Sechelt xx_Secwepemctsin xx_Sekani xx_Sguuxs
+		xx_Shee_T_ika xx_Shtax_heen xx_Shuswap xx_Sinixt_sn-selxcin xx_Si7nemes
+		xx_Skway_ xx_Slavey xx_Sm_algax xx_Snaw-Na-Wa xx_Snchitsu_umshtsn xx_Snokomish
+		xx_Snuneymuxw xx_Spuyalepabs xx_Sqajet xx_Squamish xx_Sqwuqwu7besq
+		xx_Sqwxwu7mes xx_St_at_imcets xx_Sts_Ailes xx_Stz_uminus xx_Seet_Ka xx_Selis
+		xx_Senca0en xx_Slq_etk͏wmscin_t xx_T_aaku xx_T_akjik_aan xx_T_Sou-ke
+		xx_T_lat_lasik_wala xx_Taant_a xx_Tagish xx_Tah-tu-lo xx_Tahltan xx_Tallheo
+		xx_Tanacross xx_Tanana xx_Tillamook xx_Tolowa xx_Ts_uubaa-asatx xx_Tsankupi
+		xx_Tsawwassen xx_Tsek_ene xx_Tsetsaut xx_Tsleil-waututh xx_Tsuut_ina
+		xx_Tualatin xx_Tutchone xx_Tututni xx_Twana xx_Tlicho_Yatii xx_Umpqua
+		xx_Willapa_Suwali xx_Witsuwit_en xx_Xa_islak_ala xx_Xunaa xx_Xutsnoowu
+		xx_Xwlemi_chosen xx_Xixic_ala xx_Yakhwdaat xx_Yamhill xx_Aa_Tlein xx_Aak_w
+		xx_Ey8a8juuthem xx_Lew_al_mes xx_Lecelesem xx_Sasisalem xx_£_pulmixq
+		xx_7ayaju0em xx_7ay7ajusem xx_7usee7la7txx 
+	}
+	# There are very few given names
+	male_names = {
+		xx_Gushklin xx_K_uxshoo xx_Kha_jaq_tii xx_Naadkym xx_Shkeedlakaa xx_Shweabe
+		xx_X_unei xx_Xelas xx_Xetsuwu xx_Yehl xx_Yeilxaak
+	}
+	female_names = {
+		xx_Kaaguneteen xx_Kavusiya xx_Kikisoblu xx_Kuilix xx_Matika xx_Nuwuteiyi
+		xx_Owiyahl xx_Sholeetsa xx_Tahoma xx_Ticwtkwa xx_Yeidukdatan
+	}
+}
+name_list_aztec = {
+
+	dynasty_names = {
+		dyn_nah_Aca dyn_nah_Acuca dyn_nah_Atlatenco dyn_nah_Ciauiuinti dyn_nah_Coatl
+		dyn_nah_Cocolotl dyn_nah_Colexcua dyn_nah_Coyote dyn_nah_Coyotl dyn_nah_Cuacuas
+		dyn_nah_Cuahuey dyn_nah_Cuatzo dyn_nah_Cuauhtle dyn_nah_Cuauhtli
+		dyn_nah_Cuautlaxahue dyn_nah_Cuautle dyn_nah_Cuautli dyn_nah_Cuaxiloa dyn_nah_Huante
+		dyn_nah_Hueytletl dyn_nah_Huitle dyn_nah_Huixtlaca dyn_nah_Icnoyotl dyn_nah_Itzcotecatl
+		dyn_nah_Izcoatl dyn_nah_Izmoyotl dyn_nah_Matlacuahuac dyn_nah_Michuai
+		dyn_nah_Moctezuma dyn_nah_Montezuma dyn_nah_Ocotoxtle dyn_nah_Quechol
+		dyn_nah_Tecaxco dyn_nah_Tecpanecatl dyn_nah_Tecuapetla dyn_nah_Tecuatl
+		dyn_nah_Tenahua dyn_nah_Tenochtitlan dyn_nah_Tentle dyn_nah_Tepetl
+		dyn_nah_Tepeyahuitl dyn_nah_Tlachi dyn_nah_Tlacuchcalcatl dyn_nah_Tlatehui
+		dyn_nah_Tlatelolco dyn_nah_Tlatilpa dyn_nah_Tletla dyn_nah_Tochimani
+		dyn_nah_Tome dyn_nah_Tonal dyn_nah_Tototzintle dyn_nah_Toxtle dyn_nah_Tzili
+		dyn_nah_Tzone dyn_nah_Tzonen dyn_nah_Xaxalpa dyn_nah_Xicale dyn_nah_Xicotencatl
+		dyn_nah_Zacatzontetl dyn_nah_Zacatzontle dyn_nah_Zapotitla
+	}
+	
+	male_names = {
+		nah_Acacitli nah_Acamapichtli nah_Acampichtli nah_Achcauhtli nah_Achitometl
+		nah_Acolmixtli nah_Acxotecatl nah_Ahcamba nah_Ahexotl nah_Ahuaxpitzatzin nah_Ahuiliztli
+		nah_Amoxtli nah_Apanacatl nah_Atl nah_Atlan-Tonnan nah_Atlixcatzin nah_Atonal
+		nah_Atzauatzin nah_Axayaca nah_Axayacatl nah_Axoacatzin nah_Axolohua nah_Axoquentzin
+		nah_Cacama nah_Cacamatzin nah_Camaxtli nah_Cenyaotl nah_Chalchiahtlicue nah_Chicahua
+		nah_Chichimecatecle nah_Chicomecoatl nah_Chihuaquequenotzin nah_Chimalli
+		nah_Chimalpahin nah_Chimalpopoca nah_Chipahua nah_Citlacoatl nah_Citlalli
+		nah_Coanacoch nah_Coanocochtzin nah_Coatl nah_Coatzontli nah_Cocozca nah_Colin
+		nah_Copil nah_Coyotl nah_Cuahutemoc nah_Cualli nah_Cuaucoatl nah_Cuauhtemoc
+		nah_Cuauhtlehuanitzin nah_Cuautemoc nah_Cuautlehuanitzin nah_Cuetlachtli nah_Cuilol
+		nah_Cuitlauac nah_Etalpalli nah_Ezhuahuacatl nah_Eztli nah_Huemac nah_Huetzin
+		nah_Huicton nah_Huitzilihuitl nah_Huitzilin nah_Huitzilopochtli nah_Ichtaca
+		nah_Icnoyotl nah_Ihuicatl nah_Ilhuicamina nah_Ilhuitl nah_Itotia nah_Itzcoatl
+		nah_Itzquauatzin nah_Itzquemitl nah_Itztli nah_Ixtli nah_Ixtlilxochitl nah_Iztahuatzin
+		nah_Macuilxochitl nah_Mamexi nah_Matlalihuitl nah_Maxixcatzin nah_Maxtla
+		nah_Mayeuatzin nah_Mazatl nah_Mecatl nah_Meconetzin nah_Metzli nah_Milintica
+		nah_Moquihuix nah_Motecuma nah_Motelchiuh nah_Mutex nah_Nahuatl nah_Nauyotl
+		nah_Necahual nah_Necalli nah_Netzahualcoyotl nah_Nezahualcoyotl nah_Nezahualpilli
+		nah_Nochhuetl nah_Nochtli nah_Nopaltzin nah_Ocelopan nah_Ocuitecatl nah_Ohtli
+		nah_Ollacatl nah_Opochtli nah_Oquitzin nah_Panitzin nah_Patli nah_Pimotl
+		nah_Pizotzin nah_Pochotl nah_Popopoyotl nah_Quahcoatl nah_Quahtlatoa nah_Qualpopoca
+		nah_Quauhtli nah_Quetzal nah_Quetzalcoatl nah_Quetzalmantzin nah_Quilaztli
+		nah_Quimichetl nah_Tangaxoan nah_Tayauh nah_Tecayehuatl nah_Techolatlallatzin
+		nah_Tecocoitzin nah_Tecocol nah_Tecuiciztecatl nah_Temictzin nah_Temilotecatl
+		nah_Tenoch nah_Tenzacatetl nah_Teocalli nah_Teoctlamazqui nah_Teputzitoloc
+		nah_Tetepi nah_Tetlahuehuequititzin nah_Tetlepanquetzatzin nah_Texcoyo nah_Tezcacoatl
+		nah_Tezozomoc nah_Tilmatzin nah_Timas nah_Tizoc nah_Tlacaelel nah_Tlacahele
+		nah_Tlacahuepan nah_Tlacateotl nah_Tlachinolli nah_Tlacochcalcatl nah_Tlacoteotzin
+		nah_Tlaloc nah_Tlaltececatzin nah_Tlapaltecatl nah_Tlaquiach nah_Tlazopilli
+		nah_Tlilpopoctazin nah_Tlilpotonqui nah_Tlotzin nah_Tochtli nah_Toltecatl nah_Totoquihatzin
+		nah_Tototl nah_Tzompan nah_Tzontecochatzin nah_Xihuitl nah_Xilotzin
+		nah_Xipil nah_Xipilli nah_Xiucaque nah_Xiuhcoatl nah_Xiuhtecuhtli nah_Xochipanitzin
+		nah_Xochipilli nah_Xocoyatzin nah_Xolotl nah_Xoxopehualoc nah_Yaotl nah_Yayauhqui
+		nah_Yaztachimal nah_Yolotli nah_Zincicha nah_Zoanacochtzin nah_Zolin nah_Zolton
+	}
+
+	female_names = {
+		nah_Acatl nah_Acaxochitl nah_Achcauhtli nah_Ahuilizitli nah_Amoxtli nah_Anacaona
+		nah_Atl nah_Atototl nah_Atotoztli nah_Ayauhcihuatl nah_Azcalxochizin nah_Cacamacihuatzin
+		nah_Cacauaxochitl nah_Calli nah_Centehua nah_Centeotl nah_Centocihuatl nah_Chalchiuhtlicue
+		nah_Chalchiuitl nah_Chalchiutinenetzin nah_Chantico nah_Chicahua nah_Chicomecoatl
+		nah_Chihuacoatl nah_Chimalman nah_Chipahua nah_Cihuaton nah_Cipactli nah_Citlali
+		nah_Citlalli nah_Citlalmina nah_Coatl nah_Coaxoch nah_Coszcatl nah_Cozamalotl
+		nah_Cualli nah_Cuauhtli nah_Cuetlaxochitl nah_Cuetzpallin nah_Cuicatl nah_Cuitlaxaochitzin
+		nah_Ehecatl nah_Eloxochitl nah_Etalpalli nah_Eztli nah_Huitzilxochtzin nah_Huixtocihuatl
+		nah_Ichpochton nah_Ichtaca nah_Icnoyotl nah_Iczoxochitl nah_Ihuicatl nah_Ilancueitl
+		nah_Ilhuitl nah_Itotia nah_Ixcatzin nah_Ixtli nah_Izquixochitl nah_Malinal nah_Malinalli
+		nah_Malinalxochitl nah_Malinche nah_Malintzin nah_Manauia nah_Matlacihuatl nah_Mazatl
+		nah_Mecatl nah_Metztli nah_Metztli nah_Miahuaxiuitl nah_Michtlantecahuatl nah_Miquiztli
+		nah_Miyahuaxiuhtzin nah_Miyaoaxochitl nah_Nahuatl nah_Necahual nah_Nelli
+		nah_Nenetl nah_Nochtli nah_Nopalxochitl nah_Ocelot nah_Ohtli nah_Ollacatl
+		nah_Ollin nah_Omecihuatl nah_Omixochitl nah_Papantzin nah_Patli nah_Quauhxochitl
+		nah_Quetzalli nah_Quetzalpetlatl nah_Quetzalxochitl nah_Quiahuitl nah_Quiauhxochitl
+		nah_Tacapantzin nah_Tecapan nah_Tecolotl nah_Tecuelhuatzin nah_Tecuichpo nah_Teicuih
+		nah_Teiztlacahua nah_Tenoch nah_Teocali nah_Teotalco nah_Tepin nah_Teuicui
+		nah_Teyauh nah_Teyacapan nah_Tiacapan nah_Tiacapantzin nah_Tlacahuepan nah_Tlachinolli
+		nah_Tlaco nah_Tlacoehua nah_Tlacoxochitl nah_Tlalli nah_Tlazolteotl nah_Tlexictli
+		nah_Tlillocapantin nah_Tochtli nah_Toltecatl nah_Tonacacihual nah_Tonantzin
+		nah_Uacalxochitl nah_Xihuitl nah_Xilonen nah_Xilotl nah_Xiloxoch nah_Xiloxochitl
+		nah_Xipil nah_Xiuhcoatl nah_Xochiquetzal nah_Xochitl nah_Xoco nah_Xoyocotl
+		nah_Xuchimatzatzin nah_Yaotl nah_Yayauhqui nah_Yolihuani nah_Yolotli nah_Yoltzin
+		nah_Zeltzin nah_Zitlali nah_Zytlali
+	}
+}
+name_list_mayan = {
+
+	dynasty_names = {
+		dyn_myn_Ac dyn_myn_Au dyn_myn_Baas dyn_myn_Bacab dyn_myn_Bak
+		dyn_myn_Balam dyn_myn_Batun dyn_myn_Caamal dyn_myn_Cab dyn_myn_Camal
+		dyn_myn_Can dyn_myn_Canche dyn_myn_Canek dyn_myn_Canul dyn_myn_Catzim
+		dyn_myn_Cauich dyn_myn_Ceh dyn_myn_Cen dyn_myn_Cetz dyn_myn_Cex
+		dyn_myn_Chable dyn_myn_Chac dyn_myn_Chale dyn_myn_Chan dyn_myn_Cay
+		dyn_myn_Che dyn_myn_Chhel dyn_myn_Chi dyn_myn_Chim dyn_myn_Chu dyn_myn_Chuc
+		dyn_myn_Cime dyn_myn_Cob dyn_myn_Cocom dyn_myn_Coh dyn_myn_Cool
+		dyn_myn_Couoh dyn_myn_Cu dyn_myn_Cupul dyn_myn_Cutz dyn_myn_Dzab dyn_myn_Dzal
+		dyn_myn_Dzib dyn_myn_Dzul dyn_myn_Ek dyn_myn_Euan dyn_myn_Hau dyn_myn_Hiz
+		dyn_myn_Huchim dyn_myn_Iz dyn_myn_Kantun dyn_myn_Katu dyn_myn_Keb dyn_myn_Kej
+		dyn_myn_Ku dyn_myn_Kutz dyn_myn_Kuyoc dyn_myn_Maaz dyn_myn_Maty dyn_myn_May
+		dyn_myn_Maz dyn_myn_Mex dyn_myn_Miis dyn_myn_Moh dyn_myn_Mucuy dyn_myn_Na
+		dyn_myn_Nabte dyn_myn_Nah dyn_myn_Nayal dyn_myn_Noh dyn_myn_Nuch
+		dyn_myn_Och dyn_myn_Pacab dyn_myn_Pat dyn_myn_Pech dyn_myn_Peech
+		dyn_myn_Pol dyn_myn_Poot dyn_myn_Pot dyn_myn_Puc dyn_myn_Puch dyn_myn_Tah
+		dyn_myn_Tamay dyn_myn_Tul dyn_myn_Tun dyn_myn_Tuz dyn_myn_Tzab dyn_myn_Tzama
+		dyn_myn_Tzek dyn_myn_Uc dyn_myn_Ucan dyn_myn_Uicab dyn_myn_Uitz dyn_myn_Uxul
+		dyn_myn_Witzil dyn_myn_Xiu dyn_myn_Xol dyn_myn_Xool dyn_myn_Yah
+		dyn_myn_Yam dyn_myn_Yoc
+	}
+	
+	male_names = {
+		myn_Ac-Kan myn_Ah-Ahuoal myn_Ahau-Uinic myn_Ah-Kinchil myn_Ah-Mac-In
+		myn_Ah-Nab-Pacal myn_Ahpo-Balamm myn_Ahpop-Achi myn_Ah-Tzib myn_Atlacatl
+		myn_Bol myn_Butz-Chan myn_Cauac myn_Chaacal myn_Chaan-Muan myn_Chac
+		myn_Chan myn_Chan-Yat myn_Chiam myn_Cit-Chac-Coh myn_Coh myn_Cu-Ix
+		myn_Ek-Chuah myn_Ha myn_Hun-Ahau myn_Hun-Kak myn_Hunahpu myn_Itzamna
+		myn_Kak-Ne-Xoc myn_Kan myn_Kan-Xul myn_Kayum myn_Kin myn_Kinich-Ahau
+		myn_Kukulkan myn_Manik myn_Mochcouoh myn_Nachancal myn_Naum-Pat
+		myn_Nuxib myn_Ox-Ha-Te myn_Pacal-Tzele myn_Tactani myn_Ta-Tzek
+		myn_Tek myn_Ti-Kan-Toc myn_Topec myn_Vakaki myn_Xbalanque myn_Xbaquiyalo
+		myn_Xipe-Topec myn_Xix-Chan myn_Xpiacoc myn_Xulu myn_Xun myn_Yax-Pac
+		myn_Yax-Tul myn_Yum-Kaax myn_Zac-Balam
+	}
+
+	female_names = {
+		myn_Ah-Kin myn_Ahau-Xoc myn_Ahpo-Hel myn_Ahpo-Katun myn_Akna-Montes
+		myn_Balam myn_Balam-Ix myn_Caha-Paluma myn_Cakixa myn_Chac-Xib-Chax
+		myn_Choima myn_Colel-Cab myn_Hun-Colel myn_Itzam myn_Itzel
+		myn_Ixchab myn_Ixchel myn_Ixchelle myn_Ixchup myn_Ixkuknab myn_Ixkuknob
+		myn_Ixmucane myn_Ixtab myn_Kan-Le-Ox myn_Kanal-Ikal myn_Kayan-Kuk myn_Kitza
+		myn_Koh myn_Kuknob myn_Malinali myn_Matactin myn_Meztli myn_Nhutalu
+		myn_Nuk myn_Pacal myn_Quibock-Nicte myn_Tactani myn_Takal-Tun myn_Te-Xoc
+		myn_Ton-Ahau myn_Ton-Multun-Kul-Na myn_Tu-Kul-Tok myn_Tzununiha myn_Tzytzyan
+		myn_Wac-Chan-Ahau myn_Wac-Chanil-Ahau myn_Wac-Tun myn_Xela myn_Xibalba
+		myn_Xmucane myn_Xob myn_Xoc myn_Xquiq myn_Xtacunabilxunan myn_Ysalane
+		myn_Zacal-Noh myn_Zac-Kuk
+	}
+}
+name_list_quechua = {
+
+	dynasty_names = {
+		dyn_qu_Achachau dyn_qu_Alca dyn_qu_Allauca dyn_qu_Allcca dyn_qu_Allccarima
+		dyn_qu_Alqa dyn_qu_Amary dyn_qu_Anhuaman dyn_qu_Aucapuca dyn_qu_Auquitayasi
+		dyn_qu_Cahua dyn_qu_Caipa dyn_qu_Callanaupa dyn_qu_Cancha dyn_qu_Canchon
+		dyn_qu_Carhuanina dyn_qu_Carihuasari dyn_qu_Ccahua dyn_qu_Ccahuantico
+		dyn_qu_Ccarhuarupay dyn_qu_Ccari dyn_qu_Ccasani dyn_qu_Ccolque dyn_qu_Ccora
+		dyn_qu_Chakana dyn_qu_Chambi dyn_qu_Champi dyn_qu_Chanca dyn_qu_Chanka
+		dyn_qu_Chaupin dyn_qu_Chawpin dyn_qu_Chillitupa dyn_qu_Chipana dyn_qu_Choque
+		dyn_qu_Chum dyn_qu_Chuquimango dyn_qu_Chuquipoma dyn_qu_Cocha dyn_qu_Colca
+		dyn_qu_Colquehuanca dyn_qu_Condor dyn_qu_Condori dyn_qu_Curichimba dyn_qu_Cusi
+		dyn_qu_Cusipuma dyn_qu_Cuya dyn_qu_Guaman dyn_qu_Guanuna dyn_qu_Huaccha
+		dyn_qu_Huachalla dyn_qu_Hualla dyn_qu_Huaman dyn_qu_Huamanchagua
+		dyn_qu_Huamancuri dyn_qu_Huamanga dyn_qu_Huamani dyn_qu_Huanca
+		dyn_qu_Huancachuri dyn_qu_Huaricancha dyn_qu_Huayhua dyn_qu_Huayta
+		dyn_qu_Humahuaca dyn_qu_Humala dyn_qu_Huyhua dyn_qu_Inka dyn_qu_Jaillita
+		dyn_qu_Kancha dyn_qu_Kuntur dyn_qu_Kusi dyn_qu_Llactahuaman dyn_qu_Llancay
+		dyn_qu_Lloque dyn_qu_Macavilca dyn_qu_Malqui dyn_qu_Mallqui dyn_qu_Mallma
+		dyn_qu_Mamani dyn_qu_Manco dyn_qu_Maygua dyn_qu_Mayhuasca dyn_qu_Michi
+		dyn_qu_Motocanchi dyn_qu_Naccha dyn_qu_Nahuis dyn_qu_Nana dyn_qu_Naupari
+		dyn_qu_Nina dyn_qu_Ninahuaman dyn_qu_Olaya dyn_qu_Orccosupa dyn_qu_Pachari
+		dyn_qu_Pachacutec dyn_qu_Pari dyn_qu_Paricahua dyn_qu_Paucar dyn_qu_Paucarchuco
+		dyn_qu_Pillihuaman dyn_qu_Pillpe dyn_qu_Pinchi dyn_qu_Pinto dyn_qu_Polloqueri
+		dyn_qu_Poma dyn_qu_Pumacaja dyn_qu_Pumacallao dyn_qu_Pumasupa dyn_qu_Qelka
+		dyn_qu_Qhawa dyn_qu_Quelka dyn_qu_Quichca dyn_qu_Quillahuaman dyn_qu_Quispe
+		dyn_qu_Quisuyupanqui dyn_qu_Rimayhuaman dyn_qu_Roca dyn_qu_Sayritupac dyn_qu_Sihui
+		dyn_qu_Sinchi dyn_qu_Soncco dyn_qu_Sulca dyn_qu_Surichaqui dyn_qu_Ticahuanca
+		dyn_qu_Ticllacuri dyn_qu_Ticona dyn_qu_Tupa dyn_qu_Tupac dyn_qu_Ucharima
+		dyn_qu_Uchuypoma dyn_qu_Usucachi dyn_qu_Vilca dyn_qu_Yacupaico dyn_qu_Yupanqui
+	}
+	
+	male_names = {
+		qu_Anquimarca qu_Anta-Accla qu_Apo qu_Apu qu_Atahualpa qu_Atoc qu_Atoc-Sopa
+		qu_Atoc-Suqui qu_Auqui-Huaman qu_Canchari qu_Capac-Tupac qu_Cariapata qu_Cayo-Topa
+		qu_Chalcuchima qu_Challco qu_Chiaquitinta qu_Chiguan-Topa qu_Chilche qu_Chunchos
+		qu_Colla-Topa qu_Condorcanqui qu_Coyllas qu_Curi-Paucar qu_Curiatao qu_Cusi
+		qu_Cusichaca qu_Guacra qu_Guaman-Poma qu_Guaritito qu_Guaritopa qu_Huachuri
+		qu_Hualpa qu_Huaman qu_Huaritico qu_Huascar qu_Huayna-Capac qu_Huaypalcon qu_Illa
+		qu_Illaquita qu_Inquill qu_Ispaca qu_Llicllic qu_Luyes qu_Maila qu_Manco
+		qu_Maras qu_Marcavilca qu_Mayta qu_Ninan-Cuyuchi qu_Ninancoro qu_Orco-Varanca
+		qu_Ozcoc qu_Pachacuti qu_Parinango qu_Pascac qu_Paucar qu_Paullu qu_Pomacapi
+		qu_Pomaguala qu_Puma qu_Pumi-Sopa qu_Pusca qu_Puyu-Vilca qu_RumiN_ahui qu_Quilaco
+		qu_Quillis-Sacha qu_Quingallumbo qu_Quintiraura qu_Quispe-Titu qu_Quispe-Tupac
+		qu_Quisquis qu_Quizo qu_Rimac qu_Roca qu_Ronpa qu_Sahuaraura qu_Sayri-Tupac
+		qu_Sotaurco qu_Sullca-Yanac qu_Surandaman qu_Taipi qu_Tanqui qu_Taraque
+		qu_Tiso qu_Titu-Atauchi qu_Titu-Cusi qu_Torinaseo qu_Tucuycuyche qu_Tupac
+		qu_Tupac-Amaru qu_Tupac-Hualpa qu_Usca-Curiatao qu_Villac-Umu qu_Yamqui-Mayta
+		qu_Yuncailo qu_Yupanqui qu_Zambiza qu_Zopahua qu_Zope
+	}
+
+	female_names = {
+		qu_Aca qu_Anas qu_Anclla qu_Anta qu_Caruaqu_Chimbo qu_Chimpu
+		qu_Choque qu_Chumbi qu_Coca qu_Collque qu_Cuillor qu_Cura qu_Curi
+		qu_Cusi qu_Huaco qu_Huarcay qu_Inguill qu_Mama qu_Marca qu_Maxi qu_Ocllo
+		qu_Pinca qu_Polan qu_Quilaco qu_Quispe qu_Rimay qu_Runtu qu_Sisa qu_Siza
+		qu_Suyo qu_Urma
+	}
+}
+
+name_list_tupi_guarani = {
+
+	dynasty_names = {
+		dyn_tupi_Acuata dyn_tupi_Aguai dyn_tupi_Aguai_ty dyn_tupi_Aguay dyn_tupi_Aguayo
+		dyn_tupi_Ambuqui dyn_tupi_Apyre dyn_tupi_Apia dyn_tupi_Aragua dyn_tupi_Araguita
+		dyn_tupi_Arakaka dyn_tupi_Arakua dyn_tupi_Aranda dyn_tupi_Arauca dyn_tupi_Cabure
+		dyn_tupi_Cagua dyn_tupi_Caigua dyn_tupi_Carapita dyn_tupi_Carupano dyn_tupi_Carupe
+		dyn_tupi_Catambuco dyn_tupi_Chachagui dyn_tupi_Chivacoa dyn_tupi_Churuguara
+		dyn_tupi_Cuara dyn_tupi_Curiyaca dyn_tupi_Cuyagua dyn_tupi_Guarapo dyn_tupi_Guaykara
+		dyn_tupi_Iguambi dyn_tupi_Iguapa dyn_tupi_Imambari dyn_tupi_Itagui dyn_tupi_Ituango
+		dyn_tupi_Jacuque dyn_tupi_Jagua dyn_tupi_Jaguarama dyn_tupi_Jarara_Kui
+		dyn_tupi_Kariakay dyn_tupi_Kyina dyn_tupi_Mbarakaja_y dyn_tupi_Mburiti_Ka
+		dyn_tupi_Mocoa dyn_tupi_Mucuragua dyn_tupi_Paragua_na dyn_tupi_Parama_yvo
+		dyn_tupi_Taguapire dyn_tupi_Taguato dyn_tupi_Taguay dyn_tupi_Teranguara
+		dyn_tupi_Tibacuy dyn_tupi_Timbire dyn_tupi_Timbuyacu dyn_tupi_Tuja dyn_tupi_Tuku_Pyta
+		dyn_tupi_Tuka_i dyn_tupi_Tava_i dyn_tupi_Uracoa dyn_tupi_Urcuqui dyn_tupi_Urukure_a
+		dyn_tupi_Yacare dyn_tupi_Yaguaracual dyn_tupi_Yaguaraparo dyn_tupi_Yaguaratal
+		dyn_tupi_Ypeti dyn_tupi_Yrapa dyn_tupi_Yvakue
+	}
+	
+	male_names = {
+		tupi_Ajuricaba tupi_Araken tupi_Ararigboia tupi_Caua tupi_Caubi tupi_Caue tupi_Cosme
+		tupi_Jaci tupi_Jacy tupi_Moacir tupi_Peri tupi_Pery tupi_Piata tupi_Pinon tupi_Raini
+		tupi_Ruda tupi_Tabare tupi_Ubirajara tupi_Ubirata tupi_Urubatan tupi_Yamandu
+	}
+
+	female_names = {
+		tupi_Anahei tupi_Anahi tupi_Annahi tupi_Araci tupi_Aracy tupi_Bartira tupi_Bartyra
+		tupi_Ceci tupi_Cycy tupi_Guacimara tupi_Guacira tupi_Guaraciaba tupi_Iara
+		tupi_Iracema tupi_Irasema tupi_Iuna tupi_Jaci tupi_Janaina tupi_Jasy tupi_Juci
+		tupi_Kauane tupi_Maira tupi_Moara tupi_Poti tupi_Potira tupi_Taina tupi_Uiara
+		tupi_Yaci tupi_Yara tupi_Yeruti
+	}
+}
+name_list_apache = {
+
+	dynasty_names = {
+		dyn_apa_Chiricahua dyn_apa_Chuukanen dyn_apa_Gileno dyn_apa_Mimbreno
+		dyn_apa_Ndendahe dyn_apa_Mogollon dyn_apa_Nedhni dyn_apa_Jicarilla dyn_apa_Carlana
+		dyn_apa_Lipan dyn_apa_Mescalero dyn_apa_Natage dyn_apa_Kiowa dyn_apa_Naisha
+		dyn_apa_Querecho dyn_apa_Cibecue dyn_apa_Arivaipa dyn_apa_Pinal dyn_apa_Tsezhine
+		dyn_apa_Lipiyan
+		dyn_apa_Ahigaghe dyn_apa_Aldahghe dyn_apa_Altseghe dyn_apa_Biyaanghe
+		dyn_apa_Chaskaghe dyn_apa_Chenushghe dyn_apa_Chidghe dyn_apa_Chihenneghe
+		dyn_apa_Chikosighe dyn_apa_Chiricahuaghe dyn_apa_Chochiseghe dyn_apa_Chonieghe
+		dyn_apa_Clumghe dyn_apa_Daaztsaastiinghe dyn_apa_Daklugieghe dyn_apa_Dazhbaadghe
+		dyn_apa_Dohn-sayghe dyn_apa_Dzilghe dyn_apa_Dzilthghe dyn_apa_Gahnghe
+		dyn_apa_Godeeyahghe dyn_apa_Gosheghe dyn_apa_Goyaaleghe dyn_apa_Gozhinghe
+		dyn_apa_Hakanghe dyn_apa_Hashkeghe dyn_apa_Hashkehghe dyn_apa_Hashkeghe
+		dyn_apa_Haskay-bay-nayghe dyn_apa_Hasteenghe dyn_apa_Kaskay-bay-nayghe
+		dyn_apa_Kienghe dyn_apa_Koeneghe dyn_apa_Naicheghe dyn_apa_Nakaidoklinighe
+		dyn_apa_Nednaighe dyn_apa_Shideezhighe dyn_apa_Shikeghe dyn_apa_Shilahghe
+		dyn_apa_Shilaanghe dyn_apa_Tazhiighe dyn_apa_Tsebanghe dyn_apa_Tseneghe
+		dyn_apa_Xakanighe dyn_apa_Yiyaaghe dyn_apa_Zhonghe dyn_apa_Zhostlghe
+	}
+	
+	male_names = {
+		apa_Cochise apa_Biminak apa_Bimisi apa_Bipin apa_Bodaway apa_Eknath
+		apa_Elan apa_Illanipi apa_Kuruk apa_Nantan apa_Nitis apa_Tarak apa_Nana
+		apa_Eskiminzin apa_Mangas apa_Kaetenay apa_Victorio apa_Taza apa_Juh
+		apa_Nantan apa_Dole apa_Tasso apa_Chalipun apa_Cassadore apa_Eskinospas
+		apa_Hashkedasila apa_Alchesay apa_Delshay apa_Askadodilges apa_Dahkeya
+		apa_Dasodaha apa_Eskaminzim apa_Goyathlay apa_Itzachu apa_Jlinlitzoque
+		apa_Loco apa_Nantan-Lupan apa_Norroso apa_Taklishim
+		apa_Ahiga apa_Aldah apa_Altse apa_Biyaan apa_Chaska apa_Chenush apa_Chid
+		apa_Chihenne apa_Chikosi apa_Chiricahua apa_Chochise apa_Chonie apa_Clum
+		apa_Daaztsaastiin apa_Daklugie apa_Dazhbaad apa_Dohn-say apa_Dzil apa_Dzilth
+		apa_Gahn apa_Godeeyah apa_Goshe apa_Goyaale apa_Gozhin apa_Hakan apa_Hashke
+		apa_Hashkeh apa_Hashke apa_Haskay-bay-nay apa_Hasteen apa_Kaskay-bay-nay
+		apa_Kien apa_Koene apa_Naiche apa_Nakaidoklini apa_Nednai apa_Shideezhi
+		apa_Shike apa_Shilah apa_Shilaan apa_Tazhii apa_Tseban apa_Tsene
+		apa_Xakani apa_Yiyaa apa_Zhon apa_Zhostl 
+	}
+
+	female_names = {
+		apa_Maayaha apa_Guoyen apa_Lozen apa_Dahteste apa_Nalin apa_Sonsee-array
+		apa_Ihtedda apa_Jacali apa_Bina apa_Alopay apa_Ekta apa_Cumpah apa_Ela
+		apa_Guyan apa_Kushala apa_Haozinne apa_Liluye apa_Huera apa_Lenna apa_Nascha
+		apa_Leosanni apa_Ziyeh apa_Cocheta apa_Onawa
+	}
+}
+name_list_patagonian = {
+
+	dynasty_names = {
+		dyn_arn_Yagan dyn_arn_Kawesqar dyn_arn_Selknam dyn_arn_Aonikenk dyn_arn_Chonos
+		dyn_arn_Poyas dyn_arn_Cuncos dyn_arn_Huilliche dyn_arn_Puelche dyn_arn_Mapuche
+		dyn_arn_Pehuenche dyn_arn_Picunche dyn_arn_Chiquiyan dyn_arn_Rapanui dyn_arn_Diaguita
+		dyn_arn_Atacama dyn_arn_Pikunche dyn_arn_Huilliche dyn_arn_Pehuenche
+		dyn_arn_Lafkenche dyn_arn_Nagche dyn_arn_Wenteche dyn_arn_Futahuillimapu
+		dyn_arn_Puelmapu dyn_arn_Wallmapu
+		dyn_arn_kumen_Alonqueo dyn_arn_kumen_Antihuala dyn_arn_kumen_Antil
+		dyn_arn_kumen_Antileo dyn_arn_kumen_Antillam dyn_arn_kumen_Antillanca
+		dyn_arn_kumen_Antiman dyn_arn_kumen_Antimanque dyn_arn_kumen_Antu
+		dyn_arn_kumen_Antucai dyn_arn_kumen_Antuhue dyn_arn_kumen_Antul
+		dyn_arn_kumen_Antulef dyn_arn_kumen_Antulen dyn_arn_kumen_Antumalal
+		dyn_arn_kumen_Antumapu dyn_arn_kumen_Antunapu dyn_arn_kumen_Antupiren
+		dyn_arn_kumen_Antuquen dyn_arn_kumen_Antuqui dyn_arn_kumen_Anturayen
+		dyn_arn_kumen_Antuman dyn_arn_kumen_Antumen dyn_arn_kumen_Antupel
+		dyn_arn_kumen_Aukin dyn_arn_kumen_Animapu dyn_arn_kumen_Calaf
+		dyn_arn_kumen_Calbuco dyn_arn_kumen_Calfucura dyn_arn_kumen_Catriel
+		dyn_arn_kumen_Catrileo dyn_arn_kumen_Catrinqueo dyn_arn_kumen_Caupolican
+		dyn_arn_kumen_Chauque dyn_arn_kumen_Colhue dyn_arn_kumen_Coligue
+		dyn_arn_kumen_Colimil dyn_arn_kumen_Colipi dyn_arn_kumen_Coliumo
+		dyn_arn_kumen_Collihuin dyn_arn_kumen_Curimil dyn_arn_kumen_Galvarino
+		dyn_arn_kumen_Huicha dyn_arn_kumen_Inakayal dyn_arn_kumen_Inalaf
+		dyn_arn_kumen_Kilapan dyn_arn_kumen_Kilapan dyn_arn_kumen_Kilin
+		dyn_arn_kumen_Lanco dyn_arn_kumen_Lautaro dyn_arn_kumen_Leftraru
+		dyn_arn_kumen_Leuvu dyn_arn_kumen_Lienqueo dyn_arn_kumen_Lientur
+		dyn_arn_kumen_Lonco dyn_arn_kumen_Maihue dyn_arn_kumen_Maiquillahue
+		dyn_arn_kumen_Melivilo dyn_arn_kumen_Millapan dyn_arn_kumen_Pelantaro
+		dyn_arn_kumen_Pichun dyn_arn_kumen_Purran dyn_arn_kumen_Quila
+		dyn_arn_kumen_Quillapan dyn_arn_kumen_Quintuman dyn_arn_kumen_Rupu
+		dyn_arn_kumen_Tralcal dyn_arn_kumen_Tranan dyn_arn_kumen_Trengtreng
+		dyn_arn_kumen_Yeyecura dyn_arn_kumen_Namku dyn_arn_kumen_Namkuren
+		dyn_arn_kumen_Namku dyn_arn_kumen_Nanco dyn_arn_kumen_Nancucheo
+		dyn_arn_kumen_Nancuhue dyn_arn_kumen_Nancu
+	}
+	
+	male_names = {
+		arn_Cautaro arn_Curiman arn_Epulef arn_Huapi arn_Huenchumilla arn_Huenu arn_Huenuman
+		arn_Huichahue arn_Hullen arn_Lahual arn_Lautaro arn_Lihue arn_Maiten arn_Mampu
+		arn_Manque arn_Nahuel arn_Namuncura arn_Neculman arn_Nehuen arn_Neyen
+		arn_Pehuen arn_Pichi arn_Pulqui arn_Queupumil arn_Quillen arn_Quimey arn_Raiquen
+		arn_Rapiman arn_Rucahue arn_Traful arn_Yaco arn_Yamai
+		arn_Alonqueo arn_Antihuala arn_Antil arn_Antileo arn_Antillam arn_Antillanca
+		arn_Antiman arn_Antimanque arn_Antu arn_Antucai arn_Antuhue arn_Antul
+		arn_Antulef arn_Antulen arn_Antumalal arn_Antumapu arn_Antunapu arn_Antupiren
+		arn_Antuquen arn_Antuqui arn_Anturayen arn_Antuman arn_Antumen arn_Antupel
+		arn_Aukin arn_Animapu arn_Calaf arn_Calbuco arn_Calfucura arn_Catriel
+		arn_Catrileo arn_Catrinqueo arn_Caupolican arn_Chauque arn_Colhue
+		arn_Coligue arn_Colimil arn_Colipi arn_Coliumo arn_Collihuin arn_Curimil
+		arn_Galvarino arn_Huicha arn_Inakayal arn_Inalaf arn_Kilapan arn_Kilapan
+		arn_Kilin arn_Lanco arn_Lautaro arn_Leftraru arn_Leuvu arn_Lienqueo
+		arn_Lientur arn_Lonco arn_Maihue arn_Maiquillahue arn_Melivilo arn_Millapan
+		arn_Pelantaro arn_Pichun arn_Purran arn_Quila arn_Quillapan arn_Quintuman
+		arn_Rupu arn_Tralcal arn_Tranan arn_Trengtreng arn_Yeyecura arn_Namku
+		arn_Namkuren arn_Namku arn_Nanco arn_Nancucheo arn_Nancuhue arn_Nancu
+	}
+
+	female_names = {
+		arn_Ailen arn_Alumine arn_Ayelen arn_Ayme arn_Calfuray arn_Cuyen arn_Huilen
+		arn_Ipi arn_Kuyen arn_Lican arn_Lilen arn_Malen arn_Manque arn_Millaray
+		arn_Pilmayquen arn_Pire arn_Quillen arn_Quimey arn_Rayen arn_Saqui arn_Suyai
+		arn_Yaima arn_Yamai
+	}
+}
+
+name_list_dakota = {
+
+	dynasty_names = {
+		dyn_dak_Hakadah dyn_dak_Ohiya_S-a dyn_dak_Tamaha dyn_dak_Wakinyanduta
+		dyn_dak_Wowinape dyn_dak_Duta dyn_dak_Gleska dyn_dak_Huste dyn_dak_Iyotake
+		dyn_dak_Kohkophapi dyn_dak_Kramarae dyn_dak_Luta dyn_dak_Pecan_Wakpa
+		dyn_dak_Sapa dyn_dak_Thankja dyn_dak_Witko
+		dyn_dak_Hazaiyankawin dyn_dak_Inkpaduta dyn_dak_Istahba dyn_dak_Mahpiya_Wicasta
+		dyn_dak_Ohiyes'a dyn_dak_Snana dyn_dak_Tamaha dyn_dak_Thaoyate_Duta
+		dyn_dak_Ti'wakan dyn_dak_Wapahasa dyn_dak_Wanatan dyn_dak_Wanbdi_Okichize
+		dyn_dak_Wanbdi_Thanka dyn_dak_Zitkala-Sa
+	}
+	
+	male_names = {
+		dak_Hehaka dak_Inkpaduta dak_Istahba dak_Mahpiya dak_Monkaushka dak_Sinte
+		dak_Tamaha dak_Thahca dak_Thasunke dak_Thathanka dak_Thaoyate_Duta dak_Wanbdisapa
+		dak_Wanata
+	}
+
+	female_names = {
+		dak_Topahhdewin dak_Wakanmaniwin dak_Wakantakawin dak_Wakhan_Inazin_Win
+	}
+}
+
+name_list_cherokee = {
+
+	dynasty_names = {
+		dyn_chr_Awiakta dyn_chr_Ashtola dyn_chr_Antowie dyn_chr_Bumeatt dyn_chr_Cahoost
+		dyn_chr_Chickleece dyn_chr_Cullake dyn_chr_Euker dyn_chr_Geeska dyn_chr_Lamar
+		dyn_chr_Lauchee dyn_chr_Landrum dyn_chr_Orr dyn_chr_Owane dyn_chr_Scrimsher
+		dyn_chr_Sankier dyn_chr_Salloee dyn_chr_Sweecullee dyn_chr_Tehee dyn_chr_Thayah
+	}
+	
+	male_names = {
+		chr_Conocotocko chr_Danuwoa chr_Gala-Gina chr_Junaluska chr_Kanati chr_Moytoy
+		chr_Sequoya chr_Takatoka chr_Tsali chr_Uku chr_Yonaguska chr_Adohi chr_Ama-Edohi
+		chr_Enoli chr_Jistu chr_Kanuna chr_Onacona chr_Salonitah chr_Waya chr_Wohali chr_Yona
+	}
+
+	female_names = {
+		chr_Adsila chr_Agasga chr_Ama chr_Amadahy chr_Awinita chr_Dyani
+		chr_Enu chr_Fala chr_Gola chr_Hiawassee chr_Kamama chr_Noya chr_Odina
+		chr_Pavati chr_Salalai chr_Selu chr_Tayanita chr_Tsula chr_Walela chr_Woya
+		chr_Yona chr_Ahyoka chr_Atsila chr_Catori chr_Galilahi chr_Nanye-Hi chr_Qaletaqa
+		chr_Tsianina
+	}
+}
+
+name_list_muskogean = {
+
+	dynasty_names = {
+		dyn_musk_Muklasalgi dyn_musk_Nokosalgi dyn_musk_Itamalgi dyn_musk_Isfanalgi
+		dyn_musk_Itchhasuaigi dyn_musk_Fusualgi dyn_musk_Ahalakalgi dyn_musk_Kohasalki
+		dyn_musk_Itchualgi dyn_musk_Hlahloalgi dyn_musk_Tsulalgi dyn_musk_Odshisalgi
+		dyn_musk_Aktayatsalgi dyn_musk_Takusalgi dyn_musk_OSanalgi dyn_musk_Chukotalgi
+		dyn_musk_Wahlakalgi dyn_musk_Okilisa dyn_musk_Kunipalgi dyn_musk_Pahosalgi
+		dyn_musk_Koakotsalgi dyn_musk_Hutalgalgi dyn_musk_Yahalgi
+		dyn_musk_hovtlke_Efkvm dyn_musk_hovtlke_Efoset dyn_musk_hovtlke_Faketv
+		dyn_musk_hovtlke_Fekv dyn_musk_hovtlke_Fosvm dyn_musk_hovtlke_Fuswv
+		dyn_musk_hovtlke_Fvsehv dyn_musk_hovtlke_Fvskv dyn_musk_hovtlke_Henske
+		dyn_musk_hovtlke_Henayv dyn_musk_hovtlke_Heske dyn_musk_hovtlke_Heslo
+		dyn_musk_hovtlke_Hesvke dyn_musk_hovtlke_Hesvlo dyn_musk_hovtlke_Hesvm
+		dyn_musk_hovtlke_Hesvya dyn_musk_hovtlke_Hese dyn_musk_hovtlke_Hfvn
+		dyn_musk_hovtlke_Hovckv dyn_musk_hovtlke_Huyvse dyn_musk_hovtlke_Hvhe
+		dyn_musk_hovtlke_Hvme dyn_musk_hovtlke_Hvnke dyn_musk_hovtlke_Hvnthe
+		dyn_musk_hovtlke_Hvnvh dyn_musk_hovtlke_Hvno dyn_musk_hovtlke_Hvseke
+		dyn_musk_hovtlke_Hvsfkv dyn_musk_hovtlke_Hvwv dyn_musk_hovtlke_Hvya
+		dyn_musk_hovtlke_Hefvle dyn_musk_hovtlke_Hemvke dyn_musk_hovtlke_Hetvm
+		dyn_musk_hovtlke_Heto dyn_musk_hovtlke_Kvcha dyn_musk_hovtlke_Kvchke
+		dyn_musk_hovtlke_Ofhvle dyn_musk_hovtlke_Ofhe dyn_musk_hovtlke_Oheke
+		dyn_musk_hovtlke_Ohkose dyn_musk_hovtlke_Ohsvt dyn_musk_hovtlke_Ohvlv
+		dyn_musk_hovtlke_Ohvne dyn_musk_hovtlke_Ohiyese dyn_musk_hovtlke_Oheske
+		dyn_musk_hovtlke_Okcvle dyn_musk_hovtlke_Okefos dyn_musk_hovtlke_Okemv
+		dyn_musk_hovtlke_Okev dyn_musk_hovtlke_Okvle dyn_musk_hovtlke_Okefos
+		dyn_musk_hovtlke_Okeskv dyn_musk_hovtlke_Tvlke dyn_musk_hovtlke_Tvmvkv
+		dyn_musk_hovtlke_Vhoke dyn_musk_hovtlke_Vhvske dyn_musk_hovtlke_Vkovse
+		dyn_musk_hovtlke_Vmehe dyn_musk_hovtlke_Vmehes dyn_musk_hovtlke_Vmeke
+		dyn_musk_hovtlke_Vmeyv dyn_musk_hovtlke_Vre dyn_musk_hovtlke_Vtvmv
+		dyn_musk_hovtlke_Vteyv
+	}
+	
+	male_names = {
+		musk_Chebona musk_Chekilli musk_Chiggilli musk_Chitto musk_Emistesigo musk_Hasse
+		musk_Hothlepoya musk_Huhuewahehle musk_Kikikwawason musk_Lamochattee
+		musk_Malatche musk_Menewa musk_Oppothleyaholo musk_OSceola musk_Ossiolachiih
+		musk_Talof musk_Tchikilli musk_Tomochichi musk_Yaholo musk_Yayatustenuggee
+		musk_Efkvm musk_Efoset musk_Faketv musk_Fekv musk_Fosvm musk_Fuswv
+		musk_Fvsehv musk_Fvskv musk_Henske musk_Henayv musk_Heske musk_Heslo
+		musk_Hesvke musk_Hesvlo musk_Hesvm musk_Hesvya musk_Hese musk_Hfvn
+		musk_Hovckv musk_Huyvse musk_Hvhe musk_Hvme musk_Hvnke musk_Hvnthe
+		musk_Hvnvh musk_Hvno musk_Hvseke musk_Hvsfkv musk_Hvwv musk_Hvya
+		musk_Hefvle musk_Hemvke musk_Hetvm musk_Heto musk_Kvcha musk_Kvchke
+		musk_Ofhvle musk_Ofhe musk_Oheke musk_Ohkose musk_Ohsvt musk_Ohvlv
+		musk_Ohvne musk_Ohiyese musk_Oheske musk_Okcvle musk_Okefos musk_Okemv
+		musk_Okev musk_Okvle musk_Okefos musk_Okeskv musk_Tvlke musk_Tvmvkv
+		musk_Vhoke musk_Vhvske musk_Vkovse musk_Vmehe musk_Vmehes musk_Vmeke
+		musk_Vmeyv musk_Vre musk_Vtvmv musk_Vteyv
+	}
+
+	female_names = {
+		musk_Cocheta musk_Dela musk_Eyota musk_Halona musk_Scenanki musk_Sehoy
+		musk_Talisa musk_Mausi musk_Nila musk_Onawa
+	}
+
+	dynasty_name_first = no
+	founder_named_dynasties = yes
+}
+name_list_iroquois = {
+
+	dynasty_names = {
+		iro_Ahyouwaighs  iro_Akwiraron iro_Akwirente iro_Atena_ti iro_Canaqueese iro_Deganawida
+		iro_Desagondensta iro_Donehogawa iro_Ga_yo_gwa_doke iro_Genessee iro_Guyasuta
+		iro_Gyantwachia iro_Hasanoanda iro_Hayonhwonhish iro_Kahenrahtiio iro_Kaientaronkwen
+		iro_Kaintwakon iro_Kanatase iro_Kanerhaken_iate iro_Kariwase iro_Karonghyontye
+		iro_Karonhyawake iro_Karontase iro_Ko_r iro_Koyengquahtah iro_Ohserase
+		iro_Okwaho iro_Onwanonsyshon iro_Otetiani iro_Rahrakwasere iro_Ratonhnhake_ton
+		iro_Rohahes iro_Sagoyewatha iro_Sa_k iro_Sayenqueraghta iro_Shakohahiiostha
+		iro_Shatekarahkwi_io iro_Shawatis iro_Sho_enri_se iro_Si_gwa_ah_doh_gwih
+		iro_Skahonhi_io iro_So_se iro_Tanacharison iro_Ta_wineonawira iro_Ta_wit
+		iro_Tehwehron iro_Tekaronhio_ken iro_Thaonawyuthe iro_Thayendanegea iro_Tier
+		iro_Tiorahkwathe iro_Tsio_kwaris iro_Wahiake_ron iro_Wishe iro_Wynnogene
+		iro_Xcaret
+	}
+	
+	male_names = {
+		iro_Ahyouwaighs  iro_Akwiraron iro_Akwirente iro_Atena_ti iro_Canaqueese iro_Deganawida
+		iro_Desagondensta iro_Donehogawa iro_Ga_yo_gwa_doke iro_Genessee iro_Guyasuta
+		iro_Gyantwachia iro_Hasanoanda iro_Hayonhwonhish iro_Kahenrahtiio iro_Kaientaronkwen
+		iro_Kaintwakon iro_Kanatase iro_Kanerhaken_iate iro_Kariwase iro_Karonghyontye
+		iro_Karonhyawake iro_Karontase iro_Ko_r iro_Koyengquahtah iro_Ohserase
+		iro_Okwaho iro_Onwanonsyshon iro_Otetiani iro_Rahrakwasere iro_Ratonhnhake_ton
+		iro_Rohahes iro_Sagoyewatha iro_Sa_k iro_Sayenqueraghta iro_Shakohahiiostha
+		iro_Shatekarahkwi_io iro_Shawatis iro_Sho_enri_se iro_Si_gwa_ah_doh_gwih
+		iro_Skahonhi_io iro_So_se iro_Tanacharison iro_Ta_wineonawira iro_Ta_wit
+		iro_Tehwehron iro_Tekaronhio_ken iro_Thaonawyuthe iro_Thayendanegea iro_Tier
+		iro_Tiorahkwathe iro_Tsio_kwaris iro_Wahiake_ron iro_Wishe iro_Wynnogene
+		iro_Xcaret
+	}
+
+	female_names = {
+		iro_Akat iro_Alliquippa iro_A_nen iro_Degonwadonti iro_Deh_he_wa_mis iro_Genessee
+		iro_Iakonie_ien iro_Iostha iro_Jigonhsasee iro_Johiehon iro_Kahentano_ron
+		iro_Kahentorehtha iro_Kahsennenhawe iro_Kahsennonkwas iro_Kahwihta
+		iro_Kaia_titahkhe iro_Kaiennenhawi iro_Kakaionstha iro_Kakwite_ne iro_Kanahstatsi
+		iro_Kanerahtenha_wi iro_Kanien_tahawi iro_Kanontienentha iro_Kara_titahkhe
+		iro_Karihwenhawe iro_Katsi_tsiakwas iro_Katsitsienhawi iro_Katsi_tsoronkwas
+		iro_Kawennahere iro_Kawennaro_roks iro_Kawennitake iro_Konwahawen_se
+		iro_Konwakeri iro_Konwaronhia_wi iro_Konwats_tsaien_ni iro_Konwatsi_tsiaienni
+		iro_Kwatien_se iro_Kwe_tshito iro_Minnehaha iro_Nikiawenna_a iro_Ojistah
+		iro_Okwaho iro_Onerahontsokon iro_Otsi_tsa iro_Otstoch iro_Owiso_kon iro_Skawennati
+		iro_Teiakotsinaren_tonte iro_Teioshontathe iro_Tekahentakwa iro_Tekahionwake
+		iro_Tekonwenaharake iro_Teres iro_Tewa_kerahkhwa iro_Tewatawen_ron iro_Tsis_swakeras
+		iro_Tyonajanegen iro_Wahienha_wi iro_Wahsontiiostha iro_Wa_ri
+		iro_Wariso_se iro_Wathahi_ne iro_Wynnogene iro_Yo_da_gent
+	}
+}

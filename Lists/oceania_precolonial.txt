@@ -1,0 +1,550 @@
+name_list_australian = {
+
+	dynasty_names = {
+		dyn_au_Ah_Chee dyn_au_Ah_Kit dyn_au_Ahmat dyn_au_Ah_Matt dyn_au_Balbuk
+		dyn_au_Barambah dyn_au_Baymarrwangga dyn_au_Booboorowie dyn_au_Bropho
+		dyn_au_Bulunbulun dyn_au_Burarrwanga dyn_au_Cockatoo dyn_au_Corowa
+		dyn_au_Dalaithngu dyn_au_Deeral dyn_au_Dhurrkay dyn_au_Dingo dyn_au_Djerrkura
+		dyn_au_Djilangya dyn_au_Galarrwuy dyn_au_Ganuurru dyn_au_Garimara dyn_au_Garner
+		dyn_au_Goolagong dyn_au_Gurruwiwi dyn_au_Jabanungga dyn_au_Japaljami dyn_au_Jungarai
+		dyn_au_Jurrah dyn_au_Kemarre dyn_au_Kerinaiua dyn_au_Kngwarreye dyn_au_Koorang
+		dyn_au_Kulitja dyn_au_Kurrupuwu dyn_au_Kwaymullina dyn_au_Lanhupuy dyn_au_Mandawuy
+		dyn_au_Marika dyn_au_Mawurndjul dyn_au_Maymuru dyn_au_Minniecon dyn_au_Minyintiri
+		dyn_au_Moowattin dyn_au_Mpetyane dyn_au_Mudjidell dyn_au_Munduwalawala
+		dyn_au_Mungnari dyn_au_Mununggurr dyn_au_Munyarryun dyn_au_Nadjamerrek
+		dyn_au_Nakamarra dyn_au_Namatjira dyn_au_Namok dyn_au_Nannup dyn_au_Napaljarri
+		dyn_au_Napaltjarri dyn_au_Napangardi dyn_au_Narogin dyn_au_Nerrimah dyn_au_Ngale
+		dyn_au_Nganjmirra dyn_au_Ngoombujarra dyn_au_Noonuccal dyn_au_Nungarrayi
+		dyn_au_Ofanengaue dyn_au_Payungka dyn_au_Petyarre dyn_au_Rrurrambu
+		dyn_au_Rubuntja dyn_au_Sampi dyn_au_Tapai dyn_au_Tipiloura dyn_au_Tipungwuti
+		dyn_au_Tjakamarra dyn_au_Tjampitjinpa dyn_au_Tjapaltjarri dyn_au_Tjapangati
+		dyn_au_Tjupurrula dyn_au_Tongerie dyn_au_Tudawali dyn_au_Tungutalum dyn_au_Ulungura
+		dyn_au_Unaipon dyn_au_Wanganeen dyn_au_Wapau dyn_au_Wenitong
+		dyn_au_Wirrpanda dyn_au_Wonaeamirri dyn_au_Worosun dyn_au_Wubugwubuk
+		dyn_au_Wululu dyn_au_Wunungmurra dyn_au_Yagmoor dyn_au_Yamma dyn_au_Yarran
+		dyn_au_Yow_Yeh dyn_au_Yunipingu
+	}
+
+	male_names = {
+		au_Akama au_Apari au_Araluen au_Balun au_Banjora au_Bapp au_Bardo au_Barega
+		au_Barown au_Berrigan au_Berringar au_Burraga au_Callagun au_Cobar au_Coen
+		au_Collin au_Cooba au_Coorain au_Cowan au_Daku au_Darel au_Derain au_Dhrean
+		au_Djakapura au_Djerrkura au_Dorak au_Dural au_Ganan au_Gatjil au_Gelar au_Girra
+		au_Jago au_Japaljami au_Jarrah au_Jerara au_Jirra au_Kalti au_Kambara au_Kami
+		au_Kari au_Killara au_Kolet au_Konol au_Koora au_Koorong au_Leewan au_Lipwurrunga
+		au_Lowan au_Maka au_Malalapay au_Mallee au_Manalagenna au_Mandu au_Mangajay
+		au_Marron au_Matari au_Matong au_Meernaa au_Miki au_Minar au_Minmara
+		au_Miro au_Mogo au_Mowan au_Mpetyane au_Mudjidell au_Mudrooroo au_Mulga
+		au_Mungulu au_Mutinya au_Myall au_Nalong au_Napangardi au_Narrah au_Nerang
+		au_Ngayunya au_Nioka au_Nowra au_Nuni au_Orad au_Parri au_Petyarre au_Tana
+		au_Taree au_Tuki au_Uwan au_Warra au_Warrain au_Warrigal au_Warrun au_Wirake
+		au_Wirrin au_Woorak au_Woorin au_Wubugwubuk au_Wululu au_Yarran au_Yarrawah
+		au_Yileen au_Yuka au_Yuma
+	}
+
+	female_names = {
+		au_Akuna au_Aleah au_Alinga au_Allira au_Allunga au_Apanie au_Arana au_Bambra
+		au_Barrandura au_Beeree au_Bega au_Calca au_Calleen au_Camira au_Cardinia au_Carina
+		au_Combara au_Coolalie au_Coorah au_Coreen au_Corowa au_Darri au_Ekala au_Eleebana
+		au_Gedala au_Ghera au_Gulara au_Gymea au_Jinchilla au_Jirra au_Junee au_Kadee au_Kadla
+		au_Kaiya au_Katapi au_Kolora au_Koorine au_Kora au_Korra au_Koula au_Koulla au_Kye
+		au_Kylea au_Kylene au_Kylie au_Labrini au_Labriny au_Lakkari au_Lamilla au_Leewana
+		au_Lemana au_Loorea au_Mallana au_Manilla au_Manyi au_Meera au_Mereki au_Miah
+		au_Mincarlie au_Minkle au_Miriyan au_Mirrin au_Moree au_Myuna au_Nangala
+		au_Nangela au_Narelle au_Norelle au_Nyaputja au_Nyree au_Nyurapaya au_Oodgeroo
+		au_Pengana au_Pinterry au_Pipia au_Quarralia au_Quoba au_Rata au_Rhimi au_Rikali
+		au_Rininga au_Tallara au_Tanara au_Tarra au_Tathra au_Tirranna au_Tjanangu au_Tjukapati
+		au_Toora au_Waminda au_Wanda au_Waratah au_Warrah au_Weema au_Woorak au_Wyuna
+		au_Yani au_Yaralla au_Yarrah au_Yindi au_Yooralla au_Yungara
+	}
+}
+
+name_list_fijian = {
+
+	dynasty_names = {
+		dyn_fj_Apolosi dyn_fj_Atalifo dyn_fj_Bainivalu dyn_fj_Banuve dyn_fj_Baravilala dyn_fj_Bari
+		dyn_fj_Biuvakaloloma dyn_fj_Bokini dyn_fj_Bola dyn_fj_Bole dyn_fj_Boseiwaqa
+		dyn_fj_Buadromo dyn_fj_Bula dyn_fj_Bulai dyn_fj_Cakacaka dyn_fj_Cakau dyn_fj_Cakobau
+		dyn_fj_Cama dyn_fj_Cavubati dyn_fj_Cokanasiga dyn_fj_Cokanauto dyn_fj_Dakuitoga
+		dyn_fj_Dakuidreketi dyn_fj_Daniva dyn_fj_Daurewa dyn_fj_Dawai dyn_fj_Delai
+		dyn_fj_Delana dyn_fj_Dimuri dyn_fj_Duvuduvukulu dyn_fj_Duvuloco dyn_fj_Erenavula
+		dyn_fj_Fatiaki dyn_fj_Finau dyn_fj_Ganila dyn_fj_Ganilau dyn_fj_Gaunavou dyn_fj_Gavidi
+		dyn_fj_Gonelevu dyn_fj_Ieremia dyn_fj_Kabu dyn_fj_Kafoa dyn_fj_Kama dyn_fj_Kamikamica
+		dyn_fj_Katalou dyn_fj_Kaukimoce dyn_fj_Kepa dyn_fj_Koroi dyn_fj_Koroitamana
+		dyn_fj_Koroivueta dyn_fj_Koto dyn_fj_Kotobalavu dyn_fj_Kurisaqila dyn_fj_Leba
+		dyn_fj_Lewanqila dyn_fj_Leweniqila dyn_fj_Lomu dyn_fj_Mafi dyn_fj_Mailei
+		dyn_fj_Mani dyn_fj_Manueli dyn_fj_Mara dyn_fj_Maraiwai dyn_fj_Marama dyn_fj_Masi
+		dyn_fj_Matai dyn_fj_Muamua dyn_fj_Mataika dyn_fj_Mataitini dyn_fj_Mataitoga
+		dyn_fj_Moce dyn_fj_Muavesi dyn_fj_Nacola dyn_fj_Nacuva dyn_fj_Naikelekele
+		dyn_fj_Naituyaha dyn_fj_Naivalu dyn_fj_Nakaunicina dyn_fj_Nayacalevu dyn_fj_Niumataiwalu
+		dyn_fj_Pene dyn_fj_Penjueli dyn_fj_Puamau dyn_fj_Qalo dyn_fj_Qaranivalu
+		dyn_fj_Qereqeretabua dyn_fj_Qiodravu dyn_fj_Rabuatoka dyn_fj_Rabuka dyn_fj_Rabukawaqa
+		dyn_fj_Racule dyn_fj_Radrodro dyn_fj_Raiwalui dyn_fj_Raka dyn_fj_Rakai dyn_fj_Ralulu
+		dyn_fj_Raniga dyn_fj_Ratu dyn_fj_Ratuvuki dyn_fj_Ravai dyn_fj_Ravuvu dyn_fj_Rayawa
+		dyn_fj_Rigamoto dyn_fj_Roko dyn_fj_Rokovunisei dyn_fj_Saukuru dyn_fj_Sauliga
+		dyn_fj_Savou dyn_fj_Savu dyn_fj_Seniloli dyn_fj_Serevi dyn_fj_Seru dyn_fj_Solofa
+		dyn_fj_Sova dyn_fj_Suka dyn_fj_Tabua dyn_fj_Tagi dyn_fj_Tagicakibau dyn_fj_Taito
+		dyn_fj_Takayawa dyn_fj_Takiveikata dyn_fj_Tamani dyn_fj_Taoi dyn_fj_Taukei
+		dyn_fj_Tavai dyn_fj_Tavaiqia dyn_fj_Tawake dyn_fj_Temo dyn_fj_Timoci dyn_fj_Tinai
+		dyn_fj_Tora dyn_fj_Tubuna dyn_fj_Tuidraki dyn_fj_Tuikabe dyn_fj_Tuinabua
+		dyn_fj_Tuisowaqa dyn_fj_Tuivaga dyn_fj_Tukana dyn_fj_Turaga dyn_fj_Tuwai dyn_fj_Uluicicia
+		dyn_fj_Umbari dyn_fj_Vakaloloma dyn_fj_Vakatale dyn_fj_Vakatora dyn_fj_Vuniveka
+		dyn_fj_Varea dyn_fj_Vaurasi dyn_fj_Veitayaki dyn_fj_Vesikula dyn_fj_Vidini
+		dyn_fj_Volau dyn_fj_Veka_na_toa dyn_fj_Volavola dyn_fj_Vuki dyn_fj_Vula dyn_fj_Vunibaka
+		dyn_fj_Vunibobo dyn_fj_Wainiqolo dyn_fj_Waqa dyn_fj_Waqabaca dyn_fj_Waqanisau
+		dyn_fj_Waqanivalu dyn_fj_Waqavonovono
+	}
+
+	male_names = {
+		fj_Adi fj_Aminiasi fj_Apenisa fj_Berenado fj_Cakobau fj_Emori fj_Epeli fj_Epenisa
+		fj_Esekia fj_Filipe fj_Ilisoni fj_Isikeli fj_Isimeli fj_Jesoni fj_Jo fj_Joeli fj_Jone fj_Jope
+		fj_Josateki fj_Josefa fj_Jovesa fj_Kamisese fj_Karavi fj_Kelemedi fj_Lala fj_Lasarusa
+		fj_Lemeki fj_Levani fj_Levenei fj_Leveni fj_Maafu fj_Manasa fj_Marika fj_Naulivou
+		fj_Ovini fj_Penaia fj_Peniamini fj_Petero fj_Poasa fj_Sakeasi fj_Samisoni fj_Savenaca
+		fj_Seru fj_Sione fj_Sirilo fj_Sitiveni fj_Solomone fj_Tamiela fj_Timi fj_Timoci fj_Tomasi
+		fj_Tui fj_Voreqe fj_Waisake fj_Waisale fj_Wije
+	}
+
+	female_names = {
+		fj_Adelina fj_Adi fj_Adiceva fj_Aliti fj_Alumeci fj_Alumita fj_Ana fj_Anaseini
+		fj_Ane fj_Arieta fj_Asenaca fj_Asilika fj_Asinate fj_Ateca fj_Ecelini fj_Ela
+		fj_Elenoa fj_Elisa fj_Elita fj_Ema fj_Emma fj_Esiteri fj_Fulori fj_Florina fj_Iliana
+		fj_Ilisapeci fj_Inise fj_Iowana fj_Isabela fj_Jiowana fj_Joana fj_Kelani fj_Kalara
+		fj_Karalaini fj_Karistiana fj_Katarina fj_Kelera fj_Kesaia fj_Koila fj_Laisani fj_Lagi
+		fj_Lagilagi fj_Lani fj_Lanieta fj_Laisa fj_Laite fj_Lavenia fj_Lavinia fj_Leba fj_Lelea
+		fj_Leona fj_Lia fj_Liana fj_Liku fj_Liliana fj_Lilieta fj_Lini fj_Litia fj_Litiana fj_Lomani
+		fj_Losalini fj_Luisa fj_Luse fj_Lusiana fj_Makelesi fj_Makosoi fj_Maraia fj_Maria
+		fj_Masi fj_Matelita fj_Matila fj_Mere fj_Mereani fj_Mereia fj_Mereoni fj_Mereseini
+		fj_Merewalesi fj_Meri fj_Miliana fj_Miriama fj_Nanise fj_Natalina fj_Naomi
+		fj_Neomai fj_Nia fj_Nikola fj_Olivia fj_Oni fj_Omeri fj_Oripa fj_Paulina fj_Paulini
+		fj_Raijeli fj_Ranadi fj_Reijeli fj_Reapi fj_Repeka fj_Rigieta fj_Rosi fj_Rusila fj_Rusula
+		fj_Salanieta fj_Salesia fj_Salote fj_Saraseini fj_Seini fj_Selai fj_Selaina fj_Selina fj_Selita
+		fj_Sera fj_Sereana fj_Seruwaia fj_Siana fj_Sifoni fj_Sisilia fj_Siteri fj_Tagimoucia fj_Talei
+		fj_Taufa fj_Teresia fj_Tima fj_Tokasa fj_Torika fj_Tuliana fj_Unaisi fj_Vaulina fj_Vilimaini
+		fj_Viniana fj_Virisila
+	}
+}
+name_list_hawaiian = {
+
+	dynasty_names = {
+		dyn_haw_Kealoha dyn_haw_Akana dyn_haw_Akau dyn_haw_Kalama dyn_haw_Akina
+		dyn_haw_Akiona dyn_haw_Kamaka dyn_haw_Kanahele dyn_haw_Kaai dyn_haw_Kaaihue
+		dyn_haw_Ahu dyn_haw_Ahuna dyn_haw_Aina dyn_haw_Aiona dyn_haw_Aiu dyn_haw_Akaka
+		dyn_haw_Akamu dyn_haw_Akee dyn_haw_Akuna dyn_haw_Alapai dyn_haw_Alo
+		dyn_haw_Aloha dyn_haw_Aloiau dyn_haw_Apana dyn_haw_Aukai dyn_haw_Awai
+		dyn_haw_Aweau dyn_haw_Ewa dyn_haw_Haleamau dyn_haw_Hanohano dyn_haw_Heau
+		dyn_haw_Heaukalani dyn_haw_Hoapili dyn_haw_Holomalia dyn_haw_Hookano
+		dyn_haw_Hoopai dyn_haw_Hoopii dyn_haw_Huihui dyn_haw_Iaea dyn_haw_Ioli
+		dyn_haw_Kaahanui dyn_haw_Kaahu dyn_haw_Kaaikaula dyn_haw_Kaanapu dyn_haw_Kaanoi
+		dyn_haw_Kaapu dyn_haw_Kaauwai dyn_haw_Kaawa dyn_haw_Kaawaloa dyn_haw_Kaeo
+		dyn_haw_Kahakalau dyn_haw_Kahalehoe dyn_haw_Kahalewai dyn_haw_Kahanu
+		dyn_haw_Kahele dyn_haw_Kahinika dyn_haw_Kahookele dyn_haw_Kahuanui
+		dyn_haw_Kahue dyn_haw_Kaili dyn_haw_Kaina dyn_haw_Kaio dyn_haw_Kaiwi
+		dyn_haw_Kalahea dyn_haw_Kalahiki dyn_haw_Kalani dyn_haw_Kalawa dyn_haw_Kaleialii
+		dyn_haw_Kaleikini dyn_haw_Kaleo dyn_haw_Kalili dyn_haw_Kalilikane dyn_haw_Kalima
+		dyn_haw_Kalua dyn_haw_Kaluna dyn_haw_Kamae dyn_haw_Kamahele dyn_haw_Kamai
+		dyn_haw_Kamakawiwoole dyn_haw_Kamealoha dyn_haw_Kamelamela dyn_haw_Kaneakua
+		dyn_haw_Kanealii dyn_haw_Kanekoa dyn_haw_Kaniho dyn_haw_Kanoa dyn_haw_Kanoho
+		dyn_haw_Kaonohi dyn_haw_Kaopuiki dyn_haw_Kaua dyn_haw_Kauanui dyn_haw_Kauhane
+		dyn_haw_Kauhi dyn_haw_Kaui dyn_haw_Kauwe dyn_haw_Kawana dyn_haw_Kawananakau
+		dyn_haw_Kawena dyn_haw_Keahi dyn_haw_Kealani dyn_haw_Kealohanui dyn_haw_Keawe
+		dyn_haw_Keawmauhili dyn_haw_Kekahuna dyn_haw_Kekauoha dyn_haw_Kekoa
+		dyn_haw_Kelepolo dyn_haw_Kelii dyn_haw_Keliikoa dyn_haw_Keola dyn_haw_Kinikini
+		dyn_haw_Koa dyn_haw_Kua dyn_haw_Kuamoo dyn_haw_Kuehu dyn_haw_Kukahiko
+		dyn_haw_Kulukulualani dyn_haw_Kumalaa dyn_haw_Kupau dyn_haw_Kupihea
+		dyn_haw_Laanui dyn_haw_Lalakea dyn_haw_Leialoha dyn_haw_Maae dyn_haw_Maalea
+		dyn_haw_Mahelona dyn_haw_Mahi dyn_haw_Mahiai dyn_haw_Mahoe dyn_haw_Maka
+		dyn_haw_Makaiau dyn_haw_Makaiole dyn_haw_Makaiwi dyn_haw_Makekau dyn_haw_Makua
+		dyn_haw_Malo dyn_haw_Manalo dyn_haw_Manuia dyn_haw_Maui dyn_haw_Maunukea
+		dyn_haw_Mookinidyn_haw_Mu dyn_haw_Mui dyn_haw_Naehu dyn_haw_Naeole
+		dyn_haw_Nainoa dyn_haw_Nakoa dyn_haw_Naluai dyn_haw_Namahoe dyn_haw_Nihipali
+		dyn_haw_Nukoni dyn_haw_Opunui dyn_haw_Pakele dyn_haw_Palakiko dyn_haw_Paoa
+		dyn_haw_Pikake dyn_haw_Pio dyn_haw_Pokahu dyn_haw_Pua dyn_haw_Pukui
+		dyn_haw_Puu dyn_haw_Puuohau dyn_haw_Wahilani
+	}
+
+	male_names = {
+		haw_Aalona haw_Aikake haw_Aka haw_Akamu haw_Alana haw_Alena haw_Alii
+		haw_Alika haw_Analu haw_Anoi haw_Auina haw_Aukina haw_Aulelio haw_Ehukai haw_Elika
+		haw_Emanuela haw_Enakai haw_Enoka haw_Haaheo haw_Hanauhou haw_Haneke
+		haw_Hani haw_Hauoli haw_Hoaka haw_Hoewaa haw_Hoku haw_Hokualohi haw_Hokuaonani
+		haw_Hookano haw_Huanu haw_Hua-pala haw_Iakona haw_Iakopo haw_Ikaika haw_Imaikalani
+		haw_Ioei haw_Ioela haw_Iokepa haw_Iokua haw_Iolani haw_Iulio haw_Kaamumoana
+		haw_Kaena haw_Kaeo haw_Kahaaheo haw_Kahalewai haw_Kahe haw_Kaheka haw_Kahewai
+		haw_Kahokuokalani haw_Kai haw_Kaimana haw_Kaimi haw_Kaimipono haw_Kainalu
+		haw_Kainoa haw_Kaipo haw_Kaiu haw_Kala haw_Kalai haw_Kalama haw_Kalani
+		haw_Kale haw_Kalei haw_Kaleialoha haw_Kaleikaumaka haw_Kaleo haw_Kaleolani
+		haw_Kalua haw_Kamaka haw_Kamakana haw_Kamalei haw_Kamealoha haw_Kamuela
+		haw_Kana haw_Kanai haw_Kanamu haw_Kanani haw_Kane haw_Kaniela haw_Kanoa
+		haw_Kapena haw_Kapono haw_Kapua haw_Kaplani haw_Kauhane haw_Kaulana
+		haw_Kaumana haw_Kawai haw_Kawaloa haw_Kawika haw_Keahi haw_Keaka
+		haw_Keala haw_Kealii haw_Kealoha haw_Kealohalani haw_Keani haw_Keanu
+		haw_Keawe haw_Keka haw_Kekoa haw_Kelii haw_Kemikilio haw_Keneke haw_Kenika
+		haw_Keohi haw_Keoki haw_Keola haw_Keona haw_Keonaona haw_Keone haw_Keoni
+		haw_Keopele haw_Kepano haw_Kiawe haw_Kika haw_Kila haw_Kimo haw_Kini
+		haw_Koa haw_Koi haw_Kominiko haw_Kona haw_Konane haw_Konapiliahi haw_Kula
+		haw_Kulo haw_Kunani haw_Kuualoha haw_Kuulei haw_Laakea haw_Lani haw_Laukoa
+		haw_Lehua haw_Lei haw_Leiahola haw_Leone haw_Li haw_Lika haw_Like haw_Likeke
+		haw_Lokomaikai haw_Lomio haw_Lopaka haw_Luaipou haw_Lui haw_Luka haw_Maiele
+		haw_Maiki haw_Maile haw_Makaio haw_Makana haw_Makani haw_Makoa haw_Mano
+		haw_Manuela haw_Manuia haw_Manuwai haw_Mikaele haw_Mikuela haw_Moana
+		haw_Moananani haw_Mohameka haw_Nainoa haw_Nakana haw_Nalani haw_Nalu
+		haw_Nanala haw_Noa haw_Nohea haw_Oliwa haw_Onaona haw_Opelu haw_Opihi
+		haw_Paaloha haw_Pakela haw_Palaika haw_Palaina haw_Palani haw_Paulo haw_Peleke
+		haw_Peniamina haw_Pila haw_Pilipo haw_Pohaku haw_Pohu haw_Pomaikai haw_Pookela
+		haw_Pua haw_Puakai haw_Puakea haw_Pualele haw_Puanani haw_Punahele haw_Uluao
+		haw_Walena haw_Wiliama
+	}
+
+	female_names = {
+		haw_Ahonui haw_Ahulani haw_Ailani haw_Ailina haw_Akela haw_Alana
+		haw_Alani haw_Alaula haw_Alikia haw_Aloalo haw_Aloha haw_Alohilani haw_Amaui
+		haw_Amelia haw_Anakakia haw_Anakalia haw_Anela haw_Anika haw_Anuenue haw_Anuhea
+		haw_Aolani haw_Api haw_Aukele haw_Aulani haw_Aulelia haw_Awapuhi haw_Ele-ele
+		haw_Elele haw_Elikapeka haw_Eme haw_Emele haw_Ewa haw_Ewalani haw_Halaki
+		haw_Haunani haw_Hau-oli haw_Healani haw_Hi-ilani haw_Hi-ilei haw_Hoaka
+		haw_Hoku haw_Hokualohi haw_Hokuaonani haw_Hokulani haw_Hooponoleina haw_Hualani
+		haw_Hua-pala haw_Ihilani haw_Ioana haw_Iolana haw_Iukika haw_Iwalani haw_Kahe
+		haw_Kahealani haw_Kahewai haw_Kahoku haw_Kahula haw_Kaila haw_Kailani haw_Kaili
+		haw_Kaiulani haw_Kala haw_Kalala haw_Kalamela haw_Kalani haw_Kalanie haw_Kalaukina
+		haw_Kalea haw_Kalehua haw_Kaleialoha haw_Kaleilani haw_Kaleinani haw_Kaleiokalani
+		haw_Kalena haw_Kaleolani haw_Kaleponi haw_Kali haw_Kalia haw_Kaliana haw_Kalolaina
+		haw_Kamaile	haw_Kamaka haw_Kamala haw_Kamalani haw_Kamalei haw_Kamila haw_Kanake
+		haw_Kanane haw_Kanani haw_Kani haw_Kanoa haw_Kanoelani haw_Kanoelehua haw_Kapiolani
+		haw_Kapona haw_Kapua haw_Kaui haw_Kauionalani haw_Kawailani haw_Kawena
+		haw_Keala haw_Kealani haw_Kealaokalani haw_Kealoha haw_Kealohalani haw_Kealohapauole
+		haw_Kealohilani haw_Keani haw_Kehaulani haw_Keikana haw_Keiki haw_Keilana haw_Keilani
+		haw_Kekepania haw_Keokania haw_Keola haw_Keona haw_Keonaona haw_Kepi haw_Kiana
+		haw_Kiani haw_Kiawe haw_Kikilia haw_Kila haw_Kiliwia haw_Kimi haw_Kina haw_Kinikia
+		haw_Kola haw_Kolina haw_Konia haw_Konokuelo haw_Kulia haw_Kuualoha haw_Kuuipo
+		haw_Kuulei haw_Kuuleialoha haw_Kuuleilani haw_Kuuleinani haw_Kuumomimakamae
+		haw_Lahapa haw_Lahela haw_Lani haw_Lea haw_Lehua haw_Lehuanani haw_Leialoha
+		haw_Leiko haw_Leilani haw_Leinaala haw_Leinani haw_Li haw_Lihau haw_Lilia
+		haw_Lilinoe haw_Lina haw_Loke haw_Lokelani haw_Lokemele haw_Luana haw_Luika
+		haw_Lukia haw_Mahealani haw_Maile haw_Maka haw_Makamae haw_Makana
+		haw_Makanalani haw_Malea haw_Maleka haw_Malia haw_Malu haw_Maluhia
+		haw_Manaoio haw_Manaolana haw_Mapuana haw_Maulena haw_Mei haw_Mekeke
+		haw_Melani haw_Mele haw_Melene haw_Melia haw_Mikaele haw_Mikala haw_Mililani
+		haw_Moana haw_Moani haw_Mokihana haw_Momi haw_Momilani haw_Naia
+		haw_Nailani haw_Nalanai haw_Nalani haw_Nanea haw_Napua haw_Napualani haw_Nikole
+		haw_Noelani haw_Nohealani haw_Nohelani haw_Nolina haw_Oliwia haw_Onaona haw_Opelia
+		haw_Pa haw_Paaloha haw_Pakela haw_Pauahi haw_Papala haw_Pawa haw_Peike haw_Pele
+		haw_Piikea haw_Piilani haw_Pikake haw_Pilialo haw_Piliki haw_Pohu haw_Pua
+		haw_Pualani haw_Puemana haw_Puanani haw_Pumehana haw_Uilani haw_Ula
+		haw_Ulalani haw_Ulalia haw_Ulana haw_Ulani haw_Ululani haw_Uluwehi haw_Wailani
+		haw_Waioleka haw_Wana haw_Wanaka
+		}
+}
+name_list_maori = {
+
+	dynasty_names = {
+		dyn_mi_Ahipene dyn_mi_Amohau dyn_mi_Anaru dyn_mi_Apanui dyn_mi_Arahanga
+		dyn_mi_Aramoana dyn_mi_Aranui dyn_mi_Areaiiti dyn_mi_Ata dyn_mi_Atama
+		dyn_mi_Awatere dyn_mi_Ehau dyn_mi_Eketone dyn_mi_Eru dyn_mi_Haare dyn_mi_Hakiwai
+		dyn_mi_Hakuene dyn_mi_Harawira dyn_mi_Hato dyn_mi_Hau dyn_mi_Hauraki
+		dyn_mi_Hei dyn_mi_Heke dyn_mi_Hemi dyn_mi_Henare dyn_mi_Hepetipa dyn_mi_Hepi
+		dyn_mi_Herangi dyn_mi_Herekotukutuku dyn_mi_Heremaia dyn_mi_Hereora
+		dyn_mi_Hetet dyn_mi_Hiku dyn_mi_Himona dyn_mi_Hipango dyn_mi_Hiroa
+		dyn_mi_Hohaia dyn_mi_Horo dyn_mi_Horomia dyn_mi_Hotere dyn_mi_Hotu dyn_mi_Huata
+		dyn_mi_Hutana dyn_mi_Ihaka dyn_mi_Ihimaera dyn_mi_Iro dyn_mi_Iti
+		dyn_mi_Kaa dyn_mi_Kahu dyn_mi_Kahukiwa dyn_mi_Kaihau dyn_mi_Kainga dyn_mi_Kamo
+		dyn_mi_Kanuta dyn_mi_Kapa dyn_mi_Kapua dyn_mi_Karaitiana dyn_mi_Karauria
+		dyn_mi_Karawana dyn_mi_Karetu dyn_mi_Katene dyn_mi_Kawharu dyn_mi_Keiha
+		dyn_mi_Kenana dyn_mi_Kereopa dyn_mi_Kingi dyn_mi_Kirikiri dyn_mi_Kohe
+		dyn_mi_Kohere dyn_mi_Koopu dyn_mi_Kooro dyn_mi_Kooti dyn_mi_Kopu
+		dyn_mi_Kopunui dyn_mi_Korako dyn_mi_Kuiti dyn_mi_Maaka dyn_mi_Mahuika
+		dyn_mi_Mahuta dyn_mi_Maihi dyn_mi_Maioha dyn_mi_Makitanara dyn_mi_Makoare
+		dyn_mi_Makura dyn_mi_Mangakahia dyn_mi_Manihera dyn_mi_Manuera
+		dyn_mi_Maori dyn_mi_Mapu dyn_mi_Marumaru dyn_mi_Mataira dyn_mi_Mateparae
+		dyn_mi_Matete dyn_mi_Matua dyn_mi_Mawhete dyn_mi_Meretana
+		dyn_mi_Mihaka dyn_mi_Mikaere dyn_mi_Mira dyn_mi_Mita dyn_mi_Moa
+		dyn_mi_Moana dyn_mi_Mohi dyn_mi_Moko dyn_mi_Motu dyn_mi_Muru
+		dyn_mi_Nahi dyn_mi_Neho dyn_mi_Nepia dyn_mi_Ngakaho dyn_mi_Ngamu
+		dyn_mi_Ngarimu dyn_mi_Ngata dyn_mi_Ngatai dyn_mi_Ngatata dyn_mi_Ngawai
+		dyn_mi_Ngawini dyn_mi_Nikau dyn_mi_Nikora dyn_mi_Nikorima dyn_mi_Noema
+		dyn_mi_Okeroa dyn_mi_Omahuru dyn_mi_Omana dyn_mi_Otimi dyn_mi_Paetahi
+		dyn_mi_Paewai dyn_mi_Paikea dyn_mi_Paki dyn_mi_Papakura dyn_mi_Paraha
+		dyn_mi_Paraone dyn_mi_Parata dyn_mi_Paratene dyn_mi_Parekowhai dyn_mi_Parore
+		dyn_mi_Patuki dyn_mi_Pene dyn_mi_Pere dyn_mi_Perenara dyn_mi_Perohuka
+		dyn_mi_Pewairangi dyn_mi_Pirini dyn_mi_Pita dyn_mi_Pitama dyn_mi_Pitini
+		dyn_mi_Poananga dyn_mi_Poata dyn_mi_Pohe dyn_mi_Pohio dyn_mi_Pokere
+		dyn_mi_Pomare dyn_mi_Pongia dyn_mi_Pore dyn_mi_Potaka dyn_mi_Potiki
+		dyn_mi_Poutapu dyn_mi_Poutini dyn_mi_Pukehika dyn_mi_Puketapu dyn_mi_Pumipi
+		dyn_mi_Puriri dyn_mi_Rakena dyn_mi_Rameka dyn_mi_Rangi dyn_mi_Rangihau
+		dyn_mi_Rapana dyn_mi_Rapira dyn_mi_Rata dyn_mi_Ratana dyn_mi_Rauhihi
+		dyn_mi_Raukawa dyn_mi_Reihana dyn_mi_Reke dyn_mi_Reriti dyn_mi_Reti
+		dyn_mi_Reweti dyn_mi_Rewiri dyn_mi_Rikihana dyn_mi_Rimoni dyn_mi_Ririnui
+		dyn_mi_Riwai dyn_mi_Ropata dyn_mi_Ropati dyn_mi_Ropiha dyn_mi_Rukupo
+		dyn_mi_Rukutai dyn_mi_Runga dyn_mi_Rupuma dyn_mi_Rurawhe dyn_mi_Ruru
+		dyn_mi_Taane dyn_mi_Taepa dyn_mi_Tahiwi dyn_mi_Tahu dyn_mi_Taiapa
+		dyn_mi_Taiaroa dyn_mi_Taine dyn_mi_Tainui dyn_mi_Taipua dyn_mi_Taiwhanga
+		dyn_mi_Takamoana dyn_mi_Tamaki dyn_mi_Tamanui dyn_mi_Tamati dyn_mi_Tamihere
+		dyn_mi_Tana dyn_mi_Taumata dyn_mi_Taumaunu dyn_mi_Taurima dyn_mi_Tawhai
+		dyn_mi_Tawhiti dyn_mi_Te_Ao dyn_mi_Te_Atahikoia dyn_mi_Te_Atawhai
+		dyn_mi_Te_Awekotuku dyn_mi_Te_Hapuku dyn_mi_Te_Heuheu dyn_mi_Te_Huia
+		dyn_mi_Te_Huna dyn_mi_Teka dyn_mi_Te_Kanawa dyn_mi_Te_Maioha dyn_mi_Temara
+		dyn_mi_Te_Nana dyn_mi_Te_Pou dyn_mi_Te_Rahui dyn_mi_Te_Rangikaheke
+		dyn_mi_Te_Rangimarie dyn_mi_Terei dyn_mi_Teua dyn_mi_Te_Uroa
+		dyn_mi_Te_Wake dyn_mi_Te_Wheoro dyn_mi_Te_Wiata dyn_mi_Tikao
+		dyn_mi_Tirikatene dyn_mi_Tomoana dyn_mi_Topeora dyn_mi_Tuiahi
+		dyn_mi_Tukino dyn_mi_Tumahai dyn_mi_Tunui dyn_mi_Turei
+		dyn_mi_Turia dyn_mi_Turinui dyn_mi_Tutaia dyn_mi_Tuterangi dyn_mi_Tuuta
+		dyn_mi_Tuwhare dyn_mi_Uru dyn_mi_Waaka dyn_mi_Waikerepuru dyn_mi_Waitai
+		dyn_mi_Waitere dyn_mi_Waititi dyn_mi_Wakarua dyn_mi_Waru dyn_mi_Watene
+		dyn_mi_Weepu dyn_mi_Wereta dyn_mi_Wetere dyn_mi_Whaitiri dyn_mi_Whareaitu
+		dyn_mi_Wharerau dyn_mi_Whiu dyn_mi_Wiki dyn_mi_Wihongi dyn_mi_Winitana
+		dyn_mi_Wirihana dyn_mi_Wi_Rutene
+	}
+
+	male_names = {
+		mi_Ahu mi_Amohia mi_Anaru mi_Api mi_Apirata mi_Arapata mi_Arapeta mi_Ari
+		mi_Ariki mi_Awika mi_Enoka mi_Eru mi_Haimona mi_Hami mi_Hamiora mi_Haungurunguru
+		mi_Hemi mi_Henara mi_Henare mi_Heremaia mi_Himi mi_Hika mi_Hira mi_Hoani
+		mi_Hohepa mi_Hokianga mi_Hone mi_Hori mi_Hotu mi_Huirangi mi_Ihaia mi_Kahu
+		mi_Kahumanu mi_Kahurangi mi_Kahutea mi_Kamira mi_Kauri mi_Kereama mi_Kerehi mi_Kori
+		mi_Kupe mi_Mahi mi_Mahutia mi_Mana mi_Manaaki mi_Manaia mi_Manawa mi_Manoa
+		mi_Manu mi_Mare mi_Matiu mi_Maui mi_Meto mi_Mikaele mi_Moana mi_Mutu
+		mi_Ngakaukawa mi_Ngati mi_Nihe mi_Nikau mi_Niko mi_Nikora mi_Okena
+		mi_Olo mi_Paora mi_Patariki mi_Peta mi_Petera mi_Piripi mi_Pita mi_Rangi mi_Rawiri
+		mi_Remia mi_Rewa mi_Tai mi_Taiaho mi_Taine mi_Taki mi_Tama mi_Tamaho
+		mi_Tamati mi_Tame mi_Tane mi_Tangaroa mi_Taukeiaho mi_Taunui mi_Te_Ariki
+		mi_Te_Koha mi_Tekukuni mi_Temuera mi_Tiare mi_Timoti mi_Tipene mi_Tipi
+		mi_Toa mi_Toangia mi_Turu mi_Tuu mi_Whatahui mi_Wherehiko mi_Wiremu
+	}
+
+	female_names = {
+		mi_Aka mi_Akenehi mi_Amaia mi_Ana mi_Anahera mi_Anika mi_Aria mi_Ariana
+		mi_Aroha mi_Ataahua mi_Awhina mi_Erana mi_Eri mi_Hana mi_Hapaikiterangi mi_Hema
+		mi_Heni mi_Hera mi_Hinauri mi_Hine mi_Hinemoa mi_Hinewai mi_Hinewehi
+		mi_Hira mi_Hoana mi_Huhana mi_Huia mi_Hurihuri mi_Irihapeti mi_Iritana
+		mi_Kahurangi mi_Kaia mi_Kehu mi_Kereh mi_Keri mi_Kiri mi_Kora mi_Kuni mi_Kupe
+		mi_Maata mi_Mahi mi_Mahina mi_Maia mi_Mairangi mi_Manaia mi_Maraea
+		mi_Marama mi_Marara mi_Mareikura mi_Matire mi_Mere mi_Mereana mi_Mira
+		mi_Miriama mi_Moana mi_Moe mi_Moori mi_Ngaio mi_Ngaire mi_Ngarongo mi_Ngatote
+		mi_Ngawai mi_Nia mi_Nikora mi_Niree mi_Nyra mi_Nyree mi_Nyrie mi_Pare
+		mi_Pohea mi_Putiputi mi_Ra mi_Ranangi mi_Rangi mi_Rata mi_Rewa mi_Ria
+		mi_Rita mi_Roimata mi_Ruiha mi_Taiaroa mi_Taka mi_Tamati mi_Terina
+		mi_Tia mi_Tiare mi_Tiwho mi_Toi mi_Tui mi_Tungia mi_Waimarie mi_Waitohi
+		mi_Wharerangi mi_Whawhakiterangi mi_Whetu mi_Whina mi_Wikitoria
+	}
+}
+name_list_micronesian = {
+
+	dynasty_names = {
+		dyn_gil_Acfalle dyn_gil_Aflague dyn_gil_Aguan dyn_gil_Agulto dyn_gil_Aguon
+		dyn_gil_Ayuyu dyn_gil_Alepuyo dyn_gil_Alig dyn_gil_Angoco dyn_gil_Apatong
+		dyn_gil_Atalig dyn_gil_Atoigue dyn_gil_Attao dyn_gil_Babauta dyn_gil_Baccam
+		dyn_gil_Chaco dyn_gil_Charfauros dyn_gil_Chargualaf dyn_gil_Chatfaurus dyn_gil_Faisao
+		dyn_gil_Fegurgur dyn_gil_Feharang dyn_gil_Gogue dyn_gil_Gogui dyn_gil_Gumataotao
+		dyn_gil_Hocog dyn_gil_Laguana dyn_gil_Limtiaco dyn_gil_Lizama dyn_gil_Mafnas
+		dyn_gil_Manglona dyn_gil_Manibusan dyn_gil_Mantanona dyn_gil_Masga
+		dyn_gil_Matanane dyn_gil_Mesngon dyn_gil_Namauleg dyn_gil_Naputi dyn_gil_Nauta
+		dyn_gil_Nededog dyn_gil_Ogo dyn_gil_Ooka dyn_gil_Pinauala dyn_gil_Pocaigue
+		dyn_gil_Quenga dyn_gil_Quichocho dyn_gil_Quichuchu dyn_gil_Quidachay dyn_gil_Quinata
+		dyn_gil_Quinene dyn_gil_Quitano dyn_gil_Quitugua dyn_gil_Songao dyn_gil_Taga
+		dyn_gil_Taijeron dyn_gil_Taimanao dyn_gil_Taimanglo dyn_gil_Tainatongo dyn_gil_Taisacan
+		dyn_gil_Taisague dyn_gil_Taisatano dyn_gil_Taisatingfong dyn_gil_Taitague
+		dyn_gil_Taitano dyn_gil_Taitingfong dyn_gil_Tajalle dyn_gil_Tatlahe dyn_gil_Tedtaotao
+		dyn_gil_Terlaje dyn_gil_Topasna dyn_gil_Toves dyn_gil_Ada dyn_gil_Angui
+		dyn_gil_Apatang dyn_gil_Aquiningoc dyn_gil_Arriola dyn_gil_Atalig dyn_gil_Attao
+		dyn_gil_Ayuyu dyn_gil_Babauta dyn_gil_Borja dyn_gil_Camacho dyn_gil_Cing
+		dyn_gil_Demapan dyn_gil_Duenas dyn_gil_Falig dyn_gil_Fejeran dyn_gil_Fitial
+		dyn_gil_Fujihira dyn_gil_Hocog dyn_gil_Igibara dyn_gil_Iginoef dyn_gil_Igisaiar
+		dyn_gil_Igisomar dyn_gil_Igitol dyn_gil_Iguel dyn_gil_Ilo dyn_gil_Inos
+		dyn_gil_Itaman dyn_gil_Itibus dyn_gil_Kaipat dyn_gil_Kaneshi dyn_gil_Kapileo
+		dyn_gil_Kileleman dyn_gil_Laniyo dyn_gil_Lifoifoi dyn_gil_Limes dyn_gil_Lisua
+		dyn_gil_Litulumar dyn_gil_Lizama dyn_gil_Magofna dyn_gil_Malite dyn_gil_Manahane
+		dyn_gil_Mangabao dyn_gil_Mangarero dyn_gil_Manglona dyn_gil_Maratita dyn_gil_Masga
+		dyn_gil_Matagolai dyn_gil_Mesngon dyn_gil_Mettao dyn_gil_Muna dyn_gil_Naputi
+		dyn_gil_Nekaifes dyn_gil_Ngeskebei dyn_gil_Norita dyn_gil_Odoshi dyn_gil_Ogo
+		dyn_gil_Ogumoro dyn_gil_Olaitiman dyn_gil_Olopai dyn_gil_Olupumar dyn_gil_Pangelinan
+		dyn_gil_Parung dyn_gil_Pinaula dyn_gil_Pua dyn_gil_Rabauliman dyn_gil_Rangamar
+		dyn_gil_Rapugao dyn_gil_Rebuenog dyn_gil_Repeki dyn_gil_Rogolifoi dyn_gil_Romolor
+		dyn_gil_Sablan dyn_gil_Sakisat dyn_gil_Saralu dyn_gil_Satur dyn_gil_Saures
+		dyn_gil_Selepeo dyn_gil_Seman dyn_gil_Somol dyn_gil_Songao dyn_gil_Taga
+		dyn_gil_Tagabuel dyn_gil_Taimanao dyn_gil_Taisacan dyn_gil_Taisakan dyn_gil_Taitano
+		dyn_gil_Taman dyn_gil_Tebuteb dyn_gil_Teregeyo dyn_gil_Terlaje dyn_gil_Tomokane
+		dyn_gil_Torres dyn_gil_Wabol dyn_gil_Adelbai dyn_gil_Aitaro dyn_gil_Arurang
+		dyn_gil_Asanuma dyn_gil_Beltau dyn_gil_Bultedaob dyn_gil_Decherong dyn_gil_Demei
+		dyn_gil_Elbelau dyn_gil_Emesiochel dyn_gil_Etpison dyn_gil_Eungel dyn_gil_Fritz
+		dyn_gil_Ililau dyn_gil_Katosang dyn_gil_Kloulechad dyn_gil_Kloulubak dyn_gil_Kuartei
+		dyn_gil_Kumangai dyn_gil_Kyota dyn_gil_Malsol dyn_gil_Mariur dyn_gil_Mesubed
+		dyn_gil_Napil dyn_gil_Ngiraibai dyn_gil_Ngirailemesang dyn_gil_Ngiraingas dyn_gil_Ngiraked
+		dyn_gil_Ngirakesau dyn_gil_Ngiralmau dyn_gil_Ngirausui dyn_gil_Ngirchoimei
+		dyn_gil_Ngirmang dyn_gil_Ngirmekur dyn_gil_Ngirmeril dyn_gil_Ngirmidol
+		dyn_gil_Ngiruchelbad dyn_gil_Ngotel dyn_gil_Oiterong dyn_gil_Olkeriil
+		dyn_gil_Ongrung dyn_gil_Orrukem dyn_gil_Raikadroka dyn_gil_Ramarui dyn_gil_Rechelluul
+		dyn_gil_Reklai dyn_gil_Remelik dyn_gil_Remengesau dyn_gil_Remoket dyn_gil_Rengiil
+		dyn_gil_Rengulbai dyn_gil_Ruluked dyn_gil_Sbal dyn_gil_Sikyang dyn_gil_Soalablai
+		dyn_gil_Subris dyn_gil_Tellames dyn_gil_Tellei dyn_gil_Temengil dyn_gil_Teriong
+		dyn_gil_Tmetuchl dyn_gil_Toribiong dyn_gil_Udui dyn_gil_Ulengchong
+	}
+
+	male_names = {
+		gil_Adai gil_Adao gil_Alik gil_Cent gil_Eiken gil_Falthin gil_Hostino gil_Kasian
+		gil_Langidrik gil_Lepalik gil_Likiaksa gil_Lipiak gil_Malem gil_Marz gil_Oldak
+		gil_Polpisil gil_Sa gil_Salik gil_Salpasr gil_Tano gil_Tulensru
+	}
+
+	female_names = {
+		gil_Achina gil_Andelina gil_Emelihter gil_Isa gil_Lihen gil_Mihter gil_Runica
+		gil_Tana gil_Tulpe gil_Yoana gil_Daiana gil_Weireen gil_Welryn gil_Lorleen
+	}
+}
+name_list_new_guinean = {
+
+	dynasty_names = {
+		dyn_png_Abavu dyn_png_Aila dyn_png_Aisa dyn_png_Aisi dyn_png_Aiye dyn_png_Aizue
+		dyn_png_Akia dyn_png_Ako dyn_png_Ali dyn_png_Alu dyn_png_Angara dyn_png_Ani
+		dyn_png_Apa dyn_png_Apo dyn_png_Arua dyn_png_Awai dyn_png_Babo dyn_png_Baloiloi
+		dyn_png_Baraka dyn_png_Baru dyn_png_Biri dyn_png_Bito dyn_png_Buka dyn_png_Dai
+		dyn_png_Dau dyn_png_Enuma dyn_png_Evei dyn_png_Gari dyn_png_Gau dyn_png_Gavera
+		dyn_png_Gawi dyn_png_Geno dyn_png_Gima dyn_png_Gomia dyn_png_Gorogo
+		dyn_png_Haija dyn_png_Haro dyn_png_Hau dyn_png_Henao dyn_png_Hetinu dyn_png_Igo
+		dyn_png_Ila dyn_png_Injia dyn_png_Ioka dyn_png_Joku dyn_png_Kaina dyn_png_Kala
+		dyn_png_Kali dyn_png_Kama dyn_png_Kambo dyn_png_Kami dyn_png_Kapa
+		dyn_png_Kapi dyn_png_Kapu dyn_png_Kari dyn_png_Kariko dyn_png_Karo dyn_png_Kasi
+		dyn_png_Kaupa dyn_png_Kavanamur dyn_png_Kema dyn_png_Keppa dyn_png_Kewa
+		dyn_png_Kia dyn_png_Kila dyn_png_Kini dyn_png_Koi dyn_png_Kone dyn_png_Kore
+		dyn_png_Kouoru dyn_png_Kua dyn_png_Kui dyn_png_Kula dyn_png_Kulu dyn_png_Kuman
+		dyn_png_Kuri dyn_png_Laka dyn_png_Lama dyn_png_Leka dyn_png_Leo dyn_png_Lepani
+		dyn_png_Lohia dyn_png_Loi dyn_png_Loko dyn_png_Mai dyn_png_Maibala dyn_png_Maino
+		dyn_png_Maira dyn_png_Maki dyn_png_Mamando dyn_png_Manu dyn_png_Manuai
+		dyn_png_Marabe dyn_png_Maru dyn_png_Mase dyn_png_Maso dyn_png_Mek
+		dyn_png_Miria dyn_png_Moi dyn_png_Mondo dyn_png_Moni dyn_png_Morea
+		dyn_png_Mou dyn_png_Naawi dyn_png_Nami dyn_png_Natera dyn_png_Nema
+		dyn_png_Nou dyn_png_Nouairi dyn_png_Nuia dyn_png_Okul dyn_png_Olewale dyn_png_Oli
+		dyn_png_Omi dyn_png_Ovia dyn_png_Paiyo dyn_png_Pala dyn_png_Pandia dyn_png_Paniu
+		dyn_png_Paru dyn_png_Passingan dyn_png_Peni dyn_png_Pok dyn_png_Pokana
+		dyn_png_Pomat dyn_png_Pombo dyn_png_Pora dyn_png_Pulu dyn_png_Raga
+		dyn_png_Raka dyn_png_Rau dyn_png_Ravu dyn_png_Rawali dyn_png_Rei dyn_png_Renagi
+		dyn_png_Riyong dyn_png_Roape dyn_png_Sariman dyn_png_Sau dyn_png_Segeyaro
+		dyn_png_Sengoku dyn_png_Sere dyn_png_Solbat dyn_png_Songoro dyn_png_Tai
+		dyn_png_Tali dyn_png_Taligatus dyn_png_Tamarua dyn_png_Tau dyn_png_Taufa
+		dyn_png_Taviri dyn_png_Tela dyn_png_Tiki dyn_png_Tiri dyn_png_Toba dyn_png_Tongap
+		dyn_png_Tongia dyn_png_Toua dyn_png_Vagi dyn_png_Vai dyn_png_Vali dyn_png_Vele
+		dyn_png_Wabo dyn_png_Wai dyn_png_Wakit dyn_png_Wala dyn_png_Walo
+		dyn_png_Wanji dyn_png_Wari dyn_png_Yer dyn_png_Yere
+	}
+
+	male_names = {
+		png_Agolave png_Barunoma png_Bopau png_Bosai png_Buassi png_Gasowe
+		png_Gesupo png_Isakoa-Hepu png_Kaura png_Kemai png_Kilipak png_Koritoia-Ope
+		png_Korpore png_Kuan png_Kut png_Kutan png_Kwipi-Nembil png_Lowai png_Maba
+		png_Manuwai png_Nate png_Ndrosal png_Ngalen png_Ngamel png_Obi
+		png_Owa png_Paleao png_Panau png_Penapul png_Pokanas png_Pomasa png_Pomat
+		png_Popoli png_Pwisio png_Selanbelot png_Sisi png_Subul png_Tchokal
+		png_Wak png_Yasa png_Yesa
+	}
+
+	female_names = {
+		png_Aglem_Ter png_Alupu png_Alupwa png_Amp-Biam png_Biam
+		png_Dau png_Ife png_Itong png_Jara png_Kama png_Kandra png_Kawa
+		png_Kenga png_Kentiga png_Kiteni png_Koina png_Kompamp-Kengakama
+		png_Kompamp-Meta png_Kumbi png_Kwimbe png_Main png_Mancy png_Manoi
+		png_Marpa png_Masa png_Mentun png_Meta png_Molung png_Nali png_Ndrantche
+		png_Nemong png_Ngalowen png_Ngapan png_Ngasu png_Ngatchmu png_Pwondret
+		png_Rossa png_Salikon png_Sirizo png_Wenta png_Yerema
+	}
+}
+name_list_samoan = {
+
+	dynasty_names = {
+		dyn_sm_Sua dyn_sm_Leota dyn_sm_Mauga dyn_sm_Uti dyn_sm_Faumuina dyn_sm_Tupuola
+		dyn_sm_Teo dyn_sm_Tago dyn_sm_Laulu dyn_sm_Sala dyn_sm_Aasa dyn_sm_Ae
+		dyn_sm_Afalava dyn_sm_Afaliva dyn_sm_Afamasaga dyn_sm_Afe dyn_sm_Afeleti
+		dyn_sm_Afoa dyn_sm_Aigamaua dyn_sm_Aimaasu dyn_sm_Aiolupotea dyn_sm_Aiono
+		dyn_sm_Ala dyn_sm_Alailima dyn_sm_Alesana dyn_sm_Alo dyn_sm_Amisone
+		dyn_sm_Amituanai dyn_sm_Amosa dyn_sm_Asi dyn_sm_Asifoa dyn_sm_Asovale
+		dyn_sm_Atafua dyn_sm_Atanoa dyn_sm_Atuaia dyn_sm_Atuatasi dyn_sm_Auelua
+		dyn_sm_Auimatagi dyn_sm_Aumoeualogo dyn_sm_Aumua dyn_sm_Aumuna
+		dyn_sm_Autagavaia dyn_sm_Autele dyn_sm_Elisara dyn_sm_Enesi dyn_sm_Eteuati
+		dyn_sm_Faafili dyn_sm_Faamasino dyn_sm_Faamausili dyn_sm_Faapito dyn_sm_Faasili
+		dyn_sm_Failauga dyn_sm_Faitele dyn_sm_Faleafaga dyn_sm_Falealii dyn_sm_Fanolua
+		dyn_sm_Fanene dyn_sm_Fano dyn_sm_Faoa dyn_sm_Fatasini dyn_sm_Fatialofa
+		dyn_sm_Fatu dyn_sm_Faifai dyn_sm_Feaunati dyn_sm_Fepuleai dyn_sm_Fereti
+		dyn_sm_Fesagaiga dyn_sm_Fesolai dyn_sm_Fetu dyn_sm_Feuu dyn_sm_Fiame
+		dyn_sm_Filipaina dyn_sm_Finau dyn_sm_Finai dyn_sm_Fomai dyn_sm_Fonoimoana
+		dyn_sm_Fonoti dyn_sm_Fosi dyn_sm_Fotuaika dyn_sm_Fotualii dyn_sm_Fuemana
+		dyn_sm_Fua dyn_sm_Fuatogi dyn_sm_Fualau dyn_sm_Fueunati dyn_sm_Fuimaono
+		dyn_sm_Galeai dyn_sm_Galuvao dyn_sm_Iamanu dyn_sm_Ienimea dyn_sm_Ili
+		dyn_sm_Iosefa dyn_sm_Iuli dyn_sm_Iupeli dyn_sm_Komiti dyn_sm_Lafaele
+		dyn_sm_Lafaialii dyn_sm_Lameko dyn_sm_Lameta dyn_sm_Lapasa dyn_sm_Latu
+		dyn_sm_Lauano dyn_sm_Laulu dyn_sm_Laumoli dyn_sm_Launiu dyn_sm_Lautalo
+		dyn_sm_Lauti dyn_sm_Lavatai dyn_sm_Lealaitafea dyn_sm_Lealofi dyn_sm_Leatutufu
+		dyn_sm_Leaupepe dyn_sm_Leavai dyn_sm_Leavasa dyn_sm_Lefiti dyn_sm_Leiataua
+		dyn_sm_Leiato dyn_sm_Leilua dyn_sm_Leituala dyn_sm_Lemalu dyn_sm_Lemanea
+		dyn_sm_Lemanu dyn_sm_Lemisio dyn_sm_Lene dyn_sm_Leomiti dyn_sm_Lesa
+		dyn_sm_Leuluai dyn_sm_Lima dyn_sm_Liufau dyn_sm_Logologo dyn_sm_Lokeni
+		dyn_sm_Lopa dyn_sm_Lotomau dyn_sm_Lui dyn_sm_Lutali dyn_sm_Lutu
+		dyn_sm_Magalei dyn_sm_Mageo dyn_sm_Mailo dyn_sm_Mailoto dyn_sm_Malauulu
+		dyn_sm_Malepai dyn_sm_Malielegaoi dyn_sm_Malietoa dyn_sm_Malili dyn_sm_Malua
+		dyn_sm_Maluia dyn_sm_Mapusua dyn_sm_Masaniai dyn_sm_Mataafa dyn_sm_Mataese
+		dyn_sm_Matafeo dyn_sm_Matagi dyn_sm_Matasino dyn_sm_Mauala dyn_sm_Mauigoa
+		dyn_sm_Mavaega dyn_sm_Meleisea dyn_sm_Misa dyn_sm_Moananu dyn_sm_Mose
+		dyn_sm_Mui dyn_sm_Mulipola dyn_sm_Mulitalo dyn_sm_Mulivanu dyn_sm_Namulauulu
+		dyn_sm_Niko dyn_sm_Niuatoa dyn_sm_Niumata dyn_sm_Nofoaiga dyn_sm_Noga
+		dyn_sm_Nua dyn_sm_Nualitea dyn_sm_Olotoa dyn_sm_Onasai dyn_sm_One
+		dyn_sm_Pahea dyn_sm_Palepoi dyn_sm_Paopao dyn_sm_Papalii dyn_sm_Papalu
+		dyn_sm_Paselio dyn_sm_Pati dyn_sm_Patu dyn_sm_Pauga dyn_sm_Paulo
+		dyn_sm_Pelenato dyn_sm_Perelini dyn_sm_Petaia dyn_sm_Peteo dyn_sm_Peteru
+		dyn_sm_Pio dyn_sm_Pita dyn_sm_Poasa dyn_sm_Polataivao dyn_sm_Ponifasio
+		dyn_sm_Posala dyn_sm_Pua dyn_sm_Puaauli dyn_sm_Puleitu dyn_sm_Puletasi
+		dyn_sm_Puni dyn_sm_Putupu dyn_sm_Reupena dyn_sm_Sae dyn_sm_Saelua
+		dyn_sm_Sagapolu dyn_sm_Sagapolutele dyn_sm_Sagiao dyn_sm_Saili dyn_sm_Sakaria
+		dyn_sm_Salanoa dyn_sm_Salavea dyn_sm_Saleamua dyn_sm_Samia dyn_sm_Samuelu
+		dyn_sm_Sanerivi dyn_sm_Sani dyn_sm_Sapolu dyn_sm_Sataua dyn_sm_Satele
+		dyn_sm_Savea dyn_sm_Seau dyn_sm_Seiuli dyn_sm_Setefano dyn_sm_Seui
+		dyn_sm_Seumanutafa dyn_sm_Seu_Seu dyn_sm_Sevaaetasi dyn_sm_Siaosi dyn_sm_Sila
+		dyn_sm_Simeona dyn_sm_Sini dyn_sm_Sio dyn_sm_Siteti dyn_sm_Soamoa
+		dyn_sm_Soifua dyn_sm_Solaita dyn_sm_Soliai dyn_sm_Solofa dyn_sm_Solomon
+		dyn_sm_Solomona dyn_sm_Sooalo dyn_sm_Sopoaga dyn_sm_Sualevai dyn_sm_Sunia
+		dyn_sm_Taase dyn_sm_Taele dyn_sm_Tagaloa dyn_sm_Tago dyn_sm_Taileifi
+		dyn_sm_Talamoa dyn_sm_Tamasese dyn_sm_Tanielu dyn_sm_Taofinuu dyn_sm_Taoipu
+		dyn_sm_Tatupu dyn_sm_Taua dyn_sm_Tauanuu dyn_sm_Tauiliili dyn_sm_Taula
+		dyn_sm_Taulealo dyn_sm_Tausia dyn_sm_Tautolo dyn_sm_Tavai dyn_sm_Tavita
+		dyn_sm_Teo dyn_sm_Tiatia dyn_sm_Tinitali dyn_sm_Tiu dyn_sm_Tiumalu dyn_sm_Toafa
+		dyn_sm_Toelupe dyn_sm_Tofilau dyn_sm_Togamau dyn_sm_Togafau dyn_sm_Togia
+		dyn_sm_Toilolo dyn_sm_Toleafoa dyn_sm_Toma dyn_sm_Tomua dyn_sm_Too
+		dyn_sm_Tua dyn_sm_Tuaamalemalo dyn_sm_Tuala dyn_sm_Tuaniga dyn_sm_Tuatagaloa
+		dyn_sm_Tufele dyn_sm_Tufono dyn_sm_Tuia dyn_sm_Tuiaana dyn_sm_Tuiasosopo
+		dyn_sm_Tuigamala dyn_sm_Tuilagi dyn_sm_Tuiletufuga dyn_sm_Tuinei dyn_sm_Tuiolosega
+		dyn_sm_Tuioti dyn_sm_Tuitasi dyn_sm_Tuitele dyn_sm_Tulafono dyn_sm_Tuli
+		dyn_sm_Tupai dyn_sm_Tupua dyn_sm_Tuuao dyn_sm_Ualesidyn_sm_Uiagalelei
+		dyn_sm_Ulugia dyn_sm_Umaga dyn_sm_Vaeao dyn_sm_Vaega dyn_sm_Vagana
+		dyn_sm_Vaifale dyn_sm_Vaisau dyn_sm_Vaisuai dyn_sm_Vaouli dyn_sm_Veavea
+		dyn_sm_Vasega dyn_sm_Viali dyn_sm_Viliamu
+	}
+	
+	male_names = {
+		sm_Alama sm_Alatupe sm_Alema sm_Anitelea sm_Aperaamo sm_Apisaloma
+		sm_Ekeroma sm_Eti sm_Faamasino sm_Faamausili sm_Faasootauloa sm_Faitele
+		sm_Falaniko sm_Filipo sm_Folau sm_Fuiono sm_Funefeai sm_Iamafana sm_Ioane
+		sm_Ioelu sm_Ionatana sm_Iosefa sm_Isaako sm_Isaia sm_Kalolo sm_Lameko sm_Lapana
+		sm_Leaega sm_Lealataua sm_Lemuelu sm_Lene sm_Loto sm_Lotu sm_Lua sm_Lui
+		sm_Malaki sm_Maleko sm_Maluofiti sm_Manase sm_Mataio sm_Misa sm_Mose
+		sm_Neemia sm_Ofato sm_Ono sm_Pala sm_Pana sm_Papamaa sm_Paulo sm_Pele
+		sm_Pita sm_Polo sm_Pusa sm_Salesi sm_Salofi sm_Sama sm_Samala sm_Samuelu
+		sm_Saulo sm_Semisi sm_Setefano sm_Sila sm_Sinapati sm_Sioeli sm_Sione
+		sm_Sisi sm_Sosefa sm_Sosefo sm_Sotoa sm_Tahifisi sm_Tamailelagi sm_Tao
+		sm_Tauese sm_Taulupoo sm_Taumesina sm_Tautua sm_Tavite sm_Temetiu sm_Tevita
+		sm_Tofilau sm_Tolufale sm_Totao sm_Tuai sm_Tuasaga sm_Tuna sm_Tupai sm_Tupu
+		sm_Tutoatasi sm_Ufagalilo sm_Uiti sm_Vaatausili sm_Vaea sm_Vaitoelau sm_Vaivase
+	}
+
+	female_names = {
+		sm_Aiaifua sm_Ana sm_Apoliu sm_Ela sm_Elisapeta sm_Faafisili sm_Faaleo
+		sm_Faaloua sm_Faapai sm_Falaula sm_Filita sm_Fina sm_Fiona sm_Fuiono
+		sm_Ipu sm_Isapela sm_Kueni sm_Lalaga sm_Laloifi sm_Lama sm_Lanuola
+		sm_Laufala sm_Leleiga sm_Lepainenea sm_Leta sm_Levalasi sm_Lila sm_Lili
+		sm_Lita sm_Lola sm_Lomialagi sm_Loto sm_Lotu sm_Lua sm_Luaina sm_Luna
+		sm_Mala sm_Malia sm_Maliu sm_Masina sm_Mele sm_Moeaia sm_Nafanua
+		sm_Namualii sm_Nuanua sm_Pala sm_Pana sm_Paugata sm_Pele sm_Pitolua sm_Pogisa
+		sm_Pola sm_Polataivao sm_Puailagi sm_Pusa sm_Ruta sm_Salaevalu sm_Salai
+		sm_Salamasina sm_Sami sm_Sanavaiaga sm_Sasae sm_Seilala sm_Seini sm_Sesilia
+		sm_Simeamativa sm_Sinamoga sm_Sinavaiaga sm_Sisifo sm_Sisilia sm_Sivaafi
+		sm_Soonafai sm_Sosefina sm_Susana sm_Talauula sm_Taliatelai sm_Tauimatogi sm_Tausala
+		sm_Teuila sm_Tilomai sm_Toaga sm_Tuitogamaatoe sm_Tulipa sm_Ula sm_Vala sm_Vana
+		sm_Vi
+	}
+}

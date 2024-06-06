@@ -1,0 +1,714 @@
+name_list_chuvash = {
+# All Northeast Caucasian languages except Chechen
+	dynasty_names = {
+		dyn_cv_Akhtiyaryval dyn_cv_Akparasyval dyn_cv_Almanchyval dyn_cv_Alyakkiyval
+		dyn_cv_Alyukkayval dyn_cv_Antyukhkhayval dyn_cv_Aramanyval dyn_cv_Arkashyval
+		dyn_cv_Artamanyval dyn_cv_Artivanyval dyn_cv_Atneryval dyn_cv_Aytaryval
+		dyn_cv_Ekhimyval dyn_cv_Entriyval dyn_cv_Enterianyval dyn_cv_Eskapyval
+		dyn_cv_Evseyyval dyn_cv_Ahtimeryval dyn_cv_Ahtirekyval dyn_cv_Hunachiyval
+		dyn_cv_Ikarukyval dyn_cv_Iksakyval dyn_cv_Illeyval dyn_cv_Ilmusyval
+		dyn_cv_Iprakhimyval dyn_cv_Iskejyval dyn_cv_Iskenteryval dyn_cv_Itrisyval
+		dyn_cv_Jaruskayval dyn_cv_Juratyval dyn_cv_Kalepyval dyn_cv_Karaddamyval
+		dyn_cv_Kashkaryval dyn_cv_Kepiryval dyn_cv_Kestenttinyval dyn_cv_Khalimyval
+		dyn_cv_Khassanyval dyn_cv_Kheritunyval dyn_cv_Khumayval dyn_cv_Khunachiyval
+		dyn_cv_Khursayval dyn_cv_Kheveteryval dyn_cv_Kapitanyval dyn_cv_Kerkuriyval
+		dyn_cv_Kartashyval dyn_cv_Karttiyval dyn_cv_Kupratyval dyn_cv_Kurakyval
+		dyn_cv_Kusmayval dyn_cv_Lukkayval dyn_cv_Lyavantiyval dyn_cv_Maksamyval
+		dyn_cv_Matviyval dyn_cv_Meketiyval dyn_cv_Metriyval dyn_cv_Mikanuryval
+		dyn_cv_Miketyval dyn_cv_Mikulayyval dyn_cv_Mineveryval dyn_cv_Mishshayval
+		dyn_cv_Mitrikhvanyval dyn_cv_Meketeyval dyn_cv_Massayval dyn_cv_Pattyukyval
+		dyn_cv_Pavalyval dyn_cv_Peteryval dyn_cv_Pukhtanyval dyn_cv_Sakityval
+		dyn_cv_Samuyalyval dyn_cv_Santaryval dyn_cv_Savasyval dyn_cv_Sekhvettinyval
+		dyn_cv_Sespelyval dyn_cv_Sheripyval dyn_cv_Shankarchyval dyn_cv_Shussimyval
+		dyn_cv_Sitaryval dyn_cv_Situllayval dyn_cv_Timayyval dyn_cv_Tumnayval
+		dyn_cv_Ukhinkkeyval dyn_cv_Ulatimeryval dyn_cv_Ulenteyyval dyn_cv_Upayval
+		dyn_cv_Urtemyval dyn_cv_Uyapyval dyn_cv_Vacinkeyval dyn_cv_Vactirekyval
+		dyn_cv_Vakrimyval dyn_cv_Valemyval dyn_cv_Valisyval dyn_cv_Vaniheryval
+		dyn_cv_Vantyukyval dyn_cv_Vanyurkkayval dyn_cv_Vastirekyval dyn_cv_Vayullayval
+		dyn_cv_Velityval dyn_cv_Vesullayval dyn_cv_Vikhteryval dyn_cv_Volkkamyval
+		dyn_cv_Vyrastajyval dyn_cv_Yakhkhayval dyn_cv_Yakhvaryval dyn_cv_Yakkupyval
+		dyn_cv_Yamalyval dyn_cv_Yaraslavyval dyn_cv_Yashtirekyval dyn_cv_Yisapyval
+		dyn_cv_Yakanatyval dyn_cv_Yukhmayval dyn_cv_Yumanyval
+	}
+	
+	male_names = {
+		cv_Akhtiyar cv_Akparas cv_Almanch cv_Alyakki cv_Alyukka cv_Antyukhkha cv_Araman
+		cv_Arkash cv_Artaman cv_Artivan cv_Atner cv_Aytar cv_Ekhim cv_Entri cv_Enterian
+		cv_Eskap cv_Evsey cv_Ahtimer cv_Ahtirek cv_Hunachi cv_Ikaruk cv_Iksak cv_Ille cv_Ilmus
+		cv_Iprakhim cv_Iskej cv_Iskenter cv_Itris cv_Jaruska cv_Jurat cv_Kalep cv_Karaddam
+		cv_Kashkar cv_Kepir cv_Kestenttin cv_Khalim cv_Khassan cv_Kheritun cv_Khuma
+		cv_Khunachi cv_Khursa cv_Kheveter cv_Kapitan cv_Kerkuri cv_Kartash cv_Kartti cv_Kuprat
+		cv_Kurak cv_Kusma cv_Lukka cv_Lyavanti cv_Maksam cv_Matvi cv_Meketi cv_Metri
+		cv_Mikanur cv_Miket cv_Mikulay cv_Minever cv_Mishsha cv_Mitrikhvan cv_Mekete
+		cv_Massa cv_Pattyuk cv_Paval cv_Peter cv_Pukhtan cv_Sakit cv_Samuyal cv_Santar
+		cv_Savas cv_Sekhvettin cv_Sespel cv_Sherip cv_Shankarch cv_Shussim cv_Sitar cv_Situlla
+		cv_Timay cv_Tumna cv_Ukhinkke cv_Ulatimer cv_Ulentey cv_Upa cv_Urtem cv_Uyap
+		cv_Vacinke cv_Vactirek cv_Vakrim cv_Valem cv_Valis cv_Vaniher cv_Vantyuk cv_Vanyurkka
+		cv_Vastirek cv_Vayulla cv_Velit cv_Vesulla cv_Vikhter cv_Volkkam cv_Vyrastaj cv_Yakhkha
+		cv_Yakhvar cv_Yakkup cv_Yamal cv_Yaraslav cv_Yashtirek cv_Yisap cv_Yakanat cv_Yukhma
+		cv_Yuman
+	}
+
+	female_names = {
+		cv_Anni cv_Arikhva cv_Arikhve cv_Ashapatman cv_Atnapi cv_Ayampi cv_Aybala cv_Chakak
+		cv_Chepchen cv_Chekes cv_Elime cv_Emine cv_Erhime cv_Kakhvise cv_Kalime cv_Kamite
+		cv_Kayakki cv_Khamite cv_Khapipe cv_Khattime cv_Khvekla cv_Khvetle cv_Kalampi
+		cv_Katyarikka cv_Kuline cv_Keverle cv_Leyle cv_Maikka cv_Markhva cv_Memure cv_Matine
+		cv_Narspi cv_Nastassi cv_Nesikhva cv_Netikhva cv_Arihva cv_Saikhve cv_Sakhipe
+		cv_Sakhva cv_Sapi cv_Sapipe cv_Sarine cv_Savrantey cv_Savras cv_Sheleme cv_Sherikhva
+		cv_Selikhkha cv_Surkki cv_Tankka cv_Tarie cv_Tayikhve cv_Tunepi cv_Ukakhvi cv_Ukanesh
+		cv_Ukhime cv_Ulyan cv_Ulyuna cv_Unes cv_Varpikke cv_Vartilet cv_Vartuk cv_Veruha
+		cv_Zakhite
+	}
+}
+name_list_georgian = {
+
+	dynasty_names = {
+		dyn_ka_Beridze dyn_ka_Mamedovi dyn_ka_Kapanadze dyn_ka_Alievi dyn_ka_Gelashvili
+		dyn_ka_Maisuradze dyn_ka_Giorgadze dyn_ka_Lomidze dyn_ka_Tsiklauri
+		dyn_ka_Bolkvadze dyn_ka_Abamelek dyn_ka_Abashidze dyn_ka_Abesadze dyn_ka_Abkhazi
+		dyn_ka_Abramidze dyn_ka_Abramishvili dyn_ka_Abuladze dyn_ka_Agiashvili
+		dyn_ka_Akhalaia dyn_ka_Akhmedovi dyn_ka_Akhmeteli dyn_ka_Akhvlediani
+		dyn_ka_Amatuni dyn_ka_Amilakhori dyn_ka_Amirajibi dyn_ka_Andronikashvili
+		dyn_ka_Aptsiauri dyn_ka_Arabuli dyn_ka_Aravidze dyn_ka_Artsruni dyn_ka_Asatiani
+		dyn_ka_Avaliani dyn_ka_Avalishvili dyn_ka_Babadishvili dyn_ka_Bagratoni
+		dyn_ka_Bairamovi dyn_ka_Bakhtadze dyn_ka_Baqradze dyn_ka_Baramidze
+		dyn_ka_Barateli dyn_ka_Barbaqadze dyn_ka_Begtabegishvili dyn_ka_Beqauri
+		dyn_ka_Beradze dyn_ka_Beraia dyn_ka_Berishvili dyn_ka_Beruashvili dyn_ka_Bitsadze
+		dyn_ka_Bliadze dyn_ka_Bolqvadze dyn_ka_Botchorishvili dyn_ka_Bregvadze
+		dyn_ka_Chachanidze dyn_ka_Chaduneli dyn_ka_Chanishvili dyn_ka_Chigogidze
+		dyn_ka_Chijavadze dyn_ka_Chikhladze dyn_ka_Chikhradze dyn_ka_Chiqovani
+		dyn_ka_Chkhaidze dyn_ka_Chkheidze dyn_ka_Chkhikvadze dyn_ka_Chkhotua
+		dyn_ka_Choloqashvili dyn_ka_Chubinidze dyn_ka_Dadeshkeliani dyn_ka_Danelia
+		dyn_ka_Davitadze dyn_ka_Davitishvili dyn_ka_Devadze dyn_ka_Dgebuadze
+		dyn_ka_Diasamidze dyn_ka_Dolidze dyn_ka_Duchidze dyn_ka_Dumbadze dyn_ka_Dvali
+		dyn_ka_Dvalishvili dyn_ka_Dzhugashvili dyn_ka_Eliauri dyn_ka_Emukhvari
+		dyn_ka_Endronikashvili dyn_ka_Eristavi dyn_ka_Gabunia dyn_ka_Gachechiladze
+		dyn_ka_Gagnidze dyn_ka_Gagua dyn_ka_Gaprindashvili dyn_ka_Gasanovi dyn_ka_Ghlonti
+		dyn_ka_Ghonghadze dyn_ka_Ghviniashvili dyn_ka_Gigauri dyn_ka_Godherdzeshvili
+		dyn_ka_Gogaladze dyn_ka_Gogia dyn_ka_Gogiashvili dyn_ka_Gogichaishvili
+		dyn_ka_Gogitidze dyn_ka_Gogokhia dyn_ka_Gogoladze dyn_ka_Goguadze
+		dyn_ka_Gorgadze dyn_ka_Grigalashvili dyn_ka_Gudiashvili dyn_ka_Gulia
+		dyn_ka_Guramishvili dyn_ka_Gurgenidze dyn_ka_Gurieli dyn_ka_Guseinovi
+		dyn_ka_Gvasalia dyn_ka_Iashvili dyn_ka_Iremadze dyn_ka_Ismailovi dyn_ka_Jalaghonia
+		dyn_ka_Janashia dyn_ka_Janelidze dyn_ka_Japaridze dyn_ka_Javakhishvili
+		dyn_ka_Jintcharadze dyn_ka_Jiqia dyn_ka_Jojua dyn_ka_Jokhadze dyn_ka_Jorjadze
+		dyn_ka_Kakabadze dyn_ka_Kakhidze dyn_ka_Kalandadze dyn_ka_Kandelaki
+		dyn_ka_Kavkasidze dyn_ka_Kereselidze dyn_ka_Khachidze dyn_ka_Kharaishvili
+		dyn_ka_Kherkheulidze dyn_ka_Khidirbegishvili dyn_ka_Khimshiashvili
+		dyn_ka_Khojaminasishvili dyn_ka_Khurashvili dyn_ka_Khurtsidze dyn_ka_Khurtsilava
+		dyn_ka_Khutsishvili dyn_ka_Khvedelidze dyn_ka_Kiknadze dyn_ka_Kiladze
+		dyn_ka_Kinkladze dyn_ka_Kobakhidze dyn_ka_Kobiashvili dyn_ka_Kobuladze
+		dyn_ka_Kontselidze dyn_ka_Kopaliani dyn_ka_Kupatadze dyn_ka_Kurdanidze
+		dyn_ka_Kurtanidze dyn_ka_Kvabulidze dyn_ka_Kvaratskhelia dyn_ka_Labadze
+		dyn_ka_Lezhava dyn_ka_Lionidze dyn_ka_Liparteliani dyn_ka_Lobzhanidze
+		dyn_ka_Lomsadze dyn_ka_Lomtadze dyn_ka_Lortqipanidze dyn_ka_Machavariani
+		dyn_ka_Machutadze dyn_ka_Maghalashvili dyn_ka_Maghlakelidze dyn_ka_Maghradze
+		dyn_ka_Makharadze dyn_ka_Makharashvili dyn_ka_Mamarashvili dyn_ka_Mamulashvili
+		dyn_ka_Maqashvili dyn_ka_Mardzhanishvili dyn_ka_Matcharashvili dyn_ka_Matchavariani
+		dyn_ka_Mchedlishvili dyn_ka_Megrelishvili dyn_ka_Meipariani dyn_ka_Meladze
+		dyn_ka_Menteshashvili dyn_ka_Meskhi dyn_ka_Metreveli dyn_ka_Metrovelli
+		dyn_ka_Mgeladze dyn_ka_Mghebrishvili dyn_ka_Mikeladze dyn_ka_Miqadze
+		dyn_ka_Miqava dyn_ka_Miqeladze dyn_ka_Mkhargrdzeli dyn_ka_Mkheidze
+		dyn_ka_Mkhetsidze dyn_ka_Modebadze dyn_ka_Mtchedlidze dyn_ka_Mtchedlishvili
+		dyn_ka_Mumladze dyn_ka_Mzhavanadze dyn_ka_Nadiradze dyn_ka_Nadirashvili
+		dyn_ka_Nakashidze dyn_ka_Natchkhebia dyn_ka_Natsvlishvili dyn_ka_Nemsadze
+		dyn_ka_Nizharadze dyn_ka_Nozadze dyn_ka_Oniani dyn_ka_Oqropiridze
+		dyn_ka_Ordzhonnikidze dyn_ka_Paliashvili dyn_ka_Pavlenishvili dyn_ka_Peradze
+		dyn_ka_Petriashvili dyn_ka_Pipia dyn_ka_Pkhakadze dyn_ka_Putkaradze dyn_ka_Qajaia
+		dyn_ka_Qaralashvili dyn_ka_Qardava dyn_ka_Qartvelishvili dyn_ka_Qatamadze
+		dyn_ka_Qavtaradze dyn_ka_Qiria dyn_ka_Qobalia dyn_ka_Ramishvili dyn_ka_Ratishvili
+		dyn_ka_Razmadze dyn_ka_Rekhviashvili dyn_ka_Robaqidze dyn_ka_Robitashvili
+		dyn_ka_Rukhadze dyn_ka_Rusishvili dyn_ka_Rustaveli dyn_ka_Saakadze
+		dyn_ka_Saginashvili dyn_ka_Sanikidze dyn_ka_Saralidze dyn_ka_Shainidze
+		dyn_ka_Shalamberidze dyn_ka_Shavadze dyn_ka_Shekiladze dyn_ka_Shengelia
+		dyn_ka_Shervashidze dyn_ka_Shevardnadze dyn_ka_Shonia dyn_ka_Shubitidze
+		dyn_ka_Sikharulidze dyn_ka_Siradze dyn_ka_Sitchinava dyn_ka_Solaghashvili
+		dyn_ka_Sulakvidze dyn_ka_Sumbatashvili dyn_ka_Surmanidze dyn_ka_Svanidze
+		dyn_ka_Tabatadze dyn_ka_Taktakishvili dyn_ka_Talakhadze dyn_ka_Tavadze
+		dyn_ka_Tavdshridze dyn_ka_Tchanturia dyn_ka_Tchelidze dyn_ka_Tchumburidze
+		dyn_ka_Tevzadze dyn_ka_Tkheshelashvili dyn_ka_Todua dyn_ka_Toidze dyn_ka_Tsereteli
+		dyn_ka_Tsertsvadze dyn_ka_Tsetskhladze dyn_ka_Tsintsadze dyn_ka_Tsitsishvili
+		dyn_ka_Tskhadadze dyn_ka_Tsulaia dyn_ka_Tsulukidze dyn_ka_Tsurtsumia
+		dyn_ka_Tsutsqiridze dyn_ka_Turkistanishvili dyn_ka_Turmanidze dyn_ka_Urushadze
+		dyn_ka_Vachnadze dyn_ka_Vakhvakhishvili dyn_ka_Vashakidze dyn_ka_Yagorashvili
+		dyn_ka_Zhghenti dyn_ka_Zhorzholiani dyn_ka_Zhvania dyn_ka_Zoidze
+	}
+	
+	male_names = {
+		ka_Akakide ka_Ameirin ka_Avtandil ka_Badry ka_Bagrat ka_Bijo ka_Davyd ka_Demna
+		ka_Dmitri ka_Dmitry ka_Eduard ka_Eldar ka_Giorgi ka_Giri ka_Guram ka_Ilia ka_Jemal
+		ka_Janri ka_Josef ka_Kakhi ka_Ketevan ka_Konstantin ka_Leri ka_Meliton ka_Mikheil
+		ka_Mirian ka_Murman ka_Niko ka_Onise ka_Otar ka_Paata ka_Pavle ka_Ramaz ka_Revvaz
+		ka_Rostom ka_Ruslan ka_Shota ka_Tamaz ka_Tariel ka_Tedo ka_Teimuraz ka_Tengiz
+		ka_Tristan ka_Vahtang ka_Vakhtang ka_Vano ka_Varlam ka_Zaza ka_Zeynab ka_Zourab
+		ka_Zurab
+	}
+
+	female_names = {
+		ka_Ainina ka_Anita ka_Ariadna ka_Asmat ka_Danana ka_Daredjan ka_Diana
+		ka_Dularkukht ka_Dzabuli ka_Eka ka_Elena ka_Guliko ka_Gulnara ka_Iamze ka_Irina
+		ka_Isatsa ka_Itriyani ka_Iulia ka_Iya ka_Leila ka_Lia ka_Lili ka_Lira ka_Manana ka_Mariam
+		ka_Marina ka_Mellushkella ka_Merab ka_Mzia ka_Nanuli ka_Nateli ka_Neli ka_Nestan
+		ka_Nina ka_Nino ka_Nunu ka_Olia ka_Pahatman ka_Roza ka_Rusudani ka_Tamar
+		ka_Tamara ka_Thamar ka_Thinathin ka_Tina ka_Tinatin ka_Tornike ka_Venara ka_Venera
+		ka_Vera ka_Zemphyra
+	}
+}
+name_list_chechen = {
+# Also Ingushetian
+	female_last_names = {
+		dyn_ce_ibn_Andulbek_f dyn_ce_ibn_Abdul-Khalim_f dyn_ce_ibn_Abdulkhamid_f
+		dyn_ce_ibn_Abdulmezhid_f dyn_ce_ibn_Abukhadzhi_f dyn_ce_ibn_Abukhan_f
+		dyn_ce_ibn_Abumuslim_f dyn_ce_ibn_Abusaid_f dyn_ce_ibn_Abusolt_f dyn_ce_ibn_Abusupyan_f
+		dyn_ce_ibn_Abuyazid_f dyn_ce_ibn_Abuzar_f dyn_ce_ibn_Adlan_f dyn_ce_ibn_Aidamir_f
+		dyn_ce_ibn_Akhmed_f dyn_ce_ibn_Akhyad_f dyn_ce_ibn_Alimsultan_f dyn_ce_ibn_Alkhazur_f
+		dyn_ce_ibn_Alvi_f dyn_ce_ibn_Amirkhan_f dyn_ce_ibn_Andarbek_f dyn_ce_ibn_Anvar_f
+		dyn_ce_ibn_Apti_f dyn_ce_ibn_Arbi_f dyn_ce_ibn_Aset_f dyn_ce_ibn_Aslambek_f
+		dyn_ce_ibn_Ayub_f dyn_ce_ibn_Ayubkhan_f dyn_ce_ibn_Bashlam_f dyn_ce_ibn_Baudi_f
+		dyn_ce_ibn_Baysangur_f dyn_ce_ibn_Beibulat_f dyn_ce_ibn_Bekbulat_f dyn_ce_ibn_Bekbuzar_f
+		dyn_ce_ibn_Bekhan_f dyn_ce_ibn_Bekkhan_f dyn_ce_ibn_Beksolta_f dyn_ce_ibn_Beslan_f
+		dyn_ce_ibn_Bishr_f dyn_ce_ibn_Bislan_f dyn_ce_ibn_Bisolt_f dyn_ce_ibn_Borz_f
+		dyn_ce_ibn_Buvaisar_f dyn_ce_ibn_Chingiz_f dyn_ce_ibn_Dalkhan_f dyn_ce_ibn_Danilbek_f
+		dyn_ce_ibn_Degi_f dyn_ce_ibn_Dikalu_f dyn_ce_ibn_Djabrail_f dyn_ce_ibn_Dokka_f
+		dyn_ce_ibn_Doku_f dyn_ce_ibn_Dugurkhan_f dyn_ce_ibn_Dukkhvakha_f
+		dyn_ce_ibn_Dukuvakha_f dyn_ce_ibn_Dzhalal_f dyn_ce_ibn_Dzhamaldin_f
+		dyn_ce_ibn_Dzhamaludin_f dyn_ce_ibn_Dzhambek_f dyn_ce_ibn_Dzhambulat_f
+		dyn_ce_ibn_Elbek_f dyn_ce_ibn_Elimkhan_f dyn_ce_ibn_Elmurza_f dyn_ce_ibn_Eriskhan_f
+		dyn_ce_ibn_Ibragim-bek_f dyn_ce_ibn_Kakhir_f dyn_ce_ibn_Kanti_f dyn_ce_ibn_Keram_f
+		dyn_ce_ibn_Kerim_f dyn_ce_ibn_Khadzhimurat_f dyn_ce_ibn_Khamzat_f dyn_ce_ibn_Khanpasha_f
+		dyn_ce_ibn_Khansultan_f dyn_ce_ibn_Khasanbek_f dyn_ce_ibn_Khasbulat_f dyn_ce_ibn_Khasi_f
+		dyn_ce_ibn_Khas-Magomed_f dyn_ce_ibn_Khaso_f dyn_ce_ibn_Khassan_f dyn_ce_ibn_Khavazh_f
+		dyn_ce_ibn_Khavazhi_f dyn_ce_ibn_Khazarbek_f dyn_ce_ibn_Khazhbikar_f dyn_ce_ibn_Khizir_f
+		dyn_ce_ibn_Khunkar-Pasha_f dyn_ce_ibn_Khuseyn_f dyn_ce_ibn_Kozh-Ahmed_f
+		dyn_ce_ibn_Kuira_f dyn_ce_ibn_Kyura_f dyn_ce_ibn_Lecha_f dyn_ce_ibn_Lema_f dyn_ce_ibn_Lom_f
+		dyn_ce_ibn_Lom-Ali_f dyn_ce_ibn_Lors_f dyn_ce_ibn_Madzhid_f dyn_ce_ibn_Magomed-Emi_f
+		dyn_ce_ibn_Mairbek_f dyn_ce_ibn_Makhdi_f dyn_ce_ibn_Makkkhal_f dyn_ce_ibn_Mamed_f
+		dyn_ce_ibn_Marvan_f dyn_ce_ibn_Marzbek_f dyn_ce_ibn_Mayrkhan_f dyn_ce_ibn_Mayrsolt_f
+		dyn_ce_ibn_Mekhdi_f dyn_ce_ibn_Mokhmad-Emin_f dyn_ce_ibn_Movladi_f dyn_ce_ibn_Movlid_f
+		dyn_ce_ibn_Movsar_f dyn_ce_ibn_Mukhammad_f dyn_ce_ibn_Mukhmad_f dyn_ce_ibn_Mumadi_f
+		dyn_ce_ibn_Murvan_f dyn_ce_ibn_Muslim_f dyn_ce_ibn_Nal_f dyn_ce_ibn_Nazhmuddin_f
+		dyn_ce_ibn_Nazhud_f dyn_ce_ibn_Nazyr_f dyn_ce_ibn_Nur-Pashi_f dyn_ce_ibn_Olkhazar_f
+		dyn_ce_ibn_Ortsu_f dyn_ce_ibn_Ovlur_f dyn_ce_ibn_Rakhman_f dyn_ce_ibn_Razanbek_f
+		dyn_ce_ibn_Rizvadi_f dyn_ce_ibn_Rizvan_f dyn_ce_ibn_Said_f dyn_ce_ibn_Said-Akhmad_f
+		dyn_ce_ibn_Saidalim_f dyn_ce_ibn_Said-Khasan_f dyn_ce_ibn_Said-Magomed_f
+		dyn_ce_ibn_Salamu_f dyn_ce_ibn_Salimgerey_f dyn_ce_ibn_Shakhid_f dyn_ce_ibn_Shamkhan_f
+		dyn_ce_ibn_Shamsudin_f dyn_ce_ibn_Sharaudin_f dyn_ce_ibn_Sharip_f dyn_ce_ibn_Shima_f
+		dyn_ce_ibn_Shirvani_f dyn_ce_ibn_Solsa_f dyn_ce_ibn_Sulambek_f dyn_ce_ibn_Sulim_f
+		dyn_ce_ibn_Sulombek_f dyn_ce_ibn_Supyan_f dyn_ce_ibn_Surkho_f dyn_ce_ibn_Sutarbi_f
+		dyn_ce_ibn_Taimaz_f dyn_ce_ibn_Takhir_f dyn_ce_ibn_Tamerlan_f dyn_ce_ibn_Tarkhan_f
+		dyn_ce_ibn_Taymaskhan_f dyn_ce_ibn_Taymaz_f dyn_ce_ibn_Tskhogal_f dyn_ce_ibn_Turpal_f
+		dyn_ce_ibn_Turpal-Ali_f dyn_ce_ibn_Umalat_f dyn_ce_ibn_Uvays_f dyn_ce_ibn_Vaharsolt_f
+		dyn_ce_ibn_Vait_f dyn_ce_ibn_Vakhid_f dyn_ce_ibn_Valid_f dyn_ce_ibn_Vishkan_f
+		dyn_ce_ibn_Vishkazhi_f dyn_ce_ibn_Yakhya_f dyn_ce_ibn_Yamad_f dyn_ce_ibn_Yandarbi_f
+		dyn_ce_ibn_Yaragi_f dyn_ce_ibn_Yunadi_f dyn_ce_ibn_Zalimkhan_f dyn_ce_ibn_Zelim_f
+		dyn_ce_ibn_Zhovkhar_f dyn_ce_ibn_Ziyaudin_f dyn_ce_ibn_Zubaira_f
+	}
+
+	dynasty_names = {
+		dyn_ce_ibn_Andulbek dyn_ce_ibn_Abdul-Khalim dyn_ce_ibn_Abdulkhamid
+		dyn_ce_ibn_Abdulmezhid dyn_ce_ibn_Abukhadzhi dyn_ce_ibn_Abukhan
+		dyn_ce_ibn_Abumuslim dyn_ce_ibn_Abusaid dyn_ce_ibn_Abusolt dyn_ce_ibn_Abusupyan
+		dyn_ce_ibn_Abuyazid dyn_ce_ibn_Abuzar dyn_ce_ibn_Adlan dyn_ce_ibn_Aidamir
+		dyn_ce_ibn_Akhmed dyn_ce_ibn_Akhyad dyn_ce_ibn_Alimsultan dyn_ce_ibn_Alkhazur
+		dyn_ce_ibn_Alvi dyn_ce_ibn_Amirkhan dyn_ce_ibn_Andarbek dyn_ce_ibn_Anvar
+		dyn_ce_ibn_Apti dyn_ce_ibn_Arbi dyn_ce_ibn_Aset dyn_ce_ibn_Aslambek
+		dyn_ce_ibn_Ayub dyn_ce_ibn_Ayubkhan dyn_ce_ibn_Bashlam dyn_ce_ibn_Baudi
+		dyn_ce_ibn_Baysangur dyn_ce_ibn_Beibulat dyn_ce_ibn_Bekbulat dyn_ce_ibn_Bekbuzar
+		dyn_ce_ibn_Bekhan dyn_ce_ibn_Bekkhan dyn_ce_ibn_Beksolta dyn_ce_ibn_Beslan
+		dyn_ce_ibn_Bishr dyn_ce_ibn_Bislan dyn_ce_ibn_Bisolt dyn_ce_ibn_Borz
+		dyn_ce_ibn_Buvaisar dyn_ce_ibn_Chingiz dyn_ce_ibn_Dalkhan dyn_ce_ibn_Danilbek
+		dyn_ce_ibn_Degi dyn_ce_ibn_Dikalu dyn_ce_ibn_Djabrail dyn_ce_ibn_Dokka
+		dyn_ce_ibn_Doku dyn_ce_ibn_Dugurkhan dyn_ce_ibn_Dukkhvakha
+		dyn_ce_ibn_Dukuvakha dyn_ce_ibn_Dzhalal dyn_ce_ibn_Dzhamaldin
+		dyn_ce_ibn_Dzhamaludin dyn_ce_ibn_Dzhambek dyn_ce_ibn_Dzhambulat
+		dyn_ce_ibn_Elbek dyn_ce_ibn_Elimkhan dyn_ce_ibn_Elmurza dyn_ce_ibn_Eriskhan
+		dyn_ce_ibn_Ibragim-bek dyn_ce_ibn_Kakhir dyn_ce_ibn_Kanti dyn_ce_ibn_Keram
+		dyn_ce_ibn_Kerim dyn_ce_ibn_Khadzhimurat dyn_ce_ibn_Khamzat dyn_ce_ibn_Khanpasha
+		dyn_ce_ibn_Khansultan dyn_ce_ibn_Khasanbek dyn_ce_ibn_Khasbulat dyn_ce_ibn_Khasi
+		dyn_ce_ibn_Khas-Magomed dyn_ce_ibn_Khaso dyn_ce_ibn_Khassan dyn_ce_ibn_Khavazh
+		dyn_ce_ibn_Khavazhi dyn_ce_ibn_Khazarbek dyn_ce_ibn_Khazhbikar dyn_ce_ibn_Khizir
+		dyn_ce_ibn_Khunkar-Pasha dyn_ce_ibn_Khuseyn dyn_ce_ibn_Kozh-Ahmed
+		dyn_ce_ibn_Kuira dyn_ce_ibn_Kyura dyn_ce_ibn_Lecha dyn_ce_ibn_Lema dyn_ce_ibn_Lom
+		dyn_ce_ibn_Lom-Ali dyn_ce_ibn_Lors dyn_ce_ibn_Madzhid dyn_ce_ibn_Magomed-Emi
+		dyn_ce_ibn_Mairbek dyn_ce_ibn_Makhdi dyn_ce_ibn_Makkkhal dyn_ce_ibn_Mamed
+		dyn_ce_ibn_Marvan dyn_ce_ibn_Marzbek dyn_ce_ibn_Mayrkhan dyn_ce_ibn_Mayrsolt
+		dyn_ce_ibn_Mekhdi dyn_ce_ibn_Mokhmad-Emin dyn_ce_ibn_Movladi dyn_ce_ibn_Movlid
+		dyn_ce_ibn_Movsar dyn_ce_ibn_Mukhammad dyn_ce_ibn_Mukhmad dyn_ce_ibn_Mumadi
+		dyn_ce_ibn_Murvan dyn_ce_ibn_Muslim dyn_ce_ibn_Nal dyn_ce_ibn_Nazhmuddin
+		dyn_ce_ibn_Nazhud dyn_ce_ibn_Nazyr dyn_ce_ibn_Nur-Pashi dyn_ce_ibn_Olkhazar
+		dyn_ce_ibn_Ortsu dyn_ce_ibn_Ovlur dyn_ce_ibn_Rakhman dyn_ce_ibn_Razanbek
+		dyn_ce_ibn_Rizvadi dyn_ce_ibn_Rizvan dyn_ce_ibn_Said dyn_ce_ibn_Said-Akhmad
+		dyn_ce_ibn_Saidalim dyn_ce_ibn_Said-Khasan dyn_ce_ibn_Said-Magomed
+		dyn_ce_ibn_Salamu dyn_ce_ibn_Salimgerey dyn_ce_ibn_Shakhid dyn_ce_ibn_Shamkhan
+		dyn_ce_ibn_Shamsudin dyn_ce_ibn_Sharaudin dyn_ce_ibn_Sharip dyn_ce_ibn_Shima
+		dyn_ce_ibn_Shirvani dyn_ce_ibn_Solsa dyn_ce_ibn_Sulambek dyn_ce_ibn_Sulim
+		dyn_ce_ibn_Sulombek dyn_ce_ibn_Supyan dyn_ce_ibn_Surkho dyn_ce_ibn_Sutarbi
+		dyn_ce_ibn_Taimaz dyn_ce_ibn_Takhir dyn_ce_ibn_Tamerlan dyn_ce_ibn_Tarkhan
+		dyn_ce_ibn_Taymaskhan dyn_ce_ibn_Taymaz dyn_ce_ibn_Tskhogal dyn_ce_ibn_Turpal
+		dyn_ce_ibn_Turpal-Ali dyn_ce_ibn_Umalat dyn_ce_ibn_Uvays dyn_ce_ibn_Vaharsolt
+		dyn_ce_ibn_Vait dyn_ce_ibn_Vakhid dyn_ce_ibn_Valid dyn_ce_ibn_Vishkan
+		dyn_ce_ibn_Vishkazhi dyn_ce_ibn_Yakhya dyn_ce_ibn_Yamad dyn_ce_ibn_Yandarbi
+		dyn_ce_ibn_Yaragi dyn_ce_ibn_Yunadi dyn_ce_ibn_Zalimkhan dyn_ce_ibn_Zelim
+		dyn_ce_ibn_Zhovkhar dyn_ce_ibn_Ziyaudin dyn_ce_ibn_Zubaira
+	}
+	
+	male_names = {
+		ce_Andulbek ce_Abdul-Khalim ce_Abdulkhamid ce_Abdulmezhid ce_Abukhadzhi
+		ce_Abukhan ce_Abumuslim ce_Abusaid ce_Abusolt ce_Abusupyan ce_Abuyazid ce_Abuzar
+		ce_Adlan ce_Aidamir ce_Akhmed ce_Akhyad ce_Alimsultan ce_Alkhazur ce_Alvi
+		ce_Amirkhan ce_Andarbek ce_Anvar ce_Apti ce_Arbi ce_Aset ce_Aslambek ce_Ayub
+		ce_Ayubkhan ce_Bashlam ce_Baudi ce_Baysangur ce_Beibulat ce_Bekbulat ce_Bekbuzar
+		ce_Bekhan ce_Bekkhan ce_Beksolta ce_Beslan ce_Bishr ce_Bislan ce_Bisolt ce_Borz
+		ce_Buvaisar ce_Chingiz ce_Dalkhan ce_Danilbek ce_Degi ce_Dikalu ce_Djabrail ce_Dokka
+		ce_Doku ce_Dugurkhan ce_Dukkhvakha ce_Dukuvakha ce_Dzhalal ce_Dzhamaldin
+		ce_Dzhamaludin ce_Dzhambek ce_Dzhambulat ce_Elbek ce_Elimkhan ce_Elmurza
+		ce_Eriskhan ce_Ibragim-bek ce_Kakhir ce_Kanti ce_Keram ce_Kerim ce_Khadzhimurat
+		ce_Khamzat ce_Khanpasha ce_Khansultan ce_Khasanbek ce_Khasbulat ce_Khasi
+		ce_Khas-Magomed ce_Khaso ce_Khassan ce_Khavazh ce_Khavazhi ce_Khazarbek
+		ce_Khazhbikar ce_Khizir ce_Khunkar-Pasha ce_Khuseyn ce_Kozh-Ahmed ce_Kuira ce_Kyura
+		ce_Lecha ce_Lema ce_Lom ce_Lom-Ali ce_Lors ce_Madzhid ce_Magomed-Emi ce_Mairbek
+		ce_Makhdi ce_Makkkhal ce_Mamed ce_Marvan ce_Marzbek ce_Mayrkhan ce_Mayrsolt
+		ce_Mekhdi ce_Mokhmad-Emin ce_Movladi ce_Movlid ce_Movsar ce_Mukhammad
+		ce_Mukhmad ce_Mumadi ce_Murvan ce_Muslim ce_Nal ce_Nazhmuddin ce_Nazhud
+		ce_Nazyr ce_Nur-Pashi ce_Olkhazar ce_Ortsu ce_Ovlur ce_Rakhman ce_Razanbek
+		ce_Rizvadi ce_Rizvan ce_Said ce_Said-Akhmad ce_Saidalim ce_Said-Khasan
+		ce_Said-Magomed ce_Salamu ce_Salimgerey ce_Shakhid ce_Shamkhan ce_Shamsudin
+		ce_Sharaudin ce_Sharip ce_Shima ce_Shirvani ce_Solsa ce_Sulambek ce_Sulim ce_Sulombek
+		ce_Supyan ce_Surkho ce_Sutarbi ce_Taimaz ce_Takhir ce_Tamerlan ce_Tarkhan
+		ce_Taymaskhan ce_Taymaz ce_Tskhogal ce_Turpal ce_Turpal-Ali ce_Umalat ce_Uvays
+		ce_Vaharsolt ce_Vait ce_Vakhid ce_Valid ce_Vishkan ce_Vishkazhi ce_Yakhya ce_Yamad
+		ce_Yandarbi ce_Yaragi ce_Yunadi ce_Zalimkhan ce_Zelim ce_Zhovkhar ce_Ziyaudin
+		ce_Zubaira 
+	}
+
+	female_names = {
+		ce_Aiza ce_Albika ce_Amanat ce_Amanta ce_Arubika ce_Aset ce_Aymani ce_Aysha ce_Ayza
+		ce_Ayzanat ce_Bilqiz ce_Birlant ce_Chokva ce_Deshi ce_Elbika ce_Fariza ce_Favziyya
+		ce_Firdovs ce_Hadijat ce_Kemisa ce_Kesira ce_Khadizhat ce_Khadzhar ce_Khafsat
+		ce_Khalimat ce_Khazbika ce_Khazimat ce_Kheda ce_Kkhokkha ce_Kulsum ce_Kurbika
+		ce_Kurzham ce_Kusama ce_Makka ce_Malkan ce_Malkhazni ce_Maryat ce_Marzet
+		ce_Maymunat ce_Medni ce_Mukhazhar ce_Nurbika ce_Nurset ce_Petimat ce_Polla ce_Qoqa
+		ce_Rabiat ce_Raykhanat ce_Rebiat ce_Rezeda ce_Rovzan ce_Rubati ce_Rukiyat ce_Rumisa
+		ce_Ruqayyat ce_Ruvayda ce_Safiyat ce_Sarizha ce_Satsita ce_Savdat ce_Seda ce_Shahidat
+		ce_Shovda ce_Sovbika ce_Sukhayla ce_Tabarik ce_Taus ce_Taymashka ce_Valida ce_Xava
+		ce_Yakha ce_Yakhita ce_Yisa ce_Yisiyta ce_Zakhira ce_Zakiyat ce_Zalbika ce_Zalina
+		ce_Zalpa ce_Zamira ce_Zarema ce_Zargan ce_Zaydat ce_Zaynap ce_Zelikha ce_Zelimat
+		ce_Zezag ce_Zezig ce_Zhovkhar ce_Zhovzan ce_Zulay ce_Zuleykhan ce_Zura
+	}
+}
+name_list_abkhaz = {
+
+	dynasty_names = {
+		dyn_ab_Adleiba dyn_ab_Agrba dyn_ab_Akhba dyn_ab_Ardzinba dyn_ab_Aristava
+		dyn_ab_Arshba dyn_ab_Ashuba dyn_ab_Avidzba dyn_ab_Dzhopua dyn_ab_Gagulia
+		dyn_ab_Gitsba dyn_ab_Ivanba dyn_ab_Khajimba dyn_ab_Kharazia dyn_ab_Khashba
+		dyn_ab_Kortava dyn_ab_Kubrava dyn_ab_Kvitsinia dyn_ab_Labakhua dyn_ab_Lakerbaia
+		dyn_ab_Lakoba dyn_ab_Salakaya dyn_ab_Tsugba
+	}
+	
+	male_names = {
+		ab_Abga ab_AdamEr ab_Adgur ab_Akhmat ab_Akhra ab_Akhrik ab_Alkhas ab_Almasbei
+		ab_Alyksandr ab_Amza ab_Anatolii ab_Arut ab_Arutan ab_Arzadin ab_Astamur ab_Astamyr
+		ab_Astan ab_Bagrat ab_Batal ab_Besik ab_Beslan ab_Daur ab_DawEt ab_Dyrmit ab_Dzamal
+		ab_EbErham ab_Est_at_ ab_FardawEs ab_Gazia ab_Gozar ab_Gudisa ab_Iurii ab_Jemal
+		ab_Jomamah ab_MamsEr ab_Nugzar ab_Nuri ab_Ovanes ab_Satbei ab_SejEd ab_Setrak
+		ab_Shuarakh ab_Sokrat ab_Talikh ab_Tamaz ab_Temyr ab_Tengiz ab_Uazha ab_Valerii
+		ab_Vianor ab_Yaozar
+	}
+
+	female_names = {
+		ab_Amra ab_Amza ab_Apsa ab_Asida ab_BErfEnka ab_Bashnukh ab_C_Es-na ab_C_Ebra
+		ab_Esma ab_Gunda ab_HanEm ab_Khibla ab_Khimra ab_Kuarasa ab_Mra-lasa ab_Mramza
+		ab_Naala ab_Qarasa ab_SafrahanEm ab_XE-bla
+	}
+}
+name_list_circassian = {
+
+	dynasty_names = {
+		dyn_ady_Barcho dyn_ady_Chemso dyn_ady_Chukho dyn_ady_Dzharimov dyn_ady_Guchetl
+		dyn_ady_Ilyasov dyn_ady_Jaimoukha dyn_ady_Makhov dyn_ady_Napso dyn_ady_Naptsok
+		dyn_ady_Nash dyn_ady_Nashkho dyn_ady_Natkho dyn_ady_Natok dyn_ady_Nibo
+		dyn_ady_Pak dyn_ady_Panesh dyn_ady_Ramazanov dyn_ady_Stash dyn_ady_Taov
+		dyn_ady_Tkhakushinov dyn_ady_Tlebzu dyn_ady_Tsikunib dyn_ady_Tuguz
+		dyn_ady_Zhemukhov
+	}
+	
+	male_names = {
+		ady_Abatiy ady_Aghwrbiy ady_Albech ady_Albot ady_Alhx_es ady_Alhx_o ady_Alijiqwe
+		ady_Amisch ady_Andeimir ady_Andeimirqan ady_Anzawir ady_Anzoriqwe ady_Areqshu
+		ady_Ashemez ady_Axwemghwet ady_Bagh ady_Bale ady_Bate ady_Batiy ady_Batirbiy
+		ady_Bat_e ady_Bedin ady_Bediniqwe ady_Belatse ady_Beletoqwe ady_Beresbiy
+		ady_Beroqwe ady_Betey ady_Betoqwe ady_Betrez ady_Beizriqwe ady_Beiqan ady_Beird
+		ady_Biybeird ady_Biybolet ady_Biylhosten ady_Blaneshu ady_Bobe ady_Bolet ady_Bore
+		ady_Bot ady_Bube ady_Bubeird ady_Bile ady_Bilu ady_Chawis ady_Chetsu ady_Ch_ischiqwe
+		ady_Dat ady_Dawe ady_Dariqwe ady_Debaghwe ady_Degwzchey ady_Diyde
+		ady_Dox_wshiqwe ady_Dizchin ady_Discheshu ady_Dzedzu ady_Dzeghaschte ady_Dzepsch
+		ady_Dzeshu ady_Dzu ady_Dzudze ady_Dzune ady_Dzidzu ady_Foqwe ady_Ghwaze
+		ady_Ghwch_e ady_Ghwch_el_ ady_Ghwch_eschawe ady_Ghwsch_ine ady_Ghwsch_ipse
+		ady_Hebale ady_Hebashe ady_Hebexw ady_Hebiy ady_Hebizh ady_Hech_ashe
+		ady_Hegwtsire ady_Hemash ady_Hemashe ady_Hemat_ ady_Hemat_e ady_Hemats
+		ady_Hemit_e ady_Hemt_ut_ ady_Henasch_e ady_Henaschx_we ady_Henax_we
+		ady_Hepasch_e ady_Hep_at_ ady_Hep_ot_ ady_Herebiy ady_Hesane ady_Hesansh
+		ady_Heschawe ady_Hesch_emaxwe ady_Heshir ady_Heshore ady_Hetal ady_Hetaliy
+		ady_Hetaw ady_Hetezchiqwe ady_Hetiqe ady_Hetiqwe ady_Hetize ady_Het_ox_wschiqwe
+		ady_Hetschiqwe ady_Hetsile ady_Hetsiqe ady_Hetsiqwe ady_Hetsu ady_Hetu ady_Het_ut_e
+		ady_Hewtiy ady_Hezeishe ady_Janchate ady_Jatawe ady_Jilax_sten ady_Jirandiqwe
+		ady_Kitsu ady_Kwrghwoqwe ady_Kwsh ady_Kwshbiy ady_Kwshmez ady_Kwshikw ady_Lashe
+		ady_Lawirsen ady_Lemashe ady_Lhepsch ady_Lhosten ady_Lhostenasch ady_Lhostenbiy
+		ady_L_if_ ady_L_imaxwe ady_Mamish ady_Mamishe ady_Mamsir ady_Mamsriqwe
+		ady_Mariqwe ady_Mash ady_Mashe ady_Mat_e ady_Mat_u ady_Maxwe ady_Med ady_Men
+		ady_Menshaq ady_Meshiqwe ady_Mile ady_Miqe ady_Misost ady_Mize ady_Mut_e
+		ady_Nal ady_Nalbiy ady_Nali ady_Napts_e ady_Narich ady_Nart ady_Nartbiy
+		ady_Nartschawe ady_Nartshu ady_Nasch ady_Naschx_we ady_Natbiy ady_Natrib
+		ady_Nawirbiy ady_Nawriz ady_Nax_we ady_Nedighe ady_Neghwey ady_Nep_it_ ady_Nerzan
+		ady_Nesren ady_Nex_wat_e ady_Nex_wpsch ady_Pagwe ady_Paq ady_Pariyqe ady_Pashe
+		ady_P_at_ ady_P_it_u ady_Pschibiy ady_Pschimaxwe ady_Pschimide ady_Pschiqan
+		ady_Pschizebiy ady_Psebide ady_Qaniqwe ady_Qanschawe ady_Qanschobiy ady_Qaschx_we
+		ady_Qeit ady_Qeitiqwe ady_Qex_wn ady_Qideghaze ady_Qilishbiy ady_Qwbatiy
+		ady_Qwlhshiqwe ady_Qwsh ady_Schad ady_Schaqmen ady_Schebet ady_Schebetiqwe
+		ady_Scherel_oqwe ady_Schewey ady_Schihbolet ady_Schihim ady_Schiyherbiy
+		ady_Scholex_w ady_Schoqal ady_Senjeley ady_Serebiy ady_Sha ady_Shabiyix_w
+		ady_Shaghir ady_Shaghirbiy ady_Shaps ady_Shat_ ady_Shiys ady_Shore ady_Shu
+		ady_Shumaf_e ady_Shumaxwe ady_Shume ady_Shupagwe ady_Shupashe ady_Shuqe
+		ady_Shuwey ady_Sirixw ady_Sosriqwe ady_Takwu ady_Tawqan ady_Teimbolet
+		ady_Teimbore ady_Teimbot ady_Teipsiriqwe ady_Teirchiqwe ady_Teiwvezh ady_T_emashe
+		ady_Tighwen ady_Tighwenbiy ady_T_igwe ady_Tiqe ady_Tiqire ady_Tolbiy ady_Tolhesten
+		ady_Toqwe ady_Tsane ady_Tsats ady_Tsatsu ady_Tsiqire ady_Tsu ady_Tsumash ady_Tsut_e
+		ady_T_ut_ ady_Werdeschawe ady_Werdeschiqwe ady_Wezirmes ady_Wezirmej ady_Wezrej
+		ady_Wezroqwe ady_Wighwrli ady_Wivzhiqwe ady_X_imisch ady_X_wat_e ady_Xwemghwet
+		ady_X_wet ady_Yamdezh ady_Yapenes ady_Yedij ady_Yelbizdiqwe ady_Yelhqan
+		ady_Yeljiriqwe ady_Yelhix_w ady_Yemish ady_Yeristam ady_Yerzhib ady_Yetech
+		ady_Yex_wl_e ady_Yinaliqwe ady_Yinarmes ady_Zawirbiy ady_Zeik_we ady_Zeik_weshu
+		ady_Zhaniqwe ady_Zhanqeit ady_Zhansex_w ady_Zhansiyt ady_Zhanteimir ady_Zhantighwen
+		ady_Zhanx_wet ady_Zhantiy ady_Zhebaghi ady_Zhembolet ady_Zhembore ady_Zhembot
+		ady_Zheriqwe ady_Zhilebiy ady_Zhileghwet ady_Zhiqwe ady_Zhore ady_Ziramikw
+	}
+
+	female_names = {
+		ady_Abexw ady_Adiyixw ady_Babine ady_Babire ady_Babishe ady_Babitse ady_Babixw
+		ady_Babliyne ady_Bariyne ady_Bedexw ady_Bitse ady_Bixwe ady_Biybe ady_Bzcho
+		ady_Dadiy ady_Daduqan ady_Dadusha ady_Dane ady_Daniyzet ady_Daxe ady_Daxeliyne
+		ady_Daxenaghwe ady_Daxewes ady_Dische ady_Diyne ady_Dumesare ady_Dune
+		ady__ediyixw ady_Gwasche ady_Gwascheghagh ady_Gwascheliyne ady_Gwaschenise
+		ady_Gwaschemasch_e ady_Gwaschepagwe ady_Gwaschexwzch ady_Gweschene
+		ady_Gweschenexw ady_Gwlez ady_Gwne ady_Gwnes ady_Hetsatsa ady_K_wak_we
+		ady_K_wat_e ady_K_watse ady_Kwez ady_K_wk_we ady_K_wlat_e ady_K_wlatse ady_Kwle
+		ady_K_wle ady_Kwl_edem ady_Kwliyzhan ady_Kwne ady_K_wne ady_Kwral ady_K_wratse
+		ady_K_wt_e ady_Lalixw ady_Laliyne ady_Laliytse ady_Lane ady_Lawitse ady_Lixwe
+		ady_Liyne ady_Naghwe ady_Naschx_we ady_Negwresh ady_Nedaxe ady_Nex_daxe
+		ady_Niyne ady_Pagwe ady_Pizchine ady_Qandische ady_Qan_ef_ ady_Qanexw
+		ady_Qants_ik_w ady_Qeral ady_Qerelzhan ady_Qwdas ady_Sase ady_Sat_ ady_Sawise
+		ady_Sete ady_Seteney ady_Susane ady_Tewzhan ady_Tsatse ady_Tsatsune ady_Wes
+		ady_Wile ady_Witse ady_Wizche ady_X_imsad ady_Xwemey ady_Xwniyne ady_Xwriyret
+		ady_Xwske ady_Xwzch ady_Xwzchpagwe ady_Zaliyne ady_Zhan ady_Zhangwasche
+		ady_Zhanpagwe ady_Zhanqwdas ady_Zhanshir ady_Zhanwes ady_Zhanwise ady_Zhanxwzch
+		ady_Zhanziyle ady_Zheine ady_Zuliy ady_Zuliyzhan
+	}
+}
+name_list_armenian = {
+
+	dynasty_names = {
+		dyn_hy_Hagopian dyn_hy_Vartanian dyn_hy_Garabedian dyn_hy_Nazarian
+		dyn_hy_Markarian dyn_hy_Sarkisian dyn_hy_Simonian dyn_hy_Krikorian dyn_hy_Boyajian
+		dyn_hy_Sarkissian dyn_hy_Avakian dyn_hy_Arakelian dyn_hy_Grigorian dyn_hy_Najarian
+		dyn_hy_Bedrosian dyn_hy_Ohanian dyn_hy_Tashjian dyn_hy_Minassian dyn_hy_Kazarian
+		dyn_hy_Papazian dyn_hy_Abajian dyn_hy_Abelian dyn_hy_Aboudourian
+		dyn_hy_Abrahamian dyn_hy_Abramian dyn_hy_Adamian dyn_hy_Adjemian dyn_hy_Afarian
+		dyn_hy_Agajanian dyn_hy_Agbashian dyn_hy_Aghajanian dyn_hy_Aghasarian
+		dyn_hy_Agopian dyn_hy_Aharonian dyn_hy_Aivazian dyn_hy_Ajamian dyn_hy_Ajelian
+		dyn_hy_Ajemian dyn_hy_Akcheralian dyn_hy_Akopian dyn_hy_Alboyajian
+		dyn_hy_Alexanian dyn_hy_Aloyan dyn_hy_Altoonian dyn_hy_Altounian dyn_hy_Amirian
+		dyn_hy_Amirkhanian dyn_hy_Amlian dyn_hy_Ananian dyn_hy_Andonian
+		dyn_hy_Andreassian dyn_hy_Andrian dyn_hy_Antablian dyn_hy_Antonian
+		dyn_hy_Antreasian dyn_hy_Apelian dyn_hy_Apkarian dyn_hy_Aposhian
+		dyn_hy_Aprahamian dyn_hy_Arabian dyn_hy_Armenagian dyn_hy_Armenian
+		dyn_hy_Arslanian dyn_hy_Artinian dyn_hy_Arutunian dyn_hy_Arutyunian
+		dyn_hy_Arzoumanian dyn_hy_Asadoorian dyn_hy_Asadorian dyn_hy_Asadourian
+		dyn_hy_Ashjian dyn_hy_Aslanian dyn_hy_Asmarian dyn_hy_Assadourian dyn_hy_Atamian
+		dyn_hy_Attarian dyn_hy_Avanesian dyn_hy_Avanessian dyn_hy_Avedian dyn_hy_Avedikian
+		dyn_hy_Avedisian dyn_hy_Avedissian dyn_hy_Avetisian dyn_hy_Ayvazian dyn_hy_Azadian
+		dyn_hy_Azarian dyn_hy_Azizian dyn_hy_Babadjanian dyn_hy_Babaian dyn_hy_Babalian
+		dyn_hy_Babayan dyn_hy_Babikian dyn_hy_Baboyan dyn_hy_Badalian dyn_hy_Bagdasarian
+		dyn_hy_Baghdasarian dyn_hy_Baghdassarian dyn_hy_Bakalian dyn_hy_Bakhshian
+		dyn_hy_Balalian dyn_hy_Balian dyn_hy_Baronian dyn_hy_Barsamian dyn_hy_Barseghian
+		dyn_hy_Barsekian dyn_hy_Barsoumian dyn_hy_Bartamian dyn_hy_Bashian
+		dyn_hy_Basmadjian dyn_hy_Basmajian dyn_hy_Bastegian dyn_hy_Bazarian dyn_hy_Bazoian
+		dyn_hy_Bedjidian dyn_hy_Bedrossian dyn_hy_Bekmezian dyn_hy_Belekian dyn_hy_Berber
+		dyn_hy_Berberian dyn_hy_Beshgetoorian dyn_hy_Beudjekian dyn_hy_Bilezikjian
+		dyn_hy_Boghesian dyn_hy_Boghosian dyn_hy_Boghossian dyn_hy_Bogosian
+		dyn_hy_Bohigian dyn_hy_Bolian dyn_hy_Boroyan dyn_hy_Boudakian dyn_hy_Bournazian
+		dyn_hy_Boyadjian dyn_hy_Bozoyan dyn_hy_Bshikian dyn_hy_Burian dyn_hy_Buzantian
+		dyn_hy_Casparian dyn_hy_Chaderjian dyn_hy_Chilingirian dyn_hy_Chobanian
+		dyn_hy_Cholakian dyn_hy_Dakessian dyn_hy_Danagoulian dyn_hy_Danielian
+		dyn_hy_Darakjian dyn_hy_Darbenian dyn_hy_Darbinian dyn_hy_Dardarian
+		dyn_hy_Davidian dyn_hy_Davitian dyn_hy_Davoodian dyn_hy_Defterderian 
+		dyn_hy_Demerjian dyn_hy_Demirchian dyn_hy_Demirdjian dyn_hy_Demirjian dyn_hy_Der_Artenian dyn_hy_Derderian dyn_hy_Der_Ghozarian dyn_hy_Derian 
+		dyn_hy_Der_Krikorian dyn_hy_Der_Mardirosian dyn_hy_Derounian dyn_hy_Der_Sarkissian
+		dyn_hy_Deukmejian dyn_hy_Devejian dyn_hy_Dilberian dyn_hy_Dionysian dyn_hy_Dishian
+		dyn_hy_Djerahian dyn_hy_Donabedian dyn_hy_Donigian dyn_hy_Donikian
+		dyn_hy_Donoyan dyn_hy_Doomanian dyn_hy_Dostourian dyn_hy_Dudukjian
+		dyn_hy_Dulian dyn_hy_Ebrahimian dyn_hy_Eghigian dyn_hy_Egoyan dyn_hy_Ekizian
+		dyn_hy_Emerzian dyn_hy_Erdoglian dyn_hy_Eshaghian dyn_hy_Eskidjian dyn_hy_Estupian
+		dyn_hy_Estupinian dyn_hy_Eurdekian dyn_hy_Fabricatorian dyn_hy_Farajian
+		dyn_hy_Farmanian dyn_hy_Ferhadian dyn_hy_Filipian dyn_hy_Fillipian dyn_hy_Fillippian
+		dyn_hy_Gabrielian dyn_hy_Gadjibekian dyn_hy_Gaganian dyn_hy_Gagatchian
+		dyn_hy_Galstian dyn_hy_Garoghlanian dyn_hy_Gasparian dyn_hy_Gatian dyn_hy_Gazarian
+		dyn_hy_Geragosian dyn_hy_Geuvjehizian dyn_hy_Gevorgian dyn_hy_Gevorkian
+		dyn_hy_Ghanbarian dyn_hy_Gharibian dyn_hy_Ghazarian dyn_hy_Ghazbarian
+		dyn_hy_Ghazirossian dyn_hy_Giragosian dyn_hy_Goorjian dyn_hy_Gordian
+		dyn_hy_Goshgarian dyn_hy_Gostanian dyn_hy_Goulouzian dyn_hy_Gregorian
+		dyn_hy_Grotrian dyn_hy_Gulabian dyn_hy_Gulezian dyn_hy_Gulian dyn_hy_Gurjian
+		dyn_hy_Gurunian dyn_hy_Gyulatian dyn_hy_Habechian dyn_hy_Hachigian
+		dyn_hy_Hacopian dyn_hy_Haigazian dyn_hy_Hairabedian dyn_hy_Hairapetian
+		dyn_hy_Hajian dyn_hy_Hakimian dyn_hy_Hakobian dyn_hy_Hakopian dyn_hy_Halajian
+		dyn_hy_Hamalian dyn_hy_Hampartzoumian dyn_hy_Hanoyan dyn_hy_Harabedian
+		dyn_hy_Haroian dyn_hy_Harootunian dyn_hy_Haroutiounian dyn_hy_Haroutunian
+		dyn_hy_Hartoonian dyn_hy_Hartounian dyn_hy_Hartunian dyn_hy_Harutunian
+		dyn_hy_Harutyunian dyn_hy_Hashemian dyn_hy_Hatzakordzian dyn_hy_Hekimian
+		dyn_hy_Houmarian dyn_hy_Hounanian dyn_hy_Housepian dyn_hy_Hovakimian
+		dyn_hy_Hovanesian dyn_hy_Hovanessian dyn_hy_Hovhannisian dyn_hy_Hovanian
+		dyn_hy_Hovsepian dyn_hy_Howsepian dyn_hy_Hrechdakian dyn_hy_Hyrapetian
+		dyn_hy_Iloulian dyn_hy_Indoyan dyn_hy_Indzheyan dyn_hy_Injijian dyn_hy_Iskenderian
+		dyn_hy_Izmirlian dyn_hy_Jabejian dyn_hy_Jaffarian dyn_hy_Jagharian
+		dyn_hy_Jaghatspanian dyn_hy_Jamgochian dyn_hy_Jamgotchian dyn_hy_Janessian
+		dyn_hy_Janigian dyn_hy_Janiyan dyn_hy_Jeghelian dyn_hy_Jibotian dyn_hy_Jiminian
+		dyn_hy_Jojakian dyn_hy_Jouharian dyn_hy_Julakian dyn_hy_Kaakajian dyn_hy_Kabakian
+		dyn_hy_Kachadoorian dyn_hy_Kafkadjian dyn_hy_Kalagian dyn_hy_Kalajian
+		dyn_hy_Kalantarian dyn_hy_Kalashian dyn_hy_Kalaydjian dyn_hy_Kalayjian dyn_hy_Kalian
+		dyn_hy_Kaloustian dyn_hy_Kalpakian dyn_hy_Kandarian dyn_hy_Kaprelian
+		dyn_hy_Kaprielian dyn_hy_Karabedian dyn_hy_Karagozian dyn_hy_Karagouzian
+		dyn_hy_Karakashian dyn_hy_Karakelian dyn_hy_Karakhanian dyn_hy_Karapetian
+		dyn_hy_Karatavukian dyn_hy_Karayan dyn_hy_Kardashian dyn_hy_Karian dyn_hy_Karibian
+		dyn_hy_Karimian dyn_hy_Karmenian dyn_hy_Karnikian dyn_hy_Kartozian dyn_hy_Kasabian
+		dyn_hy_Kasbarian dyn_hy_Kashanian dyn_hy_Kashian dyn_hy_Kasparian dyn_hy_Kassabian
+		dyn_hy_Katchikian dyn_hy_Kazanchian dyn_hy_Kazandjian dyn_hy_Kazanjian
+		dyn_hy_Kazazian dyn_hy_Kechechian dyn_hy_Kechichian dyn_hy_Kehyayan
+		dyn_hy_Keledjian dyn_hy_Keleshian dyn_hy_Kerestedjian dyn_hy_Keshishian
+		dyn_hy_Kevorkian dyn_hy_Khachadoorian dyn_hy_Khachatourian dyn_hy_Khachatrian
+		dyn_hy_Khachaturian dyn_hy_Khachigian dyn_hy_Khachikian dyn_hy_Khalapian
+		dyn_hy_Khashamanian dyn_hy_Khatchadourian dyn_hy_Khatcherian dyn_hy_Khatchoyan
+		dyn_hy_Kilarjian dyn_hy_Kirakosian dyn_hy_Kirkorian dyn_hy_Kirlian dyn_hy_Kizirian
+		dyn_hy_Knabjian dyn_hy_Kocharian dyn_hy_Kojababian dyn_hy_Kolanian dyn_hy_Kolanjian
+		dyn_hy_Komshian dyn_hy_Koshkarian dyn_hy_Kotzian dyn_hy_Kouyoumdjian
+		dyn_hy_Kouyoumjian dyn_hy_Krikorian dyn_hy_Kupelian dyn_hy_Kurkeyerian
+		dyn_hy_Kurkjian dyn_hy_Kushdilian dyn_hy_Kushmanian dyn_hy_Laloyan dyn_hy_Lazarian
+		dyn_hy_Libarian dyn_hy_Magarian dyn_hy_Maghakian dyn_hy_Magorian
+		dyn_hy_Mahdessian dyn_hy_Mailian dyn_hy_Malayan dyn_hy_Malkasian
+		dyn_hy_Maloumian dyn_hy_Manoogian dyn_hy_Manookian dyn_hy_Manoughian
+		dyn_hy_Manoukian dyn_hy_Mansourian dyn_hy_Manucharian dyn_hy_Manukian
+		dyn_hy_Marderosian dyn_hy_Mardirosian dyn_hy_Mardirossian dyn_hy_Margarian
+		dyn_hy_Margosian dyn_hy_Markosian dyn_hy_Martirosian dyn_hy_Mashourian
+		dyn_hy_Matavian dyn_hy_Matosian dyn_hy_Matossian dyn_hy_Mazloomian
+		dyn_hy_Mazmanian dyn_hy_Megerdichian dyn_hy_Megerditchian dyn_hy_Mehrabian
+		dyn_hy_Mekhalian dyn_hy_Melikian dyn_hy_Melkonian dyn_hy_Mesrobian
+		dyn_hy_Mgrditchian dyn_hy_Michaelian dyn_hy_Micharian dyn_hy_Mikaelian
+		dyn_hy_Minasian dyn_hy_Mirzaian dyn_hy_Mishkanian dyn_hy_Mizloumian
+		dyn_hy_Mkchian dyn_hy_Mkhitrian dyn_hy_Mkrtchian dyn_hy_Momjian
+		dyn_hy_Mooradian dyn_hy_Mooschekian dyn_hy_Moradian dyn_hy_Mordjikian
+		dyn_hy_Moscoffian dyn_hy_Mouhibian dyn_hy_Mouradian dyn_hy_Movsesian
+		dyn_hy_Muradian dyn_hy_Nabavian dyn_hy_Nadzharian dyn_hy_Nahabedian
+		dyn_hy_Nahigian dyn_hy_Nakashian dyn_hy_Nalbandian dyn_hy_Narghizian
+		dyn_hy_Nersesian dyn_hy_Nersessian dyn_hy_Nishanian dyn_hy_Norashkarian
+		dyn_hy_Norian dyn_hy_Nourian dyn_hy_Odabachian dyn_hy_Odabashian
+		dyn_hy_Oganesian dyn_hy_Ohanesian dyn_hy_Ohanessian dyn_hy_Ohannessian
+		dyn_hy_Omartian dyn_hy_Onanian dyn_hy_Orchanian dyn_hy_Ordoubegian
+		dyn_hy_Orullian dyn_hy_Oungoulian dyn_hy_Ouzenian dyn_hy_Ouzounian
+		dyn_hy_Ovanessian dyn_hy_Oynoyan dyn_hy_Panosian dyn_hy_Panossian
+		dyn_hy_Panoyan dyn_hy_Papelian dyn_hy_Paraseghian dyn_hy_Parsadanian
+		dyn_hy_Parseghian dyn_hy_Perian dyn_hy_Petrikian dyn_hy_Petrosian dyn_hy_Petrossian
+		dyn_hy_Piligian dyn_hy_Pirumian dyn_hy_Pogosian dyn_hy_Pogossian dyn_hy_Poladian
+		dyn_hy_Poponian dyn_hy_Rahimian dyn_hy_Raisian dyn_hy_Rechrarian dyn_hy_Rostomian
+		dyn_hy_Roubanian dyn_hy_Roupenian dyn_hy_Ruzgerian dyn_hy_Saakian
+		dyn_hy_Sabounian dyn_hy_Sadarian dyn_hy_Sadeghian dyn_hy_Sagatelian dyn_hy_Saghian
+		dyn_hy_Sahagian dyn_hy_Sahakian dyn_hy_Samuelian dyn_hy_Sanamian dyn_hy_Sarafian
+		dyn_hy_Sargisian dyn_hy_Sargsian dyn_hy_Sarkis dyn_hy_Saroyan dyn_hy_Savadjian
+		dyn_hy_Sayadian dyn_hy_Seferian dyn_hy_Seghpedrosian dyn_hy_Semerdjian
+		dyn_hy_Semerjian dyn_hy_Semilian dyn_hy_Serabian dyn_hy_Serian dyn_hy_Seropian
+		dyn_hy_Serverian dyn_hy_Setian dyn_hy_Sexenian dyn_hy_Shahbazian dyn_hy_Shahinian
+		dyn_hy_Shahnazarian dyn_hy_Shahparonian dyn_hy_Shahverdian dyn_hy_Shakarian
+		dyn_hy_Shamlian dyn_hy_Sheroyan dyn_hy_Shirinian dyn_hy_Shirvanian
+		dyn_hy_Shismanian dyn_hy_Shmavarian dyn_hy_Simitian dyn_hy_Sinanian
+		dyn_hy_Siradeghian dyn_hy_Sirounian dyn_hy_Sivaslian dyn_hy_Slobodian
+		dyn_hy_Slobodzian dyn_hy_Smsarian dyn_hy_Soghomonian dyn_hy_Sohigian
+		dyn_hy_Solakian dyn_hy_Soojian dyn_hy_Sookasian dyn_hy_Stepanian dyn_hy_Sumbulian
+		dyn_hy_Sundukian dyn_hy_Surabian dyn_hy_Susmassian dyn_hy_Tabibian
+		dyn_hy_Tacorian dyn_hy_Tahmasian dyn_hy_Tahmizian dyn_hy_Takvorian
+		dyn_hy_Talanian dyn_hy_Tamrazian dyn_hy_Tanielian dyn_hy_Tankian dyn_hy_Tarakjian
+		dyn_hy_Tarpinian dyn_hy_Tarzian dyn_hy_Tatarian dyn_hy_Tatevosian dyn_hy_Tatevossian
+		dyn_hy_Tatosian dyn_hy_Tavitian dyn_hy_Tchakian dyn_hy_Tchaparian dyn_hy_Tertzagian
+		dyn_hy_Terzian dyn_hy_Thomasian dyn_hy_Tokmajian dyn_hy_Tomasian
+		dyn_hy_Tomassian dyn_hy_Tombalakian dyn_hy_Topalian dyn_hy_Topjian dyn_hy_Torigian
+		dyn_hy_Torosian dyn_hy_Torossian dyn_hy_Tossounian dyn_hy_Toumians
+		dyn_hy_Tourikian dyn_hy_Tramblian dyn_hy_Tutunjian dyn_hy_Vahanian dyn_hy_Vanlian
+		dyn_hy_Vardanian dyn_hy_Varjabedian dyn_hy_Vartabedian dyn_hy_Vesgersian
+		dyn_hy_Virabian dyn_hy_Vosganian dyn_hy_Voskanian dyn_hy_Yacobian
+		dyn_hy_Yacoubian dyn_hy_Yaghejian dyn_hy_Yaghoubian dyn_hy_Yapounjian
+		dyn_hy_Yazdanian dyn_hy_Yeghiayan dyn_hy_Yerkanian dyn_hy_Yossarian
+		dyn_hy_Yousefian dyn_hy_Yulduzian dyn_hy_Zakarian dyn_hy_Zamanian dyn_hy_Zargarian
+		dyn_hy_Zartarian dyn_hy_Zeytounlian dyn_hy_Zildjian dyn_hy_Zipperian dyn_hy_Zoolalian
+		dyn_hy_Zulalian
+	}
+	
+	male_names = {
+		hy_Abraham hy_Adom hy_Aghajan hy_Aghasi hy_Aghaton hy_Aghvan hy_Aharon hy_Akim
+		hy_Albert hy_Alek hy_Aleksan hy_Alik hy_Altoun hy_Andranik hy_Anton hy_Antranik
+		hy_Anush hy_Ara hy_Arakel hy_Aram hy_Aramayis hy_Ararat hy_Arayik hy_Ardash
+		hy_Arden hy_Areg hy_Aristak hy_Arman hy_Armen hy_Armenak hy_Arout hy_Arpiar
+		hy_Arsen hy_Arshak hy_Arshaluys hy_Arshavir hy_Artak hy_Artashes hy_Artavazd hy_Artin
+		hy_Artur hy_Arzuman hy_Ashot hy_Atom hy_Avetik hy_Avik hy_Azat hy_Babken
+		hy_Baghdasar hy_Bartev hy_Daniel hy_Davit hy_Diratsou hy_Donig hy_Edik hy_Edvard
+		hy_Emil hy_Esayi hy_Firouz hy_Franciscos hy_Gagik hy_Galust hy_Garbis hy_Garegin
+		hy_Garnik hy_Gazar hy_Gegham hy_Gevork hy_Gevorg hy_Ghazi hy_Gnel hy_Grigor
+		hy_Gurgen hy_Hagop hy_Haig hy_Haigaz hy_Hakob hy_Hamazasp hy_Hambardzum
+		hy_Hamlet hy_Haro hy_Harout hy_Harut hy_Hasan hy_Hayk hy_Haykanush hy_Haykaram
+		hy_Henrik hy_Hovhannes hy_Hovik hy_Hovnan hy_Hovo hy_Hovsep hy_Hrachik
+		hy_Hrachya hy_Hranush hy_Ignadios hy_Ishkhan hy_Jirayr hy_Kajik hy_Kaloosh hy_Kamo
+		hy_Karapet hy_Karo hy_Kersam hy_Kevork hy_Khachatur hy_Krikor hy_Lazar hy_Levik
+		hy_Levon hy_Lusik hy_Magar hy_Makar hy_Malkhas hy_Manvel hy_Marat hy_Martiros
+		hy_Martun hy_Mekhitar hy_Mesrob hy_Mhair hy_Mher hy_Mihran hy_Mikael hy_Minas
+		hy_Misak hy_Mkhitar hy_Mkrtich hy_Mnatsakan hy_Mourad hy_Murad hy_Mushegh
+		hy_Nazar hy_Nerses hy_Never hy_Norayr hy_Norik hy_Nver hy_Ounan hy_Ovagem
+		hy_Pakarad hy_Paren hy_Pasha hy_Poghos hy_Radik hy_Raffi hy_Rafik hy_Razmik
+		hy_Robert hy_Roman hy_Ruben hy_Rubik hy_Rudik hy_Sahak hy_Samvel hy_Sargis
+		hy_Sarkis hy_Sasun hy_Seboun hy_Serj hy_Sero hy_Serob hy_Seryoja hy_Shahen
+		hy_Shavarsh hy_Shirak hy_Smbat hy_Sos hy_Spartak hy_Stepan hy_Stepannos hy_Suren
+		hy_Surik hy_Taron hy_Taronik hy_Tatos hy_Telman hy_Tigran hy_Tigris hy_Toma
+		hy_Torkom hy_Tornik hy_Tsolag hy_Vachagan hy_Vagharsh hy_Vahag hy_Vahan
+		hy_Vahram hy_Vananush hy_Varaz hy_Vardan hy_Vardges hy_Varouj hy_Vartan hy_Varuj
+		hy_Varujan hy_Vasil hy_Vatchagan hy_Vazgen hy_Vemir hy_Vigen hy_Viken hy_Virab
+		hy_Volodya hy_Vram hy_Yeghishe hy_Yerem hy_Yervand hy_Yesayi hy_Yetvart hy_Yezik
+		hy_Yurik hy_Zakar hy_Zaven hy_Zkon hy_Zohrab
+	}
+
+	female_names = {
+		hy_Admina hy_Adrine hy_Aghavni hy_Aida hy_Akabi hy_Alidz hy_Alis hy_Alisa hy_Almast
+		hy_Altoun hy_Ana hy_Anahit hy_Anait hy_Anel hy_Angelig hy_Angig hy_Ani hy_Anig
+		hy_Aniuta hy_Anna hy_Annakhatoun hy_Anoush hy_Antaram hy_Araxi hy_Armenia
+		hy_Arousiag hy_Arpig hy_Arpine hy_Asdghik hy_Astghik hy_Avedis hy_Avetis hy_Azad
+		hy_Azadouhi hy_Azni hy_Azniv hy_Baidzar hy_Bela hy_Berjanoush hy_Diro hy_Diroun
+		hy_Dirun hy_Donara hy_Doudou hy_Dzovig hy_Dzovo hy_Edessia hy_Eliz hy_Ellizabeth
+		hy_Ello hy_Emma hy_Eojen hy_Flora hy_Frunze hy_Gadarine hy_Gayane hy_Ginara
+		hy_Gohar hy_Haiganoush hy_Haigouhi hy_Hamas hy_Hamasiye hy_Hasmig hy_Heghine
+		hy_Horsi hy_Hranoush hy_Hripsime hy_Huliane hy_Iliona hy_Isgouhi hy_Iveta hy_Izabella
+		hy_Jora hy_Julieta hy_Julietta hy_Karen hy_Karina hy_Karine hy_Karo hy_Karolina
+		hy_Katarine hy_Keghanoush hy_Keghouhi hy_Khosrovidoukht hy_Knarig hy_Kristine
+		hy_Larisa hy_Lena hy_Lilik hy_Liparit hy_Lusaper hy_Lusentak hy_Luso hy_Mairanoush
+		hy_Makrouhi hy_Manishag hy_Maran hy_Margar hy_Margarid hy_Margarit hy_Maria
+		hy_Mariam hy_Mariane hy_Marie hy_Marina hy_Marinae hy_Marjik hy_Maro hy_Maroush
+		hy_Masis hy_Mayis hy_Mayisa hy_Melsidia hy_Nartig hy_Nartouhi hy_Nazenig hy_Nemzar
+		hy_Nemzour hy_Norayr hy_Noyemi hy_Noyemzar hy_Nvard hy_Nvart hy_Nver hy_Osig
+		hy_Ovsanna hy_Pailoun hy_Pareli hy_Parantsem hy_Parkouhi hy_Pergrouhi hy_Perouz
+		hy_Persape hy_Prapion hy_Raisa hy_Ramela hy_Relemma hy_Rita hy_Ruzanna hy_Saghome
+		hy_Sahaganoush hy_Sandoukht hy_Sara hy_Sareen hy_Saten hy_Satig hy_Seda hy_Selma
+		hy_Serpuhi hy_Seta hy_Shahnara hy_Shamiram hy_Shoghahat hy_Shoghi hy_Shoushan
+		hy_Shushan hy_Siamara hy_Siran hy_Sirarpie hy_Siroun hy_Sirvat hy_Sophia hy_Sophie
+		hy_Sophula hy_Soghovme hy_Surpig hy_Surpouhi hy_Surpun hy_Susana hy_Susanna
+		hy_Suzanna hy_Takoohi hy_Takou hy_Takoun hy_Tamar hy_Tamara hy_Tigranui hy_Tsoghig
+		hy_Turvand hy_Turvanda hy_Undza hy_Valeria hy_Vardui hy_Varsenig hy_Varso hy_Vart
+		hy_Varta hy_Varta-Khatoun hy_Vartanouhi hy_Vartanoush hy_Varteoughi hy_Vartouhi
+		hy_Vartoush hy_Varvare hy_Vehanoush hy_Vergine hy_Vika hy_Victoria hy_Vshdouhi
+		hy_Yeghia hy_Yeghine hy_Yeghisabet hy_Yelepsia hy_Yeraniag hy_Yeranuhi hy_Yerchanig
+		hy_Yevgine hy_Yugaper hy_Yughig hy_Yura hy_Zagiri hy_Zanazan hy_Zaro hy_Zarouhi
+		hy_Zemfira hy_Zepure hy_Ziazan hy_Zumraukht
+	}
+}
+name_list_ossetian = {
+
+	female_last_names = {
+		dyn_os_Abayty_f dyn_os_AEhuyzarty_f dyn_os_AElborty_f dyn_os_Baezzaty_f 
+		dyn_os_Bestauty_f dyn_os_Bibylty_f dyn_os_Brythiaty_f dyn_os_Dudaraty_f 
+		dyn_os_Dudayty_f dyn_os_Dzhioty_f dyn_os_Gaebaeraty_f dyn_os_Gaezzaty_f 
+		dyn_os_Gaezdaenty_f dyn_os_Kharebaty_f dyn_os_Lalyty_f dyn_os_Pilty_f 
+	}
+
+	dynasty_names = {
+		dyn_os_Abayty dyn_os_AEhuyzarty dyn_os_AElborty dyn_os_Baezzaty dyn_os_Bestauty
+		dyn_os_Bibylty dyn_os_Brythiaty dyn_os_Dudaraty dyn_os_Dudayty dyn_os_Dzhioty
+		dyn_os_Gaebaeraty dyn_os_Gaezzaty dyn_os_Gaezdaenty dyn_os_Kharebaty dyn_os_Lalyty dyn_os_Pilty
+		dyn_os_Abayev dyn_os_Alborov dyn_os_Amagatov dyn_os_Amirbekov dyn_os_Arbakov
+		dyn_os_Ashinov dyn_os_Atayev dyn_os_Aydarov dyn_os_Azizov dyn_os_Badalov
+		dyn_os_Bagaev dyn_os_Bakayev dyn_os_Barzatov dyn_os_Bazaev dyn_os_Bazayev
+		dyn_os_Bekoev dyn_os_Berbetov dyn_os_Chagayev dyn_os_Chasayev dyn_os_Chekanov
+		dyn_os_Dzagurov dyn_os_Dzakhov dyn_os_Dzhabarov dyn_os_Dzherzgov
+		dyn_os_Dzhioyev dyn_os_Dzhonatov dyn_os_Dzutsev dyn_os_Elbakayev
+		dyn_os_Gabayev dyn_os_Gadzhiev dyn_os_Gadzhokov dyn_os_Gamayev
+		dyn_os_Gatagazayev dyn_os_Gergiev dyn_os_Gochiev dyn_os_Ibragimov dyn_os_Idarov
+		dyn_os_Izrailov dyn_os_Kadzayev dyn_os_Kasayev dyn_os_Kekoev dyn_os_Khachirov
+		dyn_os_Khagurov dyn_os_Khambiiev dyn_os_Khanaev dyn_os_Khetagurov
+		dyn_os_Kudzayev dyn_os_Kugushev dyn_os_Kukaev dyn_os_Kumokov dyn_os_Kusayev
+		dyn_os_Kvitsiniya dyn_os_Ladonayev dyn_os_Lamiev dyn_os_Makarov
+		dyn_os_Mamsurov dyn_os_Margiyev dyn_os_Masalov dyn_os_Matsayev dyn_os_Muzayev
+		dyn_os_Nagayev dyn_os_Nartov dyn_os_Nasibov dyn_os_Nudiyev dyn_os_Nugaev
+		dyn_os_Nugzarov dyn_os_Nuzhov dyn_os_Odzigov dyn_os_Oskaev dyn_os_Ozayev
+		dyn_os_Pliev dyn_os_Pliyev dyn_os_Sanakoyev dyn_os_Sasunov dyn_os_Selimov
+		dyn_os_Shanayev dyn_os_Sharmazanov dyn_os_Sharoev dyn_os_Shaukov
+		dyn_os_Shomakhov dyn_os_Shotaev dyn_os_Sikoev dyn_os_Sotov dyn_os_Suanov
+		dyn_os_Syrikatov dyn_os_Tadayev dyn_os_Tambaev dyn_os_Tambov dyn_os_Tarnayev
+		dyn_os_Tedeyev dyn_os_Tedsuyev dyn_os_Tekiyev dyn_os_Tuguyev dyn_os_Tuguz
+		dyn_os_Tumgoev dyn_os_Tuzmukhamedov dyn_os_Udziyev dyn_os_Umarov
+		dyn_os_Usmanov dyn_os_Vazagov dyn_os_Veriyev dyn_os_Vladikayev dyn_os_Vlazagov
+		dyn_os_Yadrikhinskaya dyn_os_Yagniyev dyn_os_Yakubov dyn_os_Yandiyev
+		dyn_os_Yartiyev dyn_os_Yasayev dyn_os_Yasiev dyn_os_Yayloyev dyn_os_Yevseyev
+		dyn_os_Yuzbayev dyn_os_Zabazayev dyn_os_Zadzayev dyn_os_Zadziyev
+		dyn_os_Zakoyev dyn_os_Zalayev dyn_os_Zambatoyev dyn_os_Zangiyev
+		dyn_os_Zarubayev dyn_os_Zasayev dyn_os_Zavzikov dyn_os_Zebekov dyn_os_Zegirov
+		dyn_os_Zemzuzinov dyn_os_Zenkov dyn_os_Zenkovich dyn_os_Zeripov
+		dyn_os_Zhabrailov dyn_os_Zhakoyev dyn_os_Zhankoyev dyn_os_Zhasayev
+		dyn_os_Zhemukhov dyn_os_Zhigayev dyn_os_Zhilayev dyn_os_Zholayev
+		dyn_os_Zholobov dyn_os_Zhomartov dyn_os_Zhukov dyn_os_Zhurikov dyn_os_Zilayev
+		dyn_os_Ziyayev dyn_os_Zuev dyn_os_Zufarov dyn_os_Zunayev dyn_os_Zurgaev
+		dyn_os_Zurikov dyn_os_Zyazikov dyn_os_Zyugayev 
+	}
+	
+	male_names = {
+		os_Afaeko os_AEkhsar os_AEkhsarbek os_AEkhsaertaeg os_Alan os_Alibeg
+		os_Alimbeg os_Alyksandr os_Amurkhan os_Aslaenbeg os_Asmat os_Astan os_Atsaemaez
+		os_Bakhvae os_Barysbi os_Batyradz os_Baxvae os_Bekyzae os_Besik os_Dauyt
+		os_Dimitr os_Dudar os_Dzakhot os_Dzambeg os_Dzambolat os_Dznkhot os_Dzantemir
+		os_Dzaeuyg os_Elbyzdykho os_Elbrus os_Fedyr os_Gaemaet os_Gayto os_Geuaergi
+		os_Giuaergi os_Irbeg os_Irbek os_Isaq os_Kaurbek os_Kazbek os_Khadzhimurat
+		os_Khazbi os_Khetaeg os_Kuydzaeg os_Lazaer os_Makharbeg os_Mikhal os_Misost
+		os_Mushtaefa os_Nikala os_Phaule os_Qambolat os_Saermaet os_Sakhandzheri
+		os_Sauarmaeg os_Seqa os_Soslaenbeg os_Sozyr os_Sozyryqo os_Taetaerqan
+		os_Taymuraz os_Tamerlan os_Torez os_Totradz os_Tsomak os_Tsotsoko os_Tugan
+		os_Uryzmag os_Vano os_Zhamiraet os_Znaur
+	}
+
+	female_names = {
+		os_Agunda os_Allae os_Arianae os_Atsyrukhs os_Dzerassae os_Elenae os_Fatimae
+		os_Irinae os_Lira os_Mariae os_Maryamae os_Monikae os_Nataliae os_Olgae
+		os_Roksalana os_Rushana os_Sarae os_Svetlanae os_Veronikae os_Zalinae
+		os_Zarinae os_Zinae
+	}
+}
+name_list_kalmyk = {
+	dynasty_names = {
+		dyn_xal_Lenin dyn_xal_Aducov dyn_xal_Adyanov dyn_xal_Ajhrov dyn_xal_Akcanov
+		dyn_xal_Aldarov dyn_xal_Ayn-Amdov dyn_xal_Ayukov dyn_xal_Badmov dyn_xal_Bairov
+		dyn_xal_Bakarov dyn_xal_Batov dyn_xal_Baynov dyn_xal_Bayrov dyn_xal_Bemboyev
+		dyn_xal_Bembyev dyn_xal_Chimidov dyn_xal_Chonov dyn_xal_Djimbov dyn_xal_Dolanov
+		dyn_xal_Dorzhev dyn_xal_Dzhavov dyn_xal_Dzhirganov dyn_xal_Elyev
+		dyn_xal_Erdnyev dyn_xal_Ijlov dyn_xal_Janhrov dyn_xal_Khontrov dyn_xal_Kichikov
+		dyn_xal_Kirsanov dyn_xal_Lidzhyev dyn_xal_Mergenov dyn_xal_Mikulov
+		dyn_xal_Mingiyanov dyn_xal_Nomtov dyn_xal_Pyurvyev dyn_xal_Sanalov
+		dyn_xal_Sananov dyn_xal_Sanjev dyn_xal_Santsev dyn_xal_Savrov
+		dyn_xal_Shurguchyev dyn_xal_Tserenov dyn_xal_Ulanov dyn_xal_Vazkyev
+		dyn_xal_Yagurov dyn_xal_Yamanov dyn_xal_Yarkov dyn_xal_Yaslov dyn_xal_Zurganov 
+	}
+	male_names = {
+		xal_Aduc xal_Adyan xal_Ajhr xal_Akcan xal_Aldar xal_Ayn-Amd xal_Ayuka xal_Badma
+		xal_Bair xal_Bakar xal_Bata xal_Bayn xal_Bayr xal_Bembo xal_Bembya xal_Chimid
+		xal_Chon xal_Djimba xal_Dolan xal_Dorzh xal_Dzhav xal_Dzhirgan xal_Elya
+		xal_Erdni xal_Ijl xal_Janhr xal_Khontr xal_Kichik xal_Kirsan xal_Lidzhi
+		xal_Mergen xal_Mikula xal_Mingiyan xal_Nomto xal_Pyurvya xal_Sanal xal_Sanan
+		xal_Sanj xal_Sants xal_Savr xal_Shurguchi xal_Tseren xal_Ulan xal_Vazki
+		xal_Yagur xal_Yaman xal_Yarka xal_Yasla xal_Zurgan 
+	}
+	female_names = {
+		xal_Adyana xal_Aga xal_Aguya xal_Altana xal_Altn xal_Altna xal_Amulanga
+		xal_Aytana xal_Bayna xal_Bayra xal_Buinta xal_Chona xal_Dayana xal_Dzhirgana
+		xal_Elistina xal_Nogan xal_Notana xal_Seekhe xal_Sookhlo xal_Tsagaangerel
+		xal_Tsagan xal_Tzatana xal_Tzetzgo xal_Ulana 
+	}
+}

@@ -1,0 +1,424 @@
+name_list_turkish = {
+
+	dynasty_names = {
+		dyn_tr_Yilmaz dyn_tr_Kaya dyn_tr_Demir dyn_tr_Sahin dyn_tr_Celik dyn_tr_Yildiz
+		dyn_tr_Yildirim dyn_tr_Ozturk dyn_tr_Aydin dyn_tr_Ozdemir dyn_tr_Acar dyn_tr_Adal
+		dyn_tr_Agca dyn_tr_Akal dyn_tr_Akbulut dyn_tr_Akgul dyn_tr_Akgun dyn_tr_Akin
+		dyn_tr_Akman dyn_tr_Akpinar dyn_tr_Aksoy dyn_tr_Aksu dyn_tr_Aktay dyn_tr_Alan
+		dyn_tr_Albayrak dyn_tr_Alev dyn_tr_Alibetheoglu dyn_tr_Alican dyn_tr_Alkan dyn_tr_Alp
+		dyn_tr_Alparslan dyn_tr_Alpay dyn_tr_Alper dyn_tr_Altan dyn_tr_Altinok dyn_tr_Altinoz
+		dyn_tr_Antmen dyn_tr_Aral dyn_tr_Aran dyn_tr_Aras dyn_tr_Araz dyn_tr_Arif
+		dyn_tr_Ark dyn_tr_Arsan dyn_tr_Arslan dyn_tr_Aslan dyn_tr_Atabay dyn_tr_Atabek
+		dyn_tr_Atakan dyn_tr_Atalay dyn_tr_Ataman dyn_tr_Atay dyn_tr_Atilla dyn_tr_Avci
+		dyn_tr_Avcioglu dyn_tr_Aydemir dyn_tr_Aydogdu dyn_tr_Aygun dyn_tr_Aykut
+		dyn_tr_Aythar dyn_tr_Babacan dyn_tr_Bahceli dyn_tr_Barut dyn_tr_Basar
+		dyn_tr_Batharan dyn_tr_Batur dyn_tr_Bayar dyn_tr_Bayka dyn_tr_Baykurt dyn_tr_Bayram
+		dyn_tr_Baysal dyn_tr_Bedreddin dyn_tr_Beg dyn_tr_Behar dyn_tr_Bele dyn_tr_Benli
+		dyn_tr_Berkes dyn_tr_Berksoy dyn_tr_Beyoglu dyn_tr_Bilen dyn_tr_Bilgin dyn_tr_Biner
+		dyn_tr_Birand dyn_tr_Boratav dyn_tr_Bozkurt dyn_tr_Cabbaroglu dyn_tr_Cakir
+		dyn_tr_Cakmak dyn_tr_Canbulatoglu dyn_tr_Cavusoglu dyn_tr_Cebesoy dyn_tr_Celebi
+		dyn_tr_Cengiz dyn_tr_Cetin dyn_tr_Cezairlioglu dyn_tr_Cihan dyn_tr_Cikirikci
+		dyn_tr_Ciloglu dyn_tr_Cinar dyn_tr_Coban dyn_tr_Colak dyn_tr_Corbacioglu
+		dyn_tr_Cothkun dyn_tr_Dabanoglu dyn_tr_Demirbath dyn_tr_Demirci dyn_tr_Demircioglu
+		dyn_tr_Demirel dyn_tr_Demirtath dyn_tr_Deniz dyn_tr_Denktash dyn_tr_Derbil
+		dyn_tr_Deringil dyn_tr_Dikerdem dyn_tr_Dinc dyn_tr_Dincel dyn_tr_Dogan dyn_tr_Dogdu
+		dyn_tr_Dogramaci dyn_tr_Dosluoglu dyn_tr_Duman dyn_tr_Dura dyn_tr_Duran
+		dyn_tr_Dursun dyn_tr_Ece dyn_tr_Edip dyn_tr_Ekinci dyn_tr_Ekthioglu dyn_tr_Eraydin
+		dyn_tr_Erbil dyn_tr_Erdem dyn_tr_Eren dyn_tr_Erez dyn_tr_Ergen dyn_tr_Ergin
+		dyn_tr_Ergun dyn_tr_Erhan dyn_tr_Erim dyn_tr_Eroglu dyn_tr_Ersoy dyn_tr_Evcimen
+		dyn_tr_Evren dyn_tr_Eyice dyn_tr_Eyupoglu dyn_tr_Feyzioglu dyn_tr_Fisek dyn_tr_Gazi
+		dyn_tr_Gergeroglu dyn_tr_Goyman dyn_tr_Guclu dyn_tr_Gumrukcuoglu dyn_tr_Gunay
+		dyn_tr_Gundogdu dyn_tr_Gunel dyn_tr_Guner dyn_tr_Guneth dyn_tr_Gungor dyn_tr_Gur
+		dyn_tr_Guray dyn_tr_Gurcan dyn_tr_Gurdal dyn_tr_Gurel dyn_tr_Gurkan dyn_tr_Gursel
+		dyn_tr_Guven dyn_tr_Hakanoglu dyn_tr_Haliloglu dyn_tr_Halis dyn_tr_Hami
+		dyn_tr_Harunoglu dyn_tr_Haydaroglu dyn_tr_Hikmet dyn_tr_Hoca dyn_tr_Hocaoglu
+		dyn_tr_Ilhan dyn_tr_Ilker dyn_tr_Inal dyn_tr_Inan dyn_tr_Isikli dyn_tr_Ithik dyn_tr_Izgi
+		dyn_tr_Jirecek dyn_tr_Kadoglu dyn_tr_Kadri dyn_tr_Kafaoglu dyn_tr_Kafescioglu
+		dyn_tr_Kahraman dyn_tr_Kahramanoglu dyn_tr_Kapkin dyn_tr_Kara dyn_tr_Karabekir
+		dyn_tr_Karaca dyn_tr_Karaosmanglu dyn_tr_Karataban dyn_tr_Karatay dyn_tr_Karpat
+		dyn_tr_Kasaba dyn_tr_Kasimhocaoglu dyn_tr_Kasapoglu dyn_tr_Kazancigil dyn_tr_Kazazis
+		dyn_tr_Kemal dyn_tr_Kemalettin dyn_tr_Kerimoglu dyn_tr_Kilercioglu dyn_tr_Kilic
+		dyn_tr_Koc dyn_tr_Kocak dyn_tr_Koprula dyn_tr_Koprulu dyn_tr_Korkut dyn_tr_Koru
+		dyn_tr_Koruturk dyn_tr_Koyuturk dyn_tr_Kozacioglu dyn_tr_Kural dyn_tr_Kurtuluth
+		dyn_tr_Mahmutoglu dyn_tr_Mandirali dyn_tr_Mansur dyn_tr_Mansuroghu
+		dyn_tr_Mataraci dyn_tr_Melen dyn_tr_Menderes dyn_tr_Miroglu dyn_tr_Misirlioglu
+		dyn_tr_Nabi dyn_tr_Nuhoglu dyn_tr_Nuri dyn_tr_Ocal dyn_tr_Ogun dyn_tr_Oguz
+		dyn_tr_Oktay dyn_tr_Okumus dyn_tr_Olcay dyn_tr_Oral dyn_tr_Orbay dyn_tr_Orga
+		dyn_tr_Oyan dyn_tr_Ozal dyn_tr_Ozalan dyn_tr_Ozalp dyn_tr_Ozan dyn_tr_Ozarslan
+		dyn_tr_Ozcan dyn_tr_Ozen dyn_tr_Ozer dyn_tr_Ozgur dyn_tr_Ozkan dyn_tr_Ozkaya
+		dyn_tr_Ozkok dyn_tr_Ozmen dyn_tr_Ozyegin dyn_tr_Pamuk dyn_tr_Pasa dyn_tr_Peker
+		dyn_tr_Peksomlu dyn_tr_Polat dyn_tr_Poyraz dyn_tr_Ramsaur dyn_tr_Recep
+		dyn_tr_Rustemoglu dyn_tr_Sabanoglu dyn_tr_Saffet dyn_tr_Sagocak dyn_tr_Saltoglu
+		dyn_tr_Samim dyn_tr_Sandalli dyn_tr_Sarkioglu dyn_tr_Sayili dyn_tr_Sayin dyn_tr_Seckin
+		dyn_tr_Selaniki dyn_tr_Selcuk dyn_tr_Serif dyn_tr_Sertel dyn_tr_Seyfettinoglu
+		dyn_tr_Shah dyn_tr_Sicimoglu dyn_tr_Sipahioglu dyn_tr_Solakoglu dyn_tr_Sormazoglu
+		dyn_tr_Soylu dyn_tr_Suk dyn_tr_Suker dyn_tr_Suleymanoglu dyn_tr_Sultan dyn_tr_Sumer
+		dyn_tr_Sunalp dyn_tr_Sungur dyn_tr_Taboglu dyn_tr_Tan dyn_tr_Tanaoglu dyn_tr_Tarik
+		dyn_tr_Tath dyn_tr_Tathman dyn_tr_Tekeli dyn_tr_Tekin dyn_tr_Tezel dyn_tr_Thahin
+		dyn_tr_Thanal dyn_tr_Thehoglu dyn_tr_Then dyn_tr_Thencan dyn_tr_Thenol
+		dyn_tr_Thensoy dyn_tr_Therif dyn_tr_Therifoglu dyn_tr_Thimthek dyn_tr_Tokcan
+		dyn_tr_Tokel dyn_tr_Topaloglu dyn_tr_Topcu dyn_tr_Topcuoglu dyn_tr_Toprak
+		dyn_tr_Topuzoglu dyn_tr_Toros dyn_tr_Torumtay dyn_tr_Toyoglu dyn_tr_Tufan
+		dyn_tr_Tugai dyn_tr_Tuglular dyn_tr_Tumer dyn_tr_Tuna dyn_tr_Tuncer dyn_tr_Tural
+		dyn_tr_Turan dyn_tr_Turgut dyn_tr_Turker dyn_tr_Turkes dyn_tr_Ucan dyn_tr_Ulusakarya
+		dyn_tr_Unal dyn_tr_Uner dyn_tr_Unlu dyn_tr_Unsal dyn_tr_Uras dyn_tr_Urgancioglu
+		dyn_tr_Urgunlu dyn_tr_Uruisamoglu dyn_tr_Uslu dyn_tr_Uygun dyn_tr_Uysal
+		dyn_tr_Uzgoren dyn_tr_Vahapoglu dyn_tr_Vaner dyn_tr_Vedat dyn_tr_Vekil dyn_tr_Vint
+		dyn_tr_Vural dyn_tr_Yalcin dyn_tr_Yalpat dyn_tr_Yamak dyn_tr_Yavuz dyn_tr_Yazicioglu
+		dyn_tr_Yeyinmen dyn_tr_Yigit dyn_tr_Yildizoglu dyn_tr_Yucel dyn_tr_Yuksek
+		dyn_tr_Yuksel dyn_tr_Yurekli dyn_tr_Zafer dyn_tr_Zengin dyn_tr_Zorlu
+	}
+	
+	male_names = {
+		tr_Abaza tr_Adil tr_Adnan tr_Agah tr_Ahmet tr_Akif tr_Alaeddin tr_Ali tr_Alim tr_Ali_Ziya
+		tr_Alp tr_Altay tr_Aral tr_Aras tr_Arif tr_Arslan tr_Aslan tr_Atakan tr_Atanur tr_Atilla
+		tr_Aydin tr_Ayhan tr_Aziz tr_Azmi tr_Baha tr_Baki tr_Barith tr_Battal tr_Bayram tr_Bekir
+		tr_Bilal tr_Bilge tr_Birol tr_Bora tr_Bozkurt tr_Bulent tr_Burak tr_Burhanettin tr_Cahit
+		tr_Can tr_Cavit tr_Celal tr_Cem tr_Cemal tr_Cemalettin tr_Cengiz tr_Cetin tr_Cothkun
+		tr_Cumhur tr_Demir tr_Deniz tr_Dogan tr_Doruk tr_Durmuth tr_Ecer tr_Edip tr_Efecan
+		tr_Emin tr_Emir tr_Emre tr_Engin tr_Enis tr_Enver tr_Ercan tr_Erdal tr_Erdinc tr_Erdogan
+		tr_Ergun tr_Erhan tr_Erol tr_Ersin tr_Ertan tr_Ertem tr_Ertugrul tr_Esat tr_Esen tr_Eser
+		tr_Eski tr_Ethem tr_Fahrettin tr_Faik tr_Faruk tr_Fatih tr_Fehmi tr_Ferhat tr_Feroz
+		tr_Fevzi tr_Fikret tr_Fuat tr_Gokhan tr_Gultekin tr_Gunay tr_Gurkan tr_Gursel tr_Hakan
+		tr_Hakki tr_Halil tr_Haluk tr_Hamza tr_Hasan tr_Hatay tr_Hathim tr_Haydar tr_Hayri
+		tr_Hilmi tr_Huseyin tr_Huri tr_Ibrahim tr_Ihsan tr_Ilhan tr_Ilker tr_Irfan tr_Ismail tr_Ismet
+		tr_Izzet tr_Izzettin tr_Kafkas tr_Kamer tr_Kamil tr_Kazim tr_Kemal tr_Kenan tr_Kerim
+		tr_Keskin tr_Korkut tr_Kulu tr_Kurt tr_Levent tr_Lutfi tr_Mahir tr_Mazhar tr_Mehmet
+		tr_Melih tr_Memduh tr_Mert tr_Mesut tr_Mete tr_Metih tr_Mithat tr_Muharrem tr_Murat
+		tr_Musa tr_Mustafa tr_Muzaffer tr_Naci tr_Nafiz tr_Nail tr_Namik tr_Nazyr tr_Necati
+		tr_Nevzat tr_Nezih tr_Nihat tr_Noyan tr_Nurettin tr_Nuri tr_Nusret tr_Oguz tr_Oktay
+		tr_Olcay tr_Omer tr_Onder tr_Orhan tr_Orkun tr_Osman tr_Ozan tr_Ozgur tr_Ozkan
+		tr_Ozturk tr_Rahmi tr_Ramazan tr_Recep tr_Remzi tr_Rifat tr_Riza tr_Sabahattin tr_Sabri
+		tr_Sait tr_Salih tr_Salik tr_Sami tr_Sarp tr_Saruhan tr_Savath tr_Sayyid tr_Sedat tr_Sefer
+		tr_Selim tr_Semih tr_Serdar tr_Serhat tr_Servet tr_Sinan tr_Suat tr_Suleyman tr_Tahir
+		tr_Tahsin tr_Tamer tr_Tanju tr_Tasir tr_Tayfun tr_Tercan tr_Tevfik tr_Thahin tr_Thakir
+		tr_Themsi tr_Thener tr_Thenol tr_Theref tr_Thevket tr_Thukruu tr_Timur tr_Toros tr_Tufan
+		tr_Tunay tr_Tunc tr_Turan tr_Turgay tr_Turgut tr_Ufuk tr_Umit tr_Unal tr_Vecdi tr_Vedat
+		tr_Vural tr_Yalcin tr_Yathar tr_Yavuz tr_Yazar tr_Yilmaz tr_Yucel tr_Yuksel tr_Yunus
+		tr_Zafer tr_Zeheb tr_Zeki tr_Zihni tr_Ziya
+	}
+
+	female_names = {
+		tr_Adalet tr_Adile tr_Ahsen tr_Ahu tr_Ajda tr_Alara tr_Aliye tr_Arzu tr_Asiye tr_Asli
+		tr_Asuman tr_Atiye tr_Aydan tr_Ayferr tr_Ayla tr_Aysel tr_Aythe tr_Aythegul tr_Aythin
+		tr_Bahar tr_Banu tr_Bedia tr_Behiye tr_Belma tr_Bengi tr_Bensu tr_Berna tr_Berrin
+		tr_Betul tr_Bihter tr_Bilge tr_Billur tr_Buket tr_Burcin tr_Burcu tr_Cagla tr_Canan tr_Cela
+		tr_Cemre tr_Ceyda tr_Ciler tr_Deniz tr_Derya tr_Dicle tr_Dikmen tr_Dilek tr_Dilhan
+		tr_Doganay tr_Ebru tr_Ece tr_Eda tr_Ela tr_Elif tr_Elvan tr_Emel tr_Emine tr_Eren tr_Esel
+		tr_Esen tr_Esin tr_Eti tr_Ezgi tr_Fadime tr_Fahriye tr_Fatma tr_Ferah tr_Feryal tr_Figen
+		tr_Filiz tr_Fortune tr_Fugen tr_Funda tr_Fusun tr_Gaye tr_Gila tr_Golge tr_Gonca tr_Gonul
+		tr_Gul tr_Gulay tr_Gulbin tr_Gulcan tr_Gulden tr_Gulen tr_Guler tr_Gulgun tr_Gulnur
+		tr_Gulsen tr_Gulseren tr_Gulsevil tr_Gulten tr_Gulthen tr_Guner tr_Gunes tr_Guney
+		tr_Gunsel tr_Hale tr_Halide tr_Hatice tr_Havva tr_Hayal tr_Hayriye tr_Hazan tr_Huban
+		tr_Hulya tr_Huriye tr_Idil tr_Ilke tr_Inci tr_Ipek tr_Ithik tr_Kara_Ayshe tr_Kiraz tr_Korin
+		tr_Lale tr_Lalezar tr_Leman tr_Leyla tr_Lina tr_Lulfiye tr_Mehtap tr_Melda tr_Meliha
+		tr_Melisa tr_Meltem tr_Meral tr_Merih tr_Meryem tr_Mine tr_Muberra tr_Mucella
+		tr_Muhlise tr_Nazan tr_Nedime tr_Nehir tr_Nermin tr_Neslihan tr_Nethe tr_Nigar tr_Nihal
+		tr_Nihan tr_Nil tr_Nilgun tr_Nilhan tr_Nilufer tr_Nisan tr_Nita tr_Nukhet tr_Nur tr_Nural
+		tr_Nuran tr_Nuray tr_Nuzhet tr_Olcay tr_Omur tr_Onur tr_Oya tr_Ozcan tr_Ozlem
+		tr_Ozler tr_Oznur tr_Perran tr_Rathel tr_Recina tr_Rengin tr_Reyhan tr_Rezzan tr_Saadet
+		tr_Sabiha tr_Sacide tr_Saffet tr_Sanem tr_Sedef tr_Seden tr_Seher tr_Selda tr_Selin
+		tr_Selvi tr_Sema tr_Semanur tr_Semra tr_Serap tr_Serpil tr_Sevda tr_Sevgi tr_Sevim
+		tr_Sevinc tr_Sezer tr_Sibel tr_Sidika tr_Siren tr_Sugun tr_Sumru tr_Suna tr_Sunay
+		tr_Sureyya tr_Suzan tr_Tansu tr_Tanyeli tr_Tezer tr_Thebnem tr_Thefika tr_Thelale
+		tr_Thenay tr_Thenel tr_Thukran tr_Thule tr_Tuba tr_Tulay tr_Tulin tr_Tuna tr_Tunay
+		tr_Turan tr_Turna tr_Ulgen tr_Ulker tr_Umit tr_Umran tr_Verda tr_Vesile tr_Vicdan
+		tr_Yakut tr_Yaliz tr_Yaprak tr_Yasemin tr_Yeliz tr_Yeter tr_Yildiz tr_Yosun tr_Zaide
+		tr_Zehra tr_Zernur tr_Zerrin tr_Zeynep tr_Ziynet tr_Zubeyde tr_Zuhal
+	}
+	king_names = {
+		royal_Mahmud royal_Abdulmejid royal_Abdulaziz royal_Murad royal_Abdul_Hamid
+		royal_Mehmed
+	}
+	queen_names = {
+		royal_Fatma royal_Refia royal_Mediha
+	}
+}
+name_list_kurdish = {
+
+	dynasty_names = {
+		dyn_ku_Adan dyn_ku_Ajin dyn_ku_Alin dyn_ku_Arjen dyn_ku_Asti dyn_ku_Avsin
+		dyn_ku_Awira dyn_ku_Azu dyn_ku_Barez dyn_ku_Baze dyn_ku_Befri dyn_ku_Bejin
+		dyn_ku_Belar dyn_ku_Benaw dyn_ku_Bendewa dyn_ku_Beraw dyn_ku_Berfende
+		dyn_ku_Berican dyn_ku_Berma dyn_ku_Berze dyn_ku_Beyan dyn_ku_Bihest
+		dyn_ku_Binahi dyn_ku_Biwar dyn_ku_Ceman dyn_ku_Ciwana dyn_ku_Daxaz
+		dyn_ku_Desmal dyn_ku_Didar dyn_ku_Dilara dyn_ku_Dilber dyn_ku_Dilnigar
+		dyn_ku_Dilpak dyn_ku_Dilvin dyn_ku_Diyar dyn_ku_Enwa dyn_ku_Ezo dyn_ku_Ersin
+		dyn_ku_Ewas dyn_ku_Ezin dyn_ku_Ferman dyn_ku_Firya dyn_ku_Gerdan dyn_ku_Gerdun
+		dyn_ku_Gewre dyn_ku_Gilyaz dyn_ku_Gul dyn_ku_Gulaw dyn_ku_Gulbawan
+		dyn_ku_Gulbent dyn_ku_Gulbin dyn_ku_Gule dyn_ku_Gulistan dyn_ku_Gulnaz
+		dyn_ku_Gulsa dyn_ku_Gulxatun dyn_ku_Havin dyn_ku_Hawniyaz dyn_ku_Helbest
+		dyn_ku_Hevi dyn_ku_Hilbin dyn_ku_Jela dyn_ku_Jinewer dyn_ku_Kajin dyn_ku_Keje
+		dyn_ku_Keyna dyn_ku_Kocer dyn_ku_Lale dyn_ku_Lerzan dyn_ku_Mahabad
+		dyn_ku_Mercan dyn_ku_Midya dyn_ku_Narin dyn_ku_Nazdar dyn_ku_Naznaz
+		dyn_ku_Nesrin dyn_ku_Nina dyn_ku_Nucan dyn_ku_Nusin dyn_ku_Pelsin dyn_ku_Perixan
+		dyn_ku_Pirnaz dyn_ku_Rejne dyn_ku_Rewsen dyn_ku_Rojbin dyn_ku_Ronahi dyn_ku_Runa
+		dyn_ku_Seiran dyn_ku_Sergul dyn_ku_Sibel dyn_ku_Sindis dyn_ku_Sitav dyn_ku_Speda
+		dyn_ku_Sana dyn_ku_Sehrivan dyn_ku_Sewran dyn_ku_Sures dyn_ku_Tara dyn_ku_Veman
+		dyn_ku_Xace dyn_ku_Xemsin dyn_ku_Yasemin dyn_ku_Yekta dyn_ku_Zende
+		dyn_ku_Zerya dyn_ku_Ziv
+	}
+	
+	male_names = {
+		ku_Afran ku_Agrin ku_Ajda ku_Akam ku_Ako ku_Alacan ku_Alaz ku_Amajgar ku_Amanc
+		ku_Ameda ku_Amez ku_Amraz ku_Apso ku_Ara ku_Aras ku_Ardalan ku_Ariyan ku_Arman
+		ku_Aro ku_Aso ku_Asos ku_Avdar ku_Awdil ku_Azwer ku_Cano ku_Daran ku_Daryan
+		ku_Destan ku_Diyako ku_Dozan ku_Ejder ku_Elend ku_Elind ku_Erdelan ku_Eylo
+		ku_Ferhad ku_Hawre ku_Hemin ku_Hestan ku_Hozan ku_Jorin ku_Kawa ku_Lawin
+		ku_Lewend ku_Mazar ku_Olan ku_Peros ku_Rebin ku_Rekan ku_Renas ku_Rivin ku_Roder
+		ku_Rojyar ku_Royar ku_Simco ku_Sirvan ku_Soran ku_Yado ku_Yaran ku_Yezdanser
+		ku_Zaza ku_Ziryan ku_Zoran
+	}
+
+	female_names = {
+		ku_Aferin ku_Aheng ku_Ahin ku_Ajwan ku_Alal ku_Amira ku_Ariman ku_Ariya ku_Arjin
+		ku_Ase ku_Ashti ku_Asmin ku_Avesta ku_Awira ku_Azade ku_Berivan ku_Beza ku_Bihin
+		ku_Birwa ku_Delal ku_Dersima ku_Diblin ku_Dila ku_Dilnaz ku_Dilva ku_Elfesya ku_Gizem
+		ku_Glay ku_Gulistan ku_Irem ku_Kejal ku_Keje ku_Lilan ku_Liyan ku_Medya ku_Mizgin
+		ku_Naza ku_Pelin ku_Perseng ku_Revin ku_Rewan ku_Rezan ku_Rojan ku_Rojin ku_Rona
+		ku_Rona ku_Rozerin ku_Rozhin ku_Rusen ku_Sarya ku_Sazan ku_Sercan ku_Seyda
+		ku_Shanar ku_Sidar ku_Solin ku_Sozan ku_Tela ku_Tujela ku_Viyan ku_Yelda ku_Yezda
+		ku_Zerya
+	}
+}
+name_list_persian = {
+
+	dynasty_names = {
+		dyn_fa_Abbasi dyn_fa_Ahmadi dyn_fa_Rahimi dyn_fa_Tehrani dyn_fa_Hosseini
+		dyn_fa_Shirazi dyn_fa_Mohammadi dyn_fa_Jafari dyn_fa_Ebrahimi dyn_fa_Salehi
+		dyn_fa_Abdi dyn_fa_Abdollahi dyn_fa_Abedi dyn_fa_Abedini dyn_fa_Abolhassan
+		dyn_fa_Abouzar dyn_fa_Adeli dyn_fa_Afnan dyn_fa_Afshar dyn_fa_Afsharazad
+		dyn_fa_Afshari dyn_fa_Aftandilians dyn_fa_Aghaei dyn_fa_Ahari dyn_fa_Ahmadi
+		dyn_fa_Ahmadian dyn_fa_Ahmadinejad dyn_fa_Ahmadzadeh dyn_fa_Ahoobim
+		dyn_fa_Ahrari dyn_fa_Akbari dyn_fa_Akbarzadeh dyn_fa_Akhavan dyn_fa_Akhlaghi
+		dyn_fa_Ala dyn_fa_Alam dyn_fa_Alavi dyn_fa_Alavizadeh dyn_fa_Alemzadeh
+		dyn_fa_Alimohammadi dyn_fa_Alipour dyn_fa_Alireza dyn_fa_Alizadeh dyn_fa_Allahverdi
+		dyn_fa_Ameri dyn_fa_Amini dyn_fa_Aminian dyn_fa_Amir dyn_fa_Amiri
+		dyn_fa_Amirsadeghi dyn_fa_Ammini dyn_fa_Amouzegar dyn_fa_Amuzgar
+		dyn_fa_Anoushiravani dyn_fa_Ansari dyn_fa_Anvari dyn_fa_Arasteh dyn_fa_Arbabi
+		dyn_fa_Ardabili dyn_fa_Ardalan dyn_fa_Arfa dyn_fa_Arian dyn_fa_Armanjani
+		dyn_fa_Asadi dyn_fa_Asadzadeh dyn_fa_Asgapur dyn_fa_Asgari dyn_fa_Asghari
+		dyn_fa_Ashrafi dyn_fa_Ashrafy dyn_fa_Askari dyn_fa_Astaneh dyn_fa_Avarigan
+		dyn_fa_Awji dyn_fa_Azad dyn_fa_Azadi dyn_fa_Azar dyn_fa_Azari dyn_fa_Azarvand
+		dyn_fa_Azimi dyn_fa_Azizi dyn_fa_Babaei dyn_fa_Bagheri dyn_fa_Bagherpour
+		dyn_fa_Bahador dyn_fa_Bahar dyn_fa_Bahmani dyn_fa_Bahonar dyn_fa_Bahrami
+		dyn_fa_Bakhshi dyn_fa_Bakhtavar dyn_fa_Bakhtiar dyn_fa_Bakhtiari dyn_fa_Balakhane
+		dyn_fa_Bani dyn_fa_Banihshemi dyn_fa_Bannazadeh dyn_fa_Bano dyn_fa_Baraghoush
+		dyn_fa_Baraheri dyn_fa_Baranzadeh dyn_fa_Barati dyn_fa_Bassiri dyn_fa_Batouli
+		dyn_fa_Bayat dyn_fa_Bazargan dyn_fa_Bazshushtari dyn_fa_Begzadeh dyn_fa_Beheshti
+		dyn_fa_Behforooz dyn_fa_Behrang dyn_fa_Behrouzi dyn_fa_Behtash dyn_fa_Beykpour
+		dyn_fa_Bihmardi dyn_fa_Bolourchi dyn_fa_Boroomand dyn_fa_Borzorg dyn_fa_Burujirdi
+		dyn_fa_Bushiri dyn_fa_Caspari dyn_fa_Dabir dyn_fa_Dalvand dyn_fa_Dardashti
+		dyn_fa_Dargahi dyn_fa_Daramad dyn_fa_Dastghayb dyn_fa_Dastmalchi dyn_fa_Davisadr
+		dyn_fa_Davoodi dyn_fa_Davoodzadeh dyn_fa_Dehdari dyn_fa_Dehghan dyn_fa_Dehghani
+		dyn_fa_Dehmohseni dyn_fa_Deldari dyn_fa_Dhabihiyan dyn_fa_Diba dyn_fa_Dihmubidi
+		dyn_fa_Dihqani dyn_fa_Divani dyn_fa_Djahani dyn_fa_Djeiran dyn_fa_Dulabi
+		dyn_fa_Ebadi dyn_fa_Ebtehaj dyn_fa_Eftekhari dyn_fa_Emami dyn_fa_Esfahani
+		dyn_fa_Eshraghi dyn_fa_Eskandari dyn_fa_Eslami dyn_fa_Esmaeili dyn_fa_Esmaili
+		dyn_fa_Ettehadieh dyn_fa_Faghiri dyn_fa_Fahandizh dyn_fa_Falaki dyn_fa_Fallah
+		dyn_fa_Farahani dyn_fa_Farahmand dyn_fa_Faraji dyn_fa_Farhadi dyn_fa_Faridi
+		dyn_fa_Farizeh dyn_fa_Farmaian dyn_fa_Farzan dyn_fa_Fatemi dyn_fa_Fathi
+		dyn_fa_Fattahi dyn_fa_Fazeli dyn_fa_Feroz dyn_fa_Firouzian dyn_fa_Foodeei
+		dyn_fa_Forrughi dyn_fa_Gafari dyn_fa_Gaffari dyn_fa_Garoussi dyn_fa_Gazsi
+		dyn_fa_Geramipour dyn_fa_Ghaderi dyn_fa_Ghafari dyn_fa_Ghaffari dyn_fa_Ghafoori
+		dyn_fa_Ghahramani dyn_fa_Ghanbari dyn_fa_Gharib dyn_fa_Ghasemi dyn_fa_Ghatary
+		dyn_fa_Ghawami dyn_fa_Ghazanfaria dyn_fa_Ghazi dyn_fa_Ghobadi dyn_fa_Ghofranian
+		dyn_fa_Gholami dyn_fa_Ghorbani dyn_fa_Ghurani dyn_fa_Golbad dyn_fa_Goli
+		dyn_fa_Goodarzi dyn_fa_Guebers dyn_fa_Habibi dyn_fa_Hadizadeh dyn_fa_Haghighi
+		dyn_fa_Haghkerdar dyn_fa_Haji dyn_fa_Hajimiru dyn_fa_Hajirnia dyn_fa_Hajjari
+		dyn_fa_Hajizadeh dyn_fa_Hakimi dyn_fa_Hakimzadeh dyn_fa_Hami dyn_fa_Hamidi
+		dyn_fa_Hamzeh dyn_fa_Hamzei dyn_fa_Haqiqat dyn_fa_Haqiqatju dyn_fa_Hariri
+		dyn_fa_Hasani dyn_fa_Hashemi dyn_fa_Hassani dyn_fa_Hassna dyn_fa_Hatami
+		dyn_fa_Hed dyn_fa_Heidari dyn_fa_Hejazi dyn_fa_Hemami dyn_fa_Heydari
+		dyn_fa_Heydarzadeh dyn_fa_Heyman dyn_fa_Hisami dyn_fa_Homayoun dyn_fa_Hoseini
+		dyn_fa_Hossein dyn_fa_Hosseinzadeh dyn_fa_Hossini dyn_fa_Hoveyda dyn_fa_Hushmand
+		dyn_fa_Ila dyn_fa_Imami dyn_fa_Imani dyn_fa_Iran dyn_fa_Irani dyn_fa_Iravan
+		dyn_fa_Ishraqi dyn_fa_Ispahani dyn_fa_Izadi dyn_fa_Jad dyn_fa_Jaffari dyn_fa_Jahanpur
+		dyn_fa_Jalali dyn_fa_Jalalzadeh dyn_fa_Jalili dyn_fa_Jamali dyn_fa_Jamshidi
+		dyn_fa_Janzadeh dyn_fa_Javadi dyn_fa_Javaherian dyn_fa_Javid dyn_fa_Javidzadeh
+		dyn_fa_Jayhoon dyn_fa_Joon dyn_fa_Jorjani dyn_fa_Kalani dyn_fa_Kalantari
+		dyn_fa_Kamali dyn_fa_Kamkar dyn_fa_Kamran dyn_fa_Kamvar dyn_fa_Kangarloo
+		dyn_fa_Karami dyn_fa_Karamzadeh dyn_fa_Kargar dyn_fa_Karimi dyn_fa_Kashani
+		dyn_fa_Kashi dyn_fa_Kassaian dyn_fa_Kazemi dyn_fa_Kazerooni dyn_fa_Kazimi
+		dyn_fa_Keshavarz dyn_fa_Keshtkar dyn_fa_Keshuapad dyn_fa_Khadem dyn_fa_Khademi
+		dyn_fa_Khademzadeh dyn_fa_Khadim dyn_fa_Khailtash dyn_fa_Khalidi dyn_fa_Khalili
+		dyn_fa_Khamenei dyn_fa_Khan dyn_fa_Khandil dyn_fa_Khani dyn_fa_Khanlary
+		dyn_fa_Khanzadeh dyn_fa_Khodavandi dyn_fa_Khomeini dyn_fa_Khorsandi
+		dyn_fa_Khoshnou dyn_fa_Khosrozadeh dyn_fa_Khosravi dyn_fa_Khushkhu dyn_fa_Khuzayn
+		dyn_fa_Kiani dyn_fa_Kiyan dyn_fa_Koochekzadeh dyn_fa_Kordiyeh dyn_fa_Kouroshy
+		dyn_fa_Kutchemeshgi dyn_fa_Lavasani dyn_fa_Loghmanpour dyn_fa_Lotfi dyn_fa_Madani
+		dyn_fa_Madari dyn_fa_Maghsoudi dyn_fa_Mahallati dyn_fa_Mahamedi dyn_fa_Mahdavi
+		dyn_fa_Mahdavian dyn_fa_Mahdavy dyn_fa_Mahmoodi dyn_fa_Mahmoudi
+		dyn_fa_Mahmudi dyn_fa_Mahmudnizhad dyn_fa_Majidi dyn_fa_Malaki dyn_fa_Malek
+		dyn_fa_Maleki dyn_fa_Maniei dyn_fa_Manouchehr dyn_fa_Mansoori dyn_fa_Mansouri
+		dyn_fa_Mansur dyn_fa_Manuchehri dyn_fa_Maradi dyn_fa_Maravandi dyn_fa_Mashayekhi
+		dyn_fa_Masoumi dyn_fa_Massumi dyn_fa_Mazaheri dyn_fa_Mazlum dyn_fa_Mehr
+		dyn_fa_Mehrabi dyn_fa_Mehran dyn_fa_Mesgara dyn_fa_Mesgarzadeh dyn_fa_Meshkat
+		dyn_fa_Mihdizadih dyn_fa_Mir dyn_fa_Miri dyn_fa_Mirza dyn_fa_Mirzadi dyn_fa_Mirzaee
+		dyn_fa_Mirzaei dyn_fa_Misbahi dyn_fa_Missaghi dyn_fa_Moayedian dyn_fa_Moayer
+		dyn_fa_Moazzami dyn_fa_Moghadam dyn_fa_Moghaddam dyn_fa_Moghdam
+		dyn_fa_Mohaghegh dyn_fa_Moham dyn_fa_Mohamadi dyn_fa_Mohammadzadeh
+		dyn_fa_Mohebian dyn_fa_Mohseni dyn_fa_Mokhtari dyn_fa_Momeni dyn_fa_Monjazeb
+		dyn_fa_Moosavi dyn_fa_Moradi dyn_fa_Moradzadeh dyn_fa_Mortazavi dyn_fa_Mosavi
+		dyn_fa_Moshiri dyn_fa_Mossadegh dyn_fa_Mossadeghi dyn_fa_Motaei dyn_fa_Motamedi
+		dyn_fa_Moullai dyn_fa_Mousavi dyn_fa_Mozayeni dyn_fa_Mualimi dyn_fa_Muhammadi
+		dyn_fa_Muini dyn_fa_Mumtaz dyn_fa_Mumtazi dyn_fa_Muqimi dyn_fa_Musavi
+		dyn_fa_Mutlaq dyn_fa_Nabbatishoghl dyn_fa_Naderi dyn_fa_Nadimi dyn_fa_Nadjmabadi
+		dyn_fa_Naimi dyn_fa_Najafi dyn_fa_Najmi dyn_fa_Namazian dyn_fa_Namiri
+		dyn_fa_Naraghi dyn_fa_Naseri dyn_fa_Nasiri dyn_fa_Nasr dyn_fa_Nassiri dyn_fa_Navabi
+		dyn_fa_Nazari dyn_fa_Nejati dyn_fa_Nekouian dyn_fa_Nemati dyn_fa_Nemazi
+		dyn_fa_Nexam dyn_fa_Nexamzadeh dyn_fa_Nia dyn_fa_Nikkaresfahani dyn_fa_Nirumand
+		dyn_fa_Noori dyn_fa_Noroozi dyn_fa_Norouzi dyn_fa_Nouri dyn_fa_Omidi
+		dyn_fa_Omranzadeh dyn_fa_Pad dyn_fa_Pahlavi dyn_fa_Pakravan dyn_fa_Pakzad
+		dyn_fa_Palizban dyn_fa_Panahi dyn_fa_Parsa dyn_fa_Parvinzadeh dyn_fa_Peyvan
+		dyn_fa_Pirani dyn_fa_Piruzmand dyn_fa_Poshtkouhi dyn_fa_Pourazizi dyn_fa_Pourmand
+		dyn_fa_Qashqai dyn_fa_Qazai dyn_fa_Qazvinian dyn_fa_Qoli dyn_fa_Rabani dyn_fa_Rad
+		dyn_fa_Radji dyn_fa_Rafiee dyn_fa_Rafieha dyn_fa_Rafigdoost dyn_fa_Rah
+		dyn_fa_Rahimian dyn_fa_Rahmani dyn_fa_Rahmati dyn_fa_Raissi dyn_fa_Rajabi
+		dyn_fa_Ramazan dyn_fa_Ramezani dyn_fa_Ranjbar dyn_fa_Rashedi dyn_fa_Rashidi
+		dyn_fa_Rasouli dyn_fa_Rateshtari dyn_fa_Rawhani dyn_fa_Raz dyn_fa_Razavi
+		dyn_fa_Razaz dyn_fa_Razi dyn_fa_Razizadeh dyn_fa_Razmara dyn_fa_Reyahni
+		dyn_fa_Reza dyn_fa_Rezaee dyn_fa_Rezaei dyn_fa_Rezaie dyn_fa_Rezvani dyn_fa_Rizvi
+		dyn_fa_Roohizadegan dyn_fa_Rostami dyn_fa_Rouhani dyn_fa_Saadat dyn_fa_Saadiyeh
+		dyn_fa_Sabbaghi dyn_fa_Sabbah dyn_fa_Saberi dyn_fa_Saberzadeh dyn_fa_Sabet
+		dyn_fa_Sabetzadeh dyn_fa_Sabiri dyn_fa_Sadeghi dyn_fa_Sadighi dyn_fa_Sadighpour
+		dyn_fa_Sadiqi dyn_fa_Sadough dyn_fa_Sadravi dyn_fa_Saeedi dyn_fa_Safarian
+		dyn_fa_Saghafi dyn_fa_Sahebi dyn_fa_Saidi dyn_fa_Salamat dyn_fa_Salari dyn_fa_Salimi
+		dyn_fa_Salimpour dyn_fa_Samadi dyn_fa_Samadzadeh dyn_fa_Sanjabi dyn_fa_Saraee
+		dyn_fa_Sarmad dyn_fa_Sayedzadeh dyn_fa_Sayegh dyn_fa_Seddighi dyn_fa_Shabani
+		dyn_fa_Shabouh dyn_fa_Shadpour dyn_fa_Shafaie dyn_fa_Shafaq dyn_fa_Shafiee
+		dyn_fa_Shafiei dyn_fa_Shah dyn_fa_Shahbaz dyn_fa_Shahbazi dyn_fa_Shahdost
+		dyn_fa_Shahnaser dyn_fa_Shahy dyn_fa_Shahzadeh dyn_fa_Shakeri dyn_fa_Shakernia
+		dyn_fa_Shakshuki dyn_fa_Shalabi dyn_fa_Shams dyn_fa_Shariat dyn_fa_Shariati
+		dyn_fa_Sharif dyn_fa_Sharifzadeh dyn_fa_Sharifi dyn_fa_Shaterian dyn_fa_Shayan
+		dyn_fa_Sheikholeslami dyn_fa_Shirazi dyn_fa_Shojaei dyn_fa_Shokouhi dyn_fa_Shokri
+		dyn_fa_Showghi dyn_fa_Sioshansi dyn_fa_Siyavushi dyn_fa_Sohi dyn_fa_Sohrabi
+		dyn_fa_Soleimani dyn_fa_Soleymani dyn_fa_Soltani dyn_fa_Soltanzadeh
+		dyn_fa_Sorooshian dyn_fa_Soroushian dyn_fa_Sotoudeh dyn_fa_Sumech dyn_fa_Taba
+		dyn_fa_Tabazadeh dyn_fa_Tabarsi dyn_fa_Tabatabaei dyn_fa_Tabatabai dyn_fa_Tafti
+		dyn_fa_Taghavi dyn_fa_Taghizadeh dyn_fa_Taheri dyn_fa_Tahmasebi dyn_fa_Tahsini
+		dyn_fa_Talaqani dyn_fa_Talati dyn_fa_Talavi dyn_fa_Talebi dyn_fa_Talei dyn_fa_Taleqani
+		dyn_fa_Tanzeem dyn_fa_Tavakoli dyn_fa_Tazhibi dyn_fa_Teymourtash
+		dyn_fa_Teymourzadeh dyn_fa_Tirandaz dyn_fa_Torabi dyn_fa_Usman dyn_fa_Vafa_i
+		dyn_fa_Vahdat dyn_fa_Vakili dyn_fa_Vali dyn_fa_Valizadeh dyn_fa_Yakhi dyn_fa_Yaldai
+		dyn_fa_Yaqtin dyn_fa_Yarmand dyn_fa_Yasaimaibofi dyn_fa_Yazd dyn_fa_Yazdani
+		dyn_fa_Yazdi dyn_fa_Youkhana dyn_fa_Yousef dyn_fa_Yousefi dyn_fa_Yousefzadeh
+		dyn_fa_Zadeh dyn_fa_Zaeem dyn_fa_Zahed dyn_fa_Zahedani dyn_fa_Zahedi dyn_fa_Zaidi
+		dyn_fa_Zairpur dyn_fa_Zamani dyn_fa_Zandi dyn_fa_Zangenah dyn_fa_Zanjani
+		dyn_fa_Zarandi dyn_fa_Zardoshty dyn_fa_Zare dyn_fa_Zarei dyn_fa_Zargar
+		dyn_fa_Zartoshty dyn_fa_Zavvar dyn_fa_Ziatabari dyn_fa_Ziya dyn_fa_Zolfaghari
+	}
+	
+	male_names = {
+		fa_Abdolkhalegh fa_Abtin fa_Afshar fa_Afsharafshin fa_Afshin fa_Aghajun fa_Ahour
+		fa_Alireza fa_Anoush fa_Arash fa_Arastoo fa_Ardalan fa_Ardavan fa_Ardeshir fa_Aref
+		fa_Aria fa_Ario fa_Armeen fa_Arsalan fa_Arshia fa_Arya fa_Arzhang fa_Asghar fa_Ashk
+		fa_Ashrafzadeh fa_Assim fa_Atash fa_Atid fa_Avesta fa_Azghar fa_Babak fa_Bahman
+		fa_Bahram fa_Baktash fa_Bamdad fa_Bameen fa_Bamshad fa_Bardia fa_Bauback
+		fa_Behnam fa_Behrang fa_Behrooz fa_Behrouz fa_Behzad fa_Bijan fa_Borna fa_Borzoo
+		fa_Bozorgmehr fa_Cambiz fa_Changeez fa_Dadbeh fa_Danesh fa_Dara fa_Darab fa_Dareh
+		fa_Darioush fa_Dariush fa_Daryoosh fa_Davab fa_Davood fa_Derafsh fa_Dhabihullah
+		fa_Ehsan fa_Emad fa_Esfandiar fa_Esfandyar fa_Esmail fa_Etehade fa_Fafar fa_Faghani
+		fa_Fahimifar fa_Faramarz fa_Faraz fa_Farbod fa_Farchid fa_Fardad fa_Farhad fa_Farhang
+		fa_Fariborz fa_Farjad fa_Farrokh fa_Farrokhzad fa_Farshid fa_Farsin fa_Farzad fa_Farzam
+		fa_Farzin fa_Fazlollah fa_Fereydoon fa_Ferydoun fa_Firouz fa_Forood fa_Foroohar
+		fa_Forouq fa_Gazsi fa_Ghaffar fa_Ghebers fa_Ghobad fa_Giv fa_Goodarz fa_Gorban
+		fa_Goshtasb fa_Goudarz fa_Guebers fa_Haider fa_Hajir fa_Hamidreza fa_Heydar fa_Hojjat
+		fa_Homayoun fa_Hooshang fa_Hooshyar fa_Hootan fa_Hormoz fa_Houman fa_Iraj
+		fa_Jamsheed fa_Jamshid fa_Javad fa_Javeed fa_Javid fa_Jivan fa_Kamal fa_Kambiz
+		fa_Kamran fa_Kamshad fa_Kamyar fa_Kansbar fa_Karamat fa_Karbaschi fa_Kasra fa_Kaveh
+		fa_Kavoos fa_Kayan fa_Kayvan fa_Kayvon fa_Keivan fa_Keyan fa_Key-ghobad
+		fa_Key-khosrow fa_Keyvan fa_Khodadad fa_Khosrow fa_Kianoosh fa_Kiarash fa_Kiomars
+		fa_Kiumars fa_Kiyan fa_Koohyar fa_Koorosh fa_Koosha fa_Kouros fa_Kourosh fa_Kush
+		fa_Kusha fa_Madjid fa_Mahbad fa_Mahyar fa_Majeed fa_Majid fa_Mani fa_Manouchehr
+		fa_Mashreza fa_Massood fa_Mazdah fa_Maziar fa_Mazyar fa_Mehrab fa_Mehrak
+		fa_Mehran fa_Mehrdad fa_Mehrzad fa_Moana fa_Mohsen fa_Mojtaba fa_Monaghi
+		fa_Moosa fa_Morteza fa_Mozaffar fa_Namdar fa_Nariman fa_Navid fa_Neema fa_Nema
+		fa_Newsha fa_Nima fa_Niyoosha fa_Nizamid fa_Nouri fa_Noushzad fa_Omeed fa_Omid
+		fa_Orang fa_Panahy fa_Parham fa_Parsa fa_Parshang fa_Parviz fa_Pasha fa_Payam
+		fa_Pazhang fa_Pedram fa_Pedrom fa_Pejman fa_Perjad fa_Peyman fa_Peyvand
+		fa_Pezhman fa_Phiroz fa_Pirooz fa_Pirous fa_Piroz fa_Poerya fa_Pooya fa_Pouriya fa_Poya
+		fa_Pujman fa_Pyruz fa_Rambod fa_Ramin fa_Rasoul fa_Reza fa_Roozbeh fa_Rostam
+		fa_Rovin fa_Saber fa_Sadegh fa_Saeed fa_Salar fa_Sam fa_Saman fa_Sami fa_Sasan
+		fa_Sattar fa_Sepehr fa_Seyed fa_Seyyed fa_Shahab fa_Shahbaz fa_Shaheen fa_Shahin
+		fa_Shahkam fa_Shahram fa_Shahriar fa_Shahriyar fa_Shahrokh fa_Shahrooz fa_Shahvand
+		fa_Shapour fa_Shatrevar fa_Shervin fa_Shirzad fa_Showan fa_Siamak fa_Siavash
+		fa_Siavosh fa_Siavush fa_Soheil fa_Sohrab fa_Sooudi fa_Soroush fa_Suhayl fa_Syavash
+		fa_Tabriz fa_Taher fa_Tahmaseb fa_Tahmouress fa_Tarazullah fa_Teymour fa_Tirdad
+		fa_Touraj fa_Vafa fa_Viraf fa_Vishtasb fa_Yaghoub fa_Yahya fa_Yashar fa_Zahak fa_Zaheer
+		fa_Zakaria fa_Zal fa_Zamani fa_Zamyad fa_Zand fa_Zartosht fa_Zia
+	}
+
+	female_names = {
+		fa_Afareen fa_Afsar fa_Afshan fa_Afsoon fa_Aghigh fa_Ahou fa_Akhtar fa_Akram fa_Alia
+		fa_Anahita fa_Anusheh fa_Ara fa_Arezoo fa_Armaghan fa_Aroosha fa_Arshfam fa_Assieh
+		fa_Atefeh fa_Atoosa fa_Atussa fa_Avizeh fa_Ayasha fa_Azar fa_Azara fa_Azita fa_Azur
+		fa_Azura fa_Bahar fa_Baharak fa_Bahareh fa_Banou fa_Beeta fa_Behbaha fa_Behkrakh
+		fa_Behnaz fa_Behrokh fa_Bita fa_Bodagh fa_Bolour fa_Bousseh fa_Chalipa fa_Chehreh
+		fa_Darya fa_Daryadokht fa_Deena fa_Delara fa_Delbar fa_Delkash fa_Dina fa_Donya
+		fa_Dorri fa_Dorrin fa_Dorsai fa_Dorsay fa_Ehteram fa_Elaheh fa_Elham fa_Elnaz fa_Ezzati
+		fa_Fakhri fa_Farah fa_Faranak fa_Farangis fa_Fariba fa_Farida fa_Farideh fa_Farkhondeh
+		fa_Farnaz fa_Farzaneh fa_Fatimah fa_Feerouzeh fa_Fereshteh fa_Feri fa_Firouzeh
+		fa_Forough fa_Forouzan fa_Forouzandeh fa_Fozhan fa_Gatha fa_Geesou fa_Ghamzeh
+		fa_Ghassedak fa_Ghazaleh fa_Ghodsi fa_Ghoncheh fa_Gisou fa_Golbahar fa_Golgoon
+		fa_Goli fa_Golnar fa_Golnaz fa_Golnessa fa_Golpari fa_Golshan fa_Golshon fa_Gordia
+		fa_Guita fa_Guiti fa_Guity fa_Habibeh fa_Haleh fa_Hamaseh fa_Hasti fa_Hengameh
+		fa_Hoda fa_Homeira fa_Hormat fa_Houri fa_Iman fa_Iran fa_Iran-dokht fa_Ishraqi
+		fa_Jabbareh fa_Jaleh fa_Jannat fa_Jilla fa_Katayoun fa_Khandan fa_Khojassteh
+		fa_Khorsheed fa_Kimiyaa fa_Kira fa_Kobra fa_Kokab fa_Korsum fa_Kowkab fa_Ladan
+		fa_Laila fa_Laleh fa_Layly fa_Leily fa_Leyla fa_Lida fa_Lili fa_Mahasti fa_Mahbod
+		fa_Mahbubih fa_Maheen fa_Mahkameh fa_Mahlagha fa_Mahnoosh fa_Mahrokh fa_Mahsa
+		fa_Mahta fa_Mahvash fa_Maliheh fa_Mana fa_Mandi fa_Mandona fa_Manizheh fa_Marjan
+		fa_Marmar fa_Maryam fa_Marzieh fa_Masoumeh fa_Mastoureh fa_Mehrangiz
+		fa_Mehrnoosh fa_Mehry fa_Minan fa_Mitra fa_Moloud fa_Moneereh fa_Morvarid
+		fa_Mozhdeh fa_Mozhgan fa_Naghmeh fa_Nahal fa_Naheed fa_Najmeh fa_Nakisa fa_Narda
+		fa_Nargess fa_Naseem fa_Nasreen fa_Nastaran fa_Nava fa_Nazafarin fa_Nazanin fa_Nazgol
+		fa_Nazhin fa_Nazilla fa_Neda fa_Negar fa_Negeen fa_Negin fa_Neshat fa_Nikoo
+		fa_Niloufar fa_Niyoosha fa_Nora fa_Noushafarin fa_Oldooz fa_Oranous fa_Ordoukhany
+		fa_Orkideh fa_Parand fa_Parastoo fa_Paree fa_Pareechehr fa_Pareerou fa_Pareevash
+		fa_Parisa fa_Parto fa_Parvaneh fa_Parvin fa_Peymaneh fa_Peyvand fa_Pouneh fa_Pouran
+		fa_Pouran-dokht fa_Ramak fa_Ramesh fa_Razieh fa_Reema fa_Reyhaneh fa_Rima
+		fa_Roksana fa_Roudabeh fa_Roxana fa_Roya fa_Sadira fa_Saeedeh fa_Saghar fa_Saghi
+		fa_Saharnaz fa_Sahba fa_Saideh fa_Salomeh fa_Sameen fa_Sanaz fa_Sareh fa_Sarvenaz
+		fa_Sattareh fa_Sayeh fa_Seema fa_Sepideh fa_Setareh fa_Shabnam fa_Shabnan fa_Shadan
+		fa_Shadi fa_Shaghayegh fa_Shahdi fa_Shaheen fa_Shahin fa_Shahla fa_Shahnaz
+		fa_Shahrbanou fa_Shahrzad fa_Shalizeh fa_Shams fa_Sheefteh fa_Sheeva fa_Shervin
+		fa_Sheyda fa_Shohreh fa_Shokouh fa_Sholeh fa_Shouka fa_Simin fa_Soheila fa_Soray
+		fa_Soroushi fa_Soudabeh fa_Soulmaz fa_Soussan fa_Suri fa_Tahmineh fa_Talayeh
+		fa_Taranish fa_Tarsa fa_Touca fa_Touran fa_Turandot fa_Vashti fa_Veeda fa_Vida fa_Yalda
+		fa_Zarrin fa_Zeeba fa_Zeresh fa_Zeridia fa_Zhaleh fa_Zhila fa_Zohreh fa_Zoya
+	}
+}
+
+name_list_coptic = {
+
+	dynasty_names = {
+		cop_Abanoub cop_Abraam cop_Abel cop_Adam cop_Adelfio cop_Aleksanaros cop_Andras
+		cop_Antonious cop_Aron cop_Ashraf cop_Wasile cop_Beniamin cop_Bishoi cop_Boutros
+		cop_Chael cop_Khristophoros cop_Danyal cop_Daueid cop_Evanderos cop_Ezra
+		cop_Gabriyal cop_Gerges cop_Hanri cop_Ilyas cop_Isaac cop_Iosef cop_Istafanus cop_Jerjer
+		cop_Khael cop_Kosma cop_Krystafer cop_Ksystous cop_Lot cop_Lukianous cop_Lukious
+		cop_Maurikious cop_Matta cop_Mikail cop_Mikhael cop_Mina cop_Mouses cop_Myronous
+		cop_Pamin cop_Roufos cop_Sarabion cop_Tadros cop_Tawadros cop_Touma cop_Yakobas
+		cop_Yared cop_Yeshak cop_Youssef cop_Zaia
+	}
+	
+	male_names = {
+		cop_Abanoub cop_Abraam cop_Abel cop_Adam cop_Adelfio cop_Aleksanaros cop_Andras
+		cop_Antonious cop_Aron cop_Ashraf cop_Wasile cop_Beniamin cop_Bishoi cop_Boutros
+		cop_Chael cop_Khristophoros cop_Danyal cop_Daueid cop_Evanderos cop_Ezra
+		cop_Gabriyal cop_Gerges cop_Hanri cop_Ilyas cop_Isaac cop_Iosef cop_Istafanus cop_Jerjer
+		cop_Khael cop_Kosma cop_Krystafer cop_Ksystous cop_Lot cop_Lukianous cop_Lukious
+		cop_Maurikious cop_Matta cop_Mikail cop_Mikhael cop_Mina cop_Mouses cop_Myronous
+		cop_Pamin cop_Roufos cop_Sarabion cop_Tadros cop_Tawadros cop_Touma cop_Yakobas
+		cop_Yared cop_Yeshak cop_Youssef cop_Zaia
+	}
+
+	female_names = {
+		cop_Anastasia cop_Anna cop_Demiana cop_Diana cop_Elpis cop_Eva cop_Hanna
+		cop_Herebekka cop_Hrakhel cop_Iris cop_Eirene cop_Elisabet cop_Kattrin cop_Khroustina
+		cop_Lea cop_Leksandria cop_Loukia cop_Mariam cop_Marina cop_Marta cop_Maysoon
+		cop_Paisi cop_Piama cop_Piamun cop_Potamina cop_Roufina cop_Samia cop_Sappeira
+		cop_Sara cop_Sofia cop_Talida cop_Virina
+	}
+}

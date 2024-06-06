@@ -1,0 +1,507 @@
+name_list_filipino = { # Pre-Colonial Filipino name pool
+
+	dynasty_names = {
+		dyn_tl_Agujo  dyn_tl_Alunan dyn_tl_Anilao dyn_tl_Arao dyn_tl_Bactol dyn_tl_Bajumpoque
+		dyn_tl_Balagtas dyn_tl_Balingit dyn_tl_Banal dyn_tl_Batongbakal dyn_tl_Bondoc
+		dyn_tl_Bunye dyn_tl_Bunyi dyn_tl_Cabagay dyn_tl_Cabailo dyn_tl_Cabangon
+		dyn_tl_Cabasag dyn_tl_Cabucos dyn_tl_Cabungcal dyn_tl_Cagalingan dyn_tl_Caguiat
+		dyn_tl_Calaunan dyn_tl_Calinisan dyn_tl_Canilao dyn_tl_Canlas dyn_tl_Capangyarihan
+		dyn_tl_Capili dyn_tl_Capulong dyn_tl_Capunitan dyn_tl_Capuno dyn_tl_Caraan
+		dyn_tl_Caraig dyn_tl_Carandang dyn_tl_Caringal dyn_tl_Carunungan dyn_tl_Casacop
+		dyn_tl_Casapao dyn_tl_Casiguran dyn_tl_Casilag dyn_tl_Casilao dyn_tl_Catacutan
+		dyn_tl_Catapang dyn_tl_Cataquiz dyn_tl_Catindig dyn_tl_Cayabyab dyn_tl_Dailisan
+		dyn_tl_Dalangin dyn_tl_Dalawampu dyn_tl_Dalisay dyn_tl_Dandan dyn_tl_Dayanghirang
+		dyn_tl_Dilag dyn_tl_Dimaala dyn_tl_Dimaandal dyn_tl_Dimaano dyn_tl_Dimaapi
+		dyn_tl_Dimacali dyn_tl_Dimacuha dyn_tl_Dimaculangan dyn_tl_Dimagiba dyn_tl_Dimalanta
+		dyn_tl_Dimapasoc dyn_tl_Dimapilis dyn_tl_Dimataga dyn_tl_Dimatangal dyn_tl_Dimatatac
+		dyn_tl_Dimatulac dyn_tl_Dimaunahan dyn_tl_Dimayuga dyn_tl_Diokno dyn_tl_Dipasupil
+		dyn_tl_Dulay dyn_tl_Galang dyn_tl_Gallora dyn_tl_Galura dyn_tl_Gatbonton
+		dyn_tl_Gatchalian dyn_tl_Gatdula dyn_tl_Gatmaitan dyn_tl_Gubat dyn_tl_Guinto
+		dyn_tl_Halili dyn_tl_Himbing dyn_tl_Hiwatig dyn_tl_Ilagan dyn_tl_Ilao dyn_tl_Inere
+		dyn_tl_Kalaw dyn_tl_Kasilag dyn_tl_Katigbak dyn_tl_Lacandola dyn_tl_Lacanilao
+		dyn_tl_Lalamunan dyn_tl_Langit dyn_tl_Lansangan dyn_tl_Lising dyn_tl_Liwanag
+		dyn_tl_Lontoc dyn_tl_Lontok dyn_tl_Lualhati dyn_tl_Lukban dyn_tl_Lumagui
+		dyn_tl_Mabansag dyn_tl_Mabilog dyn_tl_Mabini dyn_tl_Macabulos dyn_tl_Macalintal
+		dyn_tl_Macaraeg dyn_tl_Macaranas dyn_tl_Macatangay dyn_tl_Madlangbayan
+		dyn_tl_Magbojos dyn_tl_Magboo dyn_tl_Magdangal dyn_tl_Maghirang dyn_tl_Maglaya
+		dyn_tl_Maglipon dyn_tl_Magpantay dyn_tl_Magsino dyn_tl_Magtalas dyn_tl_Magtibay
+		dyn_tl_Malabanan dyn_tl_Malaluan dyn_tl_Malapitan dyn_tl_Malicsi dyn_tl_Maligaya
+		dyn_tl_Malihan dyn_tl_Malinao dyn_tl_Mallari dyn_tl_Mamaril dyn_tl_Manabat
+		dyn_tl_Manahan dyn_tl_Manalastas dyn_tl_Manalaysay dyn_tl_Manalo dyn_tl_Manaloto
+		dyn_tl_Manansala dyn_tl_Mandigma dyn_tl_Mangahas dyn_tl_Manlangit dyn_tl_Manlapaz
+		dyn_tl_Mapalad dyn_tl_Maquiling dyn_tl_Maranan dyn_tl_Marasigan dyn_tl_Mariquit
+		dyn_tl_Masangkay dyn_tl_Matibag dyn_tl_Maunahan dyn_tl_Mayuga dyn_tl_Palacol
+		dyn_tl_Palad dyn_tl_Panaligan dyn_tl_Panganiban dyn_tl_Parcon dyn_tl_Parojinog
+		dyn_tl_Parungao dyn_tl_Pilapil dyn_tl_Puno dyn_tl_Punongbayan dyn_tl_Quiling
+		dyn_tl_Salagubang dyn_tl_Salonga dyn_tl_Samarita dyn_tl_Sulit dyn_tl_Sumanga
+		dyn_tl_Sumaya dyn_tl_Sumulong dyn_tl_Tanglao dyn_tl_Tanyag dyn_tl_Taruc
+		dyn_tl_Tatlonghari dyn_tl_Tibayan dyn_tl_Timbol dyn_tl_Tugade dyn_tl_Tumulak
+		dyn_tl_Tupas dyn_tl_Urduja
+	}
+
+	male_names = {
+		tl_Alab tl_Alon tl_Banoy tl_Bayani tl_Buwan tl_Dakila tl_Datu tl_Heherson
+		tl_Isagani tl_Joriz tl_Kidlat tl_Magtanggol tl_Makisig tl_Magiting tl_Ramil
+		tl_Sinag tl_Tanashiri tl_Ulan
+	}
+
+	female_names = {
+		tl_Amihan tl_Atay tl_Benilda tl_Bighani tl_Bituin tl_Chona tl_Dalisay tl_Diwa
+		tl_Diwata tl_Eeya tl_Hiraya tl_Hiyas tl_Kulay-Abo tl_Ligaya tl_Luningning tl_Luntian
+		tl_Luwalhati tl_Mahalina tl_Marikit tl_Mayumi tl_Mutya tl_Sampaguita tl_Tadhana
+		tl_Tala
+	}
+}
+name_list_malay = {
+
+	female_last_names = {
+		dyn_ms_Adi_f dyn_ms_Adiputra_f dyn_ms_Agung_f dyn_ms_Agus_f dyn_ms_Ahad_f dyn_ms_Andika_f
+		dyn_ms_Anuar_f dyn_ms_Atan_f dyn_ms_Awang_f dyn_ms_Baba_f dyn_ms_Bachok_f dyn_ms_Bagus_f
+		dyn_ms_Bambang_f dyn_ms_Basuki_f dyn_ms_Bayu_f dyn_ms_Benderangdyn_ms_Bestari_f
+		dyn_ms_Bijaya_f dyn_ms_Bintang_f dyn_ms_Biru_f dyn_ms_Bongsu_f dyn_ms_Bujang_f dyn_ms_Budi_f
+		dyn_ms_Budiarto_f dyn_ms_Bulat_f dyn_ms_Chik_f dyn_ms_Danang_f dyn_ms_Danyal_f
+		dyn_ms_Daut_f dyn_ms_Demak_f dyn_ms_Demang_f dyn_ms_Deraman_f dyn_ms_Deris_f
+		dyn_ms_Desa_f dyn_ms_Dollah_f dyn_ms_Dumadi_f dyn_ms_Elyas_f dyn_ms_Embong_f
+		dyn_ms_Fajar_f dyn_ms_Gana_f dyn_ms_Gombak_f dyn_ms_Golok_f dyn_ms_Garuda_f
+		dyn_ms_Hamengku_f dyn_ms_Haron_f dyn_ms_Hijau_f dyn_ms_Hitam_f dyn_ms_Indera_f
+		dyn_ms_Ishak_f dyn_ms_Isnin_f dyn_ms_Izzat_f dyn_ms_Jati_f dyn_ms_Jaya_f
+		dyn_ms_Jebat_f dyn_ms_Jejaka_f dyn_ms_Jiwa_f dyn_ms_Johan_f dyn_ms_Jumaat_f dyn_ms_Jusoh_f
+		dyn_ms_Jebat_f dyn_ms_Jantan_f dyn_ms_Jalak_f dyn_ms_Kamat_f dyn_ms_Kechik_f
+		dyn_ms_Kepli_f dyn_ms_Kesuma_f dyn_ms_Khamis_f dyn_ms_Kuning_f dyn_ms_Kulup_f
+		dyn_ms_Kasturi_f dyn_ms_Labuh_f dyn_ms_Lanang_f dyn_ms_Leman_f dyn_ms_Lokman_f
+		dyn_ms_Luncai_f dyn_ms_Lekir_f dyn_ms_Lekiu_f dyn_ms_Mamat_f dyn_ms_Mail_f
+		dyn_ms_Malim_f dyn_ms_Megat_f dyn_ms_Merdeka_f dyn_ms_Muda_f dyn_ms_Mulia_f
+		dyn_ms_Nerang_f dyn_ms_Noh_f dyn_ms_Omar_f dyn_ms_Osman_f dyn_ms_Perang_f
+		dyn_ms_Perwira_f dyn_ms_Putra_f dyn_ms_Rabu_f dyn_ms_Rai_f dyn_ms_Raja_f
+		dyn_ms_Rindu_f dyn_ms_Saadong_f dyn_ms_Sabtu_f dyn_ms_Sagari_f dyn_ms_Sangkara_f
+		dyn_ms_Selamat_f dyn_ms_Selasa_f dyn_ms_Seman_f dyn_ms_Senin_f dyn_ms_Shuib_f
+		dyn_ms_Sugriwa_f dyn_ms_Sulong_f dyn_ms_Suria_f dyn_ms_Tanggang_f dyn_ms_Taufan_f
+		dyn_ms_Teh_f dyn_ms_Tempawi_f dyn_ms_Teruna_f dyn_ms_Tuah_f dyn_ms_Tarung_f
+		dyn_ms_Uda_f dyn_ms_Ujang_f dyn_ms_Ungu_f dyn_ms_Usop_f dyn_ms_Wira_f
+		dyn_ms_Yaakop_f dyn_ms_Yahaya_f dyn_ms_Yeop_f dyn_ms_Yunos_f dyn_ms_Zulkarnain_f
+		dyn_ms_Zulkifli_f
+	}
+
+	dynasty_names = {
+		dyn_ms_Adi dyn_ms_Adiputra dyn_ms_Agung dyn_ms_Agus dyn_ms_Ahad dyn_ms_Andika
+		dyn_ms_Anuar dyn_ms_Atan dyn_ms_Awang dyn_ms_Baba dyn_ms_Bachok dyn_ms_Bagus
+		dyn_ms_Bambang dyn_ms_Basuki dyn_ms_Bayu dyn_ms_Benderangdyn_ms_Bestari
+		dyn_ms_Bijaya dyn_ms_Bintang dyn_ms_Biru dyn_ms_Bongsu dyn_ms_Bujang dyn_ms_Budi
+		dyn_ms_Budiarto dyn_ms_Bulat dyn_ms_Chik dyn_ms_Danang dyn_ms_Danyal
+		dyn_ms_Daut dyn_ms_Demak dyn_ms_Demang dyn_ms_Deraman dyn_ms_Deris
+		dyn_ms_Desa dyn_ms_Dollah dyn_ms_Dumadi dyn_ms_Elyas dyn_ms_Embong
+		dyn_ms_Fajar dyn_ms_Gana dyn_ms_Gombak dyn_ms_Golok dyn_ms_Garuda
+		dyn_ms_Hamengku dyn_ms_Haron dyn_ms_Hijau dyn_ms_Hitam dyn_ms_Indera
+		dyn_ms_Ishak dyn_ms_Isnin dyn_ms_Izzat dyn_ms_Jati dyn_ms_Jaya
+		dyn_ms_Jebat dyn_ms_Jejaka dyn_ms_Jiwa dyn_ms_Johan dyn_ms_Jumaat dyn_ms_Jusoh
+		dyn_ms_Jebat dyn_ms_Jantan dyn_ms_Jalak dyn_ms_Kamat dyn_ms_Kechik
+		dyn_ms_Kepli dyn_ms_Kesuma dyn_ms_Khamis dyn_ms_Kuning dyn_ms_Kulup
+		dyn_ms_Kasturi dyn_ms_Labuh dyn_ms_Lanang dyn_ms_Leman dyn_ms_Lokman
+		dyn_ms_Luncai dyn_ms_Lekir dyn_ms_Lekiu dyn_ms_Mamat dyn_ms_Mail
+		dyn_ms_Malim dyn_ms_Megat dyn_ms_Merdeka dyn_ms_Muda dyn_ms_Mulia
+		dyn_ms_Nerang dyn_ms_Noh dyn_ms_Omar dyn_ms_Osman dyn_ms_Perang
+		dyn_ms_Perwira dyn_ms_Putra dyn_ms_Rabu dyn_ms_Rai dyn_ms_Raja
+		dyn_ms_Rindu dyn_ms_Saadong dyn_ms_Sabtu dyn_ms_Sagari dyn_ms_Sangkara
+		dyn_ms_Selamat dyn_ms_Selasa dyn_ms_Seman dyn_ms_Senin dyn_ms_Shuib
+		dyn_ms_Sugriwa dyn_ms_Sulong dyn_ms_Suria dyn_ms_Tanggang dyn_ms_Taufan
+		dyn_ms_Teh dyn_ms_Tempawi dyn_ms_Teruna dyn_ms_Tuah dyn_ms_Tarung
+		dyn_ms_Uda dyn_ms_Ujang dyn_ms_Ungu dyn_ms_Usop dyn_ms_Wira
+		dyn_ms_Yaakop dyn_ms_Yahaya dyn_ms_Yeop dyn_ms_Yunos dyn_ms_Zulkarnain
+		dyn_ms_Zulkifli
+	}
+
+	male_names = {
+		ms_Adi  ms_Adiputra ms_Agung ms_Agus ms_Ahad ms_Andika ms_Anuar ms_Atan
+		ms_Awang ms_Baba ms_Bachok ms_Bagus ms_Bambang ms_Basuki ms_Bayu
+		ms_Benderang ms_Bestari ms_Bijaya ms_Bintang ms_Biru ms_Bongsu ms_Bujang
+		ms_Budi ms_Budiarto ms_Bulat ms_Chik ms_Danang ms_Danyal ms_Daut ms_Demak
+		ms_Demang ms_Deraman ms_Deris ms_Desa ms_Dollah ms_Dumadi ms_Elyas ms_Embong
+		ms_Fajar ms_Gana ms_Gombak ms_Golok ms_Garuda ms_Hamengku ms_Haron ms_Hijau
+		ms_Hitam ms_Indera ms_Ishak ms_Isnin ms_Izzat ms_Jati ms_Jaya ms_Jebat ms_Jejaka
+		ms_Jiwa ms_Johan ms_Jumaat ms_Jusoh ms_Jebat ms_Jantan ms_Jalak ms_Kamat
+		ms_Kechik ms_Kepli ms_Kesuma ms_Khamis ms_Kuning ms_Kulup ms_Kasturi
+		ms_Labuh ms_Lanang ms_Leman ms_Lokman ms_Luncai ms_Lekir ms_Lekiu ms_Mamat
+		ms_Mail ms_Malim ms_Megat ms_Merdeka ms_Muda ms_Mulia ms_Nerang ms_Noh
+		ms_Omar ms_Osman ms_Perang ms_Perwira ms_Putra ms_Rabu ms_Rai ms_Raja
+		ms_Rindu ms_Saadong ms_Sabtu ms_Sagari ms_Sangkara ms_Selamat ms_Selasa
+		ms_Seman ms_Senin ms_Shuib ms_Sugriwa ms_Sulong ms_Suria ms_Tanggang
+		ms_Taufan ms_Teh ms_Tempawi ms_Teruna ms_Tuah ms_Tarung ms_Uda ms_Ujang
+		ms_Ungu ms_Usop ms_Wira ms_Yaakop ms_Yahaya ms_Yeop ms_Yunos ms_Zulkarnain
+		ms_Zulkifli
+	}
+
+	female_names = {
+		ms_Adiputri ms_Aisyah ms_Ayu ms_Azura ms_Biru ms_Bongsu ms_Bulat ms_Bunga
+		ms_Bulan ms_Cahaya ms_Chempaka ms_Chinta ms_Dara ms_Dayang ms_Delima ms_Dewi
+		ms_Dian ms_Dewi ms_Embun ms_Esah ms_Fajar ms_Hapsah ms_Harum ms_Haryati
+		ms_Hijau ms_Indah ms_Intan ms_Izzati ms_Jaya ms_Jenab ms_Juwita ms_Kartika
+		ms_Kartini ms_Kembang ms_Kemboja ms_Kemuning ms_Katijah ms_Kuning ms_Kuntum
+		ms_Kaseh ms_Latipah ms_Linda ms_Mahsuri ms_Mahura ms_Manjalara ms_Mariah
+		ms_Mas ms_Masayu ms_Mastini ms_Mayang ms_Mawar ms_Maya ms_Melati ms_Melur
+		ms_Minah ms_Munah ms_Murni ms_Merah ms_Nawar ms_Nilam ms_Nirmala ms_Pertiwi
+		ms_Puspa ms_Puspasari ms_Puspawangi ms_Puspawati ms_Putri ms_Sari ms_Sayang
+		ms_Sepiah ms_Sri ms_Siti ms_Suriani ms_Suriawati ms_Surintan ms_Tempawan
+		ms_Teratai ms_Tijah ms_Tipah ms_Wangi ms_Wati ms_Warna ms_Yati ms_Zamrud
+
+	}
+}
+name_list_thai = {
+
+	dynasty_names = {
+		dyn_th_A-wut dyn_th_Adulyadej dyn_th_Amarin dyn_th_Amphom dyn_th_Anant
+		dyn_th_Anchali dyn_th_Anong dyn_th_Anuman dyn_th_Anurak dyn_th_Apinya
+		dyn_th_Aree dyn_th_Aromdee dyn_th_Arthit dyn_th_Asnee dyn_th_Ayutthaya
+		dyn_th_Boon-Nam dyn_th_Boonmee dyn_th_Boonrueng dyn_th_Boonya
+		dyn_th_Buathong dyn_th_Bun_Ma dyn_th_Bunrueang dyn_th_Busarakham
+		dyn_th_Chaem_Choi dyn_th_Chai_Charoen dyn_th_Chai_Son dyn_th_Chaidee
+		dyn_th_Chaisai dyn_th_Chaiya dyn_th_Chakan dyn_th_Chakrii dyn_th_Channarong
+		dyn_th_Charoensuk dyn_th_Chevapravatdumrong dyn_th_Chinda dyn_th_Chokdee
+		dyn_th_Chongrak dyn_th_Chuahirun dyn_th_Daeng dyn_th_Daorueang dyn_th_Duangkamol
+		dyn_th_Gop dyn_th_Jaikieow dyn_th_Karawek dyn_th_Kasem dyn_th_Khaengkad
+		dyn_th_Kittibun dyn_th_Kittichat dyn_th_Kob_Sook dyn_th_Kraisee dyn_th_Krungthep
+		dyn_th_Lawan dyn_th_Makok dyn_th_Malai dyn_th_Malee dyn_th_Meeboon
+		dyn_th_Mongkhon dyn_th_Na_Chiangmai dyn_th_Narong dyn_th_Ngam dyn_th_Niran
+		dyn_th_Noi dyn_th_Noknoi dyn_th_Onsi dyn_th_Paithoon dyn_th_Panya
+		dyn_th_Phasuk dyn_th_Pravat dyn_th_Preedee dyn_th_Ratanaporn dyn_th_Rattanakosin
+		dyn_th_Ritthirong dyn_th_Rochana dyn_th_Rueng dyn_th_Saelau dyn_th_Saengkaew
+		dyn_th_Sakda dyn_th_Sangthong dyn_th_Shinwara dyn_th_Siriporn dyn_th_Soikham
+		dyn_th_Somsri dyn_th_Suwan dyn_th_Suwannarat dyn_th_Tham-Boon dyn_th_Thawan
+		dyn_th_Thong_Di dyn_th_Wanchai
+	}
+	
+	male_names = {
+		th_Ambhom th_Ananada th_Anuman th_Anurak th_Apinya th_Aroon th_Asnee
+		th_Atid th_Badin th_Boon-Nam th_Bun_Ma th_Chai th_Chaisai th_Chaiya
+		th_Chalerm th_Channarong th_Decha th_Dusadi th_Kamnan th_Kasem th_Khemkhaeng
+		th_Kiet th_Kittibun th_Kittisak th_Kla th_Kla_Han th_Kob_Sook th_Kongpob
+		th_Kovit th_Kraisee th_Kriang_Krai th_Lamon th_Mee_Noi th_Mongkut th_Narong
+		th_Niran th_Paitoon th_Panya th_Phanumas th_Phassakorn th_Phichit th_Pravat
+		th_Preed th_Ratohanan th_Rattanon th_Ritthirong th_Ruang_Rit th_Sakda th_Suppade
+		th_Theeraphob
+	}
+
+	female_names = {
+		th_Achara th_Anong th_Beam th_Boonsri th_Busarakham th_Dara th_Dok_Ban_Yen
+		th_Dok_Mai th_Dok_Phi_Sua th_Duangkamol th_Duanphen th_Gun th_Hom
+		th_Jane th_Kannika th_Kanok th_Kanokwan th_Karawek th_Karnchana th_Khaji
+		th_Khun_Mae th_Kohsoom th_Kulap th_Kwang th_Lamai th_Lawan th_Lawana
+		th_Madee th_Malai th_Malee th_May th_Mayuree th_Mild th_Nan th_Natcha
+		th_Ngoen th_Nin th_Pakpao th_Pensri th_Phaelyn th_Phaibun th_Phairoh th_Phawta
+		th_Phitsamai th_Phueng th_Pimchan th_Ploy th_Prija th_Ratanaporn th_Ubon
+	}
+}
+name_list_laotian = {
+
+	dynasty_names = {
+		dyn_lo_Chanthavong dyn_lo_Inthavong dyn_lo_Sayavong dyn_lo_Thammavongsa
+		dyn_lo_Thammavong dyn_lo_Siharath dyn_lo_Manivong dyn_lo_Xayavong
+		dyn_lo_Phommachanh dyn_lo_Vongphakdy dyn_lo_Souphavanh dyn_lo_Phonasa
+		dyn_lo_Amnouayphone dyn_lo_Asang dyn_lo_Banavong dyn_lo_Bannavong
+		dyn_lo_Banyavonay dyn_lo_Bouathang dyn_lo_Boulom dyn_lo_Bounkham
+		dyn_lo_Bounmaly dyn_lo_Bounvilay dyn_lo_Bounyavong dyn_lo_Boupha dyn_lo_Boutah
+		dyn_lo_Chaleunsouk dyn_lo_Champassak dyn_lo_Chanthala dyn_lo_Chanthalangsy
+		dyn_lo_Chanthanasinh dyn_lo_Chanthanouvong dyn_lo_Chanthaphanh dyn_lo_Chanthaphone
+		dyn_lo_Chantharath dyn_lo_Chommany dyn_lo_Choummali dyn_lo_Chounlamany
+		dyn_lo_Daoheuang dyn_lo_Daravong dyn_lo_Dedthanou dyn_lo_Douang dyn_lo_Douangdara
+		dyn_lo_Douangmala dyn_lo_Douangphrachanh dyn_lo_Douangsavanh dyn_lo_Homsombath
+		dyn_lo_Insisiengmay dyn_lo_Insixiengmay dyn_lo_Inthalangsy dyn_lo_Inthara
+		dyn_lo_Inthasone dyn_lo_Inthavongsa dyn_lo_Inthilath dyn_lo_Inthirath
+		dyn_lo_Inthiravongsy dyn_lo_Inthisane dyn_lo_Inthisorn dyn_lo_Kamsai
+		dyn_lo_Kanlagna dyn_lo_Kaysone dyn_lo_Keodara dyn_lo_Keohavong dyn_lo_Keomanivong
+		dyn_lo_Keomany dyn_lo_Keopaseuth dyn_lo_Keopraseuth dyn_lo_Keosoupha
+		dyn_lo_Keovilay dyn_lo_Keovongsa dyn_lo_Kham dyn_lo_Khamhoung
+		dyn_lo_Khammanivong dyn_lo_Khammavong dyn_lo_Khamouane dyn_lo_Khamphilavong
+		dyn_lo_Khamphoui dyn_lo_Khamphoumy dyn_lo_Khamtai dyn_lo_Khamvongsa
+		dyn_lo_Khamvongxay dyn_lo_Khanthavong dyn_lo_Khattigna dyn_lo_Kingsada
+		dyn_lo_Kittikhoun dyn_lo_Komany dyn_lo_Kongmany dyn_lo_Lao dyn_lo_Lattanavong
+		dyn_lo_LoVan dyn_lo_Lovanh dyn_lo_Luangkhot dyn_lo_Luanglath dyn_lo_Luangrath
+		dyn_lo_Maichantam dyn_lo_Maisouk dyn_lo_Mahavong dyn_lo_Mangala
+		dyn_lo_Manichanh dyn_lo_Manivanh dyn_lo_Many dyn_lo_Mounivong dyn_lo_Namakoth
+		dyn_lo_Nanthasane dyn_lo_Nanthavong dyn_lo_Nanthavongdouansy dyn_lo_Norphansy
+		dyn_lo_Nouhak dyn_lo_Opart dyn_lo_Osakan dyn_lo_Oudom dyn_lo_Ounephengsy
+		dyn_lo_Panyanouvong dyn_lo_Pathammavong dyn_lo_Phanouvong dyn_lo_Phanthavong
+		dyn_lo_Phavivong dyn_lo_Phasavath dyn_lo_Phetpaseuth dyn_lo_Phetsomphou
+		dyn_lo_Phettaphong dyn_lo_Philavanh dyn_lo_Philavong dyn_lo_Phimmasone
+		dyn_lo_Pholsena dyn_lo_Phommachack dyn_lo_Phommachak dyn_lo_Phommachan
+		dyn_lo_Phommarath dyn_lo_Phommasanh dyn_lo_Phommason dyn_lo_Phommasone
+		dyn_lo_Phommavong dyn_lo_Phommavongsa dyn_lo_Phomphakdy dyn_lo_Phomvilay
+		dyn_lo_Phonekeo dyn_lo_Phonesavanh dyn_lo_Phongsa dyn_lo_Phongsavanh
+		dyn_lo_Phongsavath dyn_lo_Phothirath dyn_lo_Phothisane dyn_lo_Phou
+		dyn_lo_Phouangsavanh dyn_lo_Phouma dyn_lo_Phoumi dyn_lo_Phoummasouvanh
+		dyn_lo_Phoumvihone dyn_lo_Phoun dyn_lo_Phounsavath dyn_lo_Phouthavong
+		dyn_lo_Phoutthavong dyn_lo_Phovanh dyn_lo_Phrommany dyn_lo_Phuongphet
+		dyn_lo_Rasavong dyn_lo_Rasphone dyn_lo_Rattanasitthi dyn_lo_Rattanavong
+		dyn_lo_Saman dyn_lo_Samonekeo dyn_lo_Sananikone dyn_lo_Sanoubane dyn_lo_Savang
+		dyn_lo_Savanh dyn_lo_Sayalath dyn_lo_Sayarath dyn_lo_Sayasane dyn_lo_Sayaseng
+		dyn_lo_Sayasith dyn_lo_Saycocie dyn_lo_Sengchan dyn_lo_Sengchanh dyn_lo_Sengdala
+		dyn_lo_Sengdara dyn_lo_Sengmany dyn_lo_Sengsavang dyn_lo_Sengsouvanh
+		dyn_lo_Senethavilay dyn_lo_Sibounheuang dyn_lo_Sihalath dyn_lo_Sihapanya
+		dyn_lo_Sihavong dyn_lo_Silaphet dyn_lo_Silavong dyn_lo_Simasing dyn_lo_Simmalavong
+		dyn_lo_Simmavong dyn_lo_Singhalath dyn_lo_Sipaseuth dyn_lo_Sisane
+		dyn_lo_Sisavat dyn_lo_Sisavath dyn_lo_Sisombat dyn_lo_Sisombath dyn_lo_Sisongkham
+		dyn_lo_Sisouk dyn_lo_Sisoulath dyn_lo_Sisouphanh dyn_lo_Sisouvong dyn_lo_Sithimolada
+		dyn_lo_Sivanthong dyn_lo_Sivilay dyn_lo_Sivongxay dyn_lo_Sompadit dyn_lo_Somphone
+		dyn_lo_Somsanith dyn_lo_Somsanouk dyn_lo_Somsavat dyn_lo_Sone
+		dyn_lo_Sonephet dyn_lo_Sonthavilaylack dyn_lo_Souk dyn_lo_Soukhathammavong
+		dyn_lo_Souksavath dyn_lo_Souksavong dyn_lo_Soulivong dyn_lo_Soumpholphakdy
+		dyn_lo_Sourivong dyn_lo_Southammavong dyn_lo_Southavong dyn_lo_Southichark
+		dyn_lo_Southivong dyn_lo_Southiyano dyn_lo_Souvanna dyn_lo_Souvannavong
+		dyn_lo_Souvannarath dyn_lo_Syharath dyn_lo_Sysavath dyn_lo_Sysomvang
+		dyn_lo_Thammalong dyn_lo_Thepphavong dyn_lo_Thetphasone dyn_lo_Thipphavong
+		dyn_lo_Thirakul dyn_lo_Thongdara dyn_lo_Thongloun dyn_lo_Thongmanivong
+		dyn_lo_Thongphet dyn_lo_Thongsing dyn_lo_Tomseth dyn_lo_Vannalet dyn_lo_Vannavong
+		dyn_lo_Viengvilay dyn_lo_Vilavong dyn_lo_Vilay dyn_lo_Vilaysack dyn_lo_Vilaysane
+		dyn_lo_Vilaythong dyn_lo_Vilayvanh dyn_lo_Viravong dyn_lo_Vongdara
+		dyn_lo_Vongkhamchanh dyn_lo_Vongkhamkeaw dyn_lo_Vongkhamsao
+		dyn_lo_Vongphachanh dyn_lo_Vongphesy dyn_lo_Vongphrachanh dyn_lo_Vongprachanh
+		dyn_lo_Vongsa dyn_lo_Vongsambath dyn_lo_Vongsavath dyn_lo_Vongsay dyn_lo_Vongvilay
+		dyn_lo_Vongxay dyn_lo_Vorachack dyn_lo_Vorasane dyn_lo_Voravong dyn_lo_Xaiyavong
+		dyn_lo_Xaphakdy dyn_lo_Xayachack dyn_lo_Xayalath dyn_lo_Xayalith dyn_lo_Xayarath
+		dyn_lo_Xaysongkham dyn_lo_Xayyavong
+	}
+	
+	male_names = {
+		lo_Anan lo_Ai lo_Aloun lo_Ano lo_Anovong lo_Anou lo_Aria lo_Borom
+		lo_Boun lo_Bounmy lo_Chantha lo_Da lo_Dang lo_Davanh lo_Danay lo_Don
+		lo_Han lo_Houava lo_Kai lo_Kaison lo_Kalounna lo_Kasa lo_Kayson lo_Kesone lo_Khaen
+		lo_Khaek lo_Khai lo_Kham lo_Kito lo_Khambang lo_Kamgong lo_Khamkhen lo_Khamkong
+		lo_Khamphanh lo_Khamphong lo_Khamwaen lo_Khanhti lo_Lang lo_Leokham lo_Linh
+		lo_Loundara lo_Loy lo_Long lo_Luam lo_Luan lo_Mansay lo_Nouhak lo_Payloth
+		lo_Pele lo_Phaivanh lo_Phay lo_Phayvanh lo_Phetanutphone lo_Pheth lo_Phethsarat
+		lo_Phetpaseuth lo_Phetsarath lo_Phiarune lo_Phoumi lo_Phoummy lo_Phouthakhoune
+		lo_Phouthong lo_Phoutthasone lo_Saengchan lo_Saiyasit lo_Sanaphol lo_Sang
+		lo_Savanh lo_Savang lo_Saeng lo_Sengphet lo_Sihn lo_Siho lo_Sitto lo_Simok lo_Sing
+		lo_Sisavan lo_Sithat lo_Somsack lo_Sophath lo_Sophonn lo_Soth lo_Soulingna
+		lo_Souphanouvong lo_Souriya lo_Southai lo_Souvath lo_Sovannanith lo_Thongdaeng
+		lo_Ubon lo_Vien lo_Viraxay lo_Xaysanna lo_Xatxay lo_Xay lo_Xai lo_Xaiya
+		lo_Xaykhantany lo_Xok
+	}
+
+	female_names = {
+		lo_Alana lo_Alani lo_Anida lo_Anita lo_Anya lo_Anny lo_Boanam lo_Bong lo_Boun
+		lo_Bom lo_Bua lo_Bunchan lo_Bouasy lo_Channa lo_Chandara lo_Chantalone lo_Chanya
+		lo_Chitpasong lo_Dara lo_Daraphon lo_Dao lo_Davanh lo_Faxai lo_Fon lo_Hathavan
+		lo_Kanthong lo_Keo lo_Ketsana lo_Khambai lo_Khamla lo_Khamela lo_Khammouane
+		lo_Khampheng lo_Khamphone lo_Khampouang lo_Khamphouvanh lo_Khamseng
+		lo_Khanhthaly lo_Khantaly lo_Khanthalack lo_Khet lo_Kongseng lo_La lo_Lana
+		lo_Lai lo_Lay lo_Lae lo_Lida lo_Lita lo_Lina lo_Lun lo_Luna lo_Luknum lo_Leokham
+		lo_Mai lo_May lo_Malana lo_Malay lo_Mani lo_Manida lo_Manivanh lo_Mena
+		lo_Mek lo_Muan lo_Miew lo_Mo lo_Mok lo_Mokita lo_Moui lo_Mouthida lo_Moune
+		lo_Nok lo_Nokida lo_Nouna lo_Nouanchan lo_Nalee lo_Noy lo_Nalong lo_Namfon
+		lo_Navida lo_Nina lo_Nitta lo_Oanna lo_Olay lo_Onita lo_Ouanna lo_Palia lo_pao
+		lo_Pashay lo_Pani lo_Pham lo_Phaengsy lo_Phayvanh lo_Phethmany lo_Phetpalansy
+		lo_Pim lo_ping lo_Pinky lo_Phonesavanh lo_Phonesvanh lo_Phonethip lo_Phongsili
+		lo_Phonthong lo_Phouang lo_Phouthai lo_Phouvieng lo_Pon lo_Poi lo_Pothong lo_Pouy
+		lo_Raty lo_Sana lo_Sayla lo_Saysamore lo_Sengchanh lo_Siphong lo_Soi lo_Souliya
+		lo_Soukita lo_Souknapha lo_Souksakhone lo_Souphansa lo_Sousada lo_Souvadanh
+		lo_Souvanna lo_Souxada lo_Souvida lo_Sunisa lo_Tai lo_Talia lo_Tani lo_Tina lo_Thiemta
+		lo_Vanh lo_Vanna lo_Vannaly lo_Vannavong lo_Vanida lo_Vila lo_Vilay lo_Vilayvanh
+		lo_Vina lo_Yai lo_Yui lo_Von lo_Vonna
+	}
+}
+name_list_cambodian = {
+
+	dynasty_names = {
+		dyn_km_Sok dyn_km_Heng dyn_km_Chea dyn_km_Ly dyn_km_Seng dyn_km_Kong
+		dyn_km_Lim dyn_km_Keo dyn_km_Mao dyn_km_Meas dyn_km_Leng dyn_km_So
+		dyn_km_Hong dyn_km_San dyn_km_Bun dyn_km_Touch dyn_km_Chhay dyn_km_Sim
+		dyn_km_Sun dyn_km_Lay dyn_km_Aang dyn_km_Aek dyn_km_Aem dyn_km_An
+		dyn_km_Ang dyn_km_Ann dyn_km_Aok dyn_km_Ath dyn_km_Ban dyn_km_Be
+		dyn_km_Beer dyn_km_Ben dyn_km_Bopha dyn_km_Bora dyn_km_Borey dyn_km_Bou
+		dyn_km_Bouen dyn_km_Boun dyn_km_Buor dyn_km_By dyn_km_Chaing dyn_km_Chak
+		dyn_km_Cham dyn_km_Chan dyn_km_Chandara dyn_km_Chandy dyn_km_Chann
+		dyn_km_Channa dyn_km_Chao dyn_km_Chap dyn_km_Charny dyn_km_Chau dyn_km_Chav
+		dyn_km_Cheam dyn_km_Chean dyn_km_Cheang dyn_km_Chem dyn_km_Chen
+		dyn_km_Cheng dyn_km_Chet dyn_km_Cheu dyn_km_Chey dyn_km_Chhan dyn_km_Chhea
+		dyn_km_Chheang dyn_km_Chhem dyn_km_Chheng dyn_km_Chhet dyn_km_Chhim
+		dyn_km_Chhin dyn_km_Chhit dyn_km_Chhoeun dyn_km_Chhoeung dyn_km_Chhom
+		dyn_km_Chhor dyn_km_Chhorn dyn_km_Chhoub dyn_km_Chhoun dyn_km_Chhour
+		dyn_km_Chhum dyn_km_Chhun dyn_km_Chhuon dyn_km_Chim dyn_km_Chin
+		dyn_km_Chit dyn_km_Chiv dyn_km_Choem dyn_km_Choeun dyn_km_Chor
+		dyn_km_Chou dyn_km_Chouan dyn_km_Choun dyn_km_Chourp dyn_km_Chuab
+		dyn_km_Chum dyn_km_Chun dyn_km_Chuon dyn_km_Chy dyn_km_Da
+		dyn_km_Dara dyn_km_Daro dyn_km_Den dyn_km_Din dyn_km_Dith
+		dyn_km_Doung dyn_km_Duch dyn_km_Duk dyn_km_Dul dyn_km_Duong dyn_km_Each
+		dyn_km_Eam dyn_km_Ean dyn_km_Eang dyn_km_Eap dyn_km_Ear dyn_km_Eav
+		dyn_km_Ek dyn_km_El dyn_km_Em dyn_km_Eng dyn_km_Haing dyn_km_Hak
+		dyn_km_Han dyn_km_Hang dyn_km_Has dyn_km_Hay dyn_km_Hean dyn_km_Heang
+		dyn_km_Hem dyn_km_Hen dyn_km_Hengvong dyn_km_Him dyn_km_Hin dyn_km_Ho
+		dyn_km_Hok dyn_km_Hor dyn_km_Horn dyn_km_Hou dyn_km_Houn dyn_km_Hour
+		dyn_km_Hout dyn_km_Houy dyn_km_Hoy dyn_km_Hu dyn_km_Hul dyn_km_Hun
+		dyn_km_Huot dyn_km_Huy dyn_km_Iam dyn_km_Iem dyn_km_Ieng dyn_km_Im
+		dyn_km_In dyn_km_Ing dyn_km_Ith dyn_km_Iv dyn_km_Jan dyn_km_Jay dyn_km_Jen
+		dyn_km_Jey dyn_km_Jin dyn_km_Kaing dyn_km_Kan dyn_km_Kang dyn_km_Kao
+		dyn_km_Keat dyn_km_Kem dyn_km_Ken dyn_km_Ket dyn_km_Khai dyn_km_Khan
+		dyn_km_Khat dyn_km_Khay dyn_km_Kheang dyn_km_Khem dyn_km_Khen
+		dyn_km_Kheng dyn_km_Khieu dyn_km_Khiev dyn_km_Khim dyn_km_Khin dyn_km_Khlot
+		dyn_km_Khoeun dyn_km_Khou dyn_km_Khouerth dyn_km_Khoun dyn_km_Khov
+		yn_km_Khun dyn_km_Khuon dyn_km_Khuth dyn_km_Kim dyn_km_Kith dyn_km_Korn
+		dyn_km_Kouch dyn_km_Koy dyn_km_Kuoch dyn_km_Kuy dyn_km_Ky dyn_km_Lam
+		dyn_km_Lat dyn_km_Lavan dyn_km_Leang dyn_km_Lek dyn_km_Lieng dyn_km_Lin
+		dyn_km_Liv dyn_km_Lo dyn_km_Loch dyn_km_Loeung dyn_km_Loeur dyn_km_Lok
+		dyn_km_Lon dyn_km_Long dyn_km_Lonh dyn_km_Lor dyn_km_Lorn dyn_km_Loun
+		dyn_km_Loung dyn_km_Lov dyn_km_Lun dyn_km_Ma dyn_km_Mak dyn_km_Makara
+		dyn_km_Mam dyn_km_Man dyn_km_Math dyn_km_Meach dyn_km_Meak dyn_km_Mean
+		dyn_km_Meang dyn_km_Men dyn_km_Meng dyn_km_Meth dyn_km_Mey dyn_km_Mian
+		dyn_km_Moeun dyn_km_Moeung dyn_km_Mok dyn_km_Mom dyn_km_Mon
+		dyn_km_Moul dyn_km_Mul dyn_km_Muoy dyn_km_Muy dyn_km_Na dyn_km_Nak
+		dyn_km_Nam dyn_km_Nary dyn_km_Neak dyn_km_Neang dyn_km_Nem dyn_km_Neou
+		dyn_km_Nery dyn_km_Nget dyn_km_Ngeth dyn_km_Ngin dyn_km_Ngoun dyn_km_Ngov
+		dyn_km_Ngoy dyn_km_Nguon dyn_km_Nhek dyn_km_Nhem dyn_km_Nhep dyn_km_Nhim
+		dyn_km_Nim dyn_km_Nimol dyn_km_Noeurm dyn_km_Nong dyn_km_Nop
+		dyn_km_Norng dyn_km_Nou dyn_km_Noun dyn_km_Noung dyn_km_Nourn dyn_km_Nout
+		dyn_km_Nouth dyn_km_Nov dyn_km_Noy dyn_km_Nuon dyn_km_Nuth dyn_km_Oeun
+		dyn_km_Oeur dyn_km_Ok dyn_km_Ol dyn_km_Om dyn_km_On dyn_km_Ong
+		dyn_km_Or dyn_km_Ou dyn_km_Ouch dyn_km_Ouk dyn_km_Oum dyn_km_Oung
+		dyn_km_Ov dyn_km_Pa dyn_km_Pach dyn_km_Pan dyn_km_Pang dyn_km_Pay
+		dyn_km_Pech dyn_km_Pel dyn_km_Pen dyn_km_Peng dyn_km_Peou
+		dyn_km_Phal dyn_km_Phan dyn_km_Phann dyn_km_Phaul dyn_km_Phav dyn_km_Phay
+		dyn_km_Phen dyn_km_Pheng dyn_km_Phin dyn_km_Pho dyn_km_Phok dyn_km_Phon
+		dyn_km_Phoung dyn_km_Phun dyn_km_Phy dyn_km_Pich dyn_km_Pichenda
+		dyn_km_Pin dyn_km_Piseth dyn_km_Po dyn_km_Pok dyn_km_Pol dyn_km_Por
+		dyn_km_Pot dyn_km_Pou dyn_km_Pov dyn_km_Poy dyn_km_Prak dyn_km_Preap
+		dyn_km_Prom dyn_km_Prum dyn_km_Puth dyn_km_Ra dyn_km_Rangsey dyn_km_Rath
+		dyn_km_Rattana dyn_km_Real dyn_km_Rem dyn_km_Reth dyn_km_Rim
+		dyn_km_Rin dyn_km_Rith dyn_km_Rithy dyn_km_Roeun dyn_km_Ros dyn_km_Roth
+		dyn_km_Rous dyn_km_Run dyn_km_Ry dyn_km_Saing dyn_km_Saluk dyn_km_Sam
+		dyn_km_Sambath dyn_km_Sambo dyn_km_Samouth dyn_km_Samphan dyn_km_Samreth
+		dyn_km_Sang dyn_km_Sann dyn_km_Sao dyn_km_Sar dyn_km_Sarith dyn_km_Sary
+		dyn_km_Sat dyn_km_Sath dyn_km_Savan dyn_km_Say dyn_km_Sea dyn_km_Sean
+		dyn_km_Seang dyn_km_Sek dyn_km_Sem dyn_km_Sen dyn_km_Serey dyn_km_Set
+		dyn_km_Sien dyn_km_Sieng dyn_km_Sin dyn_km_Sith dyn_km_Siv dyn_km_Sivorn
+		dyn_km_Soch dyn_km_Soeun dyn_km_Soeung dyn_km_Soeur dyn_km_Sokal
+		dyn_km_Sokhom dyn_km_Som dyn_km_Son dyn_km_Song dyn_km_Sopha
+		dyn_km_Sopheak dyn_km_Sor dyn_km_Sorm dyn_km_Sorn dyn_km_Sot dyn_km_Soth
+		dyn_km_Sotpeak dyn_km_Soun dyn_km_Sourn dyn_km_Sovann dyn_km_Soy
+		dyn_km_Srea dyn_km_Sreng dyn_km_Srey dyn_km_Srov dyn_km_Srun
+		dyn_km_Su dyn_km_Sum dyn_km_Suon dyn_km_Suos dyn_km_Suy dyn_km_Svay
+		dyn_km_Sy dyn_km_Tai dyn_km_Taing dyn_km_Tan dyn_km_Tang dyn_km_Tao
+		dyn_km_Tat dyn_km_Tauch dyn_km_Te dyn_km_Tea dyn_km_Teav dyn_km_Tech
+		dyn_km_Tei dyn_km_Tek dyn_km_Teng dyn_km_Tep dyn_km_Tes dyn_km_Thach
+		dyn_km_Thai dyn_km_Than dyn_km_Theng dyn_km_Thith dyn_km_Tho dyn_km_Thoeun
+		dyn_km_Thon dyn_km_Thong dyn_km_Thorn dyn_km_Thou dyn_km_Thy
+		dyn_km_Tieng dyn_km_Tim dyn_km_Tip dyn_km_Tith dyn_km_Toan dyn_km_Toch
+		dyn_km_Tong dyn_km_Touen dyn_km_Toun dyn_km_Try dyn_km_Tum dyn_km_Tuon
+		dyn_km_Tuy dyn_km_Ty dyn_km_Uch dyn_km_Um dyn_km_Un dyn_km_Ung
+		dyn_km_Uy dyn_km_Va dyn_km_Vah dyn_km_Van dyn_km_Vang dyn_km_Vann
+		dyn_km_Vannarath dyn_km_Vanneth dyn_km_Var dyn_km_Vay dyn_km_Ven
+		dyn_km_Veng dyn_km_Veth dyn_km_Vichea dyn_km_Vin dyn_km_Voeum dyn_km_Voeun
+		dyn_km_Von dyn_km_Vong dyn_km_Vorn dyn_km_Vy dyn_km_Yang dyn_km_Yann
+		dyn_km_Yath dyn_km_Yean dyn_km_Yem dyn_km_Yeng dyn_km_Yi dyn_km_Yim
+		dyn_km_Yin dyn_km_Yiv dyn_km_Yoeun dyn_km_Yorn dyn_km_Yos dyn_km_You
+		dyn_km_Yous dyn_km_Yu dyn_km_Yun
+	}
+	
+	male_names = {
+		km_Arun km_Ban km_Bourey km_Bun-Rong km_Chak km_Chakrya km_Chamroeun
+		km_Chandarith km_Chankrisna km_Chantha km_Chanthay km_Chanveasna km_Chay
+		km_Chhan km_Chhunhakk km_Dara km_Eng km_Hoeub km_Ieu km_Indr
+		km_Jaya km_Jun-Chhoun km_Kettiya km_Kiman km_Kiri km_Kosal km_Kristna km_Lon
+		km_Makara km_Meng km_Monivong km_Munney km_Munny km_Muth km_Nath
+		km_Nghor km_Nheal km_Nhean km_Nhol km_Nim km_Nol km_Norodom km_Oum
+		km_Pheak km_Phim km_Phirun km_Pich km_Pol km_Pou km_Rajendra km_Ranariddh
+		km_Rangsey km_Ratta km_Rithisak km_Rithy km_Rongsey km_Rouet km_Ry km_Sakngea
+		km_Samouth km_Samporn km_Samrin km_Sangha km_Sary km_Sathea km_Savoeun
+		km_Sen km_Siden km_Silong km_Sim km_Sisowath km_Sokhun km_Son km_Sophal
+		km_Sophat km_Sopheara km_Sotharith km_Sovann km_Surya km_Sutshakan km_Thai
+		km_Thoeun km_Tioulang km_Uth km_Varin km_Veasna km_Visith km_Win km_Yaso
+		km_Yem
+	}
+
+	female_names = {
+		km_Baen km_Bopha km_Boupha km_Canata km_Champei km_Chan km_Chanae
+		km_Chanda km_Chandarith km_Channary km_Chantou km_Chantrea km_Chantria
+		km_Charn km_Chea km_Chhom km_Chhoum km_Chim km_Dara km_Domitila km_Haidy
+		km_Kalliyan km_Kannitha km_Kolab km_Kornika km_Kornthearrie km_Kosal km_Kunthea
+		km_Lai km_Leakhana km_Lun_Ang km_Maly km_Map km_Maryna km_Mliss km_Mom
+		km_Moum km_Nary km_Ngim km_Non km_Penarene km_Penh km_Phalla
+		km_Pheakkley km_Phiray km_Pisey km_Poew km_Rann km_Reachana km_Ren km_Ry
+		km_Sarom km_Savy km_Seoun km_Sitha km_Socheat km_Sodavy km_Sokha km_Sokphy
+		km_Somaly km_Sopea km_Sophal km_Sophea km_Sopheap km_Sophear km_Sopheary
+		km_Soportevy km_Sorn km_Sothea km_Sothol km_Sray km_Sukeanroun km_Sukvanly
+		km_Suon km_Terri km_Terry km_Tery km_Teva km_Tevy km_Theary km_Thida
+		km_Thirith km_Thoeung km_Vanna km_Vannak km_Vantha km_Veata km_Veng_Kim
+		km_Vuthy km_Yat km_Yutheary
+	}
+}
+name_list_burmese = {
+
+	dynasty_names = {
+		# They are completely mononymous... These are five empty strings
+		empty_1 empty_2 empty_3 empty_4 empty_5
+	}
+	
+	male_names = {
+		my_A my_Aun my_Aunt my_Aung my_Aye my_Ba my_Baby my_Bau my_Bawi
+		my_Bik my_Bo my_Bohmu my_Boy my_Byaw my_Chain my_Chao my_Chaw
+		my_Chi my_Chit my_Cho my_Chun my_Da my_Dan my_Dar my_Daw my_Do my_Gyi
+		my_Ha my_Han my_Har my_Hay my_Hein my_Hla my_Hlaing my_Hmwe my_Hnin
+		my_Hock my_Hpay my_Hsu my_Htaik my_Htain my_Htaung my_Htay my_Htet
+		my_Htike my_Htin my_Htoo my_Htoon my_Htun my_Htut my_Htway my_Htwe
+		my_Hwae my_Ja my_Kaung my_Kay my_Kee my_Kha my_Khain my_Khaing my_Kham
+		my_Khan my_Khant my_Khaung my_Khin my_Khine my_Khing my_Khun my_Kin
+		my_Ko my_Koe my_Koko my_Kwan my_Kwei my_Kya my_Kyaing my_Kyaw my_Kyee
+		my_Kyi my_Kyin my_Kyu my_Kywa my_Kywe my_La my_Lai my_Lar my_Lat
+		my_Latt my_Lay my_Lei my_Li my_Lian my_Lim my_Lin my_Ling my_Linn my_Lon
+		my_Lu my_Lun my_Lwin my_Lynn my_Ma my_Man my_Mang my_Mar my_Maung
+		my_Maw my_May my_Me my_Mee my_Meit my_Mi my_Mima my_Mimma my_Min
+		my_Mina my_Minn my_Mint my_Moe my_Mon my_Moo my_Moun my_Moung
+		my_Mu my_Mung my_Mya my_Myaing my_Myat my_Myi my_Myint my_Mynn
+		my_Myo my_Myaw my_Na my_Naing my_Nan my_Nanda my_Nandar my_Nang
+		my_Naung my_Naw my_Nay my_Ne my_Nee my_Nge my_Ngwe my_Ni my_Noe
+		my_Nu my_Nwe my_Nyee my_Nyein my_Nyi my_Nyinyi my_Nyo my_Nyun my_Nyunt
+		my_Ohn my_On my_One my_Oo my_Ooh my_Oung my_Pa my_Paing my_Pan
+		my_Pann my_Par my_Paw my_Pe my_Pha my_Pho my_Phoo my_Phyo my_Phyoe
+		my_Phyu my_Pi my_Po my_Poe my_Pwint my_Pyae my_Pyant my_Pyin my_Pyone
+		my_Ra my_Sa my_Sai my_Saing my_San my_Sandar my_Sann my_Saw my_Sein
+		my_Seng my_Set my_Shein my_Shin my_Shine my_Shwe my_Si my_Sie my_Sin
+		my_Sint my_Sit my_Sithu my_Smile my_Snow my_So my_Soe my_Sone my_Su
+		my_Suan my_Sung my_Suu my_Swar my_Swe my_Sweet my_Tan my_Tar
+		my_Taw my_Tchin my_Tha my_Thame my_Than my_Thandar my_Thang my_Thant
+		my_Thar my_Thaung my_Thaw my_The my_Theik my_Thein my_Theingi my_Theint
+		my_Thet my_Thi my_Thida my_Thiha my_Thin my_Thinn my_Thiri my_Thit my_Thu
+		my_Thura my_Thuzar my_Thway my_Thwe my_Thwin my_Tin my_Tint my_Toe
+		my_Toke my_Tu my_Tun my_Tut my_Wa my_Wah my_Wai my_Waing my_Wang
+		my_War my_Warwar my_We my_Win my_Winn my_Winna my_Wint my_Wun
+		my_Wynn my_Xing my_Ya my_Yamin my_Yan my_Yang my_Yar my_Ye my_Yee
+		my_Yi my_Yin my_Yo my_Yon my_Yona my_Yonna my_Yu my_Yum my_Zan
+		my_Zar my_Zaw my_Zay my_Zeya my_Zin
+	}
+
+	female_names = {
+		my_A my_Aun my_Aunt my_Aung my_Aye my_Ba my_Baby my_Bau my_Bawi
+		my_Bik my_Bo my_Bohmu my_Boy my_Byaw my_Chain my_Chao my_Chaw
+		my_Chi my_Chit my_Cho my_Chun my_Da my_Dan my_Dar my_Daw my_Do my_Gyi
+		my_Ha my_Han my_Har my_Hay my_Hein my_Hla my_Hlaing my_Hmwe my_Hnin
+		my_Hock my_Hpay my_Hsu my_Htaik my_Htain my_Htaung my_Htay my_Htet
+		my_Htike my_Htin my_Htoo my_Htoon my_Htun my_Htut my_Htway my_Htwe
+		my_Hwae my_Ja my_Kaung my_Kay my_Kee my_Kha my_Khain my_Khaing my_Kham
+		my_Khan my_Khant my_Khaung my_Khin my_Khine my_Khing my_Khun my_Kin
+		my_Ko my_Koe my_Koko my_Kwan my_Kwei my_Kya my_Kyaing my_Kyaw my_Kyee
+		my_Kyi my_Kyin my_Kyu my_Kywa my_Kywe my_La my_Lai my_Lar my_Lat
+		my_Latt my_Lay my_Lei my_Li my_Lian my_Lim my_Lin my_Ling my_Linn my_Lon
+		my_Lu my_Lun my_Lwin my_Lynn my_Ma my_Man my_Mang my_Mar my_Maung
+		my_Maw my_May my_Me my_Mee my_Meit my_Mi my_Mima my_Mimma my_Min
+		my_Mina my_Minn my_Mint my_Moe my_Mon my_Moo my_Moun my_Moung
+		my_Mu my_Mung my_Mya my_Myaing my_Myat my_Myi my_Myint my_Mynn
+		my_Myo my_Myaw my_Na my_Naing my_Nan my_Nanda my_Nandar my_Nang
+		my_Naung my_Naw my_Nay my_Ne my_Nee my_Nge my_Ngwe my_Ni my_Noe
+		my_Nu my_Nwe my_Nyee my_Nyein my_Nyi my_Nyinyi my_Nyo my_Nyun my_Nyunt
+		my_Ohn my_On my_One my_Oo my_Ooh my_Oung my_Pa my_Paing my_Pan
+		my_Pann my_Par my_Paw my_Pe my_Pha my_Pho my_Phoo my_Phyo my_Phyoe
+		my_Phyu my_Pi my_Po my_Poe my_Pwint my_Pyae my_Pyant my_Pyin my_Pyone
+		my_Ra my_Sa my_Sai my_Saing my_San my_Sandar my_Sann my_Saw my_Sein
+		my_Seng my_Set my_Shein my_Shin my_Shine my_Shwe my_Si my_Sie my_Sin
+		my_Sint my_Sit my_Sithu my_Smile my_Snow my_So my_Soe my_Sone my_Su
+		my_Suan my_Sung my_Suu my_Swar my_Swe my_Sweet my_Tan my_Tar
+		my_Taw my_Tchin my_Tha my_Thame my_Than my_Thandar my_Thang my_Thant
+		my_Thar my_Thaung my_Thaw my_The my_Theik my_Thein my_Theingi my_Theint
+		my_Thet my_Thi my_Thida my_Thiha my_Thin my_Thinn my_Thiri my_Thit my_Thu
+		my_Thura my_Thuzar my_Thway my_Thwe my_Thwin my_Tin my_Tint my_Toe
+		my_Toke my_Tu my_Tun my_Tut my_Wa my_Wah my_Wai my_Waing my_Wang
+		my_War my_Warwar my_We my_Win my_Winn my_Winna my_Wint my_Wun
+		my_Wynn my_Xing my_Ya my_Yamin my_Yan my_Yang my_Yar my_Ye my_Yee
+		my_Yi my_Yin my_Yo my_Yon my_Yona my_Yonna my_Yu my_Yum my_Zan
+		my_Zar my_Zaw my_Zay my_Zeya my_Zin
+	}
+}

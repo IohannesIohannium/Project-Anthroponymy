@@ -1,0 +1,385 @@
+name_list_evenki = {
+	# Sadly, too few names are attested for Tungusic languages
+	female_last_names = {
+		dyn_evn_Allietov_f dyn_evn_Bombogorov_f dyn_evn_Khadiulov_f dyn_evn_Kostokov_f 
+	}
+	dynasty_names = {
+		dyn_evn_Allietov dyn_evn_Bombogorov dyn_evn_Khadiulov dyn_evn_Kostokov
+		dyn_evn_Agata dyn_evn_Aim dyn_evn_Aldan dyn_evn_Amga dyn_evn_Angara
+		dyn_evn_Ayan dyn_evn_Baikal dyn_evn_Barguzin dyn_evn_Baunt dyn_evn_Bolshoy
+		dyn_evn_Bureya dyn_evn_Chemdalsk dyn_evn_Chirinda dyn_evn_Chulman 
+		dyn_evn_Chumikan dyn_evn_Dudinka dyn_evn_Dzheltulak dyn_evn_Gilyui
+		dyn_evn_Ilimpeya dyn_evn_Kachug dyn_evn_Kalar dyn_evn_Khantai dyn_evn_Khingat
+		dyn_evn_Kirensk dyn_evn_Kuyumba dyn_evn_Mai dyn_evn_Nakanno dyn_evn_Nelkan
+		dyn_evn_Nepa dyn_evn_Nercha dyn_evn_Olyomka dyn_evn_Poligus dyn_evn_Porog
+		dyn_evn_Selemdzha dyn_evn_Surinda dyn_evn_Sym dyn_evn_Taimura dyn_evn_Talocha
+		dyn_evn_Timpton dyn_evn_Tokko dyn_evn_Tokma dyn_evn_Tommot dyn_evn_Totti
+		dyn_evn_Tugur dyn_evn_Tungir dyn_evn_Tungokochen dyn_evn_Tura 
+		dyn_evn_Tutonchany dyn_evn_Uchami dyn_evn_Uchur dyn_evn_Urmi
+		dyn_evn_Vanavara dyn_evn_Vitim dyn_evn_Yerbogachen dyn_evn_Zeya
+	}
+	
+	male_names = {
+		evn_Alilet evn_Bombogor evn_Khadiul evn_Kostoku
+		evn_Altan evn_Altanay evn_Avdani evn_Avdanay evn_Arkani evn_Arkany evn_Ayatmar
+		evn_Ayargun evn_Berko evn_Berke evn_Berkencha evn_Berkenchi evn_Ganalchi
+		evn_Ganargun evn_Ganavul evn_Garpancha evn_Garpas evn_Gevan evn_Gevancha
+		evn_Gidargun evn_Gidary evn_Nyurgun evn_Kagan evn_Kagankan evn_Kagandar
+		evn_Kadary evn_Kadanay evn_Katana evn_Katanay evn_Kataney evn_Sigundar
+		evn_Sigunder evn_Selemen evn_Ulgen evn_Ulger evn_Uren evn_Uron evn_Ureni
+		evn_Chagandar evn_Chagankan evn_Chagilkan evn_Chagildar evn_Eglender
+		evn_Eglendar evn_Heglendar evn_Yurgin evn_Yurgen evn_Yurgini evn_Yurginay evn_Yurginey 
+	}
+
+	female_names = {
+		evn_Garpancha evn_Ogdo evn_Tymancha
+		evn_Aina evn_Aynana evn_Alana evn_Altana evn_Aniya evn_Ayana evn_Ayavuna 
+		evn_Ayakchana evn_Ayavrina evn_Aglayana evn_Aglachana evn_Aglana evn_Aglachan
+		evn_Bagdarina evn_Begandara evn_Begayana evn_Imana evn_Inmelina evn_Iladina
+		evn_Iladiya evn_Ichevlina evn_Icheyana evn_Icherina evn_Kiladiya evn_Nadana
+		evn_Nadarina evn_Nadalyana evn_Nyorayana evn_Nyoraina evn_Nyoralina
+		evn_Nivelina evn_Siguna evn_Siguyana evn_Sigundara evn_Sekalana evn_Sinilga
+		evn_Sinilge evn_Sinilgina evn_Sodayana evn_Evina evn_Egdana evn_Egdelina
+		evn_Egdena evn_Egdeyana evn_Elgena evn_Edzhelina evn_Edena evn_Edzhena
+		evn_Ezhana evn_Yultena evn_Yultelina evn_Yulteyena evn_Yulteyana 
+	}
+}
+name_list_chukchi = {
+
+	dynasty_names = {
+		dyn_chuk_Alaseia dyn_chuk_Kolyma dyn_chuk_Anuy dyn_chuk_Anadyr dyn_chuk_Telqap
+		dyn_chuk_Onmilin dyn_chuk_Chaun dyn_chuk_Erri
+	}
+	
+	male_names = {
+		chuk_Aleleke chuk_Alyapenryn chuk_Atch-ytagyn chuk_Bakat-gyrgyn chuk_Cheyv-ynkev
+		chuk_Giv-ynkeev chuk_Gyrgol-gyrgyn chuk_Keli chuk_Kmol chuk_Korave
+		chuk_Koravye chuk_Lelekay chuk_Leletke chuk_Memyl chuk_Nute-nli chuk_Omryn
+		chuk_Omr-ytagyn chuk_Ropt-yn chuk_Rultk-ynkev chuk_Rytgev chuk_Rytkheu chuk_Tenevil
+		chuk_Tygrynkeev chuk_Tyna-gyrgyn chuk_Tyne-nkey chuk_Tynga-gyrgyn chuk_Umky
+		chuk_Vykvan chuk_Vyrgyrgylele
+	}
+
+	female_names = {
+		chuk_Anka-ny chuk_Bakat-vaal chuk_Cheyv-yne chuk_Chonya-na chuk_Galgan-nga
+		chuk_Gitingev chuk_Gitinnevyt chuk_Gyronav chuk_Iv-nevyt chuk_Kymytval chuk_Okko-n
+		chuk_Omr-yna chuk_Penr-yna chuk_Pychik chuk_Ropt-yna chuk_Rultk-ynevyt
+		chuk_Rul-tyne chuk_Tinyl chuk_Tyna-tval chuk_Tyne-nny chuk_Vinevyt chuk_Vykv-yna
+	}
+}
+name_list_ostyak = {
+
+	female_last_names = {
+		dyn_kca_Chukhpelekpokh_f dyn_kca_Epkuvpokh_f dyn_kca_Evtinpokh_f 
+		dyn_kca_Kushchtapokh_f dyn_kca_Lyutyapokh_f dyn_kca_Makshchimpokh_f 
+		dyn_kca_Mikipurpokh_f dyn_kca_Mikitpokh_f dyn_kca_Mikulpokh_f dyn_kca_Mikuvpokh_f 
+		dyn_kca_Payalpokh_f dyn_kca_Pilyapokh_f dyn_kca_Sankapokh_f 
+		dyn_kca_Shcherkipokh_f dyn_kca_Tepanpokh_f dyn_kca_Tyomkigipokh_f 
+		dyn_kca_Untarypokh_f dyn_kca_Vashchkapokh_f dyn_kca_Vashchkigipokh_f 
+		dyn_kca_Velakshchipokh_f dyn_kca_Yarashchpokh_f dyn_kca_Yoshchkapokh_f 
+		dyn_kca_Yoshchkigipokh_f dyn_kca_Yukhurpokh_f dyn_kca_Yuvanpokh_f 
+	}
+
+	dynasty_names = {
+		dyn_kca_Chukhpelekpokh dyn_kca_Epkuvpokh dyn_kca_Evtinpokh dyn_kca_Kushchtapokh
+		dyn_kca_Lyutyapokh dyn_kca_Makshchimpokh dyn_kca_Mikipurpokh dyn_kca_Mikitpokh
+		dyn_kca_Mikulpokh dyn_kca_Mikuvpokh dyn_kca_Payalpokh dyn_kca_Pilyapokh
+		dyn_kca_Sankapokh dyn_kca_Shcherkipokh dyn_kca_Tepanpokh dyn_kca_Tyomkigipokh
+		dyn_kca_Untarypokh dyn_kca_Vashchkapokh dyn_kca_Vashchkigipokh
+		dyn_kca_Velakshchipokh dyn_kca_Yarashchpokh dyn_kca_Yoshchkapokh
+		dyn_kca_Yoshchkigipokh dyn_kca_Yukhurpokh dyn_kca_Yuvanpokh
+	}
+	
+	male_names = {
+		kca_Chukhpelek kca_Epkuv kca_Evtin kca_Kushchta kca_Lyutya kca_Makshchim
+		kca_Mikipur kca_Mikit kca_Mikul kca_Mikuv kca_Payal kca_Pilya kca_Sanka kca_Shcherki
+		kca_Tepan kca_Tyomkigi kca_Untary kca_Vashchka kca_Vashchkigi kca_Velakshchi
+		kca_Yarashch kca_Yoshchka kca_Yoshchkigi kca_Yukhur kca_Yuvan
+	}
+
+	female_names = {
+		kca_Kaltes-ekwa kca_Litta kca_Lushcha kca_Marpa kca_Palashka kca_Petushch
+		kca_Tarashchya kca_Urne kca_Vulga kca_Vushchta
+	}
+}
+name_list_samoyedic = {
+
+	dynasty_names = {
+		dyn_yrk_Ervkonyu dyn_yrk_Igneynyu dyn_yrk_Irikonyu dyn_yrk_Khasavakonyu
+		dyn_yrk_Kokanyu dyn_yrk_Myusenanyu dyn_yrk_Natenanyu dyn_yrk_Neleykonyu
+		dyn_yrk_Noleynyu dyn_yrk_Nolyakonyu dyn_yrk_Osinyu dyn_yrk_Petrakonyu
+		dyn_yrk_Serakonenyu dyn_yrk_Sevtyanyu dyn_yrk_Vavlyanyu dyn_yrk_Vesakonyu
+	}
+	
+	male_names = {
+		yrk_Ervko yrk_Igney yrk_Iriko yrk_Khasavako yrk_Koka yrk_Myusena
+		yrk_Natena yrk_Neleyko yrk_Noley yrk_Nolyako yrk_Osi yrk_Petrako
+		yrk_Serakone yrk_Sevtya yrk_Vavlya yrk_Vesako
+	}
+
+	female_names = {
+		yrk_Edeyne yrk_Evane yrk_KHadako yrk_Khadne yrk_Khoni yrk_Matryo
+		yrk_Neko yrk_Nolyako yrk_Parako yrk_Pukhutsya yrk_Savane yrk_Syvne yrk_Varuk
+		yrk_Yalyane yrk_Yedeyne
+	}
+}
+name_list_permyak = {
+
+	dynasty_names = { # Male names repeated here
+		kv_Mihail kv_Mitruk kv_Oloksan kv_Orti kv_Yogush kv_Yovgin
+		kv_Odoel_ kv_Oel_oeksan kv_Sash kv_Sandroe kv_San_oe kv_Sandrik kv_Oel_oe 
+		kv_Oel_oeksey kv_Oel_oesh kv_Ol_oek kv_Ol_oe kv_Oendrey kv_Oen_oe kv_Oerti
+		kv_Opon_ kv_Vasiley kv_Vas_oe kv_Vas_ kv_Ven_ kv_Vittor kv_Vit_oe kv_Volod_
+		kv_Lade kv_Vech_ kv_Gavril kv_Gab kv_Gen_ kv_Yogush kv_Yogor kv_Grish
+		kv_Grishun_ kv_Dan_o kv_Daniil kv_Dan_ kv_Dan_oy kv_Demen_ kv_Mit_ kv_Yoevgin_
+		kv_Epim kv_Ivan kv_Van_ kv_Ivoe kv_Illya kv_Kal_oe kv_Kiro kv_Koes_ta kv_Mitruk
+		kv_Mish kv_Mikol kv_Mikul kv_Moesey kv_Mikit kv_Mikol kv_Mikulay kv_Kol_oe
+		kv_Kolyay kv_Kol_ kv_Mik kv_Pash kv_Petyr kv_Petroe kv_Prokoe kv_Segoe kv_Semoe
+		kv_Spira kv_Step kv_Stepan kv_S_tepan kv_Tima kv_Tikoen kv_Trosh kv_Palaley
+		kv_Pedoer kv_Ped_ kv_Pedot kv_Yak kv_Yaroe 
+	}
+	
+	male_names = {
+		kv_Mihail kv_Mitruk kv_Oloksan kv_Orti kv_Yogush kv_Yovgin
+		kv_Odoel_ kv_Oel_oeksan kv_Sash kv_Sandroe kv_San_oe kv_Sandrik kv_Oel_oe 
+		kv_Oel_oeksey kv_Oel_oesh kv_Ol_oek kv_Ol_oe kv_Oendrey kv_Oen_oe kv_Oerti
+		kv_Opon_ kv_Vasiley kv_Vas_oe kv_Vas_ kv_Ven_ kv_Vittor kv_Vit_oe kv_Volod_
+		kv_Lade kv_Vech_ kv_Gavril kv_Gab kv_Gen_ kv_Yogush kv_Yogor kv_Grish
+		kv_Grishun_ kv_Dan_o kv_Daniil kv_Dan_ kv_Dan_oy kv_Demen_ kv_Mit_ kv_Yoevgin_
+		kv_Epim kv_Ivan kv_Van_ kv_Ivoe kv_Illya kv_Kal_oe kv_Kiro kv_Koes_ta kv_Mitruk
+		kv_Mish kv_Mikol kv_Mikul kv_Moesey kv_Mikit kv_Mikol kv_Mikulay kv_Kol_oe
+		kv_Kolyay kv_Kol_ kv_Mik kv_Pash kv_Petyr kv_Petroe kv_Prokoe kv_Segoe kv_Semoe
+		kv_Spira kv_Step kv_Stepan kv_S_tepan kv_Tima kv_Tikoen kv_Trosh kv_Palaley
+		kv_Pedoer kv_Ped_ kv_Pedot kv_Yak kv_Yaroe 
+	}
+
+	female_names = {
+		kv_Masho kv_Oksin kv_Rayo
+		kv_Agin kv_Nasta kv_Nastuk kv_Galya ky_Katoe kv_Mashoe kv_Marpa kv_Nadoe 
+		kv_Natal kv_Oeksin kv_Oelga kv_Rayoe 
+	}
+}
+name_list_mordvin = {
+
+	dynasty_names = {
+		dyn_mord_Alyokacyora dyn_mord_Andryucyora dyn_mord_Andyucyora
+		dyn_mord_Artyocyora dyn_mord_Dorocyora dyn_mord_Drigocyora dyn_mord_Gavryocyora
+		dyn_mord_Ilkutacyora dyn_mord_Kargatacyora dyn_mord_Karitonacyora
+		dyn_mord_Khoddeyacyora dyn_mord_Kiryocyora dyn_mord_Komacyora
+		dyn_mord_Kutskanacyora dyn_mord_Kvedoracyora dyn_mord_Kvilyocyora
+		dyn_mord_Matyocyora dyn_mord_Mikikoracyora dyn_mord_Moseyacyora
+		dyn_mord_Nekhotacyora dyn_mord_Nuyatacyora dyn_mord_Obranacyora
+		dyn_mord_Olodyacyora dyn_mord_Ontonacyora dyn_mord_Ovstayacyora
+		dyn_mord_Paksyutacyora dyn_mord_Panzicyora dyn_mord_Parushacyora
+		dyn_mord_Pichayacyora dyn_mord_Pinyasacyora dyn_mord_Sergucyora
+		dyn_mord_Shavachacyora dyn_mord_Shyakshatacyora dyn_mord_Sokhronacyora
+		dyn_mord_Syulgacyora dyn_mord_Torayacyora dyn_mord_Torkanacyora
+		dyn_mord_Tsyofksacyora dyn_mord_Tumayacyora dyn_mord_Uchvatacyora
+		dyn_mord_Vasyukacyora dyn_mord_Vechkasacyora dyn_mord_Vikayacyora
+		dyn_mord_Viryayacyora dyn_mord_Zakaracyora
+	}
+	
+	male_names = {
+		mord_Alyok mord_Andryu mord_Andyu mord_Artyo mord_Doro mord_Drigo
+		mord_Gavryo mord_Ilkut mord_Kargata mord_Kariton mord_Khoddey mord_Kiryo
+		mord_Koma mord_Kutskan mord_Kvedor mord_Kvilyo mord_Matyo mord_Mikikor
+		mord_Mosey mord_Nekhot mord_Nuyat mord_Obran mord_Olodya mord_Onton
+		mord_Ovstay mord_Paksyut mord_Panzi mord_Parush mord_Pichay mord_Pinyas
+		mord_Sergu mord_Shavacha mord_Shyakshata mord_Sokhron mord_Syulga
+		mord_Toray mord_Torkan mord_Tsyofks mord_Tumay mord_Uchvat mord_Vasyuk
+		mord_Vechkas mord_Vikay mord_Viryay mord_Zakar
+	}
+
+	female_names = {
+		mord_Anelina mord_Anka mord_Arguma mord_Artana mord_Ashava mord_Ashnaza
+		mord_Baigusha mord_Bazhata mord_Bazhuta mord_Cheymarina mord_Chipanya
+		mord_Elyuva mord_Erekay mord_Eryana mord_Eyzyural mord_Ganya mord_Inzhanya
+		mord_Istarta mord_Kastusha mord_Kelgan mord_Kemelte mord_Ketsyata
+		mord_Kevganya mord_Kichat mord_Kirdyava mord_Kizor mord_Kvedo mord_Lada
+		mord_Lamzur mord_Laymar mord_Laymarina mord_Likshanya mord_Liyana
+		mord_Marjo mord_Markva mord_Mastorava mord_Mazanya mord_Mazava
+		mord_Mazyargo mord_Miyanza mord_Narusha mord_Nasta mord_Nayana
+		mord_Normal mord_Nuya mord_Oksya mord_Olday mord_Paksyaltya
+		mord_Paranza mord_Selema mord_Senezha mord_Siyana mord_Solana mord_Syrnezha
+		mord_Telena mord_Teshtela mord_Valdasya mord_Valdonya mord_Valguzha
+		mord_Vechkana mord_Velmata mord_Verki mord_Virineya mord_Vitova mord_Zekhel
+	}
+}
+name_list_tatar = {
+
+	female_last_names = {
+		dyn_tt_Akhatov_f dyn_tt_Akhmetov_f dyn_tt_Akhmetzyanov_f dyn_tt_Arslan_f 
+		dyn_tt_Batyrshin_f dyn_tt_Bilyaletdinov_f dyn_tt_Fattakhov_f dyn_tt_Fayzulin_f 
+		dyn_tt_Ganeyev_f dyn_tt_Garayev_f dyn_tt_Gareev_f dyn_tt_Garipov_f 
+		dyn_tt_Gimayev_f dyn_tt_Gizzatulla_f dyn_tt_Gizzatullin_f dyn_tt_Ibragimov_f 
+		dyn_tt_Karimov_f dyn_tt_Karimova_f dyn_tt_Khabibullin_f dyn_tt_Khabirov_f 
+		dyn_tt_Khismatullin_f dyn_tt_Kudermetov_f dyn_tt_Mardanshin_f dyn_tt_Mustafin_f 
+		dyn_tt_Nabiyev_f dyn_tt_Nizamutdinov_f dyn_tt_Nureyev_f dyn_tt_Sadykov_f 
+		dyn_tt_Shabayev_f dyn_tt_Tagaev_f dyn_tt_Valeyev_f dyn_tt_Valiyev_f 
+		dyn_tt_Yakhin_f dyn_tt_Yusupov_f 
+	}
+
+	dynasty_names = {
+		dyn_tt_Akhatov dyn_tt_Akhmetov dyn_tt_Akhmetzyanov dyn_tt_Arslan dyn_tt_Batyrshin
+		dyn_tt_Bilyaletdinov dyn_tt_Fattakhov dyn_tt_Fayzulin dyn_tt_Ganeyev dyn_tt_Garayev
+		dyn_tt_Gareev dyn_tt_Garipov dyn_tt_Gimayev dyn_tt_Gizzatulla dyn_tt_Gizzatullin
+		dyn_tt_Ibragimov dyn_tt_Karimov dyn_tt_Karimova dyn_tt_Khabibullin dyn_tt_Khabirov
+		dyn_tt_Khismatullin dyn_tt_Kudermetov dyn_tt_Mardanshin dyn_tt_Mustafin
+		dyn_tt_Nabiyev dyn_tt_Nizamutdinov dyn_tt_Nureyev dyn_tt_Sadykov dyn_tt_Shabayev
+		dyn_tt_Tagaev dyn_tt_Valeyev dyn_tt_Valiyev dyn_tt_Yakhin dyn_tt_Yusupov
+	}
+	
+	male_names = {
+		tt_Axmat tt_Amir tt_Alim tt_Almas tt_Anvar tt_Arslan tt_Arislan tt_Ayaz tt_Aydar
+		tt_Aynur tt_Ayrat tt_Azat tt_Bikbay tt_Bikbulat tt_Bulat tt_Damir tt_Denis tt_Deniz
+		tt_Farhat tt_Farit tt_Gabdulla tt_Gadel tt_Gaskar tt_Gizzatulla tt_Ibragim tt_Idris tt_Ildar
+		tt_Ildus tt_Ilgiz tt_Ilyas tt_Ilnar tt_Ilnaz tt_Ilnur tt_Ilsur tt_Ilsat tt_Irek tt_Iskandar
+		tt_Isbulat tt_Kamil tt_Karim tt_Nail tt_Narat tt_Rail tt_Ramil tt_Rasit tt_Ravil tt_Risat
+		tt_Rostam tt_Rusam tt_Samil tt_Tahir tt_Taymas tt_Timer tt_Tulpar tt_Ural tt_Uraz
+		tt_Yuldash tt_Zofar tt_Zufar
+	}
+
+	female_names = {
+		tt_Alia tt_Alfia tt_Aksu tt_Aslanbika tt_Asia tt_Aygol tt_Aysilu tt_Culpan tt_Damira
+		tt_Dinara tt_Farida tt_Galia tt_Golcacak tt_Golnara tt_Golnaz tt_Guzal tt_Guzalia tt_Ilnara
+		tt_Ilnura tt_Ilsiya tt_Ilsura tt_Maryam tt_Milawsa tt_Nailya tt_Tansilu tt_Yuldus tt_Yulduz
+		tt_Zohra
+	}
+}
+name_list_yakut = {
+
+	dynasty_names = {
+	# The Yakuts were mononymous before Christianization	
+	
+		sah_Aysen sah_Nyurgun sah_Elley sah_Aytal sah_Manchaary sah_Ayaal
+		sah_Michil sah_Keskil sah_Ayhal sah_Uygulaan
+		sah_​Ayaal​ sah_​Ayaan​ sah_​Ayantay​ sah_Ayastaan sah_Ayataasan sah_Aygylaan
+		sah_​Aydar​ sah_Aydarkhan sah_​Aydyn​ sah_​Aynaan​ sah_​Aytal​ sah_​Aytaas​ sah_​Ayuol​
+		sah_​Aykhaal​ sah_​Aykhaan​ sah_​Aychaan​ sah_​Ayyy​_​Sien​ sah_​Albaan​ sah_​Algyy​
+		sah_​Algyr​ sah_​Altan​ sah_​Amaan​ sah_​Arbay​ sah_Aryyaan sah_Arylkhan sah_​Archyn​
+		sah_​Atalamy​ sah_Atyrd_akh sah_Akhchannyyr sah_​Baatyr​ sah_​Bootur​ sah_Bagacha
+		sah_​Bad_yy​ sah_Bayang sah_Byyang sah_​Bayanay​ sah_Bayga sah_​Baydam​ sah_​Baltuga​
+		sah_​Barakhsan​ sah_Baaragay sah_​Botoor​ sah_Barylaan sah_Biebey sah_​Boydoy​
+		sah_​Boydon​ sah_Boldorgoy sah_Bochookh sah_​Bulbudakh​ sah_​Bulgudakh​ sah_​Bulchut​
+		sah_Bergen sah_​Bert​ sah_Bygynas sah_Byyaman sah_Byrkyngaa sah_​Byrkhaan​
+		sah_​Bytyk​ sah_​Dabaan​ sah_​Dabyl​ sah_​Dabyn​ sah_​Dayaan​ sah_​Dalan​ sah_​Dalbar​
+		sah_Dalbaray sah_​Dalduy​ sah_​Darkhan​ sah_​Dobun​ sah_​Doyduusa​ sah_​Dolun​
+		sah_​Dokhsun​ sah_​Duolan​ sah_Dunsun sah_D_amukh sah_D_ulustaan sah_D_uluskhaan
+		sah_D_uluur sah_D_urustaan sah_​D_uon​ sah_​Delgey​ sah_Delegey sah_​Delem​ sah_​Id_il​
+		sah_​Irgen​ sah_​Kintey​ sah_​Kuday​ sah_​Kuduk​ sah_Kuykey sah_​Kunay​ sah_Kureyeek
+		sah_​Kustuk​ sah_Kustuktaan sah_Kundul sah_Kundumen sah_Kusteekhey sah_Kuoregey
+		sah_Kuutumey sah_Kytaanakh sah_Kytakhyy sah_Kencheeri sah_Keremen sah_​Kerel​
+		sah_​Keskil​ sah_Langkhy sah_​Madan​ sah_​Mayd_aakh​ sah_​Manchaary​ sah_​Manyka​
+		sah_Maanyylaakh sah_​Michil​ sah_​Modun​ sah_Mald'agar sah_Mold'ogor sah_Mokhsogol
+		sah_​Murgun​ sah_Muld'u sah_Meldekhe sah_Munn_an sah_Mynn_an sah_​Menik​
+		sah_Menngeekh sah_Namylga sah_​Nuolan​ sah_N_urgun sah_N_urgustaan sah_​Odun​
+		sah_Ogoro sah_Oyogostuur sah_​Oyuun​ sah_​Oyuunay​ sah_​Okuuy​ sah_Omogoy sah_​Orguuy​
+		sah_​Orduk​ sah_​Ottuuy​ sah_​Otchut​ sah_Odukey sah_​Oktom​ sah_​Onor​ sah_​Orkon​
+		sah_​Saaryn​ sah_Saydam sah_​Satal​ sah_Sandal sah_Sandaman sah_​Sargyn​ sah_​Silik​
+		sah_Sochul sah_​Sulus​ sah_Sulustaan sah_Sungkgalyyr sah_Surgen sah_Surgukhaay
+		sah_​Syral​ sah_Sergekh sah_​Taybyyr​ sah_​Talban​ sah_Talygyr sah_​Talyman​ sah_​Taman​
+		sah_Tarbyyr sah_​Tarkhay​ sah_​Tegin​ sah_​Tygyn​ sah_​Timir​ sah_Timirey sah_​Tiit​
+		sah_​Tobokh​ sah_Toguray sah_​Tolbon​ sah_Tolluman sah_​Tonokh​ sah_​Tokhtotoy​
+		sah_​Tyrtyk​ sah_​Tuygun​ sah_​Tukay​ sah_​Tuluy​ sah_Tuluykhan sah_​Tuskul​ sah_​Tuskun​
+		sah_​Tumat​ sah_Tubey sah_Tubek sah_Tumen sah_Tebikey sah_​Terike​ sah_​Uygun​
+		sah_Uygulaan sah_​Uygu​_Byyang sah_​Uolan​ sah_Uolantay sah_​Uraan​ sah_​Ursun​
+		sah_​Uruy​ sah_Uhun sah_Ukhkhaan sah_Urgel sah_​Kharakh​ sah_Kharyskhaan
+		sah_Khatamallay sah_​Khatan​ sah_Khoyuutan sah_​Khomus​ sah_​Khamys​ sah_Khomustaan
+		sah_​Khorula​ sah_​Khorsun​ sah_Khotoy sah_Khohuun sah_Chagyl sah_​Chakyl​ sah_​Chokon​
+		sah_Chooruos sah_​Elley​ sah_​Ergis​ sah_​Erilik​ sah_​Erkin​ sah_​Erkhaan​ sah_​Erchim​
+		sah_Erchimen sah_​Erel​ sah_Echiney sah_Echineek 
+	}
+	
+	male_names = {
+		sah_Aysen sah_Nyurgun sah_Elley sah_Aytal sah_Manchaary sah_Ayaal
+		sah_Michil sah_Keskil sah_Ayhal sah_Uygulaan
+		sah_​Ayaal​ sah_​Ayaan​ sah_​Ayantay​ sah_Ayastaan sah_Ayataasan sah_Aygylaan
+		sah_​Aydar​ sah_Aydarkhan sah_​Aydyn​ sah_​Aynaan​ sah_​Aytal​ sah_​Aytaas​ sah_​Ayuol​
+		sah_​Aykhaal​ sah_​Aykhaan​ sah_​Aychaan​ sah_​Ayyy​_​Sien​ sah_​Albaan​ sah_​Algyy​
+		sah_​Algyr​ sah_​Altan​ sah_​Amaan​ sah_​Arbay​ sah_Aryyaan sah_Arylkhan sah_​Archyn​
+		sah_​Atalamy​ sah_Atyrd_akh sah_Akhchannyyr sah_​Baatyr​ sah_​Bootur​ sah_Bagacha
+		sah_​Bad_yy​ sah_Bayang sah_Byyang sah_​Bayanay​ sah_Bayga sah_​Baydam​ sah_​Baltuga​
+		sah_​Barakhsan​ sah_Baaragay sah_​Botoor​ sah_Barylaan sah_Biebey sah_​Boydoy​
+		sah_​Boydon​ sah_Boldorgoy sah_Bochookh sah_​Bulbudakh​ sah_​Bulgudakh​ sah_​Bulchut​
+		sah_Bergen sah_​Bert​ sah_Bygynas sah_Byyaman sah_Byrkyngaa sah_​Byrkhaan​
+		sah_​Bytyk​ sah_​Dabaan​ sah_​Dabyl​ sah_​Dabyn​ sah_​Dayaan​ sah_​Dalan​ sah_​Dalbar​
+		sah_Dalbaray sah_​Dalduy​ sah_​Darkhan​ sah_​Dobun​ sah_​Doyduusa​ sah_​Dolun​
+		sah_​Dokhsun​ sah_​Duolan​ sah_Dunsun sah_D_amukh sah_D_ulustaan sah_D_uluskhaan
+		sah_D_uluur sah_D_urustaan sah_​D_uon​ sah_​Delgey​ sah_Delegey sah_​Delem​ sah_​Id_il​
+		sah_​Irgen​ sah_​Kintey​ sah_​Kuday​ sah_​Kuduk​ sah_Kuykey sah_​Kunay​ sah_Kureyeek
+		sah_​Kustuk​ sah_Kustuktaan sah_Kundul sah_Kundumen sah_Kusteekhey sah_Kuoregey
+		sah_Kuutumey sah_Kytaanakh sah_Kytakhyy sah_Kencheeri sah_Keremen sah_​Kerel​
+		sah_​Keskil​ sah_Langkhy sah_​Madan​ sah_​Mayd_aakh​ sah_​Manchaary​ sah_​Manyka​
+		sah_Maanyylaakh sah_​Michil​ sah_​Modun​ sah_Mald'agar sah_Mold'ogor sah_Mokhsogol
+		sah_​Murgun​ sah_Muld'u sah_Meldekhe sah_Munn_an sah_Mynn_an sah_​Menik​
+		sah_Menngeekh sah_Namylga sah_​Nuolan​ sah_N_urgun sah_N_urgustaan sah_​Odun​
+		sah_Ogoro sah_Oyogostuur sah_​Oyuun​ sah_​Oyuunay​ sah_​Okuuy​ sah_Omogoy sah_​Orguuy​
+		sah_​Orduk​ sah_​Ottuuy​ sah_​Otchut​ sah_Odukey sah_​Oktom​ sah_​Onor​ sah_​Orkon​
+		sah_​Saaryn​ sah_Saydam sah_​Satal​ sah_Sandal sah_Sandaman sah_​Sargyn​ sah_​Silik​
+		sah_Sochul sah_​Sulus​ sah_Sulustaan sah_Sungkgalyyr sah_Surgen sah_Surgukhaay
+		sah_​Syral​ sah_Sergekh sah_​Taybyyr​ sah_​Talban​ sah_Talygyr sah_​Talyman​ sah_​Taman​
+		sah_Tarbyyr sah_​Tarkhay​ sah_​Tegin​ sah_​Tygyn​ sah_​Timir​ sah_Timirey sah_​Tiit​
+		sah_​Tobokh​ sah_Toguray sah_​Tolbon​ sah_Tolluman sah_​Tonokh​ sah_​Tokhtotoy​
+		sah_​Tyrtyk​ sah_​Tuygun​ sah_​Tukay​ sah_​Tuluy​ sah_Tuluykhan sah_​Tuskul​ sah_​Tuskun​
+		sah_​Tumat​ sah_Tubey sah_Tubek sah_Tumen sah_Tebikey sah_​Terike​ sah_​Uygun​
+		sah_Uygulaan sah_​Uygu​_Byyang sah_​Uolan​ sah_Uolantay sah_​Uraan​ sah_​Ursun​
+		sah_​Uruy​ sah_Uhun sah_Ukhkhaan sah_Urgel sah_​Kharakh​ sah_Kharyskhaan
+		sah_Khatamallay sah_​Khatan​ sah_Khoyuutan sah_​Khomus​ sah_​Khamys​ sah_Khomustaan
+		sah_​Khorula​ sah_​Khorsun​ sah_Khotoy sah_Khohuun sah_Chagyl sah_​Chakyl​ sah_​Chokon​
+		sah_Chooruos sah_​Elley​ sah_​Ergis​ sah_​Erilik​ sah_​Erkin​ sah_​Erkhaan​ sah_​Erchim​
+		sah_Erchimen sah_​Erel​ sah_Echiney sah_Echineek 
+	}
+
+	female_names = {
+		sah_Tuyaara sah_Sardaana sah_Kunney sah_Sayyyna sah_Nurguyaana sah_Karachaane
+		sah_Uruydaana sah_Sayaana sah_Sahayaana sah_Tuskulaana sah_Kaskilaane sah_Naryyanaa
+		sah_Saskylaana
+		sah_​Ayaana​ sah_Aygylaana sah_​Aylaana​ sah_Aytalyyna sah_​Aykhaana​ sah_Ayarkhaana
+		sah_​Ayyy​_​Kuo​ sah_​Ayyyna​ sah_​Alaaya​ sah_Algystaana sah_​Aldaana​ sah_​Altaana​
+		sah_​Amaana​ sah_​Archyyna​ sah_​Bayaana​ sah_Barakhsaana sah_Biebey_​Kuo​
+		sah_Biebey_​Ayyy​_​Kuo​ sah_​Dayaana​ sah_Doyduuna sah_​Kuo​_Kuobakhaya sah_Kubeye
+		sah_Kunduune sah_Kun sah_Kun_Sardanga sah_Kunney sah_Kuoregey sah_​Kydaana​
+		sah_Kyyaara sah_Kytalyyna sah_Keskileene sah_Kerecheene sah_Michiye sah_​Namyya​
+		sah_​Namyyna​ sah_Naryyaana sah_N_urguyaana sah_N_urgustaana sah_N_urguhuna
+		sah_​N_urbina​ sah_​Saaskyya​ sah_​Sayaana​ sah_​Sayaara​ sah_Saydyyna sah_Saymyyna
+		sah_Saynaara sah_Saysaary sah_Sayyyna sah_​Samaana​ sah_​Sanaaya​ sah_​Sandaara​
+		sah_Sargylaana sah_​Saryada​ sah_​Sardaana​ sah_​Sakhaaya​ sah_Sakhayaana
+		sah_Syralyma sah_​Talbaana​ sah_Tuyaara_ sah_Tuyaaryma sah_Tuyaaryma_​Kuo​
+		sah_Tuyguuna sah_Tulluktaana sah_​Tupsuuna​ sah_Tuskulaana sah_Tebiye sah_​Uyguuna​
+		sah_Uygulaana sah_Umsuura sah_Uruydaana sah_Ypүmechchi sah_Khaarchaana
+		sah_Khaachylaana sah_Khatyyna sah_Khotuuna sah_Choguyaa sah_Chomchuune
+		sah_Chelgiyeene sah_Chemeliine sah_​Chybylla​ sah_Yydanga 
+	}
+}
+name_list_tuvan = {
+
+	dynasty_names = {
+		dyn_tyv_Choodu dyn_tyv_Shoygu dyn_tyv_Anchimaa dyn_tyv_Toka dyn_tyv_Balkhyr
+		dyn_tyv_Chulydum dyn_tyv_Dazhi dyn_tyv_Bicheldey dyn_tyv_Buyan dyn_tyv_Badyrgy
+		dyn_tyv_Idam dyn_tyv_Syuryun dyn_tyv_Khemchik-ool dyn_tyv_Kuular dyn_tyv_Nimachap
+		dyn_tyv_Oorzhak dyn_tyv_Oruygu dyn_tyv_Lopsan dyn_tyv_Osur dyn_tyv_Oyun
+		dyn_tyv_Toka dyn_tyv_Khovalyg dyn_tyv_Kuvezin dyn_tyv_Munzuk dyn_tyv_Namtchylak
+		dyn_tyv_Ondar dyn_tyv_Sevek dyn_tyv_Tumat dyn_tyv_Boll-or dyn_tyv_Kenin
+		dyn_tyv_Lopsan dyn_tyv_Tschinag dyn_tyv_Khertek
+	}
+	
+	male_names = {
+		tyv_Aldar tyv_Aldin-caa tyv_Anay tyv_Artysh tyv_Arzylan tyv_Ay-das tyv_Ay-demir
+		tyv_Aydyn tyv_Aydys tyv_Baygay-ool tyv_Belek tyv_Bezen-ool tyv_Brat-ool tyv_Buyan
+		tyv_Cayan tyv_Chanchy-khoo tyv_Chechen-ool tyv_Coygan-ool tyv_Dalay-ool tyv_Das-demir
+		tyv_Das-mir tyv_Donduk tyv_Kaadyr-ool tyv_Kaigal-ool tyv_Kan-demir tyv_Kan-ool
+		tyv_Kezhik tyv_Khuzhuget tyv_Kongar-ool tyv_Kusas-ool tyv_Kuskas-ool tyv_Kyzyl-ool
+		tyv_Maadir-ool tyv_Mengi tyv_Mergen tyv_Nachyn tyv_Oktyabr tyv_Omak tyv_Opey-ool
+		tyv_Orlan tyv_Orus-pay tyv_Salchak tyv_Sarig-ool tyv_Sherig-ool tyv_Sholban tyv_Sooca
+		tyv_Su-xem tyv_Syldys tyv_Tay-mir tyv_Tovaris-tay tyv_Uin-ool tyv_Uyanmas tyv_Xundus
+		tyv_Xures-ool
+	}
+
+	female_names = {
+		tyv_Aldynay tyv_Anay-kis tyv_Arzhaana tyv_Belek tyv_Belek-maa tyv_Borbak-kis
+		tyv_Buyana tyv_Cayana tyv_Choduraa tyv_Choygana tyv_Cudur tyv_Dan-xayaa tyv_Dolaana
+		tyv_Kara-kat tyv_Kara-kis tyv_Kok-kis tyv_Osku-saar tyv_Oyu-maa tyv_Sainkho
+		tyv_Samdar tyv_Sayana tyv_Sayin-khoo tyv_Saylyk tyv_Saylykmaa tyv_Taraa tyv_Ucastak
+		tyv_Urana tyv_Uynung-maa tyv_Uzun-kaday tyv_Xayana tyv_Xoptak tyv_Xoven-mey
+	}
+}

@@ -1,0 +1,4084 @@
+name_list_han = {
+
+	dynasty_names = {
+		"dyn_zh_1031"
+		"dyn_zh_1035"
+		"dyn_zh_1075"
+		"dyn_zh_1108"
+		"dyn_zh_1115"
+		"dyn_zh_1144"
+		"dyn_zh_1153"
+		"dyn_zh_1202"
+		"dyn_zh_1203"
+		"dyn_zh_1213"
+		"dyn_zh_1236"
+		"dyn_zh_1313"
+		"dyn_zh_1322"
+		"dyn_zh_1323"
+		"dyn_zh_1327"
+		"dyn_zh_1337"
+		"dyn_zh_1344"
+		"dyn_zh_1345"
+		"dyn_zh_1348"
+		"dyn_zh_1350"
+		"dyn_zh_1351"
+		"dyn_zh_1357"
+		"dyn_zh_1360"
+		"dyn_zh_1362"
+		"dyn_zh_1363"
+		"dyn_zh_1367"
+		"dyn_zh_1369"
+		"dyn_zh_1372"
+		"dyn_zh_1379"
+		"dyn_zh_1381"
+		"dyn_zh_1409"
+		"dyn_zh_1414"
+		"dyn_zh_1424"
+		"dyn_zh_1429"
+		"dyn_zh_1438"
+		"dyn_zh_1446"
+		"dyn_zh_1448"
+		"dyn_zh_1455"
+		"dyn_zh_1458"
+		"dyn_zh_1471"
+		"dyn_zh_1472"
+		"dyn_zh_1478"
+		"dyn_zh_1508"
+		"dyn_zh_1518"
+		"dyn_zh_1560"
+		"dyn_zh_1563"
+		"dyn_zh_1566"
+		"dyn_zh_1572"
+		"dyn_zh_1596"
+		"dyn_zh_1597"
+		"dyn_zh_1598"
+		"dyn_zh_1603"
+		"dyn_zh_1626"
+		"dyn_zh_1627"
+		"dyn_zh_1628"
+		"dyn_zh_1630"
+		"dyn_zh_1639"
+		"dyn_zh_1649"
+		"dyn_zh_1660"
+		"dyn_zh_1670"
+		"dyn_zh_1675"
+		"dyn_zh_1690"
+		"dyn_zh_1712"
+		"dyn_zh_1728"
+		"dyn_zh_1730"
+		"dyn_zh_1738"
+		"dyn_zh_1756"
+		"dyn_zh_1776"
+		"dyn_zh_1783"
+		"dyn_zh_1920"
+		"dyn_zh_1947"
+		"dyn_zh_1957"
+		"dyn_zh_1970"
+		"dyn_zh_2019"
+		"dyn_zh_2037"
+		"dyn_zh_2047"
+		"dyn_zh_2051"
+		"dyn_zh_2052"
+		"dyn_zh_2058"
+		"dyn_zh_2069"
+		"dyn_zh_2071"
+		"dyn_zh_2075"
+		"dyn_zh_2083"
+		"dyn_zh_2105"
+		"dyn_zh_2263"
+		"dyn_zh_2388"
+		"dyn_zh_2407"
+		"dyn_zh_2417"
+		"dyn_zh_2429"
+		"dyn_zh_2448"
+		"dyn_zh_2455"
+		"dyn_zh_2457"
+		"dyn_zh_2490"
+		"dyn_zh_2494"
+		"dyn_zh_2496"
+		"dyn_zh_2501"
+		"dyn_zh_2513"
+		"dyn_zh_2514"
+		"dyn_zh_2516"
+		"dyn_zh_2518"
+		"dyn_zh_2528"
+		"dyn_zh_2529"
+		"dyn_zh_2535"
+		"dyn_zh_2552"
+		"dyn_zh_2555"
+		"dyn_zh_2575"
+		"dyn_zh_2580"
+		"dyn_zh_2582"
+		"dyn_zh_2589"
+		"dyn_zh_2612"
+		"dyn_zh_2613"
+		"dyn_zh_2621"
+		"dyn_zh_2629"
+		"dyn_zh_2631"
+		"dyn_zh_2635"
+		"dyn_zh_2639"
+		"dyn_zh_2646"
+		"dyn_zh_2651"
+		"dyn_zh_2672"
+		"dyn_zh_2686"
+		"dyn_zh_2688"
+		"dyn_zh_2692"
+		"dyn_zh_2693"
+		"dyn_zh_2698"
+		"dyn_zh_2710"
+		"dyn_zh_2718"
+		"dyn_zh_2719"
+		"dyn_zh_2733"
+		"dyn_zh_2734"
+		"dyn_zh_2784"
+		"dyn_zh_2799"
+		"dyn_zh_2806"
+		"dyn_zh_2837"
+		"dyn_zh_2867"
+		"dyn_zh_2868"
+		"dyn_zh_2869"
+		"dyn_zh_2905"
+		"dyn_zh_2938"
+		"dyn_zh_2940"
+		"dyn_zh_2962"
+		"dyn_zh_2975"
+		"dyn_zh_2976"
+		"dyn_zh_3007"
+		"dyn_zh_3008"
+		"dyn_zh_3009"
+		"dyn_zh_3016"
+		"dyn_zh_3018"
+		"dyn_zh_3019"
+		"dyn_zh_3029"
+		"dyn_zh_3055"
+		"dyn_zh_3068"
+		"dyn_zh_3069"
+		"dyn_zh_3076"
+		"dyn_zh_3078"
+		"dyn_zh_3087"
+		"dyn_zh_3088"
+		"dyn_zh_3097"
+		"dyn_zh_3163"
+		"dyn_zh_3184"
+		"dyn_zh_3189"
+		"dyn_zh_3205"
+		"dyn_zh_3266"
+		"dyn_zh_3277"
+		"dyn_zh_3282"
+		"dyn_zh_3306"
+		"dyn_zh_3323"
+		"dyn_zh_3326"
+		"dyn_zh_3341"
+		"dyn_zh_3344"
+		"dyn_zh_3382"
+		"dyn_zh_3450"
+		"dyn_zh_3527"
+		"dyn_zh_3542"
+		"dyn_zh_3574"
+		"dyn_zh_3601"
+		"dyn_zh_3662"
+		"dyn_zh_3664"
+		"dyn_zh_3668"
+		"dyn_zh_3695"
+		"dyn_zh_3768"
+		"dyn_zh_3769"
+		"dyn_zh_3803"
+		"dyn_zh_3830"
+		"dyn_zh_3914"
+		"dyn_zh_3927"
+		"dyn_zh_3944"
+		"dyn_zh_3945"
+		"dyn_zh_3947"
+		"dyn_zh_3968"
+		"dyn_zh_4101"
+		"dyn_zh_4122"
+		"dyn_zh_4134"
+		"dyn_zh_4135"
+		"dyn_zh_4141"
+		"dyn_zh_4149"
+		"dyn_zh_4151"
+		"dyn_zh_4161"
+		"dyn_zh_4234"
+		"dyn_zh_4258"
+		"dyn_zh_4359"
+		"dyn_zh_4371"
+		"dyn_zh_4376"
+		"dyn_zh_4389"
+		"dyn_zh_4416"
+		"dyn_zh_4428"
+		"dyn_zh_4440"
+		"dyn_zh_4453"
+		"dyn_zh_4476"
+		"dyn_zh_4500"
+		"dyn_zh_4535"
+		"dyn_zh_4545"
+		"dyn_zh_4547"
+		"dyn_zh_4555"
+		"dyn_zh_4569"
+		"dyn_zh_4572"
+		"dyn_zh_4619"
+		"dyn_zh_4675"
+		"dyn_zh_4694"
+		"dyn_zh_4717"
+		"dyn_zh_4725"
+		"dyn_zh_4745"
+		"dyn_zh_4764"
+		"dyn_zh_4767"
+		"dyn_zh_4792"
+		"dyn_zh_4807"
+		"dyn_zh_4842"
+		"dyn_zh_4886"
+		"dyn_zh_4924"
+		"dyn_zh_5012"
+		"dyn_zh_5017"
+		"dyn_zh_5040"
+		"dyn_zh_5045"
+		"dyn_zh_5049"
+		"dyn_zh_5056"
+		"dyn_zh_5105"
+		"dyn_zh_5113"
+		"dyn_zh_5119"
+		"dyn_zh_5135"
+		"dyn_zh_5170"
+		"dyn_zh_5171"
+		"dyn_zh_5174"
+		"dyn_zh_5258"
+		"dyn_zh_5289"
+		"dyn_zh_5337"
+		"dyn_zh_5360"
+		"dyn_zh_5363"
+		"dyn_zh_5373"
+		"dyn_zh_5379"
+		"dyn_zh_5384"
+		"dyn_zh_5400"
+		"dyn_zh_5403"
+		"dyn_zh_5423"
+		"dyn_zh_5424"
+		"dyn_zh_5427"
+		"dyn_zh_5450"
+		"dyn_zh_5459"
+		"dyn_zh_5478"
+		"dyn_zh_5514"
+		"dyn_zh_5516"
+		"dyn_zh_5536"
+		"dyn_zh_5543"
+		"dyn_zh_5547"
+		"dyn_zh_5556"
+		"dyn_zh_5566"
+		"dyn_zh_5570"
+		"dyn_zh_5588"
+		"dyn_zh_5591"
+		"dyn_zh_5592"
+		"dyn_zh_5618"
+		"dyn_zh_5631"
+		"dyn_zh_5636"
+		"dyn_zh_5641"
+		"dyn_zh_5663"
+		"dyn_zh_5671"
+		"dyn_zh_5677"
+		"dyn_zh_5684"
+		"dyn_zh_5685"
+		"dyn_zh_5688"
+		"dyn_zh_5695"
+		"dyn_zh_5713"
+		"dyn_zh_5816"
+		"dyn_zh_5898"
+		"dyn_zh_5899"
+		"dyn_zh_5902"
+		"dyn_zh_5913"
+		"dyn_zh_5941"
+		"dyn_zh_5952"
+		"dyn_zh_5969"
+		"dyn_zh_6009"
+		"dyn_zh_6043"
+		"dyn_zh_6060"
+		"dyn_zh_6079"
+		"dyn_zh_6088"
+		"dyn_zh_6124"
+		"dyn_zh_6151"
+		"dyn_zh_6175"
+		"dyn_zh_6186"
+		"dyn_zh_6200"
+		"dyn_zh_6222"
+		"dyn_zh_6223"
+		"dyn_zh_6253"
+		"dyn_zh_6258"
+		"dyn_zh_6296"
+		"dyn_zh_6300"
+		"dyn_zh_6316"
+		"dyn_zh_6320"
+		"dyn_zh_6321"
+		"dyn_zh_6328"
+		"dyn_zh_6333"
+		"dyn_zh_6339"
+		"dyn_zh_6351"
+		"dyn_zh_6378"
+		"dyn_zh_6390"
+		"dyn_zh_6392"
+		"dyn_zh_6424"
+		"dyn_zh_6508"
+		"dyn_zh_6580"
+		"dyn_zh_6581"
+		"dyn_zh_6593"
+		"dyn_zh_6614"
+		"dyn_zh_6629"
+		"dyn_zh_6639"
+		"dyn_zh_6647"
+		"dyn_zh_6688"
+		"dyn_zh_6708"
+		"dyn_zh_6717"
+		"dyn_zh_6719"
+		"dyn_zh_6726"
+		"dyn_zh_6728"
+		"dyn_zh_6730"
+		"dyn_zh_6732"
+		"dyn_zh_6733"
+		"dyn_zh_6735"
+		"dyn_zh_6745"
+		"dyn_zh_6750"
+		"dyn_zh_6751"
+		"dyn_zh_6753"
+		"dyn_zh_6757"
+		"dyn_zh_6759"
+		"dyn_zh_6760"
+		"dyn_zh_6762"
+		"dyn_zh_6768"
+		"dyn_zh_6772"
+		"dyn_zh_6774"
+		"dyn_zh_6782"
+		"dyn_zh_6786"
+		"dyn_zh_6787"
+		"dyn_zh_6855"
+		"dyn_zh_6873"
+		"dyn_zh_6892"
+		"dyn_zh_6929"
+		"dyn_zh_6988"
+		"dyn_zh_7024"
+		"dyn_zh_7028"
+		"dyn_zh_7036"
+		"dyn_zh_7051"
+		"dyn_zh_7067"
+		"dyn_zh_7070"
+		"dyn_zh_7074"
+		"dyn_zh_7086"
+		"dyn_zh_7093"
+		"dyn_zh_7113"
+		"dyn_zh_7115"
+		"dyn_zh_7118"
+		"dyn_zh_7120"
+		"dyn_zh_7122"
+		"dyn_zh_7127"
+		"dyn_zh_7131"
+		"dyn_zh_7136"
+		"dyn_zh_7167"
+		"dyn_zh_7175"
+		"dyn_zh_7191"
+		"dyn_zh_7202"
+		"dyn_zh_7246"
+		"dyn_zh_7255"
+		"dyn_zh_7263"
+		"dyn_zh_7279"
+		"dyn_zh_7281"
+		"dyn_zh_7300"
+		"dyn_zh_7309"
+		"dyn_zh_7312"
+		"dyn_zh_7346"
+		"dyn_zh_7357"
+		"dyn_zh_7402"
+		"dyn_zh_7437"
+		"dyn_zh_7456"
+		"dyn_zh_7458"
+		"dyn_zh_7482"
+		"dyn_zh_7559"
+		"dyn_zh_7614"
+		"dyn_zh_7625"
+		"dyn_zh_7627"
+		"dyn_zh_7637"
+		"dyn_zh_7639"
+		"dyn_zh_7685"
+		"dyn_zh_7773"
+		"dyn_zh_7796"
+		"dyn_zh_7802"
+		"dyn_zh_7806"
+		"dyn_zh_7812"
+		"dyn_zh_7871"
+		"dyn_zh_7893"
+		"dyn_zh_7895"
+		"dyn_zh_8001"
+		"dyn_zh_8016"
+		"dyn_zh_8034"
+		"dyn_zh_8093"
+		"dyn_zh_8369"
+		"dyn_zh_0002"
+		"dyn_zh_0023"
+		"dyn_zh_0045"
+		"dyn_zh_0060"
+		"dyn_zh_0061"
+		"dyn_zh_0064"
+		"dyn_zh_0073"
+		"dyn_zh_0092"
+		"dyn_zh_0102"
+		"dyn_zh_0104"
+		"dyn_zh_0111"
+		"dyn_zh_0112"
+		"dyn_zh_0117"
+		"dyn_zh_0122"
+		"dyn_zh_0124"
+		"dyn_zh_0126"
+		"dyn_zh_0130"
+		"dyn_zh_0141"
+		"dyn_zh_0143"
+		"dyn_zh_0149"
+		"dyn_zh_0151"
+		"dyn_zh_0152"
+		"dyn_zh_0157"
+		"dyn_zh_0171"
+		"dyn_zh_0186"
+		"dyn_zh_0205"
+		"dyn_zh_0207"
+		"dyn_zh_0208"
+		"dyn_zh_0242"
+		"dyn_zh_0265"
+		"dyn_zh_0328"
+		"dyn_zh_0337"
+		"dyn_zh_0339"
+		"dyn_zh_0356"
+		"dyn_zh_0361"
+		"dyn_zh_0370"
+		"dyn_zh_0373"
+		"dyn_zh_0396"
+		"dyn_zh_0397"
+		"dyn_zh_0400"
+		"dyn_zh_0405"
+		"dyn_zh_0407"
+		"dyn_zh_0431"
+		"dyn_zh_0443"
+		"dyn_zh_0446"
+		"dyn_zh_0448"
+		"dyn_zh_0491"
+		"dyn_zh_0525"
+		"dyn_zh_0545"
+		"dyn_zh_0551"
+		"dyn_zh_0562"
+		"dyn_zh_0575"
+		"dyn_zh_0587"
+		"dyn_zh_0589"
+		"dyn_zh_0592"
+		"dyn_zh_0593"
+		"dyn_zh_0603"
+		"dyn_zh_0604"
+		"dyn_zh_0606"
+		"dyn_zh_0615"
+		"dyn_zh_0626"
+		"dyn_zh_0632"
+		"dyn_zh_0654"
+		"dyn_zh_0657"
+		"dyn_zh_0669"
+		"dyn_zh_0670"
+		"dyn_zh_0673"
+		"dyn_zh_0674"
+		"dyn_zh_0679"
+		"dyn_zh_0683"
+		"dyn_zh_0686"
+		"dyn_zh_0702"
+		"dyn_zh_0712"
+		"dyn_zh_0719"
+		"dyn_zh_0729"
+		"dyn_zh_0735"
+		"dyn_zh_0752"
+		"dyn_zh_0761"
+		"dyn_zh_0781"
+		"dyn_zh_0794"
+		"dyn_zh_0827"
+		"dyn_zh_0829"
+		"dyn_zh_0830"
+		"dyn_zh_0917"
+		"dyn_zh_0948"
+	}
+
+	male_names = {
+		# Male-only
+		zh_0385_A zh_0474_A zh_0956_A zh_0981_A zh_1132_A zh_1226_A zh_1405_A zh_1484_A zh_1627_A zh_2525_A
+		zh_2651_A zh_3419_A zh_4737_A zh_5346_A zh_6134_A
+		# Either sex
+		zh_0079_A zh_0163_A zh_0193_A zh_0251_A zh_0256_A zh_0308_A zh_0320_A zh_0336_A zh_0418_A zh_0420_A
+		zh_0500_A zh_0516_A zh_0523_A zh_0670_A zh_0689_A zh_0689_A zh_0735_A zh_0948_A zh_1115_A zh_1164_A
+		zh_1172_A zh_1218_A zh_1227_A zh_1331_A zh_1337_A zh_1344_A zh_1355_A zh_1367_A zh_1381_A zh_1395_A zh_1526_A
+		zh_1550_A zh_1565_A zh_1696_A zh_1730_A zh_1738_A zh_1792_A zh_1807_A zh_1813_A zh_1837_A zh_1837_A zh_1854_A
+		zh_1938_A zh_1947_A zh_1970_A zh_1979_A zh_2052_A zh_2398_A zh_2404_A zh_2429_A zh_2490_A zh_2504_A 
+		zh_2514_A zh_2533_A zh_2535_A zh_2541_A zh_2545_A zh_2606_A zh_2638_A zh_2639_A zh_2639_A zh_2710_A
+		zh_2734_A zh_2767_A zh_2837_A zh_2970_A zh_2973_A zh_2976_A zh_3015_A zh_3057_A zh_3068_A zh_3109_A
+		zh_3134_A zh_3152_A zh_3160_A zh_3219_A zh_3390_A zh_3425_A zh_3447_A zh_3552_A zh_3768_A zh_3791_A
+		zh_3829_A zh_3940_A zh_4101_A zh_4102_A zh_4135_A zh_4176_A zh_4320_A zh_4382_A zh_4423_A zh_4428_A
+		zh_4539_A zh_4790_A zh_5019_A zh_5030_A zh_5046_A zh_5333_A zh_5358_A zh_5363_A zh_5364_A zh_5383_A
+		zh_5440_A zh_5478_A zh_5593_A zh_5628_A zh_5633_A zh_5676_A zh_5816_A zh_5988_A zh_6297_A zh_6363_A
+		zh_6389_A zh_6540_A zh_6671_A zh_6855_A zh_6875_A zh_6892_A zh_6900_A zh_6930_A zh_7022_A zh_7122_A
+		zh_7127_A zh_7161_A zh_7183_A zh_7185_A zh_7209_A zh_7227_A zh_7230_A zh_7234_A zh_7299_A zh_7311_A
+		zh_7449_A zh_7703_A zh_7787_A zh_7812_A zh_7893_A zh_8002_A zh_8113_A
+		# Male-only
+		zh_0385_B zh_0474_B zh_0956_B zh_0981_B zh_1132_B zh_1226_B zh_1405_B zh_1484_B zh_1627_B zh_2525_B
+		zh_2651_B zh_3419_B zh_4737_B zh_5346_B zh_6134_B
+		# Either sex
+		zh_0079_B zh_0163_B zh_0193_B zh_0251_B zh_0256_B zh_0308_B zh_0320_B zh_0336_B zh_0418_B zh_0420_B
+		zh_0500_B zh_0516_B zh_0523_B zh_0670_B zh_0689_B zh_0689_B zh_0735_B zh_0948_B zh_1115_B zh_1164_B
+		zh_1172_B zh_1218_B zh_1227_B zh_1331_B zh_1337_B zh_1344_B zh_1355_B zh_1367_B zh_1381_B zh_1395_B zh_1526_B
+		zh_1550_B zh_1565_B zh_1696_B zh_1730_B zh_1738_B zh_1792_B zh_1807_B zh_1813_B zh_1837_B zh_1837_B zh_1854_B
+		zh_1938_B zh_1947_B zh_1970_B zh_1979_B zh_2052_B zh_2398_B zh_2404_B zh_2429_B zh_2490_B zh_2504_B 
+		zh_2514_B zh_2533_B zh_2535_B zh_2541_B zh_2545_B zh_2606_B zh_2638_B zh_2639_B zh_2639_B zh_2710_B
+		zh_2734_B zh_2767_B zh_2837_B zh_2970_B zh_2973_B zh_2976_B zh_3015_B zh_3057_B zh_3068_B zh_3109_B
+		zh_3134_B zh_3152_B zh_3160_B zh_3219_B zh_3390_B zh_3425_B zh_3447_B zh_3552_B zh_3768_B zh_3791_B
+		zh_3829_B zh_3940_B zh_4101_B zh_4102_B zh_4135_B zh_4176_B zh_4320_B zh_4382_B zh_4423_B zh_4428_B
+		zh_4539_B zh_4790_B zh_5019_B zh_5030_B zh_5046_B zh_5333_B zh_5358_B zh_5363_B zh_5364_B zh_5383_B
+		zh_5440_B zh_5478_B zh_5593_B zh_5628_B zh_5633_B zh_5676_B zh_5816_B zh_5988_B zh_6297_B zh_6363_B
+		zh_6389_B zh_6540_B zh_6671_B zh_6855_B zh_6875_B zh_6892_B zh_6900_B zh_6930_B zh_7022_B zh_7122_B
+		zh_7127_B zh_7161_B zh_7183_B zh_7185_B zh_7209_B zh_7227_B zh_7230_B zh_7234_B zh_7299_B zh_7311_B
+		zh_7449_B zh_7703_B zh_7787_B zh_7812_B zh_7893_B zh_8002_B zh_8113_B
+		# Male-only
+		zh_0385_C zh_0474_C zh_0956_C zh_0981_C zh_1132_C zh_1226_C zh_1405_C zh_1484_C zh_1627_C zh_2525_C
+		zh_2651_C zh_3419_C zh_4737_C zh_5346_C zh_6134_C
+		# Either sex
+		zh_0079_C zh_0163_C zh_0193_C zh_0251_C zh_0256_C zh_0308_C zh_0320_C zh_0336_C zh_0418_C zh_0420_C
+		zh_0500_C zh_0516_C zh_0523_C zh_0670_C zh_0689_C zh_0689_C zh_0735_C zh_0948_C zh_1115_C zh_1164_C
+		zh_1172_C zh_1218_C zh_1227_C zh_1331_C zh_1337_C zh_1344_C zh_1355_C zh_1367_C zh_1381_C zh_1395_C zh_1526_C
+		zh_1550_C zh_1565_C zh_1696_C zh_1730_C zh_1738_C zh_1792_C zh_1807_C zh_1813_C zh_1837_C zh_1837_C zh_1854_C
+		zh_1938_C zh_1947_C zh_1970_C zh_1979_C zh_2052_C zh_2398_C zh_2404_C zh_2429_C zh_2490_C zh_2504_C 
+		zh_2514_C zh_2533_C zh_2535_C zh_2541_C zh_2545_C zh_2606_C zh_2638_C zh_2639_C zh_2639_C zh_2710_C
+		zh_2734_C zh_2767_C zh_2837_C zh_2970_C zh_2973_C zh_2976_C zh_3015_C zh_3057_C zh_3068_C zh_3109_C
+		zh_3134_C zh_3152_C zh_3160_C zh_3219_C zh_3390_C zh_3425_C zh_3447_C zh_3552_C zh_3768_C zh_3791_C
+		zh_3829_C zh_3940_C zh_4101_C zh_4102_C zh_4135_C zh_4176_C zh_4320_C zh_4382_C zh_4423_C zh_4428_C
+		zh_4539_C zh_4790_C zh_5019_C zh_5030_C zh_5046_C zh_5333_C zh_5358_C zh_5363_C zh_5364_C zh_5383_C
+		zh_5440_C zh_5478_C zh_5593_C zh_5628_C zh_5633_C zh_5676_C zh_5816_C zh_5988_C zh_6297_C zh_6363_C
+		zh_6389_C zh_6540_C zh_6671_C zh_6855_C zh_6875_C zh_6892_C zh_6900_C zh_6930_C zh_7022_C zh_7122_C
+		zh_7127_C zh_7161_C zh_7183_C zh_7185_C zh_7209_C zh_7227_C zh_7230_C zh_7234_C zh_7299_C zh_7311_C
+		zh_7449_C zh_7703_C zh_7787_C zh_7812_C zh_7893_C zh_8002_C zh_8113_C
+		# Male-only
+		zh_0385_D zh_0474_D zh_0956_D zh_0981_D zh_1132_D zh_1226_D zh_1405_D zh_1484_D zh_1627_D zh_2525_D
+		zh_2651_D zh_3419_D zh_4737_D zh_5346_D zh_6134_D
+		# Either sex
+		zh_0079_D zh_0163_D zh_0193_D zh_0251_D zh_0256_D zh_0308_D zh_0320_D zh_0336_D zh_0418_D zh_0420_D
+		zh_0500_D zh_0516_D zh_0523_D zh_0670_D zh_0689_D zh_0689_D zh_0735_D zh_0948_D zh_1115_D zh_1164_D
+		zh_1172_D zh_1218_D zh_1227_D zh_1331_D zh_1337_D zh_1344_D zh_1355_D zh_1367_D zh_1381_D zh_1395_D zh_1526_D
+		zh_1550_D zh_1565_D zh_1696_D zh_1730_D zh_1738_D zh_1792_D zh_1807_D zh_1813_D zh_1837_D zh_1837_D zh_1854_D
+		zh_1938_D zh_1947_D zh_1970_D zh_1979_D zh_2052_D zh_2398_D zh_2404_D zh_2429_D zh_2490_D zh_2504_D 
+		zh_2514_D zh_2533_D zh_2535_D zh_2541_D zh_2545_D zh_2606_D zh_2638_D zh_2639_D zh_2639_D zh_2710_D
+		zh_2734_D zh_2767_D zh_2837_D zh_2970_D zh_2973_D zh_2976_D zh_3015_D zh_3057_D zh_3068_D zh_3109_D
+		zh_3134_D zh_3152_D zh_3160_D zh_3219_D zh_3390_D zh_3425_D zh_3447_D zh_3552_D zh_3768_D zh_3791_D
+		zh_3829_D zh_3940_D zh_4101_D zh_4102_D zh_4135_D zh_4176_D zh_4320_D zh_4382_D zh_4423_D zh_4428_D
+		zh_4539_D zh_4790_D zh_5019_D zh_5030_D zh_5046_D zh_5333_D zh_5358_D zh_5363_D zh_5364_D zh_5383_D
+		zh_5440_D zh_5478_D zh_5593_D zh_5628_D zh_5633_D zh_5676_D zh_5816_D zh_5988_D zh_6297_D zh_6363_D
+		zh_6389_D zh_6540_D zh_6671_D zh_6855_D zh_6875_D zh_6892_D zh_6900_D zh_6930_D zh_7022_D zh_7122_D
+		zh_7127_D zh_7161_D zh_7183_D zh_7185_D zh_7209_D zh_7227_D zh_7230_D zh_7234_D zh_7299_D zh_7311_D
+		zh_7449_D zh_7703_D zh_7787_D zh_7812_D zh_7893_D zh_8002_D zh_8113_D
+		# Male-only
+		zh_0385_E zh_0474_E zh_0956_E zh_0981_E zh_1132_E zh_1226_E zh_1405_E zh_1484_E zh_1627_E zh_2525_E
+		zh_2651_E zh_3419_E zh_4737_E zh_5346_E zh_6134_E
+		# Either sex
+		zh_0079_E zh_0163_E zh_0193_E zh_0251_E zh_0256_E zh_0308_E zh_0320_E zh_0336_E zh_0418_E zh_0420_E
+		zh_0500_E zh_0516_E zh_0523_E zh_0670_E zh_0689_E zh_0689_E zh_0735_E zh_0948_E zh_1115_E zh_1164_E
+		zh_1172_E zh_1218_E zh_1227_E zh_1331_E zh_1337_E zh_1344_E zh_1355_E zh_1367_E zh_1381_E zh_1395_E zh_1526_E
+		zh_1550_E zh_1565_E zh_1696_E zh_1730_E zh_1738_E zh_1792_E zh_1807_E zh_1813_E zh_1837_E zh_1837_E zh_1854_E
+		zh_1938_E zh_1947_E zh_1970_E zh_1979_E zh_2052_E zh_2398_E zh_2404_E zh_2429_E zh_2490_E zh_2504_E 
+		zh_2514_E zh_2533_E zh_2535_E zh_2541_E zh_2545_E zh_2606_E zh_2638_E zh_2639_E zh_2639_E zh_2710_E
+		zh_2734_E zh_2767_E zh_2837_E zh_2970_E zh_2973_E zh_2976_E zh_3015_E zh_3057_E zh_3068_E zh_3109_E
+		zh_3134_E zh_3152_E zh_3160_E zh_3219_E zh_3390_E zh_3425_E zh_3447_E zh_3552_E zh_3768_E zh_3791_E
+		zh_3829_E zh_3940_E zh_4101_E zh_4102_E zh_4135_E zh_4176_E zh_4320_E zh_4382_E zh_4423_E zh_4428_E
+		zh_4539_E zh_4790_E zh_5019_E zh_5030_E zh_5046_E zh_5333_E zh_5358_E zh_5363_E zh_5364_E zh_5383_E
+		zh_5440_E zh_5478_E zh_5593_E zh_5628_E zh_5633_E zh_5676_E zh_5816_E zh_5988_E zh_6297_E zh_6363_E
+		zh_6389_E zh_6540_E zh_6671_E zh_6855_E zh_6875_E zh_6892_E zh_6900_E zh_6930_E zh_7022_E zh_7122_E
+		zh_7127_E zh_7161_E zh_7183_E zh_7185_E zh_7209_E zh_7227_E zh_7230_E zh_7234_E zh_7299_E zh_7311_E
+		zh_7449_E zh_7703_E zh_7787_E zh_7812_E zh_7893_E zh_8002_E zh_8113_E
+		# Male-only
+		zh_0385_F zh_0474_F zh_0956_F zh_0981_F zh_1132_F zh_1226_F zh_1405_F zh_1484_F zh_1627_F zh_2525_F
+		zh_2651_F zh_3419_F zh_4737_F zh_5346_F zh_6134_F
+		# Either sex
+		zh_0079_F zh_0163_F zh_0193_F zh_0251_F zh_0256_F zh_0308_F zh_0320_F zh_0336_F zh_0418_F zh_0420_F
+		zh_0500_F zh_0516_F zh_0523_F zh_0670_F zh_0689_F zh_0689_F zh_0735_F zh_0948_F zh_1115_F zh_1164_F
+		zh_1172_F zh_1218_F zh_1227_F zh_1331_F zh_1337_F zh_1344_F zh_1355_F zh_1367_F zh_1381_F zh_1395_F zh_1526_F
+		zh_1550_F zh_1565_F zh_1696_F zh_1730_F zh_1738_F zh_1792_F zh_1807_F zh_1813_F zh_1837_F zh_1837_F zh_1854_F
+		zh_1938_F zh_1947_F zh_1970_F zh_1979_F zh_2052_F zh_2398_F zh_2404_F zh_2429_F zh_2490_F zh_2504_F 
+		zh_2514_F zh_2533_F zh_2535_F zh_2541_F zh_2545_F zh_2606_F zh_2638_F zh_2639_F zh_2639_F zh_2710_F
+		zh_2734_F zh_2767_F zh_2837_F zh_2970_F zh_2973_F zh_2976_F zh_3015_F zh_3057_F zh_3068_F zh_3109_F
+		zh_3134_F zh_3152_F zh_3160_F zh_3219_F zh_3390_F zh_3425_F zh_3447_F zh_3552_F zh_3768_F zh_3791_F
+		zh_3829_F zh_3940_F zh_4101_F zh_4102_F zh_4135_F zh_4176_F zh_4320_F zh_4382_F zh_4423_F zh_4428_F
+		zh_4539_F zh_4790_F zh_5019_F zh_5030_F zh_5046_F zh_5333_F zh_5358_F zh_5363_F zh_5364_F zh_5383_F
+		zh_5440_F zh_5478_F zh_5593_F zh_5628_F zh_5633_F zh_5676_F zh_5816_F zh_5988_F zh_6297_F zh_6363_F
+		zh_6389_F zh_6540_F zh_6671_F zh_6855_F zh_6875_F zh_6892_F zh_6900_F zh_6930_F zh_7022_F zh_7122_F
+		zh_7127_F zh_7161_F zh_7183_F zh_7185_F zh_7209_F zh_7227_F zh_7230_F zh_7234_F zh_7299_F zh_7311_F
+		zh_7449_F zh_7703_F zh_7787_F zh_7812_F zh_7893_F zh_8002_F zh_8113_F
+		# Male-only
+		zh_0385_G zh_0474_G zh_0956_G zh_0981_G zh_1132_G zh_1226_G zh_1405_G zh_1484_G zh_1627_G zh_2525_G
+		zh_2651_G zh_3419_G zh_4737_G zh_5346_G zh_6134_G
+		# Either sex
+		zh_0079_G zh_0163_G zh_0193_G zh_0251_G zh_0256_G zh_0308_G zh_0320_G zh_0336_G zh_0418_G zh_0420_G
+		zh_0500_G zh_0516_G zh_0523_G zh_0670_G zh_0689_G zh_0689_G zh_0735_G zh_0948_G zh_1115_G zh_1164_G
+		zh_1172_G zh_1218_G zh_1227_G zh_1331_G zh_1337_G zh_1344_G zh_1355_G zh_1367_G zh_1381_G zh_1395_G zh_1526_G
+		zh_1550_G zh_1565_G zh_1696_G zh_1730_G zh_1738_G zh_1792_G zh_1807_G zh_1813_G zh_1837_G zh_1837_G zh_1854_G
+		zh_1938_G zh_1947_G zh_1970_G zh_1979_G zh_2052_G zh_2398_G zh_2404_G zh_2429_G zh_2490_G zh_2504_G 
+		zh_2514_G zh_2533_G zh_2535_G zh_2541_G zh_2545_G zh_2606_G zh_2638_G zh_2639_G zh_2639_G zh_2710_G
+		zh_2734_G zh_2767_G zh_2837_G zh_2970_G zh_2973_G zh_2976_G zh_3015_G zh_3057_G zh_3068_G zh_3109_G
+		zh_3134_G zh_3152_G zh_3160_G zh_3219_G zh_3390_G zh_3425_G zh_3447_G zh_3552_G zh_3768_G zh_3791_G
+		zh_3829_G zh_3940_G zh_4101_G zh_4102_G zh_4135_G zh_4176_G zh_4320_G zh_4382_G zh_4423_G zh_4428_G
+		zh_4539_G zh_4790_G zh_5019_G zh_5030_G zh_5046_G zh_5333_G zh_5358_G zh_5363_G zh_5364_G zh_5383_G
+		zh_5440_G zh_5478_G zh_5593_G zh_5628_G zh_5633_G zh_5676_G zh_5816_G zh_5988_G zh_6297_G zh_6363_G
+		zh_6389_G zh_6540_G zh_6671_G zh_6855_G zh_6875_G zh_6892_G zh_6900_G zh_6930_G zh_7022_G zh_7122_G
+		zh_7127_G zh_7161_G zh_7183_G zh_7185_G zh_7209_G zh_7227_G zh_7230_G zh_7234_G zh_7299_G zh_7311_G
+		zh_7449_G zh_7703_G zh_7787_G zh_7812_G zh_7893_G zh_8002_G zh_8113_G
+		# Male-only
+		zh_0385_H zh_0474_H zh_0956_H zh_0981_H zh_1132_H zh_1226_H zh_1405_H zh_1484_H zh_1627_H zh_2525_H
+		zh_2651_H zh_3419_H zh_4737_H zh_5346_H zh_6134_H
+		# Either sex
+		zh_0079_H zh_0163_H zh_0193_H zh_0251_H zh_0256_H zh_0308_H zh_0320_H zh_0336_H zh_0418_H zh_0420_H
+		zh_0500_H zh_0516_H zh_0523_H zh_0670_H zh_0689_H zh_0689_H zh_0735_H zh_0948_H zh_1115_H zh_1164_H
+		zh_1172_H zh_1218_H zh_1227_H zh_1331_H zh_1337_H zh_1344_H zh_1355_H zh_1367_H zh_1381_H zh_1395_H zh_1526_H
+		zh_1550_H zh_1565_H zh_1696_H zh_1730_H zh_1738_H zh_1792_H zh_1807_H zh_1813_H zh_1837_H zh_1837_H zh_1854_H
+		zh_1938_H zh_1947_H zh_1970_H zh_1979_H zh_2052_H zh_2398_H zh_2404_H zh_2429_H zh_2490_H zh_2504_H 
+		zh_2514_H zh_2533_H zh_2535_H zh_2541_H zh_2545_H zh_2606_H zh_2638_H zh_2639_H zh_2639_H zh_2710_H
+		zh_2734_H zh_2767_H zh_2837_H zh_2970_H zh_2973_H zh_2976_H zh_3015_H zh_3057_H zh_3068_H zh_3109_H
+		zh_3134_H zh_3152_H zh_3160_H zh_3219_H zh_3390_H zh_3425_H zh_3447_H zh_3552_H zh_3768_H zh_3791_H
+		zh_3829_H zh_3940_H zh_4101_H zh_4102_H zh_4135_H zh_4176_H zh_4320_H zh_4382_H zh_4423_H zh_4428_H
+		zh_4539_H zh_4790_H zh_5019_H zh_5030_H zh_5046_H zh_5333_H zh_5358_H zh_5363_H zh_5364_H zh_5383_H
+		zh_5440_H zh_5478_H zh_5593_H zh_5628_H zh_5633_H zh_5676_H zh_5816_H zh_5988_H zh_6297_H zh_6363_H
+		zh_6389_H zh_6540_H zh_6671_H zh_6855_H zh_6875_H zh_6892_H zh_6900_H zh_6930_H zh_7022_H zh_7122_H
+		zh_7127_H zh_7161_H zh_7183_H zh_7185_H zh_7209_H zh_7227_H zh_7230_H zh_7234_H zh_7299_H zh_7311_H
+		zh_7449_H zh_7703_H zh_7787_H zh_7812_H zh_7893_H zh_8002_H zh_8113_H
+		# Male-only
+		zh_0385_I zh_0474_I zh_0956_I zh_0981_I zh_1132_I zh_1226_I zh_1405_I zh_1484_I zh_1627_I zh_2525_I
+		zh_2651_I zh_3419_I zh_4737_I zh_5346_I zh_6134_I
+		# Either sex
+		zh_0079_I zh_0163_I zh_0193_I zh_0251_I zh_0256_I zh_0308_I zh_0320_I zh_0336_I zh_0418_I zh_0420_I
+		zh_0500_I zh_0516_I zh_0523_I zh_0670_I zh_0689_I zh_0689_I zh_0735_I zh_0948_I zh_1115_I zh_1164_I
+		zh_1172_I zh_1218_I zh_1227_I zh_1331_I zh_1337_I zh_1344_I zh_1355_I zh_1367_I zh_1381_I zh_1395_I zh_1526_I
+		zh_1550_I zh_1565_I zh_1696_I zh_1730_I zh_1738_I zh_1792_I zh_1807_I zh_1813_I zh_1837_I zh_1837_I zh_1854_I
+		zh_1938_I zh_1947_I zh_1970_I zh_1979_I zh_2052_I zh_2398_I zh_2404_I zh_2429_I zh_2490_I zh_2504_I 
+		zh_2514_I zh_2533_I zh_2535_I zh_2541_I zh_2545_I zh_2606_I zh_2638_I zh_2639_I zh_2639_I zh_2710_I
+		zh_2734_I zh_2767_I zh_2837_I zh_2970_I zh_2973_I zh_2976_I zh_3015_I zh_3057_I zh_3068_I zh_3109_I
+		zh_3134_I zh_3152_I zh_3160_I zh_3219_I zh_3390_I zh_3425_I zh_3447_I zh_3552_I zh_3768_I zh_3791_I
+		zh_3829_I zh_3940_I zh_4101_I zh_4102_I zh_4135_I zh_4176_I zh_4320_I zh_4382_I zh_4423_I zh_4428_I
+		zh_4539_I zh_4790_I zh_5019_I zh_5030_I zh_5046_I zh_5333_I zh_5358_I zh_5363_I zh_5364_I zh_5383_I
+		zh_5440_I zh_5478_I zh_5593_I zh_5628_I zh_5633_I zh_5676_I zh_5816_I zh_5988_I zh_6297_I zh_6363_I
+		zh_6389_I zh_6540_I zh_6671_I zh_6855_I zh_6875_I zh_6892_I zh_6900_I zh_6930_I zh_7022_I zh_7122_I
+		zh_7127_I zh_7161_I zh_7183_I zh_7185_I zh_7209_I zh_7227_I zh_7230_I zh_7234_I zh_7299_I zh_7311_I
+		zh_7449_I zh_7703_I zh_7787_I zh_7812_I zh_7893_I zh_8002_I zh_8113_I
+		# Male-only
+		zh_0385_J zh_0474_J zh_0956_J zh_0981_J zh_1132_J zh_1226_J zh_1405_J zh_1484_J zh_1627_J zh_2525_J
+		zh_2651_J zh_3419_J zh_4737_J zh_5346_J zh_6134_J
+		# Either sex
+		zh_0079_J zh_0163_J zh_0193_J zh_0251_J zh_0256_J zh_0308_J zh_0320_J zh_0336_J zh_0418_J zh_0420_J
+		zh_0500_J zh_0516_J zh_0523_J zh_0670_J zh_0689_J zh_0689_J zh_0735_J zh_0948_J zh_1115_J zh_1164_J
+		zh_1172_J zh_1218_J zh_1227_J zh_1331_J zh_1337_J zh_1344_J zh_1355_J zh_1367_J zh_1381_J zh_1395_J zh_1526_J
+		zh_1550_J zh_1565_J zh_1696_J zh_1730_J zh_1738_J zh_1792_J zh_1807_J zh_1813_J zh_1837_J zh_1837_J zh_1854_J
+		zh_1938_J zh_1947_J zh_1970_J zh_1979_J zh_2052_J zh_2398_J zh_2404_J zh_2429_J zh_2490_J zh_2504_J 
+		zh_2514_J zh_2533_J zh_2535_J zh_2541_J zh_2545_J zh_2606_J zh_2638_J zh_2639_J zh_2639_J zh_2710_J
+		zh_2734_J zh_2767_J zh_2837_J zh_2970_J zh_2973_J zh_2976_J zh_3015_J zh_3057_J zh_3068_J zh_3109_J
+		zh_3134_J zh_3152_J zh_3160_J zh_3219_J zh_3390_J zh_3425_J zh_3447_J zh_3552_J zh_3768_J zh_3791_J
+		zh_3829_J zh_3940_J zh_4101_J zh_4102_J zh_4135_J zh_4176_J zh_4320_J zh_4382_J zh_4423_J zh_4428_J
+		zh_4539_J zh_4790_J zh_5019_J zh_5030_J zh_5046_J zh_5333_J zh_5358_J zh_5363_J zh_5364_J zh_5383_J
+		zh_5440_J zh_5478_J zh_5593_J zh_5628_J zh_5633_J zh_5676_J zh_5816_J zh_5988_J zh_6297_J zh_6363_J
+		zh_6389_J zh_6540_J zh_6671_J zh_6855_J zh_6875_J zh_6892_J zh_6900_J zh_6930_J zh_7022_J zh_7122_J
+		zh_7127_J zh_7161_J zh_7183_J zh_7185_J zh_7209_J zh_7227_J zh_7230_J zh_7234_J zh_7299_J zh_7311_J
+		zh_7449_J zh_7703_J zh_7787_J zh_7812_J zh_7893_J zh_8002_J zh_8113_J
+		# Male-only
+		zh_0385_K zh_0474_K zh_0956_K zh_0981_K zh_1132_K zh_1226_K zh_1405_K zh_1484_K zh_1627_K zh_2525_K
+		zh_2651_K zh_3419_K zh_4737_K zh_5346_K zh_6134_K
+		# Either sex
+		zh_0079_K zh_0163_K zh_0193_K zh_0251_K zh_0256_K zh_0308_K zh_0320_K zh_0336_K zh_0418_K zh_0420_K
+		zh_0500_K zh_0516_K zh_0523_K zh_0670_K zh_0689_K zh_0689_K zh_0735_K zh_0948_K zh_1115_K zh_1164_K
+		zh_1172_K zh_1218_K zh_1227_K zh_1331_K zh_1337_K zh_1344_K zh_1355_K zh_1367_K zh_1381_K zh_1395_K zh_1526_K
+		zh_1550_K zh_1565_K zh_1696_K zh_1730_K zh_1738_K zh_1792_K zh_1807_K zh_1813_K zh_1837_K zh_1837_K zh_1854_K
+		zh_1938_K zh_1947_K zh_1970_K zh_1979_K zh_2052_K zh_2398_K zh_2404_K zh_2429_K zh_2490_K zh_2504_K 
+		zh_2514_K zh_2533_K zh_2535_K zh_2541_K zh_2545_K zh_2606_K zh_2638_K zh_2639_K zh_2639_K zh_2710_K
+		zh_2734_K zh_2767_K zh_2837_K zh_2970_K zh_2973_K zh_2976_K zh_3015_K zh_3057_K zh_3068_K zh_3109_K
+		zh_3134_K zh_3152_K zh_3160_K zh_3219_K zh_3390_K zh_3425_K zh_3447_K zh_3552_K zh_3768_K zh_3791_K
+		zh_3829_K zh_3940_K zh_4101_K zh_4102_K zh_4135_K zh_4176_K zh_4320_K zh_4382_K zh_4423_K zh_4428_K
+		zh_4539_K zh_4790_K zh_5019_K zh_5030_K zh_5046_K zh_5333_K zh_5358_K zh_5363_K zh_5364_K zh_5383_K
+		zh_5440_K zh_5478_K zh_5593_K zh_5628_K zh_5633_K zh_5676_K zh_5816_K zh_5988_K zh_6297_K zh_6363_K
+		zh_6389_K zh_6540_K zh_6671_K zh_6855_K zh_6875_K zh_6892_K zh_6900_K zh_6930_K zh_7022_K zh_7122_K
+		zh_7127_K zh_7161_K zh_7183_K zh_7185_K zh_7209_K zh_7227_K zh_7230_K zh_7234_K zh_7299_K zh_7311_K
+		zh_7449_K zh_7703_K zh_7787_K zh_7812_K zh_7893_K zh_8002_K zh_8113_K
+		# Male-only
+		zh_0385_L zh_0474_L zh_0956_L zh_0981_L zh_1132_L zh_1226_L zh_1405_L zh_1484_L zh_1627_L zh_2525_L
+		zh_2651_L zh_3419_L zh_4737_L zh_5346_L zh_6134_L
+		# Either sex
+		zh_0079_L zh_0163_L zh_0193_L zh_0251_L zh_0256_L zh_0308_L zh_0320_L zh_0336_L zh_0418_L zh_0420_L
+		zh_0500_L zh_0516_L zh_0523_L zh_0670_L zh_0689_L zh_0689_L zh_0735_L zh_0948_L zh_1115_L zh_1164_L
+		zh_1172_L zh_1218_L zh_1227_L zh_1331_L zh_1337_L zh_1344_L zh_1355_L zh_1367_L zh_1381_L zh_1395_L zh_1526_L
+		zh_1550_L zh_1565_L zh_1696_L zh_1730_L zh_1738_L zh_1792_L zh_1807_L zh_1813_L zh_1837_L zh_1837_L zh_1854_L
+		zh_1938_L zh_1947_L zh_1970_L zh_1979_L zh_2052_L zh_2398_L zh_2404_L zh_2429_L zh_2490_L zh_2504_L 
+		zh_2514_L zh_2533_L zh_2535_L zh_2541_L zh_2545_L zh_2606_L zh_2638_L zh_2639_L zh_2639_L zh_2710_L
+		zh_2734_L zh_2767_L zh_2837_L zh_2970_L zh_2973_L zh_2976_L zh_3015_L zh_3057_L zh_3068_L zh_3109_L
+		zh_3134_L zh_3152_L zh_3160_L zh_3219_L zh_3390_L zh_3425_L zh_3447_L zh_3552_L zh_3768_L zh_3791_L
+		zh_3829_L zh_3940_L zh_4101_L zh_4102_L zh_4135_L zh_4176_L zh_4320_L zh_4382_L zh_4423_L zh_4428_L
+		zh_4539_L zh_4790_L zh_5019_L zh_5030_L zh_5046_L zh_5333_L zh_5358_L zh_5363_L zh_5364_L zh_5383_L
+		zh_5440_L zh_5478_L zh_5593_L zh_5628_L zh_5633_L zh_5676_L zh_5816_L zh_5988_L zh_6297_L zh_6363_L
+		zh_6389_L zh_6540_L zh_6671_L zh_6855_L zh_6875_L zh_6892_L zh_6900_L zh_6930_L zh_7022_L zh_7122_L
+		zh_7127_L zh_7161_L zh_7183_L zh_7185_L zh_7209_L zh_7227_L zh_7230_L zh_7234_L zh_7299_L zh_7311_L
+		zh_7449_L zh_7703_L zh_7787_L zh_7812_L zh_7893_L zh_8002_L zh_8113_L
+	}
+
+	female_names = {		
+		# Female-only
+		zh_0022_A zh_0061_A zh_1129_A zh_1369_A zh_2494_A zh_2672_A zh_3046_A zh_3055_A zh_3189_A zh_3276_A
+		zh_3810_A zh_4258_A zh_5126_A zh_5297_A zh_5468_A zh_5571_A zh_5695_A zh_5725_A zh_6591_A zh_6598_A
+		# Either sex
+		zh_0079_A zh_0163_A zh_0193_A zh_0251_A zh_0256_A zh_0308_A zh_0320_A zh_0336_A zh_0418_A zh_0420_A
+		zh_0500_A zh_0516_A zh_0523_A zh_0670_A zh_0689_A zh_0689_A zh_0735_A zh_0948_A zh_1115_A zh_1164_A
+		zh_1172_A zh_1218_A zh_1227_A zh_1331_A zh_1337_A zh_1344_A zh_1355_A zh_1367_A zh_1381_A zh_1395_A zh_1526_A
+		zh_1550_A zh_1565_A zh_1696_A zh_1730_A zh_1738_A zh_1792_A zh_1807_A zh_1813_A zh_1837_A zh_1837_A zh_1854_A
+		zh_1938_A zh_1947_A zh_1970_A zh_1979_A zh_2052_A zh_2398_A zh_2404_A zh_2429_A zh_2490_A zh_2504_A 
+		zh_2514_A zh_2533_A zh_2535_A zh_2541_A zh_2545_A zh_2606_A zh_2638_A zh_2639_A zh_2639_A zh_2710_A
+		zh_2734_A zh_2767_A zh_2837_A zh_2970_A zh_2973_A zh_2976_A zh_3015_A zh_3057_A zh_3068_A zh_3109_A
+		zh_3134_A zh_3152_A zh_3160_A zh_3219_A zh_3390_A zh_3425_A zh_3447_A zh_3552_A zh_3768_A zh_3791_A
+		zh_3829_A zh_3940_A zh_4101_A zh_4102_A zh_4135_A zh_4176_A zh_4320_A zh_4382_A zh_4423_A zh_4428_A
+		zh_4539_A zh_4790_A zh_5019_A zh_5030_A zh_5046_A zh_5333_A zh_5358_A zh_5363_A zh_5364_A zh_5383_A
+		zh_5440_A zh_5478_A zh_5593_A zh_5628_A zh_5633_A zh_5676_A zh_5816_A zh_5988_A zh_6297_A zh_6363_A
+		zh_6389_A zh_6540_A zh_6671_A zh_6855_A zh_6875_A zh_6892_A zh_6900_A zh_6930_A zh_7022_A zh_7122_A
+		zh_7127_A zh_7161_A zh_7183_A zh_7185_A zh_7209_A zh_7227_A zh_7230_A zh_7234_A zh_7299_A zh_7311_A
+		zh_7449_A zh_7703_A zh_7787_A zh_7812_A zh_7893_A zh_8002_A zh_8113_A		
+		# Female-only
+		zh_0022_B zh_0061_B zh_1129_B zh_1369_B zh_2494_B zh_2672_B zh_3046_B zh_3055_B zh_3189_B zh_3276_B
+		zh_3810_B zh_4258_B zh_5126_B zh_5297_B zh_5468_B zh_5571_B zh_5695_B zh_5725_B zh_6591_B zh_6598_B
+		# Either sex
+		zh_0079_B zh_0163_B zh_0193_B zh_0251_B zh_0256_B zh_0308_B zh_0320_B zh_0336_B zh_0418_B zh_0420_B
+		zh_0500_B zh_0516_B zh_0523_B zh_0670_B zh_0689_B zh_0689_B zh_0735_B zh_0948_B zh_1115_B zh_1164_B
+		zh_1172_B zh_1218_B zh_1227_B zh_1331_B zh_1337_B zh_1344_B zh_1355_B zh_1367_B zh_1381_B zh_1395_B zh_1526_B
+		zh_1550_B zh_1565_B zh_1696_B zh_1730_B zh_1738_B zh_1792_B zh_1807_B zh_1813_B zh_1837_B zh_1837_B zh_1854_B
+		zh_1938_B zh_1947_B zh_1970_B zh_1979_B zh_2052_B zh_2398_B zh_2404_B zh_2429_B zh_2490_B zh_2504_B 
+		zh_2514_B zh_2533_B zh_2535_B zh_2541_B zh_2545_B zh_2606_B zh_2638_B zh_2639_B zh_2639_B zh_2710_B
+		zh_2734_B zh_2767_B zh_2837_B zh_2970_B zh_2973_B zh_2976_B zh_3015_B zh_3057_B zh_3068_B zh_3109_B
+		zh_3134_B zh_3152_B zh_3160_B zh_3219_B zh_3390_B zh_3425_B zh_3447_B zh_3552_B zh_3768_B zh_3791_B
+		zh_3829_B zh_3940_B zh_4101_B zh_4102_B zh_4135_B zh_4176_B zh_4320_B zh_4382_B zh_4423_B zh_4428_B
+		zh_4539_B zh_4790_B zh_5019_B zh_5030_B zh_5046_B zh_5333_B zh_5358_B zh_5363_B zh_5364_B zh_5383_B
+		zh_5440_B zh_5478_B zh_5593_B zh_5628_B zh_5633_B zh_5676_B zh_5816_B zh_5988_B zh_6297_B zh_6363_B
+		zh_6389_B zh_6540_B zh_6671_B zh_6855_B zh_6875_B zh_6892_B zh_6900_B zh_6930_B zh_7022_B zh_7122_B
+		zh_7127_B zh_7161_B zh_7183_B zh_7185_B zh_7209_B zh_7227_B zh_7230_B zh_7234_B zh_7299_B zh_7311_B
+		zh_7449_B zh_7703_B zh_7787_B zh_7812_B zh_7893_B zh_8002_B zh_8113_B		
+		# Female-only
+		zh_0022_C zh_0061_C zh_1129_C zh_1369_C zh_2494_C zh_2672_C zh_3046_C zh_3055_C zh_3189_C zh_3276_C
+		zh_3810_C zh_4258_C zh_5126_C zh_5297_C zh_5468_C zh_5571_C zh_5695_C zh_5725_C zh_6591_C zh_6598_C
+		# Either sex
+		zh_0079_C zh_0163_C zh_0193_C zh_0251_C zh_0256_C zh_0308_C zh_0320_C zh_0336_C zh_0418_C zh_0420_C
+		zh_0500_C zh_0516_C zh_0523_C zh_0670_C zh_0689_C zh_0689_C zh_0735_C zh_0948_C zh_1115_C zh_1164_C
+		zh_1172_C zh_1218_C zh_1227_C zh_1331_C zh_1337_C zh_1344_C zh_1355_C zh_1367_C zh_1381_C zh_1395_C zh_1526_C
+		zh_1550_C zh_1565_C zh_1696_C zh_1730_C zh_1738_C zh_1792_C zh_1807_C zh_1813_C zh_1837_C zh_1837_C zh_1854_C
+		zh_1938_C zh_1947_C zh_1970_C zh_1979_C zh_2052_C zh_2398_C zh_2404_C zh_2429_C zh_2490_C zh_2504_C 
+		zh_2514_C zh_2533_C zh_2535_C zh_2541_C zh_2545_C zh_2606_C zh_2638_C zh_2639_C zh_2639_C zh_2710_C
+		zh_2734_C zh_2767_C zh_2837_C zh_2970_C zh_2973_C zh_2976_C zh_3015_C zh_3057_C zh_3068_C zh_3109_C
+		zh_3134_C zh_3152_C zh_3160_C zh_3219_C zh_3390_C zh_3425_C zh_3447_C zh_3552_C zh_3768_C zh_3791_C
+		zh_3829_C zh_3940_C zh_4101_C zh_4102_C zh_4135_C zh_4176_C zh_4320_C zh_4382_C zh_4423_C zh_4428_C
+		zh_4539_C zh_4790_C zh_5019_C zh_5030_C zh_5046_C zh_5333_C zh_5358_C zh_5363_C zh_5364_C zh_5383_C
+		zh_5440_C zh_5478_C zh_5593_C zh_5628_C zh_5633_C zh_5676_C zh_5816_C zh_5988_C zh_6297_C zh_6363_C
+		zh_6389_C zh_6540_C zh_6671_C zh_6855_C zh_6875_C zh_6892_C zh_6900_C zh_6930_C zh_7022_C zh_7122_C
+		zh_7127_C zh_7161_C zh_7183_C zh_7185_C zh_7209_C zh_7227_C zh_7230_C zh_7234_C zh_7299_C zh_7311_C
+		zh_7449_C zh_7703_C zh_7787_C zh_7812_C zh_7893_C zh_8002_C zh_8113_C		
+		# Female-only
+		zh_0022_D zh_0061_D zh_1129_D zh_1369_D zh_2494_D zh_2672_D zh_3046_D zh_3055_D zh_3189_D zh_3276_D
+		zh_3810_D zh_4258_D zh_5126_D zh_5297_D zh_5468_D zh_5571_D zh_5695_D zh_5725_D zh_6591_D zh_6598_D
+		# Either sex
+		zh_0079_D zh_0163_D zh_0193_D zh_0251_D zh_0256_D zh_0308_D zh_0320_D zh_0336_D zh_0418_D zh_0420_D
+		zh_0500_D zh_0516_D zh_0523_D zh_0670_D zh_0689_D zh_0689_D zh_0735_D zh_0948_D zh_1115_D zh_1164_D
+		zh_1172_D zh_1218_D zh_1227_D zh_1331_D zh_1337_D zh_1344_D zh_1355_D zh_1367_D zh_1381_D zh_1395_D zh_1526_D
+		zh_1550_D zh_1565_D zh_1696_D zh_1730_D zh_1738_D zh_1792_D zh_1807_D zh_1813_D zh_1837_D zh_1837_D zh_1854_D
+		zh_1938_D zh_1947_D zh_1970_D zh_1979_D zh_2052_D zh_2398_D zh_2404_D zh_2429_D zh_2490_D zh_2504_D 
+		zh_2514_D zh_2533_D zh_2535_D zh_2541_D zh_2545_D zh_2606_D zh_2638_D zh_2639_D zh_2639_D zh_2710_D
+		zh_2734_D zh_2767_D zh_2837_D zh_2970_D zh_2973_D zh_2976_D zh_3015_D zh_3057_D zh_3068_D zh_3109_D
+		zh_3134_D zh_3152_D zh_3160_D zh_3219_D zh_3390_D zh_3425_D zh_3447_D zh_3552_D zh_3768_D zh_3791_D
+		zh_3829_D zh_3940_D zh_4101_D zh_4102_D zh_4135_D zh_4176_D zh_4320_D zh_4382_D zh_4423_D zh_4428_D
+		zh_4539_D zh_4790_D zh_5019_D zh_5030_D zh_5046_D zh_5333_D zh_5358_D zh_5363_D zh_5364_D zh_5383_D
+		zh_5440_D zh_5478_D zh_5593_D zh_5628_D zh_5633_D zh_5676_D zh_5816_D zh_5988_D zh_6297_D zh_6363_D
+		zh_6389_D zh_6540_D zh_6671_D zh_6855_D zh_6875_D zh_6892_D zh_6900_D zh_6930_D zh_7022_D zh_7122_D
+		zh_7127_D zh_7161_D zh_7183_D zh_7185_D zh_7209_D zh_7227_D zh_7230_D zh_7234_D zh_7299_D zh_7311_D
+		zh_7449_D zh_7703_D zh_7787_D zh_7812_D zh_7893_D zh_8002_D zh_8113_D		
+		# Female-only
+		zh_0022_E zh_0061_E zh_1129_E zh_1369_E zh_2494_E zh_2672_E zh_3046_E zh_3055_E zh_3189_E zh_3276_E
+		zh_3810_E zh_4258_E zh_5126_E zh_5297_E zh_5468_E zh_5571_E zh_5695_E zh_5725_E zh_6591_E zh_6598_E
+		# Either sex
+		zh_0079_E zh_0163_E zh_0193_E zh_0251_E zh_0256_E zh_0308_E zh_0320_E zh_0336_E zh_0418_E zh_0420_E
+		zh_0500_E zh_0516_E zh_0523_E zh_0670_E zh_0689_E zh_0689_E zh_0735_E zh_0948_E zh_1115_E zh_1164_E
+		zh_1172_E zh_1218_E zh_1227_E zh_1331_E zh_1337_E zh_1344_E zh_1355_E zh_1367_E zh_1381_E zh_1395_E zh_1526_E
+		zh_1550_E zh_1565_E zh_1696_E zh_1730_E zh_1738_E zh_1792_E zh_1807_E zh_1813_E zh_1837_E zh_1837_E zh_1854_E
+		zh_1938_E zh_1947_E zh_1970_E zh_1979_E zh_2052_E zh_2398_E zh_2404_E zh_2429_E zh_2490_E zh_2504_E 
+		zh_2514_E zh_2533_E zh_2535_E zh_2541_E zh_2545_E zh_2606_E zh_2638_E zh_2639_E zh_2639_E zh_2710_E
+		zh_2734_E zh_2767_E zh_2837_E zh_2970_E zh_2973_E zh_2976_E zh_3015_E zh_3057_E zh_3068_E zh_3109_E
+		zh_3134_E zh_3152_E zh_3160_E zh_3219_E zh_3390_E zh_3425_E zh_3447_E zh_3552_E zh_3768_E zh_3791_E
+		zh_3829_E zh_3940_E zh_4101_E zh_4102_E zh_4135_E zh_4176_E zh_4320_E zh_4382_E zh_4423_E zh_4428_E
+		zh_4539_E zh_4790_E zh_5019_E zh_5030_E zh_5046_E zh_5333_E zh_5358_E zh_5363_E zh_5364_E zh_5383_E
+		zh_5440_E zh_5478_E zh_5593_E zh_5628_E zh_5633_E zh_5676_E zh_5816_E zh_5988_E zh_6297_E zh_6363_E
+		zh_6389_E zh_6540_E zh_6671_E zh_6855_E zh_6875_E zh_6892_E zh_6900_E zh_6930_E zh_7022_E zh_7122_E
+		zh_7127_E zh_7161_E zh_7183_E zh_7185_E zh_7209_E zh_7227_E zh_7230_E zh_7234_E zh_7299_E zh_7311_E
+		zh_7449_E zh_7703_E zh_7787_E zh_7812_E zh_7893_E zh_8002_E zh_8113_E		
+		# Female-only
+		zh_0022_F zh_0061_F zh_1129_F zh_1369_F zh_2494_F zh_2672_F zh_3046_F zh_3055_F zh_3189_F zh_3276_F
+		zh_3810_F zh_4258_F zh_5126_F zh_5297_F zh_5468_F zh_5571_F zh_5695_F zh_5725_F zh_6591_F zh_6598_F
+		# Either sex
+		zh_0079_F zh_0163_F zh_0193_F zh_0251_F zh_0256_F zh_0308_F zh_0320_F zh_0336_F zh_0418_F zh_0420_F
+		zh_0500_F zh_0516_F zh_0523_F zh_0670_F zh_0689_F zh_0689_F zh_0735_F zh_0948_F zh_1115_F zh_1164_F
+		zh_1172_F zh_1218_F zh_1227_F zh_1331_F zh_1337_F zh_1344_F zh_1355_F zh_1367_F zh_1381_F zh_1395_F zh_1526_F
+		zh_1550_F zh_1565_F zh_1696_F zh_1730_F zh_1738_F zh_1792_F zh_1807_F zh_1813_F zh_1837_F zh_1837_F zh_1854_F
+		zh_1938_F zh_1947_F zh_1970_F zh_1979_F zh_2052_F zh_2398_F zh_2404_F zh_2429_F zh_2490_F zh_2504_F 
+		zh_2514_F zh_2533_F zh_2535_F zh_2541_F zh_2545_F zh_2606_F zh_2638_F zh_2639_F zh_2639_F zh_2710_F
+		zh_2734_F zh_2767_F zh_2837_F zh_2970_F zh_2973_F zh_2976_F zh_3015_F zh_3057_F zh_3068_F zh_3109_F
+		zh_3134_F zh_3152_F zh_3160_F zh_3219_F zh_3390_F zh_3425_F zh_3447_F zh_3552_F zh_3768_F zh_3791_F
+		zh_3829_F zh_3940_F zh_4101_F zh_4102_F zh_4135_F zh_4176_F zh_4320_F zh_4382_F zh_4423_F zh_4428_F
+		zh_4539_F zh_4790_F zh_5019_F zh_5030_F zh_5046_F zh_5333_F zh_5358_F zh_5363_F zh_5364_F zh_5383_F
+		zh_5440_F zh_5478_F zh_5593_F zh_5628_F zh_5633_F zh_5676_F zh_5816_F zh_5988_F zh_6297_F zh_6363_F
+		zh_6389_F zh_6540_F zh_6671_F zh_6855_F zh_6875_F zh_6892_F zh_6900_F zh_6930_F zh_7022_F zh_7122_F
+		zh_7127_F zh_7161_F zh_7183_F zh_7185_F zh_7209_F zh_7227_F zh_7230_F zh_7234_F zh_7299_F zh_7311_F
+		zh_7449_F zh_7703_F zh_7787_F zh_7812_F zh_7893_F zh_8002_F zh_8113_F		
+		# Female-only
+		zh_0022_G zh_0061_G zh_1129_G zh_1369_G zh_2494_G zh_2672_G zh_3046_G zh_3055_G zh_3189_G zh_3276_G
+		zh_3810_G zh_4258_G zh_5126_G zh_5297_G zh_5468_G zh_5571_G zh_5695_G zh_5725_G zh_6591_G zh_6598_G
+		# Either sex
+		zh_0079_G zh_0163_G zh_0193_G zh_0251_G zh_0256_G zh_0308_G zh_0320_G zh_0336_G zh_0418_G zh_0420_G
+		zh_0500_G zh_0516_G zh_0523_G zh_0670_G zh_0689_G zh_0689_G zh_0735_G zh_0948_G zh_1115_G zh_1164_G
+		zh_1172_G zh_1218_G zh_1227_G zh_1331_G zh_1337_G zh_1344_G zh_1355_G zh_1367_G zh_1381_G zh_1395_G zh_1526_G
+		zh_1550_G zh_1565_G zh_1696_G zh_1730_G zh_1738_G zh_1792_G zh_1807_G zh_1813_G zh_1837_G zh_1837_G zh_1854_G
+		zh_1938_G zh_1947_G zh_1970_G zh_1979_G zh_2052_G zh_2398_G zh_2404_G zh_2429_G zh_2490_G zh_2504_G 
+		zh_2514_G zh_2533_G zh_2535_G zh_2541_G zh_2545_G zh_2606_G zh_2638_G zh_2639_G zh_2639_G zh_2710_G
+		zh_2734_G zh_2767_G zh_2837_G zh_2970_G zh_2973_G zh_2976_G zh_3015_G zh_3057_G zh_3068_G zh_3109_G
+		zh_3134_G zh_3152_G zh_3160_G zh_3219_G zh_3390_G zh_3425_G zh_3447_G zh_3552_G zh_3768_G zh_3791_G
+		zh_3829_G zh_3940_G zh_4101_G zh_4102_G zh_4135_G zh_4176_G zh_4320_G zh_4382_G zh_4423_G zh_4428_G
+		zh_4539_G zh_4790_G zh_5019_G zh_5030_G zh_5046_G zh_5333_G zh_5358_G zh_5363_G zh_5364_G zh_5383_G
+		zh_5440_G zh_5478_G zh_5593_G zh_5628_G zh_5633_G zh_5676_G zh_5816_G zh_5988_G zh_6297_G zh_6363_G
+		zh_6389_G zh_6540_G zh_6671_G zh_6855_G zh_6875_G zh_6892_G zh_6900_G zh_6930_G zh_7022_G zh_7122_G
+		zh_7127_G zh_7161_G zh_7183_G zh_7185_G zh_7209_G zh_7227_G zh_7230_G zh_7234_G zh_7299_G zh_7311_G
+		zh_7449_G zh_7703_G zh_7787_G zh_7812_G zh_7893_G zh_8002_G zh_8113_G		
+		# Female-only
+		zh_0022_H zh_0061_H zh_1129_H zh_1369_H zh_2494_H zh_2672_H zh_3046_H zh_3055_H zh_3189_H zh_3276_H
+		zh_3810_H zh_4258_H zh_5126_H zh_5297_H zh_5468_H zh_5571_H zh_5695_H zh_5725_H zh_6591_H zh_6598_H
+		# Either sex
+		zh_0079_H zh_0163_H zh_0193_H zh_0251_H zh_0256_H zh_0308_H zh_0320_H zh_0336_H zh_0418_H zh_0420_H
+		zh_0500_H zh_0516_H zh_0523_H zh_0670_H zh_0689_H zh_0689_H zh_0735_H zh_0948_H zh_1115_H zh_1164_H
+		zh_1172_H zh_1218_H zh_1227_H zh_1331_H zh_1337_H zh_1344_H zh_1355_H zh_1367_H zh_1381_H zh_1395_H zh_1526_H
+		zh_1550_H zh_1565_H zh_1696_H zh_1730_H zh_1738_H zh_1792_H zh_1807_H zh_1813_H zh_1837_H zh_1837_H zh_1854_H
+		zh_1938_H zh_1947_H zh_1970_H zh_1979_H zh_2052_H zh_2398_H zh_2404_H zh_2429_H zh_2490_H zh_2504_H 
+		zh_2514_H zh_2533_H zh_2535_H zh_2541_H zh_2545_H zh_2606_H zh_2638_H zh_2639_H zh_2639_H zh_2710_H
+		zh_2734_H zh_2767_H zh_2837_H zh_2970_H zh_2973_H zh_2976_H zh_3015_H zh_3057_H zh_3068_H zh_3109_H
+		zh_3134_H zh_3152_H zh_3160_H zh_3219_H zh_3390_H zh_3425_H zh_3447_H zh_3552_H zh_3768_H zh_3791_H
+		zh_3829_H zh_3940_H zh_4101_H zh_4102_H zh_4135_H zh_4176_H zh_4320_H zh_4382_H zh_4423_H zh_4428_H
+		zh_4539_H zh_4790_H zh_5019_H zh_5030_H zh_5046_H zh_5333_H zh_5358_H zh_5363_H zh_5364_H zh_5383_H
+		zh_5440_H zh_5478_H zh_5593_H zh_5628_H zh_5633_H zh_5676_H zh_5816_H zh_5988_H zh_6297_H zh_6363_H
+		zh_6389_H zh_6540_H zh_6671_H zh_6855_H zh_6875_H zh_6892_H zh_6900_H zh_6930_H zh_7022_H zh_7122_H
+		zh_7127_H zh_7161_H zh_7183_H zh_7185_H zh_7209_H zh_7227_H zh_7230_H zh_7234_H zh_7299_H zh_7311_H
+		zh_7449_H zh_7703_H zh_7787_H zh_7812_H zh_7893_H zh_8002_H zh_8113_H		
+		# Female-only
+		zh_0022_I zh_0061_I zh_1129_I zh_1369_I zh_2494_I zh_2672_I zh_3046_I zh_3055_I zh_3189_I zh_3276_I
+		zh_3810_I zh_4258_I zh_5126_I zh_5297_I zh_5468_I zh_5571_I zh_5695_I zh_5725_I zh_6591_I zh_6598_I
+		# Either sex
+		zh_0079_I zh_0163_I zh_0193_I zh_0251_I zh_0256_I zh_0308_I zh_0320_I zh_0336_I zh_0418_I zh_0420_I
+		zh_0500_I zh_0516_I zh_0523_I zh_0670_I zh_0689_I zh_0689_I zh_0735_I zh_0948_I zh_1115_I zh_1164_I
+		zh_1172_I zh_1218_I zh_1227_I zh_1331_I zh_1337_I zh_1344_I zh_1355_I zh_1367_I zh_1381_I zh_1395_I zh_1526_I
+		zh_1550_I zh_1565_I zh_1696_I zh_1730_I zh_1738_I zh_1792_I zh_1807_I zh_1813_I zh_1837_I zh_1837_I zh_1854_I
+		zh_1938_I zh_1947_I zh_1970_I zh_1979_I zh_2052_I zh_2398_I zh_2404_I zh_2429_I zh_2490_I zh_2504_I 
+		zh_2514_I zh_2533_I zh_2535_I zh_2541_I zh_2545_I zh_2606_I zh_2638_I zh_2639_I zh_2639_I zh_2710_I
+		zh_2734_I zh_2767_I zh_2837_I zh_2970_I zh_2973_I zh_2976_I zh_3015_I zh_3057_I zh_3068_I zh_3109_I
+		zh_3134_I zh_3152_I zh_3160_I zh_3219_I zh_3390_I zh_3425_I zh_3447_I zh_3552_I zh_3768_I zh_3791_I
+		zh_3829_I zh_3940_I zh_4101_I zh_4102_I zh_4135_I zh_4176_I zh_4320_I zh_4382_I zh_4423_I zh_4428_I
+		zh_4539_I zh_4790_I zh_5019_I zh_5030_I zh_5046_I zh_5333_I zh_5358_I zh_5363_I zh_5364_I zh_5383_I
+		zh_5440_I zh_5478_I zh_5593_I zh_5628_I zh_5633_I zh_5676_I zh_5816_I zh_5988_I zh_6297_I zh_6363_I
+		zh_6389_I zh_6540_I zh_6671_I zh_6855_I zh_6875_I zh_6892_I zh_6900_I zh_6930_I zh_7022_I zh_7122_I
+		zh_7127_I zh_7161_I zh_7183_I zh_7185_I zh_7209_I zh_7227_I zh_7230_I zh_7234_I zh_7299_I zh_7311_I
+		zh_7449_I zh_7703_I zh_7787_I zh_7812_I zh_7893_I zh_8002_I zh_8113_I		
+		# Female-only
+		zh_0022_J zh_0061_J zh_1129_J zh_1369_J zh_2494_J zh_2672_J zh_3046_J zh_3055_J zh_3189_J zh_3276_J
+		zh_3810_J zh_4258_J zh_5126_J zh_5297_J zh_5468_J zh_5571_J zh_5695_J zh_5725_J zh_6591_J zh_6598_J
+		# Either sex
+		zh_0079_J zh_0163_J zh_0193_J zh_0251_J zh_0256_J zh_0308_J zh_0320_J zh_0336_J zh_0418_J zh_0420_J
+		zh_0500_J zh_0516_J zh_0523_J zh_0670_J zh_0689_J zh_0689_J zh_0735_J zh_0948_J zh_1115_J zh_1164_J
+		zh_1172_J zh_1218_J zh_1227_J zh_1331_J zh_1337_J zh_1344_J zh_1355_J zh_1367_J zh_1381_J zh_1395_J zh_1526_J
+		zh_1550_J zh_1565_J zh_1696_J zh_1730_J zh_1738_J zh_1792_J zh_1807_J zh_1813_J zh_1837_J zh_1837_J zh_1854_J
+		zh_1938_J zh_1947_J zh_1970_J zh_1979_J zh_2052_J zh_2398_J zh_2404_J zh_2429_J zh_2490_J zh_2504_J 
+		zh_2514_J zh_2533_J zh_2535_J zh_2541_J zh_2545_J zh_2606_J zh_2638_J zh_2639_J zh_2639_J zh_2710_J
+		zh_2734_J zh_2767_J zh_2837_J zh_2970_J zh_2973_J zh_2976_J zh_3015_J zh_3057_J zh_3068_J zh_3109_J
+		zh_3134_J zh_3152_J zh_3160_J zh_3219_J zh_3390_J zh_3425_J zh_3447_J zh_3552_J zh_3768_J zh_3791_J
+		zh_3829_J zh_3940_J zh_4101_J zh_4102_J zh_4135_J zh_4176_J zh_4320_J zh_4382_J zh_4423_J zh_4428_J
+		zh_4539_J zh_4790_J zh_5019_J zh_5030_J zh_5046_J zh_5333_J zh_5358_J zh_5363_J zh_5364_J zh_5383_J
+		zh_5440_J zh_5478_J zh_5593_J zh_5628_J zh_5633_J zh_5676_J zh_5816_J zh_5988_J zh_6297_J zh_6363_J
+		zh_6389_J zh_6540_J zh_6671_J zh_6855_J zh_6875_J zh_6892_J zh_6900_J zh_6930_J zh_7022_J zh_7122_J
+		zh_7127_J zh_7161_J zh_7183_J zh_7185_J zh_7209_J zh_7227_J zh_7230_J zh_7234_J zh_7299_J zh_7311_J
+		zh_7449_J zh_7703_J zh_7787_J zh_7812_J zh_7893_J zh_8002_J zh_8113_J		
+		# Female-only
+		zh_0022_K zh_0061_K zh_1129_K zh_1369_K zh_2494_K zh_2672_K zh_3046_K zh_3055_K zh_3189_K zh_3276_K
+		zh_3810_K zh_4258_K zh_5126_K zh_5297_K zh_5468_K zh_5571_K zh_5695_K zh_5725_K zh_6591_K zh_6598_K
+		# Either sex
+		zh_0079_K zh_0163_K zh_0193_K zh_0251_K zh_0256_K zh_0308_K zh_0320_K zh_0336_K zh_0418_K zh_0420_K
+		zh_0500_K zh_0516_K zh_0523_K zh_0670_K zh_0689_K zh_0689_K zh_0735_K zh_0948_K zh_1115_K zh_1164_K
+		zh_1172_K zh_1218_K zh_1227_K zh_1331_K zh_1337_K zh_1344_K zh_1355_K zh_1367_K zh_1381_K zh_1395_K zh_1526_K
+		zh_1550_K zh_1565_K zh_1696_K zh_1730_K zh_1738_K zh_1792_K zh_1807_K zh_1813_K zh_1837_K zh_1837_K zh_1854_K
+		zh_1938_K zh_1947_K zh_1970_K zh_1979_K zh_2052_K zh_2398_K zh_2404_K zh_2429_K zh_2490_K zh_2504_K 
+		zh_2514_K zh_2533_K zh_2535_K zh_2541_K zh_2545_K zh_2606_K zh_2638_K zh_2639_K zh_2639_K zh_2710_K
+		zh_2734_K zh_2767_K zh_2837_K zh_2970_K zh_2973_K zh_2976_K zh_3015_K zh_3057_K zh_3068_K zh_3109_K
+		zh_3134_K zh_3152_K zh_3160_K zh_3219_K zh_3390_K zh_3425_K zh_3447_K zh_3552_K zh_3768_K zh_3791_K
+		zh_3829_K zh_3940_K zh_4101_K zh_4102_K zh_4135_K zh_4176_K zh_4320_K zh_4382_K zh_4423_K zh_4428_K
+		zh_4539_K zh_4790_K zh_5019_K zh_5030_K zh_5046_K zh_5333_K zh_5358_K zh_5363_K zh_5364_K zh_5383_K
+		zh_5440_K zh_5478_K zh_5593_K zh_5628_K zh_5633_K zh_5676_K zh_5816_K zh_5988_K zh_6297_K zh_6363_K
+		zh_6389_K zh_6540_K zh_6671_K zh_6855_K zh_6875_K zh_6892_K zh_6900_K zh_6930_K zh_7022_K zh_7122_K
+		zh_7127_K zh_7161_K zh_7183_K zh_7185_K zh_7209_K zh_7227_K zh_7230_K zh_7234_K zh_7299_K zh_7311_K
+		zh_7449_K zh_7703_K zh_7787_K zh_7812_K zh_7893_K zh_8002_K zh_8113_K		
+		# Female-only
+		zh_0022_L zh_0061_L zh_1129_L zh_1369_L zh_2494_L zh_2672_L zh_3046_L zh_3055_L zh_3189_L zh_3276_L
+		zh_3810_L zh_4258_L zh_5126_L zh_5297_L zh_5468_L zh_5571_L zh_5695_L zh_5725_L zh_6591_L zh_6598_L
+		# Either sex
+		zh_0079_L zh_0163_L zh_0193_L zh_0251_L zh_0256_L zh_0308_L zh_0320_L zh_0336_L zh_0418_L zh_0420_L
+		zh_0500_L zh_0516_L zh_0523_L zh_0670_L zh_0689_L zh_0689_L zh_0735_L zh_0948_L zh_1115_L zh_1164_L
+		zh_1172_L zh_1218_L zh_1227_L zh_1331_L zh_1337_L zh_1344_L zh_1355_L zh_1367_L zh_1381_L zh_1395_L zh_1526_L
+		zh_1550_L zh_1565_L zh_1696_L zh_1730_L zh_1738_L zh_1792_L zh_1807_L zh_1813_L zh_1837_L zh_1837_L zh_1854_L
+		zh_1938_L zh_1947_L zh_1970_L zh_1979_L zh_2052_L zh_2398_L zh_2404_L zh_2429_L zh_2490_L zh_2504_L 
+		zh_2514_L zh_2533_L zh_2535_L zh_2541_L zh_2545_L zh_2606_L zh_2638_L zh_2639_L zh_2639_L zh_2710_L
+		zh_2734_L zh_2767_L zh_2837_L zh_2970_L zh_2973_L zh_2976_L zh_3015_L zh_3057_L zh_3068_L zh_3109_L
+		zh_3134_L zh_3152_L zh_3160_L zh_3219_L zh_3390_L zh_3425_L zh_3447_L zh_3552_L zh_3768_L zh_3791_L
+		zh_3829_L zh_3940_L zh_4101_L zh_4102_L zh_4135_L zh_4176_L zh_4320_L zh_4382_L zh_4423_L zh_4428_L
+		zh_4539_L zh_4790_L zh_5019_L zh_5030_L zh_5046_L zh_5333_L zh_5358_L zh_5363_L zh_5364_L zh_5383_L
+		zh_5440_L zh_5478_L zh_5593_L zh_5628_L zh_5633_L zh_5676_L zh_5816_L zh_5988_L zh_6297_L zh_6363_L
+		zh_6389_L zh_6540_L zh_6671_L zh_6855_L zh_6875_L zh_6892_L zh_6900_L zh_6930_L zh_7022_L zh_7122_L
+		zh_7127_L zh_7161_L zh_7183_L zh_7185_L zh_7209_L zh_7227_L zh_7230_L zh_7234_L zh_7299_L zh_7311_L
+		zh_7449_L zh_7703_L zh_7787_L zh_7812_L zh_7893_L zh_8002_L zh_8113_L
+	}
+
+	dynasty_name_first = yes	
+}
+
+name_list_cantonese = {
+
+	dynasty_names = {
+		"dyn_yue_1031"
+		"dyn_yue_1035"
+		"dyn_yue_1075"
+		"dyn_yue_1108"
+		"dyn_yue_1115"
+		"dyn_yue_1144"
+		"dyn_yue_1153"
+		"dyn_yue_1202"
+		"dyn_yue_1203"
+		"dyn_yue_1213"
+		"dyn_yue_1236"
+		"dyn_yue_1313"
+		"dyn_yue_1322"
+		"dyn_yue_1323"
+		"dyn_yue_1327"
+		"dyn_yue_1337"
+		"dyn_yue_1344"
+		"dyn_yue_1345"
+		"dyn_yue_1348"
+		"dyn_yue_1350"
+		"dyn_yue_1351"
+		"dyn_yue_1357"
+		"dyn_yue_1360"
+		"dyn_yue_1362"
+		"dyn_yue_1363"
+		"dyn_yue_1367"
+		"dyn_yue_1369"
+		"dyn_yue_1372"
+		"dyn_yue_1379"
+		"dyn_yue_1381"
+		"dyn_yue_1409"
+		"dyn_yue_1414"
+		"dyn_yue_1424"
+		"dyn_yue_1429"
+		"dyn_yue_1438"
+		"dyn_yue_1446"
+		"dyn_yue_1448"
+		"dyn_yue_1455"
+		"dyn_yue_1458"
+		"dyn_yue_1471"
+		"dyn_yue_1472"
+		"dyn_yue_1478"
+		"dyn_yue_1508"
+		"dyn_yue_1518"
+		"dyn_yue_1560"
+		"dyn_yue_1563"
+		"dyn_yue_1566"
+		"dyn_yue_1572"
+		"dyn_yue_1596"
+		"dyn_yue_1597"
+		"dyn_yue_1598"
+		"dyn_yue_1603"
+		"dyn_yue_1626"
+		"dyn_yue_1627"
+		"dyn_yue_1628"
+		"dyn_yue_1630"
+		"dyn_yue_1639"
+		"dyn_yue_1649"
+		"dyn_yue_1660"
+		"dyn_yue_1670"
+		"dyn_yue_1675"
+		"dyn_yue_1690"
+		"dyn_yue_1712"
+		"dyn_yue_1728"
+		"dyn_yue_1730"
+		"dyn_yue_1738"
+		"dyn_yue_1756"
+		"dyn_yue_1776"
+		"dyn_yue_1783"
+		"dyn_yue_1920"
+		"dyn_yue_1947"
+		"dyn_yue_1957"
+		"dyn_yue_1970"
+		"dyn_yue_2019"
+		"dyn_yue_2037"
+		"dyn_yue_2047"
+		"dyn_yue_2051"
+		"dyn_yue_2052"
+		"dyn_yue_2058"
+		"dyn_yue_2069"
+		"dyn_yue_2071"
+		"dyn_yue_2075"
+		"dyn_yue_2083"
+		"dyn_yue_2105"
+		"dyn_yue_2263"
+		"dyn_yue_2388"
+		"dyn_yue_2407"
+		"dyn_yue_2417"
+		"dyn_yue_2429"
+		"dyn_yue_2448"
+		"dyn_yue_2455"
+		"dyn_yue_2457"
+		"dyn_yue_2490"
+		"dyn_yue_2494"
+		"dyn_yue_2496"
+		"dyn_yue_2501"
+		"dyn_yue_2513"
+		"dyn_yue_2514"
+		"dyn_yue_2516"
+		"dyn_yue_2518"
+		"dyn_yue_2528"
+		"dyn_yue_2529"
+		"dyn_yue_2535"
+		"dyn_yue_2552"
+		"dyn_yue_2555"
+		"dyn_yue_2575"
+		"dyn_yue_2580"
+		"dyn_yue_2582"
+		"dyn_yue_2589"
+		"dyn_yue_2612"
+		"dyn_yue_2613"
+		"dyn_yue_2621"
+		"dyn_yue_2629"
+		"dyn_yue_2631"
+		"dyn_yue_2635"
+		"dyn_yue_2639"
+		"dyn_yue_2646"
+		"dyn_yue_2651"
+		"dyn_yue_2672"
+		"dyn_yue_2686"
+		"dyn_yue_2688"
+		"dyn_yue_2692"
+		"dyn_yue_2693"
+		"dyn_yue_2698"
+		"dyn_yue_2710"
+		"dyn_yue_2718"
+		"dyn_yue_2719"
+		"dyn_yue_2733"
+		"dyn_yue_2734"
+		"dyn_yue_2784"
+		"dyn_yue_2799"
+		"dyn_yue_2806"
+		"dyn_yue_2837"
+		"dyn_yue_2867"
+		"dyn_yue_2868"
+		"dyn_yue_2869"
+		"dyn_yue_2905"
+		"dyn_yue_2938"
+		"dyn_yue_2940"
+		"dyn_yue_2962"
+		"dyn_yue_2975"
+		"dyn_yue_2976"
+		"dyn_yue_3007"
+		"dyn_yue_3008"
+		"dyn_yue_3009"
+		"dyn_yue_3016"
+		"dyn_yue_3018"
+		"dyn_yue_3019"
+		"dyn_yue_3029"
+		"dyn_yue_3055"
+		"dyn_yue_3068"
+		"dyn_yue_3069"
+		"dyn_yue_3076"
+		"dyn_yue_3078"
+		"dyn_yue_3087"
+		"dyn_yue_3088"
+		"dyn_yue_3097"
+		"dyn_yue_3163"
+		"dyn_yue_3184"
+		"dyn_yue_3189"
+		"dyn_yue_3205"
+		"dyn_yue_3266"
+		"dyn_yue_3277"
+		"dyn_yue_3282"
+		"dyn_yue_3306"
+		"dyn_yue_3323"
+		"dyn_yue_3326"
+		"dyn_yue_3341"
+		"dyn_yue_3344"
+		"dyn_yue_3382"
+		"dyn_yue_3450"
+		"dyn_yue_3527"
+		"dyn_yue_3542"
+		"dyn_yue_3574"
+		"dyn_yue_3601"
+		"dyn_yue_3662"
+		"dyn_yue_3664"
+		"dyn_yue_3668"
+		"dyn_yue_3695"
+		"dyn_yue_3768"
+		"dyn_yue_3769"
+		"dyn_yue_3803"
+		"dyn_yue_3830"
+		"dyn_yue_3914"
+		"dyn_yue_3927"
+		"dyn_yue_3944"
+		"dyn_yue_3945"
+		"dyn_yue_3947"
+		"dyn_yue_3968"
+		"dyn_yue_4101"
+		"dyn_yue_4122"
+		"dyn_yue_4134"
+		"dyn_yue_4135"
+		"dyn_yue_4141"
+		"dyn_yue_4149"
+		"dyn_yue_4151"
+		"dyn_yue_4161"
+		"dyn_yue_4234"
+		"dyn_yue_4258"
+		"dyn_yue_4359"
+		"dyn_yue_4371"
+		"dyn_yue_4376"
+		"dyn_yue_4389"
+		"dyn_yue_4416"
+		"dyn_yue_4428"
+		"dyn_yue_4440"
+		"dyn_yue_4453"
+		"dyn_yue_4476"
+		"dyn_yue_4500"
+		"dyn_yue_4535"
+		"dyn_yue_4545"
+		"dyn_yue_4547"
+		"dyn_yue_4555"
+		"dyn_yue_4569"
+		"dyn_yue_4572"
+		"dyn_yue_4619"
+		"dyn_yue_4675"
+		"dyn_yue_4694"
+		"dyn_yue_4717"
+		"dyn_yue_4725"
+		"dyn_yue_4745"
+		"dyn_yue_4764"
+		"dyn_yue_4767"
+		"dyn_yue_4792"
+		"dyn_yue_4807"
+		"dyn_yue_4842"
+		"dyn_yue_4886"
+		"dyn_yue_4924"
+		"dyn_yue_5012"
+		"dyn_yue_5017"
+		"dyn_yue_5040"
+		"dyn_yue_5045"
+		"dyn_yue_5049"
+		"dyn_yue_5056"
+		"dyn_yue_5105"
+		"dyn_yue_5113"
+		"dyn_yue_5119"
+		"dyn_yue_5135"
+		"dyn_yue_5170"
+		"dyn_yue_5171"
+		"dyn_yue_5174"
+		"dyn_yue_5258"
+		"dyn_yue_5289"
+		"dyn_yue_5337"
+		"dyn_yue_5360"
+		"dyn_yue_5363"
+		"dyn_yue_5373"
+		"dyn_yue_5379"
+		"dyn_yue_5384"
+		"dyn_yue_5400"
+		"dyn_yue_5403"
+		"dyn_yue_5423"
+		"dyn_yue_5424"
+		"dyn_yue_5427"
+		"dyn_yue_5450"
+		"dyn_yue_5459"
+		"dyn_yue_5478"
+		"dyn_yue_5514"
+		"dyn_yue_5516"
+		"dyn_yue_5536"
+		"dyn_yue_5543"
+		"dyn_yue_5547"
+		"dyn_yue_5556"
+		"dyn_yue_5566"
+		"dyn_yue_5570"
+		"dyn_yue_5588"
+		"dyn_yue_5591"
+		"dyn_yue_5592"
+		"dyn_yue_5618"
+		"dyn_yue_5631"
+		"dyn_yue_5636"
+		"dyn_yue_5641"
+		"dyn_yue_5663"
+		"dyn_yue_5671"
+		"dyn_yue_5677"
+		"dyn_yue_5684"
+		"dyn_yue_5685"
+		"dyn_yue_5688"
+		"dyn_yue_5695"
+		"dyn_yue_5713"
+		"dyn_yue_5816"
+		"dyn_yue_5898"
+		"dyn_yue_5899"
+		"dyn_yue_5902"
+		"dyn_yue_5913"
+		"dyn_yue_5941"
+		"dyn_yue_5952"
+		"dyn_yue_5969"
+		"dyn_yue_6009"
+		"dyn_yue_6043"
+		"dyn_yue_6060"
+		"dyn_yue_6079"
+		"dyn_yue_6088"
+		"dyn_yue_6124"
+		"dyn_yue_6151"
+		"dyn_yue_6175"
+		"dyn_yue_6186"
+		"dyn_yue_6200"
+		"dyn_yue_6222"
+		"dyn_yue_6223"
+		"dyn_yue_6253"
+		"dyn_yue_6258"
+		"dyn_yue_6296"
+		"dyn_yue_6300"
+		"dyn_yue_6316"
+		"dyn_yue_6320"
+		"dyn_yue_6321"
+		"dyn_yue_6328"
+		"dyn_yue_6333"
+		"dyn_yue_6339"
+		"dyn_yue_6351"
+		"dyn_yue_6378"
+		"dyn_yue_6390"
+		"dyn_yue_6392"
+		"dyn_yue_6424"
+		"dyn_yue_6508"
+		"dyn_yue_6580"
+		"dyn_yue_6581"
+		"dyn_yue_6593"
+		"dyn_yue_6614"
+		"dyn_yue_6629"
+		"dyn_yue_6639"
+		"dyn_yue_6647"
+		"dyn_yue_6688"
+		"dyn_yue_6708"
+		"dyn_yue_6717"
+		"dyn_yue_6719"
+		"dyn_yue_6726"
+		"dyn_yue_6728"
+		"dyn_yue_6730"
+		"dyn_yue_6732"
+		"dyn_yue_6733"
+		"dyn_yue_6735"
+		"dyn_yue_6745"
+		"dyn_yue_6750"
+		"dyn_yue_6751"
+		"dyn_yue_6753"
+		"dyn_yue_6757"
+		"dyn_yue_6759"
+		"dyn_yue_6760"
+		"dyn_yue_6762"
+		"dyn_yue_6768"
+		"dyn_yue_6772"
+		"dyn_yue_6774"
+		"dyn_yue_6782"
+		"dyn_yue_6786"
+		"dyn_yue_6787"
+		"dyn_yue_6855"
+		"dyn_yue_6873"
+		"dyn_yue_6892"
+		"dyn_yue_6929"
+		"dyn_yue_6988"
+		"dyn_yue_7024"
+		"dyn_yue_7028"
+		"dyn_yue_7036"
+		"dyn_yue_7051"
+		"dyn_yue_7067"
+		"dyn_yue_7070"
+		"dyn_yue_7074"
+		"dyn_yue_7086"
+		"dyn_yue_7093"
+		"dyn_yue_7113"
+		"dyn_yue_7115"
+		"dyn_yue_7118"
+		"dyn_yue_7120"
+		"dyn_yue_7122"
+		"dyn_yue_7127"
+		"dyn_yue_7131"
+		"dyn_yue_7136"
+		"dyn_yue_7167"
+		"dyn_yue_7175"
+		"dyn_yue_7191"
+		"dyn_yue_7202"
+		"dyn_yue_7246"
+		"dyn_yue_7255"
+		"dyn_yue_7263"
+		"dyn_yue_7279"
+		"dyn_yue_7281"
+		"dyn_yue_7300"
+		"dyn_yue_7309"
+		"dyn_yue_7312"
+		"dyn_yue_7346"
+		"dyn_yue_7357"
+		"dyn_yue_7402"
+		"dyn_yue_7437"
+		"dyn_yue_7456"
+		"dyn_yue_7458"
+		"dyn_yue_7482"
+		"dyn_yue_7559"
+		"dyn_yue_7614"
+		"dyn_yue_7625"
+		"dyn_yue_7627"
+		"dyn_yue_7637"
+		"dyn_yue_7639"
+		"dyn_yue_7685"
+		"dyn_yue_7773"
+		"dyn_yue_7796"
+		"dyn_yue_7802"
+		"dyn_yue_7806"
+		"dyn_yue_7812"
+		"dyn_yue_7871"
+		"dyn_yue_7893"
+		"dyn_yue_7895"
+		"dyn_yue_8001"
+		"dyn_yue_8016"
+		"dyn_yue_8034"
+		"dyn_yue_8093"
+		"dyn_yue_8369"
+		"dyn_yue_0002"
+		"dyn_yue_0023"
+		"dyn_yue_0045"
+		"dyn_yue_0060"
+		"dyn_yue_0061"
+		"dyn_yue_0064"
+		"dyn_yue_0073"
+		"dyn_yue_0092"
+		"dyn_yue_0102"
+		"dyn_yue_0104"
+		"dyn_yue_0111"
+		"dyn_yue_0112"
+		"dyn_yue_0117"
+		"dyn_yue_0122"
+		"dyn_yue_0124"
+		"dyn_yue_0126"
+		"dyn_yue_0130"
+		"dyn_yue_0141"
+		"dyn_yue_0143"
+		"dyn_yue_0149"
+		"dyn_yue_0151"
+		"dyn_yue_0152"
+		"dyn_yue_0157"
+		"dyn_yue_0171"
+		"dyn_yue_0186"
+		"dyn_yue_0205"
+		"dyn_yue_0207"
+		"dyn_yue_0208"
+		"dyn_yue_0242"
+		"dyn_yue_0265"
+		"dyn_yue_0328"
+		"dyn_yue_0337"
+		"dyn_yue_0339"
+		"dyn_yue_0356"
+		"dyn_yue_0361"
+		"dyn_yue_0370"
+		"dyn_yue_0373"
+		"dyn_yue_0396"
+		"dyn_yue_0397"
+		"dyn_yue_0400"
+		"dyn_yue_0405"
+		"dyn_yue_0407"
+		"dyn_yue_0431"
+		"dyn_yue_0443"
+		"dyn_yue_0446"
+		"dyn_yue_0448"
+		"dyn_yue_0491"
+		"dyn_yue_0525"
+		"dyn_yue_0545"
+		"dyn_yue_0551"
+		"dyn_yue_0562"
+		"dyn_yue_0575"
+		"dyn_yue_0587"
+		"dyn_yue_0589"
+		"dyn_yue_0592"
+		"dyn_yue_0593"
+		"dyn_yue_0603"
+		"dyn_yue_0604"
+		"dyn_yue_0606"
+		"dyn_yue_0615"
+		"dyn_yue_0626"
+		"dyn_yue_0632"
+		"dyn_yue_0654"
+		"dyn_yue_0657"
+		"dyn_yue_0669"
+		"dyn_yue_0670"
+		"dyn_yue_0673"
+		"dyn_yue_0674"
+		"dyn_yue_0679"
+		"dyn_yue_0683"
+		"dyn_yue_0686"
+		"dyn_yue_0702"
+		"dyn_yue_0712"
+		"dyn_yue_0719"
+		"dyn_yue_0729"
+		"dyn_yue_0735"
+		"dyn_yue_0752"
+		"dyn_yue_0761"
+		"dyn_yue_0781"
+		"dyn_yue_0794"
+		"dyn_yue_0827"
+		"dyn_yue_0829"
+		"dyn_yue_0830"
+		"dyn_yue_0917"
+		"dyn_yue_0948"
+	}
+
+	male_names = {
+		# Male-only
+		yue_0385_A yue_0474_A yue_0956_A yue_0981_A yue_1132_A yue_1226_A yue_1405_A yue_1484_A yue_1627_A yue_2525_A
+		yue_2651_A yue_3419_A yue_4737_A yue_5346_A yue_6134_A
+		# Either sex
+		yue_0079_A yue_0163_A yue_0193_A yue_0251_A yue_0256_A yue_0308_A yue_0320_A yue_0336_A yue_0418_A yue_0420_A
+		yue_0500_A yue_0516_A yue_0523_A yue_0670_A yue_0689_A yue_0689_A yue_0735_A yue_0948_A yue_1115_A yue_1164_A
+		yue_1172_A yue_1218_A yue_1227_A yue_1331_A yue_1337_A yue_1344_A yue_1355_A yue_1367_A yue_1381_A yue_1395_A yue_1526_A
+		yue_1550_A yue_1565_A yue_1696_A yue_1730_A yue_1738_A yue_1792_A yue_1807_A yue_1813_A yue_1837_A yue_1837_A yue_1854_A
+		yue_1938_A yue_1947_A yue_1970_A yue_1979_A yue_2052_A yue_2398_A yue_2404_A yue_2429_A yue_2490_A yue_2504_A 
+		yue_2514_A yue_2533_A yue_2535_A yue_2541_A yue_2545_A yue_2606_A yue_2638_A yue_2639_A yue_2639_A yue_2710_A
+		yue_2734_A yue_2767_A yue_2837_A yue_2970_A yue_2973_A yue_2976_A yue_3015_A yue_3057_A yue_3068_A yue_3109_A
+		yue_3134_A yue_3152_A yue_3160_A yue_3219_A yue_3390_A yue_3425_A yue_3447_A yue_3552_A yue_3768_A yue_3791_A
+		yue_3829_A yue_3940_A yue_4101_A yue_4102_A yue_4135_A yue_4176_A yue_4320_A yue_4382_A yue_4423_A yue_4428_A
+		yue_4539_A yue_4790_A yue_5019_A yue_5030_A yue_5046_A yue_5333_A yue_5358_A yue_5363_A yue_5364_A yue_5383_A
+		yue_5440_A yue_5478_A yue_5593_A yue_5628_A yue_5633_A yue_5676_A yue_5816_A yue_5988_A yue_6297_A yue_6363_A
+		yue_6389_A yue_6540_A yue_6671_A yue_6855_A yue_6875_A yue_6892_A yue_6900_A yue_6930_A yue_7022_A yue_7122_A
+		yue_7127_A yue_7161_A yue_7183_A yue_7185_A yue_7209_A yue_7227_A yue_7230_A yue_7234_A yue_7299_A yue_7311_A
+		yue_7449_A yue_7703_A yue_7787_A yue_7812_A yue_7893_A yue_8002_A yue_8113_A
+		# Male-only
+		yue_0385_B yue_0474_B yue_0956_B yue_0981_B yue_1132_B yue_1226_B yue_1405_B yue_1484_B yue_1627_B yue_2525_B
+		yue_2651_B yue_3419_B yue_4737_B yue_5346_B yue_6134_B
+		# Either sex
+		yue_0079_B yue_0163_B yue_0193_B yue_0251_B yue_0256_B yue_0308_B yue_0320_B yue_0336_B yue_0418_B yue_0420_B
+		yue_0500_B yue_0516_B yue_0523_B yue_0670_B yue_0689_B yue_0689_B yue_0735_B yue_0948_B yue_1115_B yue_1164_B
+		yue_1172_B yue_1218_B yue_1227_B yue_1331_B yue_1337_B yue_1344_B yue_1355_B yue_1367_B yue_1381_B yue_1395_B yue_1526_B
+		yue_1550_B yue_1565_B yue_1696_B yue_1730_B yue_1738_B yue_1792_B yue_1807_B yue_1813_B yue_1837_B yue_1837_B yue_1854_B
+		yue_1938_B yue_1947_B yue_1970_B yue_1979_B yue_2052_B yue_2398_B yue_2404_B yue_2429_B yue_2490_B yue_2504_B 
+		yue_2514_B yue_2533_B yue_2535_B yue_2541_B yue_2545_B yue_2606_B yue_2638_B yue_2639_B yue_2639_B yue_2710_B
+		yue_2734_B yue_2767_B yue_2837_B yue_2970_B yue_2973_B yue_2976_B yue_3015_B yue_3057_B yue_3068_B yue_3109_B
+		yue_3134_B yue_3152_B yue_3160_B yue_3219_B yue_3390_B yue_3425_B yue_3447_B yue_3552_B yue_3768_B yue_3791_B
+		yue_3829_B yue_3940_B yue_4101_B yue_4102_B yue_4135_B yue_4176_B yue_4320_B yue_4382_B yue_4423_B yue_4428_B
+		yue_4539_B yue_4790_B yue_5019_B yue_5030_B yue_5046_B yue_5333_B yue_5358_B yue_5363_B yue_5364_B yue_5383_B
+		yue_5440_B yue_5478_B yue_5593_B yue_5628_B yue_5633_B yue_5676_B yue_5816_B yue_5988_B yue_6297_B yue_6363_B
+		yue_6389_B yue_6540_B yue_6671_B yue_6855_B yue_6875_B yue_6892_B yue_6900_B yue_6930_B yue_7022_B yue_7122_B
+		yue_7127_B yue_7161_B yue_7183_B yue_7185_B yue_7209_B yue_7227_B yue_7230_B yue_7234_B yue_7299_B yue_7311_B
+		yue_7449_B yue_7703_B yue_7787_B yue_7812_B yue_7893_B yue_8002_B yue_8113_B
+		# Male-only
+		yue_0385_C yue_0474_C yue_0956_C yue_0981_C yue_1132_C yue_1226_C yue_1405_C yue_1484_C yue_1627_C yue_2525_C
+		yue_2651_C yue_3419_C yue_4737_C yue_5346_C yue_6134_C
+		# Either sex
+		yue_0079_C yue_0163_C yue_0193_C yue_0251_C yue_0256_C yue_0308_C yue_0320_C yue_0336_C yue_0418_C yue_0420_C
+		yue_0500_C yue_0516_C yue_0523_C yue_0670_C yue_0689_C yue_0689_C yue_0735_C yue_0948_C yue_1115_C yue_1164_C
+		yue_1172_C yue_1218_C yue_1227_C yue_1331_C yue_1337_C yue_1344_C yue_1355_C yue_1367_C yue_1381_C yue_1395_C yue_1526_C
+		yue_1550_C yue_1565_C yue_1696_C yue_1730_C yue_1738_C yue_1792_C yue_1807_C yue_1813_C yue_1837_C yue_1837_C yue_1854_C
+		yue_1938_C yue_1947_C yue_1970_C yue_1979_C yue_2052_C yue_2398_C yue_2404_C yue_2429_C yue_2490_C yue_2504_C 
+		yue_2514_C yue_2533_C yue_2535_C yue_2541_C yue_2545_C yue_2606_C yue_2638_C yue_2639_C yue_2639_C yue_2710_C
+		yue_2734_C yue_2767_C yue_2837_C yue_2970_C yue_2973_C yue_2976_C yue_3015_C yue_3057_C yue_3068_C yue_3109_C
+		yue_3134_C yue_3152_C yue_3160_C yue_3219_C yue_3390_C yue_3425_C yue_3447_C yue_3552_C yue_3768_C yue_3791_C
+		yue_3829_C yue_3940_C yue_4101_C yue_4102_C yue_4135_C yue_4176_C yue_4320_C yue_4382_C yue_4423_C yue_4428_C
+		yue_4539_C yue_4790_C yue_5019_C yue_5030_C yue_5046_C yue_5333_C yue_5358_C yue_5363_C yue_5364_C yue_5383_C
+		yue_5440_C yue_5478_C yue_5593_C yue_5628_C yue_5633_C yue_5676_C yue_5816_C yue_5988_C yue_6297_C yue_6363_C
+		yue_6389_C yue_6540_C yue_6671_C yue_6855_C yue_6875_C yue_6892_C yue_6900_C yue_6930_C yue_7022_C yue_7122_C
+		yue_7127_C yue_7161_C yue_7183_C yue_7185_C yue_7209_C yue_7227_C yue_7230_C yue_7234_C yue_7299_C yue_7311_C
+		yue_7449_C yue_7703_C yue_7787_C yue_7812_C yue_7893_C yue_8002_C yue_8113_C
+		# Male-only
+		yue_0385_D yue_0474_D yue_0956_D yue_0981_D yue_1132_D yue_1226_D yue_1405_D yue_1484_D yue_1627_D yue_2525_D
+		yue_2651_D yue_3419_D yue_4737_D yue_5346_D yue_6134_D
+		# Either sex
+		yue_0079_D yue_0163_D yue_0193_D yue_0251_D yue_0256_D yue_0308_D yue_0320_D yue_0336_D yue_0418_D yue_0420_D
+		yue_0500_D yue_0516_D yue_0523_D yue_0670_D yue_0689_D yue_0689_D yue_0735_D yue_0948_D yue_1115_D yue_1164_D
+		yue_1172_D yue_1218_D yue_1227_D yue_1331_D yue_1337_D yue_1344_D yue_1355_D yue_1367_D yue_1381_D yue_1395_D yue_1526_D
+		yue_1550_D yue_1565_D yue_1696_D yue_1730_D yue_1738_D yue_1792_D yue_1807_D yue_1813_D yue_1837_D yue_1837_D yue_1854_D
+		yue_1938_D yue_1947_D yue_1970_D yue_1979_D yue_2052_D yue_2398_D yue_2404_D yue_2429_D yue_2490_D yue_2504_D 
+		yue_2514_D yue_2533_D yue_2535_D yue_2541_D yue_2545_D yue_2606_D yue_2638_D yue_2639_D yue_2639_D yue_2710_D
+		yue_2734_D yue_2767_D yue_2837_D yue_2970_D yue_2973_D yue_2976_D yue_3015_D yue_3057_D yue_3068_D yue_3109_D
+		yue_3134_D yue_3152_D yue_3160_D yue_3219_D yue_3390_D yue_3425_D yue_3447_D yue_3552_D yue_3768_D yue_3791_D
+		yue_3829_D yue_3940_D yue_4101_D yue_4102_D yue_4135_D yue_4176_D yue_4320_D yue_4382_D yue_4423_D yue_4428_D
+		yue_4539_D yue_4790_D yue_5019_D yue_5030_D yue_5046_D yue_5333_D yue_5358_D yue_5363_D yue_5364_D yue_5383_D
+		yue_5440_D yue_5478_D yue_5593_D yue_5628_D yue_5633_D yue_5676_D yue_5816_D yue_5988_D yue_6297_D yue_6363_D
+		yue_6389_D yue_6540_D yue_6671_D yue_6855_D yue_6875_D yue_6892_D yue_6900_D yue_6930_D yue_7022_D yue_7122_D
+		yue_7127_D yue_7161_D yue_7183_D yue_7185_D yue_7209_D yue_7227_D yue_7230_D yue_7234_D yue_7299_D yue_7311_D
+		yue_7449_D yue_7703_D yue_7787_D yue_7812_D yue_7893_D yue_8002_D yue_8113_D
+		# Male-only
+		yue_0385_E yue_0474_E yue_0956_E yue_0981_E yue_1132_E yue_1226_E yue_1405_E yue_1484_E yue_1627_E yue_2525_E
+		yue_2651_E yue_3419_E yue_4737_E yue_5346_E yue_6134_E
+		# Either sex
+		yue_0079_E yue_0163_E yue_0193_E yue_0251_E yue_0256_E yue_0308_E yue_0320_E yue_0336_E yue_0418_E yue_0420_E
+		yue_0500_E yue_0516_E yue_0523_E yue_0670_E yue_0689_E yue_0689_E yue_0735_E yue_0948_E yue_1115_E yue_1164_E
+		yue_1172_E yue_1218_E yue_1227_E yue_1331_E yue_1337_E yue_1344_E yue_1355_E yue_1367_E yue_1381_E yue_1395_E yue_1526_E
+		yue_1550_E yue_1565_E yue_1696_E yue_1730_E yue_1738_E yue_1792_E yue_1807_E yue_1813_E yue_1837_E yue_1837_E yue_1854_E
+		yue_1938_E yue_1947_E yue_1970_E yue_1979_E yue_2052_E yue_2398_E yue_2404_E yue_2429_E yue_2490_E yue_2504_E 
+		yue_2514_E yue_2533_E yue_2535_E yue_2541_E yue_2545_E yue_2606_E yue_2638_E yue_2639_E yue_2639_E yue_2710_E
+		yue_2734_E yue_2767_E yue_2837_E yue_2970_E yue_2973_E yue_2976_E yue_3015_E yue_3057_E yue_3068_E yue_3109_E
+		yue_3134_E yue_3152_E yue_3160_E yue_3219_E yue_3390_E yue_3425_E yue_3447_E yue_3552_E yue_3768_E yue_3791_E
+		yue_3829_E yue_3940_E yue_4101_E yue_4102_E yue_4135_E yue_4176_E yue_4320_E yue_4382_E yue_4423_E yue_4428_E
+		yue_4539_E yue_4790_E yue_5019_E yue_5030_E yue_5046_E yue_5333_E yue_5358_E yue_5363_E yue_5364_E yue_5383_E
+		yue_5440_E yue_5478_E yue_5593_E yue_5628_E yue_5633_E yue_5676_E yue_5816_E yue_5988_E yue_6297_E yue_6363_E
+		yue_6389_E yue_6540_E yue_6671_E yue_6855_E yue_6875_E yue_6892_E yue_6900_E yue_6930_E yue_7022_E yue_7122_E
+		yue_7127_E yue_7161_E yue_7183_E yue_7185_E yue_7209_E yue_7227_E yue_7230_E yue_7234_E yue_7299_E yue_7311_E
+		yue_7449_E yue_7703_E yue_7787_E yue_7812_E yue_7893_E yue_8002_E yue_8113_E
+		# Male-only
+		yue_0385_F yue_0474_F yue_0956_F yue_0981_F yue_1132_F yue_1226_F yue_1405_F yue_1484_F yue_1627_F yue_2525_F
+		yue_2651_F yue_3419_F yue_4737_F yue_5346_F yue_6134_F
+		# Either sex
+		yue_0079_F yue_0163_F yue_0193_F yue_0251_F yue_0256_F yue_0308_F yue_0320_F yue_0336_F yue_0418_F yue_0420_F
+		yue_0500_F yue_0516_F yue_0523_F yue_0670_F yue_0689_F yue_0689_F yue_0735_F yue_0948_F yue_1115_F yue_1164_F
+		yue_1172_F yue_1218_F yue_1227_F yue_1331_F yue_1337_F yue_1344_F yue_1355_F yue_1367_F yue_1381_F yue_1395_F yue_1526_F
+		yue_1550_F yue_1565_F yue_1696_F yue_1730_F yue_1738_F yue_1792_F yue_1807_F yue_1813_F yue_1837_F yue_1837_F yue_1854_F
+		yue_1938_F yue_1947_F yue_1970_F yue_1979_F yue_2052_F yue_2398_F yue_2404_F yue_2429_F yue_2490_F yue_2504_F 
+		yue_2514_F yue_2533_F yue_2535_F yue_2541_F yue_2545_F yue_2606_F yue_2638_F yue_2639_F yue_2639_F yue_2710_F
+		yue_2734_F yue_2767_F yue_2837_F yue_2970_F yue_2973_F yue_2976_F yue_3015_F yue_3057_F yue_3068_F yue_3109_F
+		yue_3134_F yue_3152_F yue_3160_F yue_3219_F yue_3390_F yue_3425_F yue_3447_F yue_3552_F yue_3768_F yue_3791_F
+		yue_3829_F yue_3940_F yue_4101_F yue_4102_F yue_4135_F yue_4176_F yue_4320_F yue_4382_F yue_4423_F yue_4428_F
+		yue_4539_F yue_4790_F yue_5019_F yue_5030_F yue_5046_F yue_5333_F yue_5358_F yue_5363_F yue_5364_F yue_5383_F
+		yue_5440_F yue_5478_F yue_5593_F yue_5628_F yue_5633_F yue_5676_F yue_5816_F yue_5988_F yue_6297_F yue_6363_F
+		yue_6389_F yue_6540_F yue_6671_F yue_6855_F yue_6875_F yue_6892_F yue_6900_F yue_6930_F yue_7022_F yue_7122_F
+		yue_7127_F yue_7161_F yue_7183_F yue_7185_F yue_7209_F yue_7227_F yue_7230_F yue_7234_F yue_7299_F yue_7311_F
+		yue_7449_F yue_7703_F yue_7787_F yue_7812_F yue_7893_F yue_8002_F yue_8113_F
+		# Male-only
+		yue_0385_G yue_0474_G yue_0956_G yue_0981_G yue_1132_G yue_1226_G yue_1405_G yue_1484_G yue_1627_G yue_2525_G
+		yue_2651_G yue_3419_G yue_4737_G yue_5346_G yue_6134_G
+		# Either sex
+		yue_0079_G yue_0163_G yue_0193_G yue_0251_G yue_0256_G yue_0308_G yue_0320_G yue_0336_G yue_0418_G yue_0420_G
+		yue_0500_G yue_0516_G yue_0523_G yue_0670_G yue_0689_G yue_0689_G yue_0735_G yue_0948_G yue_1115_G yue_1164_G
+		yue_1172_G yue_1218_G yue_1227_G yue_1331_G yue_1337_G yue_1344_G yue_1355_G yue_1367_G yue_1381_G yue_1395_G yue_1526_G
+		yue_1550_G yue_1565_G yue_1696_G yue_1730_G yue_1738_G yue_1792_G yue_1807_G yue_1813_G yue_1837_G yue_1837_G yue_1854_G
+		yue_1938_G yue_1947_G yue_1970_G yue_1979_G yue_2052_G yue_2398_G yue_2404_G yue_2429_G yue_2490_G yue_2504_G 
+		yue_2514_G yue_2533_G yue_2535_G yue_2541_G yue_2545_G yue_2606_G yue_2638_G yue_2639_G yue_2639_G yue_2710_G
+		yue_2734_G yue_2767_G yue_2837_G yue_2970_G yue_2973_G yue_2976_G yue_3015_G yue_3057_G yue_3068_G yue_3109_G
+		yue_3134_G yue_3152_G yue_3160_G yue_3219_G yue_3390_G yue_3425_G yue_3447_G yue_3552_G yue_3768_G yue_3791_G
+		yue_3829_G yue_3940_G yue_4101_G yue_4102_G yue_4135_G yue_4176_G yue_4320_G yue_4382_G yue_4423_G yue_4428_G
+		yue_4539_G yue_4790_G yue_5019_G yue_5030_G yue_5046_G yue_5333_G yue_5358_G yue_5363_G yue_5364_G yue_5383_G
+		yue_5440_G yue_5478_G yue_5593_G yue_5628_G yue_5633_G yue_5676_G yue_5816_G yue_5988_G yue_6297_G yue_6363_G
+		yue_6389_G yue_6540_G yue_6671_G yue_6855_G yue_6875_G yue_6892_G yue_6900_G yue_6930_G yue_7022_G yue_7122_G
+		yue_7127_G yue_7161_G yue_7183_G yue_7185_G yue_7209_G yue_7227_G yue_7230_G yue_7234_G yue_7299_G yue_7311_G
+		yue_7449_G yue_7703_G yue_7787_G yue_7812_G yue_7893_G yue_8002_G yue_8113_G
+		# Male-only
+		yue_0385_H yue_0474_H yue_0956_H yue_0981_H yue_1132_H yue_1226_H yue_1405_H yue_1484_H yue_1627_H yue_2525_H
+		yue_2651_H yue_3419_H yue_4737_H yue_5346_H yue_6134_H
+		# Either sex
+		yue_0079_H yue_0163_H yue_0193_H yue_0251_H yue_0256_H yue_0308_H yue_0320_H yue_0336_H yue_0418_H yue_0420_H
+		yue_0500_H yue_0516_H yue_0523_H yue_0670_H yue_0689_H yue_0689_H yue_0735_H yue_0948_H yue_1115_H yue_1164_H
+		yue_1172_H yue_1218_H yue_1227_H yue_1331_H yue_1337_H yue_1344_H yue_1355_H yue_1367_H yue_1381_H yue_1395_H yue_1526_H
+		yue_1550_H yue_1565_H yue_1696_H yue_1730_H yue_1738_H yue_1792_H yue_1807_H yue_1813_H yue_1837_H yue_1837_H yue_1854_H
+		yue_1938_H yue_1947_H yue_1970_H yue_1979_H yue_2052_H yue_2398_H yue_2404_H yue_2429_H yue_2490_H yue_2504_H 
+		yue_2514_H yue_2533_H yue_2535_H yue_2541_H yue_2545_H yue_2606_H yue_2638_H yue_2639_H yue_2639_H yue_2710_H
+		yue_2734_H yue_2767_H yue_2837_H yue_2970_H yue_2973_H yue_2976_H yue_3015_H yue_3057_H yue_3068_H yue_3109_H
+		yue_3134_H yue_3152_H yue_3160_H yue_3219_H yue_3390_H yue_3425_H yue_3447_H yue_3552_H yue_3768_H yue_3791_H
+		yue_3829_H yue_3940_H yue_4101_H yue_4102_H yue_4135_H yue_4176_H yue_4320_H yue_4382_H yue_4423_H yue_4428_H
+		yue_4539_H yue_4790_H yue_5019_H yue_5030_H yue_5046_H yue_5333_H yue_5358_H yue_5363_H yue_5364_H yue_5383_H
+		yue_5440_H yue_5478_H yue_5593_H yue_5628_H yue_5633_H yue_5676_H yue_5816_H yue_5988_H yue_6297_H yue_6363_H
+		yue_6389_H yue_6540_H yue_6671_H yue_6855_H yue_6875_H yue_6892_H yue_6900_H yue_6930_H yue_7022_H yue_7122_H
+		yue_7127_H yue_7161_H yue_7183_H yue_7185_H yue_7209_H yue_7227_H yue_7230_H yue_7234_H yue_7299_H yue_7311_H
+		yue_7449_H yue_7703_H yue_7787_H yue_7812_H yue_7893_H yue_8002_H yue_8113_H
+		# Male-only
+		yue_0385_I yue_0474_I yue_0956_I yue_0981_I yue_1132_I yue_1226_I yue_1405_I yue_1484_I yue_1627_I yue_2525_I
+		yue_2651_I yue_3419_I yue_4737_I yue_5346_I yue_6134_I
+		# Either sex
+		yue_0079_I yue_0163_I yue_0193_I yue_0251_I yue_0256_I yue_0308_I yue_0320_I yue_0336_I yue_0418_I yue_0420_I
+		yue_0500_I yue_0516_I yue_0523_I yue_0670_I yue_0689_I yue_0689_I yue_0735_I yue_0948_I yue_1115_I yue_1164_I
+		yue_1172_I yue_1218_I yue_1227_I yue_1331_I yue_1337_I yue_1344_I yue_1355_I yue_1367_I yue_1381_I yue_1395_I yue_1526_I
+		yue_1550_I yue_1565_I yue_1696_I yue_1730_I yue_1738_I yue_1792_I yue_1807_I yue_1813_I yue_1837_I yue_1837_I yue_1854_I
+		yue_1938_I yue_1947_I yue_1970_I yue_1979_I yue_2052_I yue_2398_I yue_2404_I yue_2429_I yue_2490_I yue_2504_I 
+		yue_2514_I yue_2533_I yue_2535_I yue_2541_I yue_2545_I yue_2606_I yue_2638_I yue_2639_I yue_2639_I yue_2710_I
+		yue_2734_I yue_2767_I yue_2837_I yue_2970_I yue_2973_I yue_2976_I yue_3015_I yue_3057_I yue_3068_I yue_3109_I
+		yue_3134_I yue_3152_I yue_3160_I yue_3219_I yue_3390_I yue_3425_I yue_3447_I yue_3552_I yue_3768_I yue_3791_I
+		yue_3829_I yue_3940_I yue_4101_I yue_4102_I yue_4135_I yue_4176_I yue_4320_I yue_4382_I yue_4423_I yue_4428_I
+		yue_4539_I yue_4790_I yue_5019_I yue_5030_I yue_5046_I yue_5333_I yue_5358_I yue_5363_I yue_5364_I yue_5383_I
+		yue_5440_I yue_5478_I yue_5593_I yue_5628_I yue_5633_I yue_5676_I yue_5816_I yue_5988_I yue_6297_I yue_6363_I
+		yue_6389_I yue_6540_I yue_6671_I yue_6855_I yue_6875_I yue_6892_I yue_6900_I yue_6930_I yue_7022_I yue_7122_I
+		yue_7127_I yue_7161_I yue_7183_I yue_7185_I yue_7209_I yue_7227_I yue_7230_I yue_7234_I yue_7299_I yue_7311_I
+		yue_7449_I yue_7703_I yue_7787_I yue_7812_I yue_7893_I yue_8002_I yue_8113_I
+		# Male-only
+		yue_0385_J yue_0474_J yue_0956_J yue_0981_J yue_1132_J yue_1226_J yue_1405_J yue_1484_J yue_1627_J yue_2525_J
+		yue_2651_J yue_3419_J yue_4737_J yue_5346_J yue_6134_J
+		# Either sex
+		yue_0079_J yue_0163_J yue_0193_J yue_0251_J yue_0256_J yue_0308_J yue_0320_J yue_0336_J yue_0418_J yue_0420_J
+		yue_0500_J yue_0516_J yue_0523_J yue_0670_J yue_0689_J yue_0689_J yue_0735_J yue_0948_J yue_1115_J yue_1164_J
+		yue_1172_J yue_1218_J yue_1227_J yue_1331_J yue_1337_J yue_1344_J yue_1355_J yue_1367_J yue_1381_J yue_1395_J yue_1526_J
+		yue_1550_J yue_1565_J yue_1696_J yue_1730_J yue_1738_J yue_1792_J yue_1807_J yue_1813_J yue_1837_J yue_1837_J yue_1854_J
+		yue_1938_J yue_1947_J yue_1970_J yue_1979_J yue_2052_J yue_2398_J yue_2404_J yue_2429_J yue_2490_J yue_2504_J 
+		yue_2514_J yue_2533_J yue_2535_J yue_2541_J yue_2545_J yue_2606_J yue_2638_J yue_2639_J yue_2639_J yue_2710_J
+		yue_2734_J yue_2767_J yue_2837_J yue_2970_J yue_2973_J yue_2976_J yue_3015_J yue_3057_J yue_3068_J yue_3109_J
+		yue_3134_J yue_3152_J yue_3160_J yue_3219_J yue_3390_J yue_3425_J yue_3447_J yue_3552_J yue_3768_J yue_3791_J
+		yue_3829_J yue_3940_J yue_4101_J yue_4102_J yue_4135_J yue_4176_J yue_4320_J yue_4382_J yue_4423_J yue_4428_J
+		yue_4539_J yue_4790_J yue_5019_J yue_5030_J yue_5046_J yue_5333_J yue_5358_J yue_5363_J yue_5364_J yue_5383_J
+		yue_5440_J yue_5478_J yue_5593_J yue_5628_J yue_5633_J yue_5676_J yue_5816_J yue_5988_J yue_6297_J yue_6363_J
+		yue_6389_J yue_6540_J yue_6671_J yue_6855_J yue_6875_J yue_6892_J yue_6900_J yue_6930_J yue_7022_J yue_7122_J
+		yue_7127_J yue_7161_J yue_7183_J yue_7185_J yue_7209_J yue_7227_J yue_7230_J yue_7234_J yue_7299_J yue_7311_J
+		yue_7449_J yue_7703_J yue_7787_J yue_7812_J yue_7893_J yue_8002_J yue_8113_J
+		# Male-only
+		yue_0385_K yue_0474_K yue_0956_K yue_0981_K yue_1132_K yue_1226_K yue_1405_K yue_1484_K yue_1627_K yue_2525_K
+		yue_2651_K yue_3419_K yue_4737_K yue_5346_K yue_6134_K
+		# Either sex
+		yue_0079_K yue_0163_K yue_0193_K yue_0251_K yue_0256_K yue_0308_K yue_0320_K yue_0336_K yue_0418_K yue_0420_K
+		yue_0500_K yue_0516_K yue_0523_K yue_0670_K yue_0689_K yue_0689_K yue_0735_K yue_0948_K yue_1115_K yue_1164_K
+		yue_1172_K yue_1218_K yue_1227_K yue_1331_K yue_1337_K yue_1344_K yue_1355_K yue_1367_K yue_1381_K yue_1395_K yue_1526_K
+		yue_1550_K yue_1565_K yue_1696_K yue_1730_K yue_1738_K yue_1792_K yue_1807_K yue_1813_K yue_1837_K yue_1837_K yue_1854_K
+		yue_1938_K yue_1947_K yue_1970_K yue_1979_K yue_2052_K yue_2398_K yue_2404_K yue_2429_K yue_2490_K yue_2504_K 
+		yue_2514_K yue_2533_K yue_2535_K yue_2541_K yue_2545_K yue_2606_K yue_2638_K yue_2639_K yue_2639_K yue_2710_K
+		yue_2734_K yue_2767_K yue_2837_K yue_2970_K yue_2973_K yue_2976_K yue_3015_K yue_3057_K yue_3068_K yue_3109_K
+		yue_3134_K yue_3152_K yue_3160_K yue_3219_K yue_3390_K yue_3425_K yue_3447_K yue_3552_K yue_3768_K yue_3791_K
+		yue_3829_K yue_3940_K yue_4101_K yue_4102_K yue_4135_K yue_4176_K yue_4320_K yue_4382_K yue_4423_K yue_4428_K
+		yue_4539_K yue_4790_K yue_5019_K yue_5030_K yue_5046_K yue_5333_K yue_5358_K yue_5363_K yue_5364_K yue_5383_K
+		yue_5440_K yue_5478_K yue_5593_K yue_5628_K yue_5633_K yue_5676_K yue_5816_K yue_5988_K yue_6297_K yue_6363_K
+		yue_6389_K yue_6540_K yue_6671_K yue_6855_K yue_6875_K yue_6892_K yue_6900_K yue_6930_K yue_7022_K yue_7122_K
+		yue_7127_K yue_7161_K yue_7183_K yue_7185_K yue_7209_K yue_7227_K yue_7230_K yue_7234_K yue_7299_K yue_7311_K
+		yue_7449_K yue_7703_K yue_7787_K yue_7812_K yue_7893_K yue_8002_K yue_8113_K
+		# Male-only
+		yue_0385_L yue_0474_L yue_0956_L yue_0981_L yue_1132_L yue_1226_L yue_1405_L yue_1484_L yue_1627_L yue_2525_L
+		yue_2651_L yue_3419_L yue_4737_L yue_5346_L yue_6134_L
+		# Either sex
+		yue_0079_L yue_0163_L yue_0193_L yue_0251_L yue_0256_L yue_0308_L yue_0320_L yue_0336_L yue_0418_L yue_0420_L
+		yue_0500_L yue_0516_L yue_0523_L yue_0670_L yue_0689_L yue_0689_L yue_0735_L yue_0948_L yue_1115_L yue_1164_L
+		yue_1172_L yue_1218_L yue_1227_L yue_1331_L yue_1337_L yue_1344_L yue_1355_L yue_1367_L yue_1381_L yue_1395_L yue_1526_L
+		yue_1550_L yue_1565_L yue_1696_L yue_1730_L yue_1738_L yue_1792_L yue_1807_L yue_1813_L yue_1837_L yue_1837_L yue_1854_L
+		yue_1938_L yue_1947_L yue_1970_L yue_1979_L yue_2052_L yue_2398_L yue_2404_L yue_2429_L yue_2490_L yue_2504_L 
+		yue_2514_L yue_2533_L yue_2535_L yue_2541_L yue_2545_L yue_2606_L yue_2638_L yue_2639_L yue_2639_L yue_2710_L
+		yue_2734_L yue_2767_L yue_2837_L yue_2970_L yue_2973_L yue_2976_L yue_3015_L yue_3057_L yue_3068_L yue_3109_L
+		yue_3134_L yue_3152_L yue_3160_L yue_3219_L yue_3390_L yue_3425_L yue_3447_L yue_3552_L yue_3768_L yue_3791_L
+		yue_3829_L yue_3940_L yue_4101_L yue_4102_L yue_4135_L yue_4176_L yue_4320_L yue_4382_L yue_4423_L yue_4428_L
+		yue_4539_L yue_4790_L yue_5019_L yue_5030_L yue_5046_L yue_5333_L yue_5358_L yue_5363_L yue_5364_L yue_5383_L
+		yue_5440_L yue_5478_L yue_5593_L yue_5628_L yue_5633_L yue_5676_L yue_5816_L yue_5988_L yue_6297_L yue_6363_L
+		yue_6389_L yue_6540_L yue_6671_L yue_6855_L yue_6875_L yue_6892_L yue_6900_L yue_6930_L yue_7022_L yue_7122_L
+		yue_7127_L yue_7161_L yue_7183_L yue_7185_L yue_7209_L yue_7227_L yue_7230_L yue_7234_L yue_7299_L yue_7311_L
+		yue_7449_L yue_7703_L yue_7787_L yue_7812_L yue_7893_L yue_8002_L yue_8113_L
+	}
+
+	female_names = {		
+		# Female-only
+		yue_0022_A yue_0061_A yue_1129_A yue_1369_A yue_2494_A yue_2672_A yue_3046_A yue_3055_A yue_3189_A yue_3276_A
+		yue_3810_A yue_4258_A yue_5126_A yue_5297_A yue_5468_A yue_5571_A yue_5695_A yue_5725_A yue_6591_A yue_6598_A
+		# Either sex
+		yue_0079_A yue_0163_A yue_0193_A yue_0251_A yue_0256_A yue_0308_A yue_0320_A yue_0336_A yue_0418_A yue_0420_A
+		yue_0500_A yue_0516_A yue_0523_A yue_0670_A yue_0689_A yue_0689_A yue_0735_A yue_0948_A yue_1115_A yue_1164_A
+		yue_1172_A yue_1218_A yue_1227_A yue_1331_A yue_1337_A yue_1344_A yue_1355_A yue_1367_A yue_1381_A yue_1395_A yue_1526_A
+		yue_1550_A yue_1565_A yue_1696_A yue_1730_A yue_1738_A yue_1792_A yue_1807_A yue_1813_A yue_1837_A yue_1837_A yue_1854_A
+		yue_1938_A yue_1947_A yue_1970_A yue_1979_A yue_2052_A yue_2398_A yue_2404_A yue_2429_A yue_2490_A yue_2504_A 
+		yue_2514_A yue_2533_A yue_2535_A yue_2541_A yue_2545_A yue_2606_A yue_2638_A yue_2639_A yue_2639_A yue_2710_A
+		yue_2734_A yue_2767_A yue_2837_A yue_2970_A yue_2973_A yue_2976_A yue_3015_A yue_3057_A yue_3068_A yue_3109_A
+		yue_3134_A yue_3152_A yue_3160_A yue_3219_A yue_3390_A yue_3425_A yue_3447_A yue_3552_A yue_3768_A yue_3791_A
+		yue_3829_A yue_3940_A yue_4101_A yue_4102_A yue_4135_A yue_4176_A yue_4320_A yue_4382_A yue_4423_A yue_4428_A
+		yue_4539_A yue_4790_A yue_5019_A yue_5030_A yue_5046_A yue_5333_A yue_5358_A yue_5363_A yue_5364_A yue_5383_A
+		yue_5440_A yue_5478_A yue_5593_A yue_5628_A yue_5633_A yue_5676_A yue_5816_A yue_5988_A yue_6297_A yue_6363_A
+		yue_6389_A yue_6540_A yue_6671_A yue_6855_A yue_6875_A yue_6892_A yue_6900_A yue_6930_A yue_7022_A yue_7122_A
+		yue_7127_A yue_7161_A yue_7183_A yue_7185_A yue_7209_A yue_7227_A yue_7230_A yue_7234_A yue_7299_A yue_7311_A
+		yue_7449_A yue_7703_A yue_7787_A yue_7812_A yue_7893_A yue_8002_A yue_8113_A		
+		# Female-only
+		yue_0022_B yue_0061_B yue_1129_B yue_1369_B yue_2494_B yue_2672_B yue_3046_B yue_3055_B yue_3189_B yue_3276_B
+		yue_3810_B yue_4258_B yue_5126_B yue_5297_B yue_5468_B yue_5571_B yue_5695_B yue_5725_B yue_6591_B yue_6598_B
+		# Either sex
+		yue_0079_B yue_0163_B yue_0193_B yue_0251_B yue_0256_B yue_0308_B yue_0320_B yue_0336_B yue_0418_B yue_0420_B
+		yue_0500_B yue_0516_B yue_0523_B yue_0670_B yue_0689_B yue_0689_B yue_0735_B yue_0948_B yue_1115_B yue_1164_B
+		yue_1172_B yue_1218_B yue_1227_B yue_1331_B yue_1337_B yue_1344_B yue_1355_B yue_1367_B yue_1381_B yue_1395_B yue_1526_B
+		yue_1550_B yue_1565_B yue_1696_B yue_1730_B yue_1738_B yue_1792_B yue_1807_B yue_1813_B yue_1837_B yue_1837_B yue_1854_B
+		yue_1938_B yue_1947_B yue_1970_B yue_1979_B yue_2052_B yue_2398_B yue_2404_B yue_2429_B yue_2490_B yue_2504_B 
+		yue_2514_B yue_2533_B yue_2535_B yue_2541_B yue_2545_B yue_2606_B yue_2638_B yue_2639_B yue_2639_B yue_2710_B
+		yue_2734_B yue_2767_B yue_2837_B yue_2970_B yue_2973_B yue_2976_B yue_3015_B yue_3057_B yue_3068_B yue_3109_B
+		yue_3134_B yue_3152_B yue_3160_B yue_3219_B yue_3390_B yue_3425_B yue_3447_B yue_3552_B yue_3768_B yue_3791_B
+		yue_3829_B yue_3940_B yue_4101_B yue_4102_B yue_4135_B yue_4176_B yue_4320_B yue_4382_B yue_4423_B yue_4428_B
+		yue_4539_B yue_4790_B yue_5019_B yue_5030_B yue_5046_B yue_5333_B yue_5358_B yue_5363_B yue_5364_B yue_5383_B
+		yue_5440_B yue_5478_B yue_5593_B yue_5628_B yue_5633_B yue_5676_B yue_5816_B yue_5988_B yue_6297_B yue_6363_B
+		yue_6389_B yue_6540_B yue_6671_B yue_6855_B yue_6875_B yue_6892_B yue_6900_B yue_6930_B yue_7022_B yue_7122_B
+		yue_7127_B yue_7161_B yue_7183_B yue_7185_B yue_7209_B yue_7227_B yue_7230_B yue_7234_B yue_7299_B yue_7311_B
+		yue_7449_B yue_7703_B yue_7787_B yue_7812_B yue_7893_B yue_8002_B yue_8113_B		
+		# Female-only
+		yue_0022_C yue_0061_C yue_1129_C yue_1369_C yue_2494_C yue_2672_C yue_3046_C yue_3055_C yue_3189_C yue_3276_C
+		yue_3810_C yue_4258_C yue_5126_C yue_5297_C yue_5468_C yue_5571_C yue_5695_C yue_5725_C yue_6591_C yue_6598_C
+		# Either sex
+		yue_0079_C yue_0163_C yue_0193_C yue_0251_C yue_0256_C yue_0308_C yue_0320_C yue_0336_C yue_0418_C yue_0420_C
+		yue_0500_C yue_0516_C yue_0523_C yue_0670_C yue_0689_C yue_0689_C yue_0735_C yue_0948_C yue_1115_C yue_1164_C
+		yue_1172_C yue_1218_C yue_1227_C yue_1331_C yue_1337_C yue_1344_C yue_1355_C yue_1367_C yue_1381_C yue_1395_C yue_1526_C
+		yue_1550_C yue_1565_C yue_1696_C yue_1730_C yue_1738_C yue_1792_C yue_1807_C yue_1813_C yue_1837_C yue_1837_C yue_1854_C
+		yue_1938_C yue_1947_C yue_1970_C yue_1979_C yue_2052_C yue_2398_C yue_2404_C yue_2429_C yue_2490_C yue_2504_C 
+		yue_2514_C yue_2533_C yue_2535_C yue_2541_C yue_2545_C yue_2606_C yue_2638_C yue_2639_C yue_2639_C yue_2710_C
+		yue_2734_C yue_2767_C yue_2837_C yue_2970_C yue_2973_C yue_2976_C yue_3015_C yue_3057_C yue_3068_C yue_3109_C
+		yue_3134_C yue_3152_C yue_3160_C yue_3219_C yue_3390_C yue_3425_C yue_3447_C yue_3552_C yue_3768_C yue_3791_C
+		yue_3829_C yue_3940_C yue_4101_C yue_4102_C yue_4135_C yue_4176_C yue_4320_C yue_4382_C yue_4423_C yue_4428_C
+		yue_4539_C yue_4790_C yue_5019_C yue_5030_C yue_5046_C yue_5333_C yue_5358_C yue_5363_C yue_5364_C yue_5383_C
+		yue_5440_C yue_5478_C yue_5593_C yue_5628_C yue_5633_C yue_5676_C yue_5816_C yue_5988_C yue_6297_C yue_6363_C
+		yue_6389_C yue_6540_C yue_6671_C yue_6855_C yue_6875_C yue_6892_C yue_6900_C yue_6930_C yue_7022_C yue_7122_C
+		yue_7127_C yue_7161_C yue_7183_C yue_7185_C yue_7209_C yue_7227_C yue_7230_C yue_7234_C yue_7299_C yue_7311_C
+		yue_7449_C yue_7703_C yue_7787_C yue_7812_C yue_7893_C yue_8002_C yue_8113_C		
+		# Female-only
+		yue_0022_D yue_0061_D yue_1129_D yue_1369_D yue_2494_D yue_2672_D yue_3046_D yue_3055_D yue_3189_D yue_3276_D
+		yue_3810_D yue_4258_D yue_5126_D yue_5297_D yue_5468_D yue_5571_D yue_5695_D yue_5725_D yue_6591_D yue_6598_D
+		# Either sex
+		yue_0079_D yue_0163_D yue_0193_D yue_0251_D yue_0256_D yue_0308_D yue_0320_D yue_0336_D yue_0418_D yue_0420_D
+		yue_0500_D yue_0516_D yue_0523_D yue_0670_D yue_0689_D yue_0689_D yue_0735_D yue_0948_D yue_1115_D yue_1164_D
+		yue_1172_D yue_1218_D yue_1227_D yue_1331_D yue_1337_D yue_1344_D yue_1355_D yue_1367_D yue_1381_D yue_1395_D yue_1526_D
+		yue_1550_D yue_1565_D yue_1696_D yue_1730_D yue_1738_D yue_1792_D yue_1807_D yue_1813_D yue_1837_D yue_1837_D yue_1854_D
+		yue_1938_D yue_1947_D yue_1970_D yue_1979_D yue_2052_D yue_2398_D yue_2404_D yue_2429_D yue_2490_D yue_2504_D 
+		yue_2514_D yue_2533_D yue_2535_D yue_2541_D yue_2545_D yue_2606_D yue_2638_D yue_2639_D yue_2639_D yue_2710_D
+		yue_2734_D yue_2767_D yue_2837_D yue_2970_D yue_2973_D yue_2976_D yue_3015_D yue_3057_D yue_3068_D yue_3109_D
+		yue_3134_D yue_3152_D yue_3160_D yue_3219_D yue_3390_D yue_3425_D yue_3447_D yue_3552_D yue_3768_D yue_3791_D
+		yue_3829_D yue_3940_D yue_4101_D yue_4102_D yue_4135_D yue_4176_D yue_4320_D yue_4382_D yue_4423_D yue_4428_D
+		yue_4539_D yue_4790_D yue_5019_D yue_5030_D yue_5046_D yue_5333_D yue_5358_D yue_5363_D yue_5364_D yue_5383_D
+		yue_5440_D yue_5478_D yue_5593_D yue_5628_D yue_5633_D yue_5676_D yue_5816_D yue_5988_D yue_6297_D yue_6363_D
+		yue_6389_D yue_6540_D yue_6671_D yue_6855_D yue_6875_D yue_6892_D yue_6900_D yue_6930_D yue_7022_D yue_7122_D
+		yue_7127_D yue_7161_D yue_7183_D yue_7185_D yue_7209_D yue_7227_D yue_7230_D yue_7234_D yue_7299_D yue_7311_D
+		yue_7449_D yue_7703_D yue_7787_D yue_7812_D yue_7893_D yue_8002_D yue_8113_D		
+		# Female-only
+		yue_0022_E yue_0061_E yue_1129_E yue_1369_E yue_2494_E yue_2672_E yue_3046_E yue_3055_E yue_3189_E yue_3276_E
+		yue_3810_E yue_4258_E yue_5126_E yue_5297_E yue_5468_E yue_5571_E yue_5695_E yue_5725_E yue_6591_E yue_6598_E
+		# Either sex
+		yue_0079_E yue_0163_E yue_0193_E yue_0251_E yue_0256_E yue_0308_E yue_0320_E yue_0336_E yue_0418_E yue_0420_E
+		yue_0500_E yue_0516_E yue_0523_E yue_0670_E yue_0689_E yue_0689_E yue_0735_E yue_0948_E yue_1115_E yue_1164_E
+		yue_1172_E yue_1218_E yue_1227_E yue_1331_E yue_1337_E yue_1344_E yue_1355_E yue_1367_E yue_1381_E yue_1395_E yue_1526_E
+		yue_1550_E yue_1565_E yue_1696_E yue_1730_E yue_1738_E yue_1792_E yue_1807_E yue_1813_E yue_1837_E yue_1837_E yue_1854_E
+		yue_1938_E yue_1947_E yue_1970_E yue_1979_E yue_2052_E yue_2398_E yue_2404_E yue_2429_E yue_2490_E yue_2504_E 
+		yue_2514_E yue_2533_E yue_2535_E yue_2541_E yue_2545_E yue_2606_E yue_2638_E yue_2639_E yue_2639_E yue_2710_E
+		yue_2734_E yue_2767_E yue_2837_E yue_2970_E yue_2973_E yue_2976_E yue_3015_E yue_3057_E yue_3068_E yue_3109_E
+		yue_3134_E yue_3152_E yue_3160_E yue_3219_E yue_3390_E yue_3425_E yue_3447_E yue_3552_E yue_3768_E yue_3791_E
+		yue_3829_E yue_3940_E yue_4101_E yue_4102_E yue_4135_E yue_4176_E yue_4320_E yue_4382_E yue_4423_E yue_4428_E
+		yue_4539_E yue_4790_E yue_5019_E yue_5030_E yue_5046_E yue_5333_E yue_5358_E yue_5363_E yue_5364_E yue_5383_E
+		yue_5440_E yue_5478_E yue_5593_E yue_5628_E yue_5633_E yue_5676_E yue_5816_E yue_5988_E yue_6297_E yue_6363_E
+		yue_6389_E yue_6540_E yue_6671_E yue_6855_E yue_6875_E yue_6892_E yue_6900_E yue_6930_E yue_7022_E yue_7122_E
+		yue_7127_E yue_7161_E yue_7183_E yue_7185_E yue_7209_E yue_7227_E yue_7230_E yue_7234_E yue_7299_E yue_7311_E
+		yue_7449_E yue_7703_E yue_7787_E yue_7812_E yue_7893_E yue_8002_E yue_8113_E		
+		# Female-only
+		yue_0022_F yue_0061_F yue_1129_F yue_1369_F yue_2494_F yue_2672_F yue_3046_F yue_3055_F yue_3189_F yue_3276_F
+		yue_3810_F yue_4258_F yue_5126_F yue_5297_F yue_5468_F yue_5571_F yue_5695_F yue_5725_F yue_6591_F yue_6598_F
+		# Either sex
+		yue_0079_F yue_0163_F yue_0193_F yue_0251_F yue_0256_F yue_0308_F yue_0320_F yue_0336_F yue_0418_F yue_0420_F
+		yue_0500_F yue_0516_F yue_0523_F yue_0670_F yue_0689_F yue_0689_F yue_0735_F yue_0948_F yue_1115_F yue_1164_F
+		yue_1172_F yue_1218_F yue_1227_F yue_1331_F yue_1337_F yue_1344_F yue_1355_F yue_1367_F yue_1381_F yue_1395_F yue_1526_F
+		yue_1550_F yue_1565_F yue_1696_F yue_1730_F yue_1738_F yue_1792_F yue_1807_F yue_1813_F yue_1837_F yue_1837_F yue_1854_F
+		yue_1938_F yue_1947_F yue_1970_F yue_1979_F yue_2052_F yue_2398_F yue_2404_F yue_2429_F yue_2490_F yue_2504_F 
+		yue_2514_F yue_2533_F yue_2535_F yue_2541_F yue_2545_F yue_2606_F yue_2638_F yue_2639_F yue_2639_F yue_2710_F
+		yue_2734_F yue_2767_F yue_2837_F yue_2970_F yue_2973_F yue_2976_F yue_3015_F yue_3057_F yue_3068_F yue_3109_F
+		yue_3134_F yue_3152_F yue_3160_F yue_3219_F yue_3390_F yue_3425_F yue_3447_F yue_3552_F yue_3768_F yue_3791_F
+		yue_3829_F yue_3940_F yue_4101_F yue_4102_F yue_4135_F yue_4176_F yue_4320_F yue_4382_F yue_4423_F yue_4428_F
+		yue_4539_F yue_4790_F yue_5019_F yue_5030_F yue_5046_F yue_5333_F yue_5358_F yue_5363_F yue_5364_F yue_5383_F
+		yue_5440_F yue_5478_F yue_5593_F yue_5628_F yue_5633_F yue_5676_F yue_5816_F yue_5988_F yue_6297_F yue_6363_F
+		yue_6389_F yue_6540_F yue_6671_F yue_6855_F yue_6875_F yue_6892_F yue_6900_F yue_6930_F yue_7022_F yue_7122_F
+		yue_7127_F yue_7161_F yue_7183_F yue_7185_F yue_7209_F yue_7227_F yue_7230_F yue_7234_F yue_7299_F yue_7311_F
+		yue_7449_F yue_7703_F yue_7787_F yue_7812_F yue_7893_F yue_8002_F yue_8113_F		
+		# Female-only
+		yue_0022_G yue_0061_G yue_1129_G yue_1369_G yue_2494_G yue_2672_G yue_3046_G yue_3055_G yue_3189_G yue_3276_G
+		yue_3810_G yue_4258_G yue_5126_G yue_5297_G yue_5468_G yue_5571_G yue_5695_G yue_5725_G yue_6591_G yue_6598_G
+		# Either sex
+		yue_0079_G yue_0163_G yue_0193_G yue_0251_G yue_0256_G yue_0308_G yue_0320_G yue_0336_G yue_0418_G yue_0420_G
+		yue_0500_G yue_0516_G yue_0523_G yue_0670_G yue_0689_G yue_0689_G yue_0735_G yue_0948_G yue_1115_G yue_1164_G
+		yue_1172_G yue_1218_G yue_1227_G yue_1331_G yue_1337_G yue_1344_G yue_1355_G yue_1367_G yue_1381_G yue_1395_G yue_1526_G
+		yue_1550_G yue_1565_G yue_1696_G yue_1730_G yue_1738_G yue_1792_G yue_1807_G yue_1813_G yue_1837_G yue_1837_G yue_1854_G
+		yue_1938_G yue_1947_G yue_1970_G yue_1979_G yue_2052_G yue_2398_G yue_2404_G yue_2429_G yue_2490_G yue_2504_G 
+		yue_2514_G yue_2533_G yue_2535_G yue_2541_G yue_2545_G yue_2606_G yue_2638_G yue_2639_G yue_2639_G yue_2710_G
+		yue_2734_G yue_2767_G yue_2837_G yue_2970_G yue_2973_G yue_2976_G yue_3015_G yue_3057_G yue_3068_G yue_3109_G
+		yue_3134_G yue_3152_G yue_3160_G yue_3219_G yue_3390_G yue_3425_G yue_3447_G yue_3552_G yue_3768_G yue_3791_G
+		yue_3829_G yue_3940_G yue_4101_G yue_4102_G yue_4135_G yue_4176_G yue_4320_G yue_4382_G yue_4423_G yue_4428_G
+		yue_4539_G yue_4790_G yue_5019_G yue_5030_G yue_5046_G yue_5333_G yue_5358_G yue_5363_G yue_5364_G yue_5383_G
+		yue_5440_G yue_5478_G yue_5593_G yue_5628_G yue_5633_G yue_5676_G yue_5816_G yue_5988_G yue_6297_G yue_6363_G
+		yue_6389_G yue_6540_G yue_6671_G yue_6855_G yue_6875_G yue_6892_G yue_6900_G yue_6930_G yue_7022_G yue_7122_G
+		yue_7127_G yue_7161_G yue_7183_G yue_7185_G yue_7209_G yue_7227_G yue_7230_G yue_7234_G yue_7299_G yue_7311_G
+		yue_7449_G yue_7703_G yue_7787_G yue_7812_G yue_7893_G yue_8002_G yue_8113_G		
+		# Female-only
+		yue_0022_H yue_0061_H yue_1129_H yue_1369_H yue_2494_H yue_2672_H yue_3046_H yue_3055_H yue_3189_H yue_3276_H
+		yue_3810_H yue_4258_H yue_5126_H yue_5297_H yue_5468_H yue_5571_H yue_5695_H yue_5725_H yue_6591_H yue_6598_H
+		# Either sex
+		yue_0079_H yue_0163_H yue_0193_H yue_0251_H yue_0256_H yue_0308_H yue_0320_H yue_0336_H yue_0418_H yue_0420_H
+		yue_0500_H yue_0516_H yue_0523_H yue_0670_H yue_0689_H yue_0689_H yue_0735_H yue_0948_H yue_1115_H yue_1164_H
+		yue_1172_H yue_1218_H yue_1227_H yue_1331_H yue_1337_H yue_1344_H yue_1355_H yue_1367_H yue_1381_H yue_1395_H yue_1526_H
+		yue_1550_H yue_1565_H yue_1696_H yue_1730_H yue_1738_H yue_1792_H yue_1807_H yue_1813_H yue_1837_H yue_1837_H yue_1854_H
+		yue_1938_H yue_1947_H yue_1970_H yue_1979_H yue_2052_H yue_2398_H yue_2404_H yue_2429_H yue_2490_H yue_2504_H 
+		yue_2514_H yue_2533_H yue_2535_H yue_2541_H yue_2545_H yue_2606_H yue_2638_H yue_2639_H yue_2639_H yue_2710_H
+		yue_2734_H yue_2767_H yue_2837_H yue_2970_H yue_2973_H yue_2976_H yue_3015_H yue_3057_H yue_3068_H yue_3109_H
+		yue_3134_H yue_3152_H yue_3160_H yue_3219_H yue_3390_H yue_3425_H yue_3447_H yue_3552_H yue_3768_H yue_3791_H
+		yue_3829_H yue_3940_H yue_4101_H yue_4102_H yue_4135_H yue_4176_H yue_4320_H yue_4382_H yue_4423_H yue_4428_H
+		yue_4539_H yue_4790_H yue_5019_H yue_5030_H yue_5046_H yue_5333_H yue_5358_H yue_5363_H yue_5364_H yue_5383_H
+		yue_5440_H yue_5478_H yue_5593_H yue_5628_H yue_5633_H yue_5676_H yue_5816_H yue_5988_H yue_6297_H yue_6363_H
+		yue_6389_H yue_6540_H yue_6671_H yue_6855_H yue_6875_H yue_6892_H yue_6900_H yue_6930_H yue_7022_H yue_7122_H
+		yue_7127_H yue_7161_H yue_7183_H yue_7185_H yue_7209_H yue_7227_H yue_7230_H yue_7234_H yue_7299_H yue_7311_H
+		yue_7449_H yue_7703_H yue_7787_H yue_7812_H yue_7893_H yue_8002_H yue_8113_H		
+		# Female-only
+		yue_0022_I yue_0061_I yue_1129_I yue_1369_I yue_2494_I yue_2672_I yue_3046_I yue_3055_I yue_3189_I yue_3276_I
+		yue_3810_I yue_4258_I yue_5126_I yue_5297_I yue_5468_I yue_5571_I yue_5695_I yue_5725_I yue_6591_I yue_6598_I
+		# Either sex
+		yue_0079_I yue_0163_I yue_0193_I yue_0251_I yue_0256_I yue_0308_I yue_0320_I yue_0336_I yue_0418_I yue_0420_I
+		yue_0500_I yue_0516_I yue_0523_I yue_0670_I yue_0689_I yue_0689_I yue_0735_I yue_0948_I yue_1115_I yue_1164_I
+		yue_1172_I yue_1218_I yue_1227_I yue_1331_I yue_1337_I yue_1344_I yue_1355_I yue_1367_I yue_1381_I yue_1395_I yue_1526_I
+		yue_1550_I yue_1565_I yue_1696_I yue_1730_I yue_1738_I yue_1792_I yue_1807_I yue_1813_I yue_1837_I yue_1837_I yue_1854_I
+		yue_1938_I yue_1947_I yue_1970_I yue_1979_I yue_2052_I yue_2398_I yue_2404_I yue_2429_I yue_2490_I yue_2504_I 
+		yue_2514_I yue_2533_I yue_2535_I yue_2541_I yue_2545_I yue_2606_I yue_2638_I yue_2639_I yue_2639_I yue_2710_I
+		yue_2734_I yue_2767_I yue_2837_I yue_2970_I yue_2973_I yue_2976_I yue_3015_I yue_3057_I yue_3068_I yue_3109_I
+		yue_3134_I yue_3152_I yue_3160_I yue_3219_I yue_3390_I yue_3425_I yue_3447_I yue_3552_I yue_3768_I yue_3791_I
+		yue_3829_I yue_3940_I yue_4101_I yue_4102_I yue_4135_I yue_4176_I yue_4320_I yue_4382_I yue_4423_I yue_4428_I
+		yue_4539_I yue_4790_I yue_5019_I yue_5030_I yue_5046_I yue_5333_I yue_5358_I yue_5363_I yue_5364_I yue_5383_I
+		yue_5440_I yue_5478_I yue_5593_I yue_5628_I yue_5633_I yue_5676_I yue_5816_I yue_5988_I yue_6297_I yue_6363_I
+		yue_6389_I yue_6540_I yue_6671_I yue_6855_I yue_6875_I yue_6892_I yue_6900_I yue_6930_I yue_7022_I yue_7122_I
+		yue_7127_I yue_7161_I yue_7183_I yue_7185_I yue_7209_I yue_7227_I yue_7230_I yue_7234_I yue_7299_I yue_7311_I
+		yue_7449_I yue_7703_I yue_7787_I yue_7812_I yue_7893_I yue_8002_I yue_8113_I		
+		# Female-only
+		yue_0022_J yue_0061_J yue_1129_J yue_1369_J yue_2494_J yue_2672_J yue_3046_J yue_3055_J yue_3189_J yue_3276_J
+		yue_3810_J yue_4258_J yue_5126_J yue_5297_J yue_5468_J yue_5571_J yue_5695_J yue_5725_J yue_6591_J yue_6598_J
+		# Either sex
+		yue_0079_J yue_0163_J yue_0193_J yue_0251_J yue_0256_J yue_0308_J yue_0320_J yue_0336_J yue_0418_J yue_0420_J
+		yue_0500_J yue_0516_J yue_0523_J yue_0670_J yue_0689_J yue_0689_J yue_0735_J yue_0948_J yue_1115_J yue_1164_J
+		yue_1172_J yue_1218_J yue_1227_J yue_1331_J yue_1337_J yue_1344_J yue_1355_J yue_1367_J yue_1381_J yue_1395_J yue_1526_J
+		yue_1550_J yue_1565_J yue_1696_J yue_1730_J yue_1738_J yue_1792_J yue_1807_J yue_1813_J yue_1837_J yue_1837_J yue_1854_J
+		yue_1938_J yue_1947_J yue_1970_J yue_1979_J yue_2052_J yue_2398_J yue_2404_J yue_2429_J yue_2490_J yue_2504_J 
+		yue_2514_J yue_2533_J yue_2535_J yue_2541_J yue_2545_J yue_2606_J yue_2638_J yue_2639_J yue_2639_J yue_2710_J
+		yue_2734_J yue_2767_J yue_2837_J yue_2970_J yue_2973_J yue_2976_J yue_3015_J yue_3057_J yue_3068_J yue_3109_J
+		yue_3134_J yue_3152_J yue_3160_J yue_3219_J yue_3390_J yue_3425_J yue_3447_J yue_3552_J yue_3768_J yue_3791_J
+		yue_3829_J yue_3940_J yue_4101_J yue_4102_J yue_4135_J yue_4176_J yue_4320_J yue_4382_J yue_4423_J yue_4428_J
+		yue_4539_J yue_4790_J yue_5019_J yue_5030_J yue_5046_J yue_5333_J yue_5358_J yue_5363_J yue_5364_J yue_5383_J
+		yue_5440_J yue_5478_J yue_5593_J yue_5628_J yue_5633_J yue_5676_J yue_5816_J yue_5988_J yue_6297_J yue_6363_J
+		yue_6389_J yue_6540_J yue_6671_J yue_6855_J yue_6875_J yue_6892_J yue_6900_J yue_6930_J yue_7022_J yue_7122_J
+		yue_7127_J yue_7161_J yue_7183_J yue_7185_J yue_7209_J yue_7227_J yue_7230_J yue_7234_J yue_7299_J yue_7311_J
+		yue_7449_J yue_7703_J yue_7787_J yue_7812_J yue_7893_J yue_8002_J yue_8113_J		
+		# Female-only
+		yue_0022_K yue_0061_K yue_1129_K yue_1369_K yue_2494_K yue_2672_K yue_3046_K yue_3055_K yue_3189_K yue_3276_K
+		yue_3810_K yue_4258_K yue_5126_K yue_5297_K yue_5468_K yue_5571_K yue_5695_K yue_5725_K yue_6591_K yue_6598_K
+		# Either sex
+		yue_0079_K yue_0163_K yue_0193_K yue_0251_K yue_0256_K yue_0308_K yue_0320_K yue_0336_K yue_0418_K yue_0420_K
+		yue_0500_K yue_0516_K yue_0523_K yue_0670_K yue_0689_K yue_0689_K yue_0735_K yue_0948_K yue_1115_K yue_1164_K
+		yue_1172_K yue_1218_K yue_1227_K yue_1331_K yue_1337_K yue_1344_K yue_1355_K yue_1367_K yue_1381_K yue_1395_K yue_1526_K
+		yue_1550_K yue_1565_K yue_1696_K yue_1730_K yue_1738_K yue_1792_K yue_1807_K yue_1813_K yue_1837_K yue_1837_K yue_1854_K
+		yue_1938_K yue_1947_K yue_1970_K yue_1979_K yue_2052_K yue_2398_K yue_2404_K yue_2429_K yue_2490_K yue_2504_K 
+		yue_2514_K yue_2533_K yue_2535_K yue_2541_K yue_2545_K yue_2606_K yue_2638_K yue_2639_K yue_2639_K yue_2710_K
+		yue_2734_K yue_2767_K yue_2837_K yue_2970_K yue_2973_K yue_2976_K yue_3015_K yue_3057_K yue_3068_K yue_3109_K
+		yue_3134_K yue_3152_K yue_3160_K yue_3219_K yue_3390_K yue_3425_K yue_3447_K yue_3552_K yue_3768_K yue_3791_K
+		yue_3829_K yue_3940_K yue_4101_K yue_4102_K yue_4135_K yue_4176_K yue_4320_K yue_4382_K yue_4423_K yue_4428_K
+		yue_4539_K yue_4790_K yue_5019_K yue_5030_K yue_5046_K yue_5333_K yue_5358_K yue_5363_K yue_5364_K yue_5383_K
+		yue_5440_K yue_5478_K yue_5593_K yue_5628_K yue_5633_K yue_5676_K yue_5816_K yue_5988_K yue_6297_K yue_6363_K
+		yue_6389_K yue_6540_K yue_6671_K yue_6855_K yue_6875_K yue_6892_K yue_6900_K yue_6930_K yue_7022_K yue_7122_K
+		yue_7127_K yue_7161_K yue_7183_K yue_7185_K yue_7209_K yue_7227_K yue_7230_K yue_7234_K yue_7299_K yue_7311_K
+		yue_7449_K yue_7703_K yue_7787_K yue_7812_K yue_7893_K yue_8002_K yue_8113_K		
+		# Female-only
+		yue_0022_L yue_0061_L yue_1129_L yue_1369_L yue_2494_L yue_2672_L yue_3046_L yue_3055_L yue_3189_L yue_3276_L
+		yue_3810_L yue_4258_L yue_5126_L yue_5297_L yue_5468_L yue_5571_L yue_5695_L yue_5725_L yue_6591_L yue_6598_L
+		# Either sex
+		yue_0079_L yue_0163_L yue_0193_L yue_0251_L yue_0256_L yue_0308_L yue_0320_L yue_0336_L yue_0418_L yue_0420_L
+		yue_0500_L yue_0516_L yue_0523_L yue_0670_L yue_0689_L yue_0689_L yue_0735_L yue_0948_L yue_1115_L yue_1164_L
+		yue_1172_L yue_1218_L yue_1227_L yue_1331_L yue_1337_L yue_1344_L yue_1355_L yue_1367_L yue_1381_L yue_1395_L yue_1526_L
+		yue_1550_L yue_1565_L yue_1696_L yue_1730_L yue_1738_L yue_1792_L yue_1807_L yue_1813_L yue_1837_L yue_1837_L yue_1854_L
+		yue_1938_L yue_1947_L yue_1970_L yue_1979_L yue_2052_L yue_2398_L yue_2404_L yue_2429_L yue_2490_L yue_2504_L 
+		yue_2514_L yue_2533_L yue_2535_L yue_2541_L yue_2545_L yue_2606_L yue_2638_L yue_2639_L yue_2639_L yue_2710_L
+		yue_2734_L yue_2767_L yue_2837_L yue_2970_L yue_2973_L yue_2976_L yue_3015_L yue_3057_L yue_3068_L yue_3109_L
+		yue_3134_L yue_3152_L yue_3160_L yue_3219_L yue_3390_L yue_3425_L yue_3447_L yue_3552_L yue_3768_L yue_3791_L
+		yue_3829_L yue_3940_L yue_4101_L yue_4102_L yue_4135_L yue_4176_L yue_4320_L yue_4382_L yue_4423_L yue_4428_L
+		yue_4539_L yue_4790_L yue_5019_L yue_5030_L yue_5046_L yue_5333_L yue_5358_L yue_5363_L yue_5364_L yue_5383_L
+		yue_5440_L yue_5478_L yue_5593_L yue_5628_L yue_5633_L yue_5676_L yue_5816_L yue_5988_L yue_6297_L yue_6363_L
+		yue_6389_L yue_6540_L yue_6671_L yue_6855_L yue_6875_L yue_6892_L yue_6900_L yue_6930_L yue_7022_L yue_7122_L
+		yue_7127_L yue_7161_L yue_7183_L yue_7185_L yue_7209_L yue_7227_L yue_7230_L yue_7234_L yue_7299_L yue_7311_L
+		yue_7449_L yue_7703_L yue_7787_L yue_7812_L yue_7893_L yue_8002_L yue_8113_L
+	}
+
+	dynasty_name_first = yes	
+}
+
+name_list_vietnamese = {
+
+	dynasty_names = {
+		"dyn_vi_1031"
+		"dyn_vi_1035"
+		"dyn_vi_1075"
+		"dyn_vi_1108"
+		"dyn_vi_1115"
+		"dyn_vi_1144"
+		"dyn_vi_1153"
+		"dyn_vi_1202"
+		"dyn_vi_1203"
+		"dyn_vi_1213"
+		"dyn_vi_1236"
+		"dyn_vi_1313"
+		"dyn_vi_1322"
+		"dyn_vi_1323"
+		"dyn_vi_1327"
+		"dyn_vi_1337"
+		"dyn_vi_1344"
+		"dyn_vi_1345"
+		"dyn_vi_1348"
+		"dyn_vi_1350"
+		"dyn_vi_1351"
+		"dyn_vi_1357"
+		"dyn_vi_1360"
+		"dyn_vi_1362"
+		"dyn_vi_1363"
+		"dyn_vi_1367"
+		"dyn_vi_1369"
+		"dyn_vi_1372"
+		"dyn_vi_1379"
+		"dyn_vi_1381"
+		"dyn_vi_1409"
+		"dyn_vi_1414"
+		"dyn_vi_1424"
+		"dyn_vi_1429"
+		"dyn_vi_1438"
+		"dyn_vi_1446"
+		"dyn_vi_1448"
+		"dyn_vi_1455"
+		"dyn_vi_1458"
+		"dyn_vi_1471"
+		"dyn_vi_1472"
+		"dyn_vi_1478"
+		"dyn_vi_1508"
+		"dyn_vi_1518"
+		"dyn_vi_1560"
+		"dyn_vi_1563"
+		"dyn_vi_1566"
+		"dyn_vi_1572"
+		"dyn_vi_1596"
+		"dyn_vi_1597"
+		"dyn_vi_1598"
+		"dyn_vi_1603"
+		"dyn_vi_1626"
+		"dyn_vi_1627"
+		"dyn_vi_1628"
+		"dyn_vi_1630"
+		"dyn_vi_1639"
+		"dyn_vi_1649"
+		"dyn_vi_1660"
+		"dyn_vi_1670"
+		"dyn_vi_1675"
+		"dyn_vi_1690"
+		"dyn_vi_1712"
+		"dyn_vi_1728"
+		"dyn_vi_1730"
+		"dyn_vi_1738"
+		"dyn_vi_1756"
+		"dyn_vi_1776"
+		"dyn_vi_1783"
+		"dyn_vi_1920"
+		"dyn_vi_1947"
+		"dyn_vi_1957"
+		"dyn_vi_1970"
+		"dyn_vi_2019"
+		"dyn_vi_2037"
+		"dyn_vi_2047"
+		"dyn_vi_2051"
+		"dyn_vi_2052"
+		"dyn_vi_2058"
+		"dyn_vi_2069"
+		"dyn_vi_2071"
+		"dyn_vi_2075"
+		"dyn_vi_2083"
+		"dyn_vi_2105"
+		"dyn_vi_2263"
+		"dyn_vi_2388"
+		"dyn_vi_2407"
+		"dyn_vi_2417"
+		"dyn_vi_2429"
+		"dyn_vi_2448"
+		"dyn_vi_2455"
+		"dyn_vi_2457"
+		"dyn_vi_2490"
+		"dyn_vi_2494"
+		"dyn_vi_2496"
+		"dyn_vi_2501"
+		"dyn_vi_2513"
+		"dyn_vi_2514"
+		"dyn_vi_2516"
+		"dyn_vi_2518"
+		"dyn_vi_2528"
+		"dyn_vi_2529"
+		"dyn_vi_2535"
+		"dyn_vi_2552"
+		"dyn_vi_2555"
+		"dyn_vi_2575"
+		"dyn_vi_2580"
+		"dyn_vi_2582"
+		"dyn_vi_2589"
+		"dyn_vi_2612"
+		"dyn_vi_2613"
+		"dyn_vi_2621"
+		"dyn_vi_2629"
+		"dyn_vi_2631"
+		"dyn_vi_2635"
+		"dyn_vi_2639"
+		"dyn_vi_2646"
+		"dyn_vi_2651"
+		"dyn_vi_2672"
+		"dyn_vi_2686"
+		"dyn_vi_2688"
+		"dyn_vi_2692"
+		"dyn_vi_2693"
+		"dyn_vi_2698"
+		"dyn_vi_2710"
+		"dyn_vi_2718"
+		"dyn_vi_2719"
+		"dyn_vi_2733"
+		"dyn_vi_2734"
+		"dyn_vi_2784"
+		"dyn_vi_2799"
+		"dyn_vi_2806"
+		"dyn_vi_2837"
+		"dyn_vi_2867"
+		"dyn_vi_2868"
+		"dyn_vi_2869"
+		"dyn_vi_2905"
+		"dyn_vi_2938"
+		"dyn_vi_2940"
+		"dyn_vi_2962"
+		"dyn_vi_2975"
+		"dyn_vi_2976"
+		"dyn_vi_3007"
+		"dyn_vi_3008"
+		"dyn_vi_3009"
+		"dyn_vi_3016"
+		"dyn_vi_3018"
+		"dyn_vi_3019"
+		"dyn_vi_3029"
+		"dyn_vi_3055"
+		"dyn_vi_3068"
+		"dyn_vi_3069"
+		"dyn_vi_3076"
+		"dyn_vi_3078"
+		"dyn_vi_3087"
+		"dyn_vi_3088"
+		"dyn_vi_3097"
+		"dyn_vi_3163"
+		"dyn_vi_3184"
+		"dyn_vi_3189"
+		"dyn_vi_3205"
+		"dyn_vi_3266"
+		"dyn_vi_3277"
+		"dyn_vi_3282"
+		"dyn_vi_3306"
+		"dyn_vi_3323"
+		"dyn_vi_3326"
+		"dyn_vi_3341"
+		"dyn_vi_3344"
+		"dyn_vi_3382"
+		"dyn_vi_3450"
+		"dyn_vi_3527"
+		"dyn_vi_3542"
+		"dyn_vi_3574"
+		"dyn_vi_3601"
+		"dyn_vi_3662"
+		"dyn_vi_3664"
+		"dyn_vi_3668"
+		"dyn_vi_3695"
+		"dyn_vi_3768"
+		"dyn_vi_3769"
+		"dyn_vi_3803"
+		"dyn_vi_3830"
+		"dyn_vi_3914"
+		"dyn_vi_3927"
+		"dyn_vi_3944"
+		"dyn_vi_3945"
+		"dyn_vi_3947"
+		"dyn_vi_3968"
+		"dyn_vi_4101"
+		"dyn_vi_4122"
+		"dyn_vi_4134"
+		"dyn_vi_4135"
+		"dyn_vi_4141"
+		"dyn_vi_4149"
+		"dyn_vi_4151"
+		"dyn_vi_4161"
+		"dyn_vi_4234"
+		"dyn_vi_4258"
+		"dyn_vi_4359"
+		"dyn_vi_4371"
+		"dyn_vi_4376"
+		"dyn_vi_4389"
+		"dyn_vi_4416"
+		"dyn_vi_4428"
+		"dyn_vi_4440"
+		"dyn_vi_4453"
+		"dyn_vi_4476"
+		"dyn_vi_4500"
+		"dyn_vi_4535"
+		"dyn_vi_4545"
+		"dyn_vi_4547"
+		"dyn_vi_4555"
+		"dyn_vi_4569"
+		"dyn_vi_4572"
+		"dyn_vi_4619"
+		"dyn_vi_4675"
+		"dyn_vi_4694"
+		"dyn_vi_4717"
+		"dyn_vi_4725"
+		"dyn_vi_4745"
+		"dyn_vi_4764"
+		"dyn_vi_4767"
+		"dyn_vi_4792"
+		"dyn_vi_4807"
+		"dyn_vi_4842"
+		"dyn_vi_4886"
+		"dyn_vi_4924"
+		"dyn_vi_5012"
+		"dyn_vi_5017"
+		"dyn_vi_5040"
+		"dyn_vi_5045"
+		"dyn_vi_5049"
+		"dyn_vi_5056"
+		"dyn_vi_5105"
+		"dyn_vi_5113"
+		"dyn_vi_5119"
+		"dyn_vi_5135"
+		"dyn_vi_5170"
+		"dyn_vi_5171"
+		"dyn_vi_5174"
+		"dyn_vi_5258"
+		"dyn_vi_5289"
+		"dyn_vi_5337"
+		"dyn_vi_5360"
+		"dyn_vi_5363"
+		"dyn_vi_5373"
+		"dyn_vi_5379"
+		"dyn_vi_5384"
+		"dyn_vi_5400"
+		"dyn_vi_5403"
+		"dyn_vi_5423"
+		"dyn_vi_5424"
+		"dyn_vi_5427"
+		"dyn_vi_5450"
+		"dyn_vi_5459"
+		"dyn_vi_5478"
+		"dyn_vi_5514"
+		"dyn_vi_5516"
+		"dyn_vi_5536"
+		"dyn_vi_5543"
+		"dyn_vi_5547"
+		"dyn_vi_5556"
+		"dyn_vi_5566"
+		"dyn_vi_5570"
+		"dyn_vi_5588"
+		"dyn_vi_5591"
+		"dyn_vi_5592"
+		"dyn_vi_5618"
+		"dyn_vi_5631"
+		"dyn_vi_5636"
+		"dyn_vi_5641"
+		"dyn_vi_5663"
+		"dyn_vi_5671"
+		"dyn_vi_5677"
+		"dyn_vi_5684"
+		"dyn_vi_5685"
+		"dyn_vi_5688"
+		"dyn_vi_5695"
+		"dyn_vi_5713"
+		"dyn_vi_5816"
+		"dyn_vi_5898"
+		"dyn_vi_5899"
+		"dyn_vi_5902"
+		"dyn_vi_5913"
+		"dyn_vi_5941"
+		"dyn_vi_5952"
+		"dyn_vi_5969"
+		"dyn_vi_6009"
+		"dyn_vi_6043"
+		"dyn_vi_6060"
+		"dyn_vi_6079"
+		"dyn_vi_6088"
+		"dyn_vi_6124"
+		"dyn_vi_6151"
+		"dyn_vi_6175"
+		"dyn_vi_6186"
+		"dyn_vi_6200"
+		"dyn_vi_6222"
+		"dyn_vi_6223"
+		"dyn_vi_6253"
+		"dyn_vi_6258"
+		"dyn_vi_6296"
+		"dyn_vi_6300"
+		"dyn_vi_6316"
+		"dyn_vi_6320"
+		"dyn_vi_6321"
+		"dyn_vi_6328"
+		"dyn_vi_6333"
+		"dyn_vi_6339"
+		"dyn_vi_6351"
+		"dyn_vi_6378"
+		"dyn_vi_6390"
+		"dyn_vi_6392"
+		"dyn_vi_6424"
+		"dyn_vi_6508"
+		"dyn_vi_6580"
+		"dyn_vi_6581"
+		"dyn_vi_6593"
+		"dyn_vi_6614"
+		"dyn_vi_6629"
+		"dyn_vi_6639"
+		"dyn_vi_6647"
+		"dyn_vi_6688"
+		"dyn_vi_6708"
+		"dyn_vi_6717"
+		"dyn_vi_6719"
+		"dyn_vi_6726"
+		"dyn_vi_6728"
+		"dyn_vi_6730"
+		"dyn_vi_6732"
+		"dyn_vi_6733"
+		"dyn_vi_6735"
+		"dyn_vi_6745"
+		"dyn_vi_6750"
+		"dyn_vi_6751"
+		"dyn_vi_6753"
+		"dyn_vi_6757"
+		"dyn_vi_6759"
+		"dyn_vi_6760"
+		"dyn_vi_6762"
+		"dyn_vi_6768"
+		"dyn_vi_6772"
+		"dyn_vi_6774"
+		"dyn_vi_6782"
+		"dyn_vi_6786"
+		"dyn_vi_6787"
+		"dyn_vi_6855"
+		"dyn_vi_6873"
+		"dyn_vi_6892"
+		"dyn_vi_6929"
+		"dyn_vi_6988"
+		"dyn_vi_7024"
+		"dyn_vi_7028"
+		"dyn_vi_7036"
+		"dyn_vi_7051"
+		"dyn_vi_7067"
+		"dyn_vi_7070"
+		"dyn_vi_7074"
+		"dyn_vi_7086"
+		"dyn_vi_7093"
+		"dyn_vi_7113"
+		"dyn_vi_7115"
+		"dyn_vi_7118"
+		"dyn_vi_7120"
+		"dyn_vi_7122"
+		"dyn_vi_7127"
+		"dyn_vi_7131"
+		"dyn_vi_7136"
+		"dyn_vi_7167"
+		"dyn_vi_7175"
+		"dyn_vi_7191"
+		"dyn_vi_7202"
+		"dyn_vi_7246"
+		"dyn_vi_7255"
+		"dyn_vi_7263"
+		"dyn_vi_7279"
+		"dyn_vi_7281"
+		"dyn_vi_7300"
+		"dyn_vi_7309"
+		"dyn_vi_7312"
+		"dyn_vi_7346"
+		"dyn_vi_7357"
+		"dyn_vi_7402"
+		"dyn_vi_7437"
+		"dyn_vi_7456"
+		"dyn_vi_7458"
+		"dyn_vi_7482"
+		"dyn_vi_7559"
+		"dyn_vi_7614"
+		"dyn_vi_7625"
+		"dyn_vi_7627"
+		"dyn_vi_7637"
+		"dyn_vi_7639"
+		"dyn_vi_7685"
+		"dyn_vi_7773"
+		"dyn_vi_7796"
+		"dyn_vi_7802"
+		"dyn_vi_7806"
+		"dyn_vi_7812"
+		"dyn_vi_7871"
+		"dyn_vi_7893"
+		"dyn_vi_7895"
+		"dyn_vi_8001"
+		"dyn_vi_8016"
+		"dyn_vi_8034"
+		"dyn_vi_8093"
+		"dyn_vi_8369"
+		"dyn_vi_0002"
+		"dyn_vi_0023"
+		"dyn_vi_0045"
+		"dyn_vi_0060"
+		"dyn_vi_0061"
+		"dyn_vi_0064"
+		"dyn_vi_0073"
+		"dyn_vi_0092"
+		"dyn_vi_0102"
+		"dyn_vi_0104"
+		"dyn_vi_0111"
+		"dyn_vi_0112"
+		"dyn_vi_0117"
+		"dyn_vi_0122"
+		"dyn_vi_0124"
+		"dyn_vi_0126"
+		"dyn_vi_0130"
+		"dyn_vi_0141"
+		"dyn_vi_0143"
+		"dyn_vi_0149"
+		"dyn_vi_0151"
+		"dyn_vi_0152"
+		"dyn_vi_0157"
+		"dyn_vi_0171"
+		"dyn_vi_0186"
+		"dyn_vi_0205"
+		"dyn_vi_0207"
+		"dyn_vi_0208"
+		"dyn_vi_0242"
+		"dyn_vi_0265"
+		"dyn_vi_0328"
+		"dyn_vi_0337"
+		"dyn_vi_0339"
+		"dyn_vi_0356"
+		"dyn_vi_0361"
+		"dyn_vi_0370"
+		"dyn_vi_0373"
+		"dyn_vi_0396"
+		"dyn_vi_0397"
+		"dyn_vi_0400"
+		"dyn_vi_0405"
+		"dyn_vi_0407"
+		"dyn_vi_0431"
+		"dyn_vi_0443"
+		"dyn_vi_0446"
+		"dyn_vi_0448"
+		"dyn_vi_0491"
+		"dyn_vi_0525"
+		"dyn_vi_0545"
+		"dyn_vi_0551"
+		"dyn_vi_0562"
+		"dyn_vi_0575"
+		"dyn_vi_0587"
+		"dyn_vi_0589"
+		"dyn_vi_0592"
+		"dyn_vi_0593"
+		"dyn_vi_0603"
+		"dyn_vi_0604"
+		"dyn_vi_0606"
+		"dyn_vi_0615"
+		"dyn_vi_0626"
+		"dyn_vi_0632"
+		"dyn_vi_0654"
+		"dyn_vi_0657"
+		"dyn_vi_0669"
+		"dyn_vi_0670"
+		"dyn_vi_0673"
+		"dyn_vi_0674"
+		"dyn_vi_0679"
+		"dyn_vi_0683"
+		"dyn_vi_0686"
+		"dyn_vi_0702"
+		"dyn_vi_0712"
+		"dyn_vi_0719"
+		"dyn_vi_0729"
+		"dyn_vi_0735"
+		"dyn_vi_0752"
+		"dyn_vi_0761"
+		"dyn_vi_0781"
+		"dyn_vi_0794"
+		"dyn_vi_0827"
+		"dyn_vi_0829"
+		"dyn_vi_0830"
+		"dyn_vi_0917"
+		"dyn_vi_0948"
+	}
+
+	male_names = {
+		# Male-only
+		vi_0385 vi_0474 vi_0956 vi_0981 vi_1132 vi_1226 vi_1405 vi_1484 vi_1627 vi_2525
+		vi_2651 vi_3419 vi_4737 vi_5346 vi_6134
+		# Either sex
+		vi_0079 vi_0163 vi_0193 vi_0251 vi_0256 vi_0308 vi_0320 vi_0336 vi_0418 vi_0420
+		vi_0500 vi_0516 vi_0523 vi_0670 vi_0689 vi_0689 vi_0735 vi_0948 vi_1115 vi_1164
+		vi_1172 vi_1218 vi_1227 vi_1331 vi_1337 vi_1344 vi_1355 vi_1367 vi_1381 vi_1395 vi_1526
+		vi_1550 vi_1565 vi_1696 vi_1730 vi_1738 vi_1792 vi_1807 vi_1813 vi_1837 vi_1837 vi_1854
+		vi_1938 vi_1947 vi_1970 vi_1979 vi_2052 vi_2398 vi_2404 vi_2429 vi_2490 vi_2504 
+		vi_2514 vi_2533 vi_2535 vi_2541 vi_2545 vi_2606 vi_2638 vi_2639 vi_2639 vi_2710
+		vi_2734 vi_2767 vi_2837 vi_2970 vi_2973 vi_2976 vi_3015 vi_3057 vi_3068 vi_3109
+		vi_3134 vi_3152 vi_3160 vi_3219 vi_3390 vi_3425 vi_3447 vi_3552 vi_3768 vi_3791
+		vi_3829 vi_3940 vi_4101 vi_4102 vi_4135 vi_4176 vi_4320 vi_4382 vi_4423 vi_4428
+		vi_4539 vi_4790 vi_5019 vi_5030 vi_5046 vi_5333 vi_5358 vi_5363 vi_5364 vi_5383
+		vi_5440 vi_5478 vi_5593 vi_5628 vi_5633 vi_5676 vi_5816 vi_5988 vi_6297 vi_6363
+		vi_6389 vi_6540 vi_6671 vi_6855 vi_6875 vi_6892 vi_6900 vi_6930 vi_7022 vi_7122
+		vi_7127 vi_7161 vi_7183 vi_7185 vi_7209 vi_7227 vi_7230 vi_7234 vi_7299 vi_7311
+		vi_7449 vi_7703 vi_7787 vi_7812 vi_7893 vi_8002 vi_8113  
+	}
+
+	female_names = {	
+		# Female-only
+		vi_0022 vi_0061 vi_1129 vi_1369 vi_2494 vi_2672 vi_3046 vi_3055 vi_3189 vi_3276
+		vi_3810 vi_4258 vi_5126 vi_5297 vi_5468 vi_5571 vi_5695 vi_5725 vi_6591 vi_6598
+		# Either sex
+		vi_0079 vi_0163 vi_0193 vi_0251 vi_0256 vi_0308 vi_0320 vi_0336 vi_0418 vi_0420
+		vi_0500 vi_0516 vi_0523 vi_0670 vi_0689 vi_0689 vi_0735 vi_0948 vi_1115 vi_1164
+		vi_1172 vi_1218 vi_1227 vi_1331 vi_1337 vi_1344 vi_1355 vi_1367 vi_1381 vi_1395 vi_1526
+		vi_1550 vi_1565 vi_1696 vi_1730 vi_1738 vi_1792 vi_1807 vi_1813 vi_1837 vi_1837 vi_1854
+		vi_1938 vi_1947 vi_1970 vi_1979 vi_2052 vi_2398 vi_2404 vi_2429 vi_2490 vi_2504 
+		vi_2514 vi_2533 vi_2535 vi_2541 vi_2545 vi_2606 vi_2638 vi_2639 vi_2639 vi_2710
+		vi_2734 vi_2767 vi_2837 vi_2970 vi_2973 vi_2976 vi_3015 vi_3057 vi_3068 vi_3109
+		vi_3134 vi_3152 vi_3160 vi_3219 vi_3390 vi_3425 vi_3447 vi_3552 vi_3768 vi_3791
+		vi_3829 vi_3940 vi_4101 vi_4102 vi_4135 vi_4176 vi_4320 vi_4382 vi_4423 vi_4428
+		vi_4539 vi_4790 vi_5019 vi_5030 vi_5046 vi_5333 vi_5358 vi_5363 vi_5364 vi_5383
+		vi_5440 vi_5478 vi_5593 vi_5628 vi_5633 vi_5676 vi_5816 vi_5988 vi_6297 vi_6363
+		vi_6389 vi_6540 vi_6671 vi_6855 vi_6875 vi_6892 vi_6900 vi_6930 vi_7022 vi_7122
+		vi_7127 vi_7161 vi_7183 vi_7185 vi_7209 vi_7227 vi_7230 vi_7234 vi_7299 vi_7311
+		vi_7449 vi_7703 vi_7787 vi_7812 vi_7893 vi_8002 vi_8113  
+	}
+
+	dynasty_name_first = yes	
+}
+
+name_list_korean = {
+
+	cadet_dynasty_names = {
+		"dyn_ko_1031"
+		"dyn_ko_1035"
+		"dyn_ko_1075"
+		"dyn_ko_1108"
+		"dyn_ko_1115"
+		"dyn_ko_1144"
+		"dyn_ko_1153"
+		"dyn_ko_1202"
+		"dyn_ko_1203"
+		"dyn_ko_1213"
+		"dyn_ko_1236"
+		"dyn_ko_1313"
+		"dyn_ko_1322"
+		"dyn_ko_1323"
+		"dyn_ko_1327"
+		"dyn_ko_1337"
+		"dyn_ko_1344"
+		"dyn_ko_1345"
+		"dyn_ko_1348"
+		"dyn_ko_1350"
+		"dyn_ko_1351"
+		"dyn_ko_1357"
+		"dyn_ko_1360"
+		"dyn_ko_1362"
+		"dyn_ko_1363"
+		"dyn_ko_1367"
+		"dyn_ko_1369"
+		"dyn_ko_1372"
+		"dyn_ko_1379"
+		"dyn_ko_1381"
+		"dyn_ko_1409"
+		"dyn_ko_1414"
+		"dyn_ko_1424"
+		"dyn_ko_1429"
+		"dyn_ko_1438"
+		"dyn_ko_1446"
+		"dyn_ko_1448"
+		"dyn_ko_1455"
+		"dyn_ko_1458"
+		"dyn_ko_1471"
+		"dyn_ko_1472"
+		"dyn_ko_1478"
+		"dyn_ko_1508"
+		"dyn_ko_1518"
+		"dyn_ko_1560"
+		"dyn_ko_1563"
+		"dyn_ko_1566"
+		"dyn_ko_1572"
+		"dyn_ko_1596"
+		"dyn_ko_1597"
+		"dyn_ko_1598"
+		"dyn_ko_1603"
+		"dyn_ko_1626"
+		"dyn_ko_1627"
+		"dyn_ko_1628"
+		"dyn_ko_1630"
+		"dyn_ko_1639"
+		"dyn_ko_1649"
+		"dyn_ko_1660"
+		"dyn_ko_1670"
+		"dyn_ko_1675"
+		"dyn_ko_1690"
+		"dyn_ko_1712"
+		"dyn_ko_1728"
+		"dyn_ko_1730"
+		"dyn_ko_1738"
+		"dyn_ko_1756"
+		"dyn_ko_1776"
+		"dyn_ko_1783"
+		"dyn_ko_1920"
+		"dyn_ko_1947"
+		"dyn_ko_1957"
+		"dyn_ko_1970"
+		"dyn_ko_2019"
+		"dyn_ko_2037"
+		"dyn_ko_2047"
+		"dyn_ko_2051"
+		"dyn_ko_2052"
+		"dyn_ko_2058"
+		"dyn_ko_2069"
+		"dyn_ko_2071"
+		"dyn_ko_2075"
+		"dyn_ko_2083"
+		"dyn_ko_2105"
+		"dyn_ko_2263"
+		"dyn_ko_2388"
+		"dyn_ko_2407"
+		"dyn_ko_2417"
+		"dyn_ko_2429"
+		"dyn_ko_2448"
+		"dyn_ko_2455"
+		"dyn_ko_2457"
+		"dyn_ko_2490"
+		"dyn_ko_2494"
+		"dyn_ko_2496"
+		"dyn_ko_2501"
+		"dyn_ko_2513"
+		"dyn_ko_2514"
+		"dyn_ko_2516"
+		"dyn_ko_2518"
+		"dyn_ko_2528"
+		"dyn_ko_2529"
+		"dyn_ko_2535"
+		"dyn_ko_2552"
+		"dyn_ko_2555"
+		"dyn_ko_2575"
+		"dyn_ko_2580"
+		"dyn_ko_2582"
+		"dyn_ko_2589"
+		"dyn_ko_2612"
+		"dyn_ko_2613"
+		"dyn_ko_2621"
+		"dyn_ko_2629"
+		"dyn_ko_2631"
+		"dyn_ko_2635"
+		"dyn_ko_2639"
+		"dyn_ko_2646"
+		"dyn_ko_2651"
+		"dyn_ko_2672"
+		"dyn_ko_2686"
+		"dyn_ko_2688"
+		"dyn_ko_2692"
+		"dyn_ko_2693"
+		"dyn_ko_2698"
+		"dyn_ko_2710"
+		"dyn_ko_2718"
+		"dyn_ko_2719"
+		"dyn_ko_2733"
+		"dyn_ko_2734"
+		"dyn_ko_2784"
+		"dyn_ko_2799"
+		"dyn_ko_2806"
+		"dyn_ko_2837"
+		"dyn_ko_2867"
+		"dyn_ko_2868"
+		"dyn_ko_2869"
+		"dyn_ko_2905"
+		"dyn_ko_2938"
+		"dyn_ko_2940"
+		"dyn_ko_2962"
+		"dyn_ko_2975"
+		"dyn_ko_2976"
+		"dyn_ko_3007"
+		"dyn_ko_3008"
+		"dyn_ko_3009"
+		"dyn_ko_3016"
+		"dyn_ko_3018"
+		"dyn_ko_3019"
+		"dyn_ko_3029"
+		"dyn_ko_3055"
+		"dyn_ko_3068"
+		"dyn_ko_3069"
+		"dyn_ko_3076"
+		"dyn_ko_3078"
+		"dyn_ko_3087"
+		"dyn_ko_3088"
+		"dyn_ko_3097"
+		"dyn_ko_3163"
+		"dyn_ko_3184"
+		"dyn_ko_3189"
+		"dyn_ko_3205"
+		"dyn_ko_3266"
+		"dyn_ko_3277"
+		"dyn_ko_3282"
+		"dyn_ko_3306"
+		"dyn_ko_3323"
+		"dyn_ko_3326"
+		"dyn_ko_3341"
+		"dyn_ko_3344"
+		"dyn_ko_3382"
+		"dyn_ko_3450"
+		"dyn_ko_3527"
+		"dyn_ko_3542"
+		"dyn_ko_3574"
+		"dyn_ko_3601"
+		"dyn_ko_3662"
+		"dyn_ko_3664"
+		"dyn_ko_3668"
+		"dyn_ko_3695"
+		"dyn_ko_3768"
+		"dyn_ko_3769"
+		"dyn_ko_3803"
+		"dyn_ko_3830"
+		"dyn_ko_3914"
+		"dyn_ko_3927"
+		"dyn_ko_3944"
+		"dyn_ko_3945"
+		"dyn_ko_3947"
+		"dyn_ko_3968"
+		"dyn_ko_4101"
+		"dyn_ko_4122"
+		"dyn_ko_4134"
+		"dyn_ko_4135"
+		"dyn_ko_4141"
+		"dyn_ko_4149"
+		"dyn_ko_4151"
+		"dyn_ko_4161"
+		"dyn_ko_4234"
+		"dyn_ko_4258"
+		"dyn_ko_4359"
+		"dyn_ko_4371"
+		"dyn_ko_4376"
+		"dyn_ko_4389"
+		"dyn_ko_4416"
+		"dyn_ko_4428"
+		"dyn_ko_4440"
+		"dyn_ko_4453"
+		"dyn_ko_4476"
+		"dyn_ko_4500"
+		"dyn_ko_4535"
+		"dyn_ko_4545"
+		"dyn_ko_4547"
+		"dyn_ko_4555"
+		"dyn_ko_4569"
+		"dyn_ko_4572"
+		"dyn_ko_4619"
+		"dyn_ko_4675"
+		"dyn_ko_4694"
+		"dyn_ko_4717"
+		"dyn_ko_4725"
+		"dyn_ko_4745"
+		"dyn_ko_4764"
+		"dyn_ko_4767"
+		"dyn_ko_4792"
+		"dyn_ko_4807"
+		"dyn_ko_4842"
+		"dyn_ko_4886"
+		"dyn_ko_4924"
+		"dyn_ko_5012"
+		"dyn_ko_5017"
+		"dyn_ko_5040"
+		"dyn_ko_5045"
+		"dyn_ko_5049"
+		"dyn_ko_5056"
+		"dyn_ko_5105"
+		"dyn_ko_5113"
+		"dyn_ko_5119"
+		"dyn_ko_5135"
+		"dyn_ko_5170"
+		"dyn_ko_5171"
+		"dyn_ko_5174"
+		"dyn_ko_5258"
+		"dyn_ko_5289"
+		"dyn_ko_5337"
+		"dyn_ko_5360"
+		"dyn_ko_5363"
+		"dyn_ko_5373"
+		"dyn_ko_5379"
+		"dyn_ko_5384"
+		"dyn_ko_5400"
+		"dyn_ko_5403"
+		"dyn_ko_5423"
+		"dyn_ko_5424"
+		"dyn_ko_5427"
+		"dyn_ko_5450"
+		"dyn_ko_5459"
+		"dyn_ko_5478"
+		"dyn_ko_5514"
+		"dyn_ko_5516"
+		"dyn_ko_5536"
+		"dyn_ko_5543"
+		"dyn_ko_5547"
+		"dyn_ko_5556"
+		"dyn_ko_5566"
+		"dyn_ko_5570"
+		"dyn_ko_5588"
+		"dyn_ko_5591"
+		"dyn_ko_5592"
+		"dyn_ko_5618"
+		"dyn_ko_5631"
+		"dyn_ko_5636"
+		"dyn_ko_5641"
+		"dyn_ko_5663"
+		"dyn_ko_5671"
+		"dyn_ko_5677"
+		"dyn_ko_5684"
+		"dyn_ko_5685"
+		"dyn_ko_5688"
+		"dyn_ko_5695"
+		"dyn_ko_5713"
+		"dyn_ko_5816"
+		"dyn_ko_5898"
+		"dyn_ko_5899"
+		"dyn_ko_5902"
+		"dyn_ko_5913"
+		"dyn_ko_5941"
+		"dyn_ko_5952"
+		"dyn_ko_5969"
+		"dyn_ko_6009"
+		"dyn_ko_6043"
+		"dyn_ko_6060"
+		"dyn_ko_6079"
+		"dyn_ko_6088"
+		"dyn_ko_6124"
+		"dyn_ko_6151"
+		"dyn_ko_6175"
+		"dyn_ko_6186"
+		"dyn_ko_6200"
+		"dyn_ko_6222"
+		"dyn_ko_6223"
+		"dyn_ko_6253"
+		"dyn_ko_6258"
+		"dyn_ko_6296"
+		"dyn_ko_6300"
+		"dyn_ko_6316"
+		"dyn_ko_6320"
+		"dyn_ko_6321"
+		"dyn_ko_6328"
+		"dyn_ko_6333"
+		"dyn_ko_6339"
+		"dyn_ko_6351"
+		"dyn_ko_6378"
+		"dyn_ko_6390"
+		"dyn_ko_6392"
+		"dyn_ko_6424"
+		"dyn_ko_6508"
+		"dyn_ko_6580"
+		"dyn_ko_6581"
+		"dyn_ko_6593"
+		"dyn_ko_6614"
+		"dyn_ko_6629"
+		"dyn_ko_6639"
+		"dyn_ko_6647"
+		"dyn_ko_6688"
+		"dyn_ko_6708"
+		"dyn_ko_6717"
+		"dyn_ko_6719"
+		"dyn_ko_6726"
+		"dyn_ko_6728"
+		"dyn_ko_6730"
+		"dyn_ko_6732"
+		"dyn_ko_6733"
+		"dyn_ko_6735"
+		"dyn_ko_6745"
+		"dyn_ko_6750"
+		"dyn_ko_6751"
+		"dyn_ko_6753"
+		"dyn_ko_6757"
+		"dyn_ko_6759"
+		"dyn_ko_6760"
+		"dyn_ko_6762"
+		"dyn_ko_6768"
+		"dyn_ko_6772"
+		"dyn_ko_6774"
+		"dyn_ko_6782"
+		"dyn_ko_6786"
+		"dyn_ko_6787"
+		"dyn_ko_6855"
+		"dyn_ko_6873"
+		"dyn_ko_6892"
+		"dyn_ko_6929"
+		"dyn_ko_6988"
+		"dyn_ko_7024"
+		"dyn_ko_7028"
+		"dyn_ko_7036"
+		"dyn_ko_7051"
+		"dyn_ko_7067"
+		"dyn_ko_7070"
+		"dyn_ko_7074"
+		"dyn_ko_7086"
+		"dyn_ko_7093"
+		"dyn_ko_7113"
+		"dyn_ko_7115"
+		"dyn_ko_7118"
+		"dyn_ko_7120"
+		"dyn_ko_7122"
+		"dyn_ko_7127"
+		"dyn_ko_7131"
+		"dyn_ko_7136"
+		"dyn_ko_7167"
+		"dyn_ko_7175"
+		"dyn_ko_7191"
+		"dyn_ko_7202"
+		"dyn_ko_7246"
+		"dyn_ko_7255"
+		"dyn_ko_7263"
+		"dyn_ko_7279"
+		"dyn_ko_7281"
+		"dyn_ko_7300"
+		"dyn_ko_7309"
+		"dyn_ko_7312"
+		"dyn_ko_7346"
+		"dyn_ko_7357"
+		"dyn_ko_7402"
+		"dyn_ko_7437"
+		"dyn_ko_7456"
+		"dyn_ko_7458"
+		"dyn_ko_7482"
+		"dyn_ko_7559"
+		"dyn_ko_7614"
+		"dyn_ko_7625"
+		"dyn_ko_7627"
+		"dyn_ko_7637"
+		"dyn_ko_7639"
+		"dyn_ko_7685"
+		"dyn_ko_7773"
+		"dyn_ko_7796"
+		"dyn_ko_7802"
+		"dyn_ko_7806"
+		"dyn_ko_7812"
+		"dyn_ko_7871"
+		"dyn_ko_7893"
+		"dyn_ko_7895"
+		"dyn_ko_8001"
+		"dyn_ko_8016"
+		"dyn_ko_8034"
+		"dyn_ko_8093"
+		"dyn_ko_8369"
+		"dyn_ko_0002"
+		"dyn_ko_0023"
+		"dyn_ko_0045"
+		"dyn_ko_0060"
+		"dyn_ko_0061"
+		"dyn_ko_0064"
+		"dyn_ko_0073"
+		"dyn_ko_0092"
+		"dyn_ko_0102"
+		"dyn_ko_0104"
+		"dyn_ko_0111"
+		"dyn_ko_0112"
+		"dyn_ko_0117"
+		"dyn_ko_0122"
+		"dyn_ko_0124"
+		"dyn_ko_0126"
+		"dyn_ko_0130"
+		"dyn_ko_0141"
+		"dyn_ko_0143"
+		"dyn_ko_0149"
+		"dyn_ko_0151"
+		"dyn_ko_0152"
+		"dyn_ko_0157"
+		"dyn_ko_0171"
+		"dyn_ko_0186"
+		"dyn_ko_0205"
+		"dyn_ko_0207"
+		"dyn_ko_0208"
+		"dyn_ko_0242"
+		"dyn_ko_0265"
+		"dyn_ko_0328"
+		"dyn_ko_0337"
+		"dyn_ko_0339"
+		"dyn_ko_0356"
+		"dyn_ko_0361"
+		"dyn_ko_0370"
+		"dyn_ko_0373"
+		"dyn_ko_0396"
+		"dyn_ko_0397"
+		"dyn_ko_0400"
+		"dyn_ko_0405"
+		"dyn_ko_0407"
+		"dyn_ko_0431"
+		"dyn_ko_0443"
+		"dyn_ko_0446"
+		"dyn_ko_0448"
+		"dyn_ko_0491"
+		"dyn_ko_0525"
+		"dyn_ko_0545"
+		"dyn_ko_0551"
+		"dyn_ko_0562"
+		"dyn_ko_0575"
+		"dyn_ko_0587"
+		"dyn_ko_0589"
+		"dyn_ko_0592"
+		"dyn_ko_0593"
+		"dyn_ko_0603"
+		"dyn_ko_0604"
+		"dyn_ko_0606"
+		"dyn_ko_0615"
+		"dyn_ko_0626"
+		"dyn_ko_0632"
+		"dyn_ko_0654"
+		"dyn_ko_0657"
+		"dyn_ko_0669"
+		"dyn_ko_0670"
+		"dyn_ko_0673"
+		"dyn_ko_0674"
+		"dyn_ko_0679"
+		"dyn_ko_0683"
+		"dyn_ko_0686"
+		"dyn_ko_0702"
+		"dyn_ko_0712"
+		"dyn_ko_0719"
+		"dyn_ko_0729"
+		"dyn_ko_0735"
+		"dyn_ko_0752"
+		"dyn_ko_0761"
+		"dyn_ko_0781"
+		"dyn_ko_0794"
+		"dyn_ko_0827"
+		"dyn_ko_0829"
+		"dyn_ko_0830"
+		"dyn_ko_0917"
+		"dyn_ko_0948"
+	}
+
+	dynasty_names = {
+		"dyn_ko_1031"
+		"dyn_ko_1035"
+		"dyn_ko_1075"
+		"dyn_ko_1108"
+		"dyn_ko_1115"
+		"dyn_ko_1144"
+		"dyn_ko_1153"
+		"dyn_ko_1202"
+		"dyn_ko_1203"
+		"dyn_ko_1213"
+		"dyn_ko_1236"
+		"dyn_ko_1313"
+		"dyn_ko_1322"
+		"dyn_ko_1323"
+		"dyn_ko_1327"
+		"dyn_ko_1337"
+		"dyn_ko_1344"
+		"dyn_ko_1345"
+		"dyn_ko_1348"
+		"dyn_ko_1350"
+		"dyn_ko_1351"
+		"dyn_ko_1357"
+		"dyn_ko_1360"
+		"dyn_ko_1362"
+		"dyn_ko_1363"
+		"dyn_ko_1367"
+		"dyn_ko_1369"
+		"dyn_ko_1372"
+		"dyn_ko_1379"
+		"dyn_ko_1381"
+		"dyn_ko_1409"
+		"dyn_ko_1414"
+		"dyn_ko_1424"
+		"dyn_ko_1429"
+		"dyn_ko_1438"
+		"dyn_ko_1446"
+		"dyn_ko_1448"
+		"dyn_ko_1455"
+		"dyn_ko_1458"
+		"dyn_ko_1471"
+		"dyn_ko_1472"
+		"dyn_ko_1478"
+		"dyn_ko_1508"
+		"dyn_ko_1518"
+		"dyn_ko_1560"
+		"dyn_ko_1563"
+		"dyn_ko_1566"
+		"dyn_ko_1572"
+		"dyn_ko_1596"
+		"dyn_ko_1597"
+		"dyn_ko_1598"
+		"dyn_ko_1603"
+		"dyn_ko_1626"
+		"dyn_ko_1627"
+		"dyn_ko_1628"
+		"dyn_ko_1630"
+		"dyn_ko_1639"
+		"dyn_ko_1649"
+		"dyn_ko_1660"
+		"dyn_ko_1670"
+		"dyn_ko_1675"
+		"dyn_ko_1690"
+		"dyn_ko_1712"
+		"dyn_ko_1728"
+		"dyn_ko_1730"
+		"dyn_ko_1738"
+		"dyn_ko_1756"
+		"dyn_ko_1776"
+		"dyn_ko_1783"
+		"dyn_ko_1920"
+		"dyn_ko_1947"
+		"dyn_ko_1957"
+		"dyn_ko_1970"
+		"dyn_ko_2019"
+		"dyn_ko_2037"
+		"dyn_ko_2047"
+		"dyn_ko_2051"
+		"dyn_ko_2052"
+		"dyn_ko_2058"
+		"dyn_ko_2069"
+		"dyn_ko_2071"
+		"dyn_ko_2075"
+		"dyn_ko_2083"
+		"dyn_ko_2105"
+		"dyn_ko_2263"
+		"dyn_ko_2388"
+		"dyn_ko_2407"
+		"dyn_ko_2417"
+		"dyn_ko_2429"
+		"dyn_ko_2448"
+		"dyn_ko_2455"
+		"dyn_ko_2457"
+		"dyn_ko_2490"
+		"dyn_ko_2494"
+		"dyn_ko_2496"
+		"dyn_ko_2501"
+		"dyn_ko_2513"
+		"dyn_ko_2514"
+		"dyn_ko_2516"
+		"dyn_ko_2518"
+		"dyn_ko_2528"
+		"dyn_ko_2529"
+		"dyn_ko_2535"
+		"dyn_ko_2552"
+		"dyn_ko_2555"
+		"dyn_ko_2575"
+		"dyn_ko_2580"
+		"dyn_ko_2582"
+		"dyn_ko_2589"
+		"dyn_ko_2612"
+		"dyn_ko_2613"
+		"dyn_ko_2621"
+		"dyn_ko_2629"
+		"dyn_ko_2631"
+		"dyn_ko_2635"
+		"dyn_ko_2639"
+		"dyn_ko_2646"
+		"dyn_ko_2651"
+		"dyn_ko_2672"
+		"dyn_ko_2686"
+		"dyn_ko_2688"
+		"dyn_ko_2692"
+		"dyn_ko_2693"
+		"dyn_ko_2698"
+		"dyn_ko_2710"
+		"dyn_ko_2718"
+		"dyn_ko_2719"
+		"dyn_ko_2733"
+		"dyn_ko_2734"
+		"dyn_ko_2784"
+		"dyn_ko_2799"
+		"dyn_ko_2806"
+		"dyn_ko_2837"
+		"dyn_ko_2867"
+		"dyn_ko_2868"
+		"dyn_ko_2869"
+		"dyn_ko_2905"
+		"dyn_ko_2938"
+		"dyn_ko_2940"
+		"dyn_ko_2962"
+		"dyn_ko_2975"
+		"dyn_ko_2976"
+		"dyn_ko_3007"
+		"dyn_ko_3008"
+		"dyn_ko_3009"
+		"dyn_ko_3016"
+		"dyn_ko_3018"
+		"dyn_ko_3019"
+		"dyn_ko_3029"
+		"dyn_ko_3055"
+		"dyn_ko_3068"
+		"dyn_ko_3069"
+		"dyn_ko_3076"
+		"dyn_ko_3078"
+		"dyn_ko_3087"
+		"dyn_ko_3088"
+		"dyn_ko_3097"
+		"dyn_ko_3163"
+		"dyn_ko_3184"
+		"dyn_ko_3189"
+		"dyn_ko_3205"
+		"dyn_ko_3266"
+		"dyn_ko_3277"
+		"dyn_ko_3282"
+		"dyn_ko_3306"
+		"dyn_ko_3323"
+		"dyn_ko_3326"
+		"dyn_ko_3341"
+		"dyn_ko_3344"
+		"dyn_ko_3382"
+		"dyn_ko_3450"
+		"dyn_ko_3527"
+		"dyn_ko_3542"
+		"dyn_ko_3574"
+		"dyn_ko_3601"
+		"dyn_ko_3662"
+		"dyn_ko_3664"
+		"dyn_ko_3668"
+		"dyn_ko_3695"
+		"dyn_ko_3768"
+		"dyn_ko_3769"
+		"dyn_ko_3803"
+		"dyn_ko_3830"
+		"dyn_ko_3914"
+		"dyn_ko_3927"
+		"dyn_ko_3944"
+		"dyn_ko_3945"
+		"dyn_ko_3947"
+		"dyn_ko_3968"
+		"dyn_ko_4101"
+		"dyn_ko_4122"
+		"dyn_ko_4134"
+		"dyn_ko_4135"
+		"dyn_ko_4141"
+		"dyn_ko_4149"
+		"dyn_ko_4151"
+		"dyn_ko_4161"
+		"dyn_ko_4234"
+		"dyn_ko_4258"
+		"dyn_ko_4359"
+		"dyn_ko_4371"
+		"dyn_ko_4376"
+		"dyn_ko_4389"
+		"dyn_ko_4416"
+		"dyn_ko_4428"
+		"dyn_ko_4440"
+		"dyn_ko_4453"
+		"dyn_ko_4476"
+		"dyn_ko_4500"
+		"dyn_ko_4535"
+		"dyn_ko_4545"
+		"dyn_ko_4547"
+		"dyn_ko_4555"
+		"dyn_ko_4569"
+		"dyn_ko_4572"
+		"dyn_ko_4619"
+		"dyn_ko_4675"
+		"dyn_ko_4694"
+		"dyn_ko_4717"
+		"dyn_ko_4725"
+		"dyn_ko_4745"
+		"dyn_ko_4764"
+		"dyn_ko_4767"
+		"dyn_ko_4792"
+		"dyn_ko_4807"
+		"dyn_ko_4842"
+		"dyn_ko_4886"
+		"dyn_ko_4924"
+		"dyn_ko_5012"
+		"dyn_ko_5017"
+		"dyn_ko_5040"
+		"dyn_ko_5045"
+		"dyn_ko_5049"
+		"dyn_ko_5056"
+		"dyn_ko_5105"
+		"dyn_ko_5113"
+		"dyn_ko_5119"
+		"dyn_ko_5135"
+		"dyn_ko_5170"
+		"dyn_ko_5171"
+		"dyn_ko_5174"
+		"dyn_ko_5258"
+		"dyn_ko_5289"
+		"dyn_ko_5337"
+		"dyn_ko_5360"
+		"dyn_ko_5363"
+		"dyn_ko_5373"
+		"dyn_ko_5379"
+		"dyn_ko_5384"
+		"dyn_ko_5400"
+		"dyn_ko_5403"
+		"dyn_ko_5423"
+		"dyn_ko_5424"
+		"dyn_ko_5427"
+		"dyn_ko_5450"
+		"dyn_ko_5459"
+		"dyn_ko_5478"
+		"dyn_ko_5514"
+		"dyn_ko_5516"
+		"dyn_ko_5536"
+		"dyn_ko_5543"
+		"dyn_ko_5547"
+		"dyn_ko_5556"
+		"dyn_ko_5566"
+		"dyn_ko_5570"
+		"dyn_ko_5588"
+		"dyn_ko_5591"
+		"dyn_ko_5592"
+		"dyn_ko_5618"
+		"dyn_ko_5631"
+		"dyn_ko_5636"
+		"dyn_ko_5641"
+		"dyn_ko_5663"
+		"dyn_ko_5671"
+		"dyn_ko_5677"
+		"dyn_ko_5684"
+		"dyn_ko_5685"
+		"dyn_ko_5688"
+		"dyn_ko_5695"
+		"dyn_ko_5713"
+		"dyn_ko_5816"
+		"dyn_ko_5898"
+		"dyn_ko_5899"
+		"dyn_ko_5902"
+		"dyn_ko_5913"
+		"dyn_ko_5941"
+		"dyn_ko_5952"
+		"dyn_ko_5969"
+		"dyn_ko_6009"
+		"dyn_ko_6043"
+		"dyn_ko_6060"
+		"dyn_ko_6079"
+		"dyn_ko_6088"
+		"dyn_ko_6124"
+		"dyn_ko_6151"
+		"dyn_ko_6175"
+		"dyn_ko_6186"
+		"dyn_ko_6200"
+		"dyn_ko_6222"
+		"dyn_ko_6223"
+		"dyn_ko_6253"
+		"dyn_ko_6258"
+		"dyn_ko_6296"
+		"dyn_ko_6300"
+		"dyn_ko_6316"
+		"dyn_ko_6320"
+		"dyn_ko_6321"
+		"dyn_ko_6328"
+		"dyn_ko_6333"
+		"dyn_ko_6339"
+		"dyn_ko_6351"
+		"dyn_ko_6378"
+		"dyn_ko_6390"
+		"dyn_ko_6392"
+		"dyn_ko_6424"
+		"dyn_ko_6508"
+		"dyn_ko_6580"
+		"dyn_ko_6581"
+		"dyn_ko_6593"
+		"dyn_ko_6614"
+		"dyn_ko_6629"
+		"dyn_ko_6639"
+		"dyn_ko_6647"
+		"dyn_ko_6688"
+		"dyn_ko_6708"
+		"dyn_ko_6717"
+		"dyn_ko_6719"
+		"dyn_ko_6726"
+		"dyn_ko_6728"
+		"dyn_ko_6730"
+		"dyn_ko_6732"
+		"dyn_ko_6733"
+		"dyn_ko_6735"
+		"dyn_ko_6745"
+		"dyn_ko_6750"
+		"dyn_ko_6751"
+		"dyn_ko_6753"
+		"dyn_ko_6757"
+		"dyn_ko_6759"
+		"dyn_ko_6760"
+		"dyn_ko_6762"
+		"dyn_ko_6768"
+		"dyn_ko_6772"
+		"dyn_ko_6774"
+		"dyn_ko_6782"
+		"dyn_ko_6786"
+		"dyn_ko_6787"
+		"dyn_ko_6855"
+		"dyn_ko_6873"
+		"dyn_ko_6892"
+		"dyn_ko_6929"
+		"dyn_ko_6988"
+		"dyn_ko_7024"
+		"dyn_ko_7028"
+		"dyn_ko_7036"
+		"dyn_ko_7051"
+		"dyn_ko_7067"
+		"dyn_ko_7070"
+		"dyn_ko_7074"
+		"dyn_ko_7086"
+		"dyn_ko_7093"
+		"dyn_ko_7113"
+		"dyn_ko_7115"
+		"dyn_ko_7118"
+		"dyn_ko_7120"
+		"dyn_ko_7122"
+		"dyn_ko_7127"
+		"dyn_ko_7131"
+		"dyn_ko_7136"
+		"dyn_ko_7167"
+		"dyn_ko_7175"
+		"dyn_ko_7191"
+		"dyn_ko_7202"
+		"dyn_ko_7246"
+		"dyn_ko_7255"
+		"dyn_ko_7263"
+		"dyn_ko_7279"
+		"dyn_ko_7281"
+		"dyn_ko_7300"
+		"dyn_ko_7309"
+		"dyn_ko_7312"
+		"dyn_ko_7346"
+		"dyn_ko_7357"
+		"dyn_ko_7402"
+		"dyn_ko_7437"
+		"dyn_ko_7456"
+		"dyn_ko_7458"
+		"dyn_ko_7482"
+		"dyn_ko_7559"
+		"dyn_ko_7614"
+		"dyn_ko_7625"
+		"dyn_ko_7627"
+		"dyn_ko_7637"
+		"dyn_ko_7639"
+		"dyn_ko_7685"
+		"dyn_ko_7773"
+		"dyn_ko_7796"
+		"dyn_ko_7802"
+		"dyn_ko_7806"
+		"dyn_ko_7812"
+		"dyn_ko_7871"
+		"dyn_ko_7893"
+		"dyn_ko_7895"
+		"dyn_ko_8001"
+		"dyn_ko_8016"
+		"dyn_ko_8034"
+		"dyn_ko_8093"
+		"dyn_ko_8369"
+		"dyn_ko_0002"
+		"dyn_ko_0023"
+		"dyn_ko_0045"
+		"dyn_ko_0060"
+		"dyn_ko_0061"
+		"dyn_ko_0064"
+		"dyn_ko_0073"
+		"dyn_ko_0092"
+		"dyn_ko_0102"
+		"dyn_ko_0104"
+		"dyn_ko_0111"
+		"dyn_ko_0112"
+		"dyn_ko_0117"
+		"dyn_ko_0122"
+		"dyn_ko_0124"
+		"dyn_ko_0126"
+		"dyn_ko_0130"
+		"dyn_ko_0141"
+		"dyn_ko_0143"
+		"dyn_ko_0149"
+		"dyn_ko_0151"
+		"dyn_ko_0152"
+		"dyn_ko_0157"
+		"dyn_ko_0171"
+		"dyn_ko_0186"
+		"dyn_ko_0205"
+		"dyn_ko_0207"
+		"dyn_ko_0208"
+		"dyn_ko_0242"
+		"dyn_ko_0265"
+		"dyn_ko_0328"
+		"dyn_ko_0337"
+		"dyn_ko_0339"
+		"dyn_ko_0356"
+		"dyn_ko_0361"
+		"dyn_ko_0370"
+		"dyn_ko_0373"
+		"dyn_ko_0396"
+		"dyn_ko_0397"
+		"dyn_ko_0400"
+		"dyn_ko_0405"
+		"dyn_ko_0407"
+		"dyn_ko_0431"
+		"dyn_ko_0443"
+		"dyn_ko_0446"
+		"dyn_ko_0448"
+		"dyn_ko_0491"
+		"dyn_ko_0525"
+		"dyn_ko_0545"
+		"dyn_ko_0551"
+		"dyn_ko_0562"
+		"dyn_ko_0575"
+		"dyn_ko_0587"
+		"dyn_ko_0589"
+		"dyn_ko_0592"
+		"dyn_ko_0593"
+		"dyn_ko_0603"
+		"dyn_ko_0604"
+		"dyn_ko_0606"
+		"dyn_ko_0615"
+		"dyn_ko_0626"
+		"dyn_ko_0632"
+		"dyn_ko_0654"
+		"dyn_ko_0657"
+		"dyn_ko_0669"
+		"dyn_ko_0670"
+		"dyn_ko_0673"
+		"dyn_ko_0674"
+		"dyn_ko_0679"
+		"dyn_ko_0683"
+		"dyn_ko_0686"
+		"dyn_ko_0702"
+		"dyn_ko_0712"
+		"dyn_ko_0719"
+		"dyn_ko_0729"
+		"dyn_ko_0735"
+		"dyn_ko_0752"
+		"dyn_ko_0761"
+		"dyn_ko_0781"
+		"dyn_ko_0794"
+		"dyn_ko_0827"
+		"dyn_ko_0829"
+		"dyn_ko_0830"
+		"dyn_ko_0917"
+		"dyn_ko_0948"
+	}
+
+	male_names = {
+		ko_Byeong-ho ko_Dae-seong ko_Dong-geun ko_Do-yun ko_Eun-u ko_Ha-jun ko_Ha-yun
+		ko_Hyeon-jeong ko_Hyeon-ju ko_Hyeon-u ko_Il-seong ko_Jae-seong ko_Jeong-ho 
+		ko_Jeong-hui ko_Jeong-hun ko_Ji-ho ko_Ji-hu ko_Ji-hun ko_Ji-min ko_Ji-su ko_Ji-u
+		ko_Ji-won ko_Ji-yeong ko_Ji-yu ko_Jong-su ko_Jun-ho ko_Jun-seo ko_Ju-won
+		ko_Sang-hun ko_Seo-jun ko_Seong-ho ko_Seong-hun ko_Seong-hyeon ko_Seong-jin
+		ko_Seong-min ko_Seong-su ko_Si-u ko_Su-bin ko_Su-jin ko_U-jin ko_Ye-jun ko_Yeong-cheol
+		ko_Yeong-gi ko_Yeong-ho ko_Yeong-hwan ko_Yeong-su
+	}
+
+	female_names = {	
+		ko_Chae-won ko_Chae-yeong ko_Dae-jung ko_Eun-gyeong ko_Eun-jeong ko_Eun-ji
+		ko_Eun-yeong ko_Gyeong-hui ko_Gyeong-ja ko_Gyeong-suk ko_Ha-eun ko_Hye-jin
+		ko_Jeong-suk ko_Ji-eun ko_Ji-hye ko_Mi-gyeong ko_Min-ji ko_Min-jun ko_Min-seo
+		ko_Min-su ko_Mi-suk ko_Myeong-suk ko_Seo-a ko_Seo-hyeon ko_Seo-yeon ko_Seo-yun
+		ko_Suk-ja ko_Yeong-hui ko_Yeong-ja ko_Yeong-suk ko_Yu-mi 
+	}
+
+	dynasty_name_first = yes	
+}
+name_list_jurchen = { # Manchu
+
+	dynasty_names = {
+		dyn_mnc_Aangang dyn_mnc_Acigecalr dyn_mnc_Aha_Gioro dyn_mnc_Aihui
+		dyn_mnc_Aisin_Gioro dyn_mnc_Aiyi dyn_mnc_Aiyos dyn_mnc_Akjan dyn_mnc_Ala
+		dyn_mnc_Alai dyn_mnc_Alar dyn_mnc_Albaki dyn_mnc_Altanemok dyn_mnc_Alte
+		dyn_mnc_Amuharnu dyn_mnc_Amunibutas dyn_mnc_Amuru dyn_mnc_Andara
+		dyn_mnc_Angiya dyn_mnc_Aogiya dyn_mnc_Aora dyn_mnc_Aoratosin 
+		dyn_mnc_Arabiancian dyn_mnc_Arakcou dyn_mnc_Arakta dyn_mnc_Arbentcang
+		dyn_mnc_Arbu dyn_mnc_Ardan dyn_mnc_Argi dyn_mnc_Ariha dyn_mnc_Arla
+		dyn_mnc_Artas dyn_mnc_Aru dyn_mnc_Arurote dyn_mnc_Arute dyn_mnc_Asuke
+		dyn_mnc_Asute dyn_mnc_Atamu dyn_mnc_Aturamo dyn_mnc_Ayan_Gioro
+		dyn_mnc_Ayantatar dyn_mnc_Ba dyn_mnc_Bagiri dyn_mnc_Bai dyn_mnc_Bai1
+		dyn_mnc_Baica dyn_mnc_Baican dyn_mnc_Baidar dyn_mnc_Baidu dyn_mnc_Baige
+		dyn_mnc_Baigiya dyn_mnc_Baigiyara dyn_mnc_Baijin dyn_mnc_Baksang
+		dyn_mnc_Barda dyn_mnc_Bari dyn_mnc_Barin dyn_mnc_Barra dyn_mnc_Barut
+		dyn_mnc_Basun dyn_mnc_Bayak dyn_mnc_Bayan dyn_mnc_Bayantu dyn_mnc_Bayara
+		dyn_mnc_Bayarki dyn_mnc_Bayingeri dyn_mnc_Bayot dyn_mnc_Bayotu
+		dyn_mnc_Beisu dyn_mnc_Beisut dyn_mnc_Bektu dyn_mnc_Bian dyn_mnc_Biangiya
+		dyn_mnc_Biaot dyn_mnc_Bira dyn_mnc_Biru dyn_mnc_Birure dyn_mnc_Birya
+		dyn_mnc_Bodisi dyn_mnc_Boduot dyn_mnc_Boduri dyn_mnc_Bogulot dyn_mnc_Bohelok
+		dyn_mnc_Bohite dyn_mnc_Boholo dyn_mnc_Bohori dyn_mnc_Boljok dyn_mnc_Bolo
+		dyn_mnc_Bolot dyn_mnc_Boogi dyn_mnc_Boogiya dyn_mnc_Boorigit dyn_mnc_Borgi
+		dyn_mnc_Borgigin dyn_mnc_Borgik dyn_mnc_Borgisi dyn_mnc_Borgun dyn_mnc_Borhigis
+		dyn_mnc_Borholo dyn_mnc_Borjigin dyn_mnc_Borjigit dyn_mnc_Bork dyn_mnc_Borkit
+		dyn_mnc_Borsut dyn_mnc_Bosoo dyn_mnc_Budara dyn_mnc_Bugirgen dyn_mnc_Bugulut
+		dyn_mnc_Bukur dyn_mnc_Bulamu dyn_mnc_Bulca dyn_mnc_Buldurben dyn_mnc_Bulhaci
+		dyn_mnc_Bulni dyn_mnc_Bultu dyn_mnc_Buni dyn_mnc_Burhacit dyn_mnc_Burut
+		dyn_mnc_Busa dyn_mnc_Busai dyn_mnc_Busi dyn_mnc_Busuk dyn_mnc_Buyamuci
+		dyn_mnc_C_ygiya dyn_mnc_Ca dyn_mnc_Cagiya dyn_mnc_Cahala dyn_mnc_Cai
+		dyn_mnc_Cai1 dyn_mnc_Caigiya dyn_mnc_Calagiolo dyn_mnc_Canggiya dyn_mnc_Cao
+		dyn_mnc_Caodan dyn_mnc_Caogiya dyn_mnc_Caomut dyn_mnc_Ce dyn_mnc_Cemgun
+		dyn_mnc_Cen dyn_mnc_Ceng dyn_mnc_Cenggiya dyn_mnc_Cengiya dyn_mnc_Cengni
+		dyn_mnc_Ceyere dyn_mnc_Ci dyn_mnc_Ci1 dyn_mnc_Cian dyn_mnc_Ciangiya
+		dyn_mnc_Ciao dyn_mnc_Ciaogamuk dyn_mnc_Ciaogiya dyn_mnc_Cibogio dyn_mnc_Cibucut
+		dyn_mnc_Cibukit dyn_mnc_Cidare dyn_mnc_Cideri dyn_mnc_Cidumu dyn_mnc_Cigiya
+		dyn_mnc_Cikteng dyn_mnc_Cilei dyn_mnc_Cileng dyn_mnc_Cilik dyn_mnc_Cimketu
+		dyn_mnc_Cimo dyn_mnc_Cimos dyn_mnc_Cimot dyn_mnc_Cimuk dyn_mnc_Cin
+		dyn_mnc_Cinera dyn_mnc_Cinggeri dyn_mnc_Ciog dyn_mnc_Ciog1 dyn_mnc_Ciogiya
+		dyn_mnc_CioS_uri dyn_mnc_Cirbosu dyn_mnc_Cirgote dyn_mnc_Citela dyn_mnc_Ciu
+		dyn_mnc_Ciu1 dyn_mnc_Ciugiya dyn_mnc_Ciwangiya dyn_mnc_Ciya dyn_mnc_Ciyahiri
+		dyn_mnc_Ciyakala dyn_mnc_Ciyala dyn_mnc_Ciyarya dyn_mnc_Ciyat dyn_mnc_Cogira
+		dyn_mnc_Cogoru dyn_mnc_Cokcin dyn_mnc_Colo dyn_mnc_Colos dyn_mnc_Congnile
+		dyn_mnc_Cu dyn_mnc_Cui dyn_mnc_Cuigiya dyn_mnc_Cuihokin dyn_mnc_Cuijuk
+		dyn_mnc_Cuimulu dyn_mnc_Cukule dyn_mnc_Cibukinut dyn_mnc_Ciyogamut
+		dyn_mnc_Dagiya dyn_mnc_Dahuri dyn_mnc_Dai dyn_mnc_Daibolo dyn_mnc_Daicit
+		dyn_mnc_Daigiya dyn_mnc_Dalaminan dyn_mnc_Dalok dyn_mnc_Dalute dyn_mnc_Daputu
+		dyn_mnc_Darcongga dyn_mnc_Darkun dyn_mnc_Dartao dyn_mnc_Dedun dyn_mnc_Dedure
+		dyn_mnc_Deng dyn_mnc_Detecit dyn_mnc_Ding dyn_mnc_Dinggiri dyn_mnc_Dkdari
+		dyn_mnc_Docin dyn_mnc_Dogin dyn_mnc_Dohing dyn_mnc_Dolar dyn_mnc_Dolo
+		dyn_mnc_Dolohog dyn_mnc_Dolok dyn_mnc_Dong dyn_mnc_Dongga dyn_mnc_Donggiya
+		dyn_mnc_Donggo dyn_mnc_Donggor dyn_mnc_Dorgun dyn_mnc_Dortara dyn_mnc_Du
+		dyn_mnc_Duan dyn_mnc_Ducile dyn_mnc_Dugiya dyn_mnc_Dukda dyn_mnc_Dulara
+		dyn_mnc_Duneheng dyn_mnc_Dure dyn_mnc_Durha dyn_mnc_Duri dyn_mnc_Durre
+		dyn_mnc_Duru dyn_mnc_Dusan dyn_mnc_Duwargiya dyn_mnc_Duyar dyn_mnc_Elhuiejet
+		dyn_mnc_Ecin dyn_mnc_Ecolo dyn_mnc_Egiri dyn_mnc_Egit dyn_mnc_Eje dyn_mnc_Ejet
+		dyn_mnc_Ejo dyn_mnc_Eju dyn_mnc_Ejut dyn_mnc_Elakun dyn_mnc_Elcol
+		dyn_mnc_Elgeji dyn_mnc_Elgetu dyn_mnc_Elhe dyn_mnc_Elo dyn_mnc_Emit
+		dyn_mnc_Emok dyn_mnc_Emoto dyn_mnc_Emuco dyn_mnc_Emutri dyn_mnc_Engite
+		dyn_mnc_Eno dyn_mnc_Eraben dyn_mnc_Ercin dyn_mnc_Erdet dyn_mnc_Erdo
+		dyn_mnc_Erdun	dyn_mnc_Erge dyn_mnc_Ergeten dyn_mnc_Ergi dyn_mnc_Ergis 
+		dyn_mnc_Ergonote dyn_mnc_Erik dyn_mnc_Erimusu dyn_mnc_Erket dyn_mnc_Erkule
+		dyn_mnc_Ertu dyn_mnc_Ertut dyn_mnc_Ese dyn_mnc_Esolo dyn_mnc_Esurhu
+		dyn_mnc_Esuri dyn_mnc_Eto dyn_mnc_Etung dyn_mnc_Eyisu dyn_mnc_Eyo
+		dyn_mnc_Eyot dyn_mnc_Fan dyn_mnc_Fang dyn_mnc_Fang1 dyn_mnc_Fanggiya
+		dyn_mnc_Fangiya dyn_mnc_Fedosimori dyn_mnc_Fei dyn_mnc_Feigiya dyn_mnc_Feimo
+		dyn_mnc_Feiya dyn_mnc_Feiyangu dyn_mnc_Feng dyn_mnc_Fenggiya dyn_mnc_Fu
+		dyn_mnc_Fuca dyn_mnc_Fucen dyn_mnc_Fuciri dyn_mnc_Fugiya dyn_mnc_Fujuri
+		dyn_mnc_Fulha dyn_mnc_Fulkuru dyn_mnc_Fuse dyn_mnc_Fusere dyn_mnc_Fusi
+		dyn_mnc_Fusuhu dyn_mnc_Fusuku dyn_mnc_Futa dyn_mnc_Garja dyn_mnc_Gilaminemat
+		dyn_mnc_Giranggiwarka dyn_mnc_Girgi dyn_mnc_Gi dyn_mnc_Gi1 dyn_mnc_Gi2
+		dyn_mnc_Giagiya dyn_mnc_Giao dyn_mnc_Gibucu dyn_mnc_Gigiya dyn_mnc_Gilara
+		dyn_mnc_Gilat dyn_mnc_Gilet dyn_mnc_Gilut dyn_mnc_Gin dyn_mnc_Gin1 dyn_mnc_Gin2
+		dyn_mnc_Ging dyn_mnc_Gingciri dyn_mnc_Ginggeri dyn_mnc_Ginggi dyn_mnc_Ginggigi
+		dyn_mnc_Ginggiya dyn_mnc_Gingiya dyn_mnc_Ginmit dyn_mnc_Giocan dyn_mnc_Giogiya
+		dyn_mnc_Giolocan dyn_mnc_Giorca dyn_mnc_Gioro dyn_mnc_Girbis dyn_mnc_Giri
+		dyn_mnc_Giritu dyn_mnc_Giru dyn_mnc_Git dyn_mnc_Giya dyn_mnc_Giya1 
+		dyn_mnc_Giyabutala dyn_mnc_Giyagiri dyn_mnc_Giyagiya dyn_mnc_Giyahama
+		dyn_mnc_Giyajan dyn_mnc_Giyamhu dyn_mnc_Giyamuhut_Gioro dyn_mnc_Giyang
+		dyn_mnc_Giyang1 dyn_mnc_Giyang2 dyn_mnc_Giyanggi dyn_mnc_Giyanggiya
+		dyn_mnc_Giyanggiya1 dyn_mnc_Gobulo dyn_mnc_Gogiya dyn_mnc_Gorolo 
+		dyn_mnc_GU_walgiya dyn_mnc_Gurhas dyn_mnc_Hanggata dyn_mnc_Hegiya
+		dyn_mnc_HeS_eri dyn_mnc_Hinggiya dyn_mnc_Hitara dyn_mnc_Hoifa_Nara
+		dyn_mnc_Huoshuote dyn_mnc_Ilrgi dyn_mnc_I dyn_mnc_I1 dyn_mnc_Ibe
+		dyn_mnc_Ibucit dyn_mnc_Iin dyn_mnc_Iingiya dyn_mnc_Ijar dyn_mnc_Ikderi
+		dyn_mnc_Ikminga dyn_mnc_Ikulu dyn_mnc_Ilaci dyn_mnc_Ilan dyn_mnc_Ilari
+		dyn_mnc_Ilmen dyn_mnc_Ilmu dyn_mnc_Imu dyn_mnc_Imutu dyn_mnc_Inde dyn_mnc_Io
+		dyn_mnc_Ioge dyn_mnc_Iogiya dyn_mnc_Iohulu dyn_mnc_Iongloku dyn_mnc_Iongsebu
+		dyn_mnc_Irgen_Gioro dyn_mnc_Irgiya dyn_mnc_Irha dyn_mnc_Irkule dyn_mnc_Isu
+		dyn_mnc_Itemo dyn_mnc_Itumo dyn_mnc_Jayajala dyn_mnc_Joyan dyn_mnc_Jurgitemok
+		dyn_mnc_Jahacit dyn_mnc_Ja dyn_mnc_Jahama dyn_mnc_Jahasucin dyn_mnc_Jaigiya
+		dyn_mnc_Jakta dyn_mnc_Jaku dyn_mnc_Jakuta dyn_mnc_Jala dyn_mnc_Jalai
+		dyn_mnc_Jalar dyn_mnc_Jalari dyn_mnc_Jalarora dyn_mnc_Jaluca dyn_mnc_Jalut
+		dyn_mnc_Jamtai dyn_mnc_Jamuken dyn_mnc_Jamur dyn_mnc_Jamuya dyn_mnc_Jancuhun
+		dyn_mnc_Jang dyn_mnc_Jang1 dyn_mnc_Jangci dyn_mnc_Janggin dyn_mnc_Janggiya
+		dyn_mnc_Jangjar dyn_mnc_Jangmu dyn_mnc_Jangturi dyn_mnc_Janni dyn_mnc_Jarit
+		dyn_mnc_Jas_huuri dyn_mnc_Jasuri dyn_mnc_Jatehei dyn_mnc_Jebe dyn_mnc_Jeng
+		dyn_mnc_Jenggiya dyn_mnc_Jengnelut dyn_mnc_Jerde dyn_mnc_Jergi dyn_mnc_Jeri
+		dyn_mnc_Jo dyn_mnc_Jobalut dyn_mnc_Joceng dyn_mnc_Joci dyn_mnc_Jocicubut
+		dyn_mnc_Jocis dyn_mnc_Jodomu dyn_mnc_Jogin dyn_mnc_Jogiya dyn_mnc_Jok
+		dyn_mnc_Jokgiya dyn_mnc_Jong dyn_mnc_Jong1 dyn_mnc_Jonggi dyn_mnc_Jonggiya
+		dyn_mnc_Joo dyn_mnc_Joo1 dyn_mnc_Joobar dyn_mnc_Joodarhan dyn_mnc_Joogiya
+		dyn_mnc_Joogiya1 dyn_mnc_Joogiya2 dyn_mnc_Jookit dyn_mnc_Joole dyn_mnc_Joolot
+		dyn_mnc_Jooyut dyn_mnc_Jorgut dyn_mnc_Jorhecin dyn_mnc_Jort dyn_mnc_Josan
+		dyn_mnc_Ju dyn_mnc_Juge dyn_mnc_Jugede dyn_mnc_Jugiya dyn_mnc_Jugiya1
+		dyn_mnc_Juhere dyn_mnc_Jurgen dyn_mnc_Jurgun dyn_mnc_Jurk dyn_mnc_Jurki
+		dyn_mnc_Jurkit dyn_mnc_Jursu dyn_mnc_Juru dyn_mnc_Jusiri dyn_mnc_Juweci
+		dyn_mnc_Juweta dyn_mnc_Juwete dyn_mnc_Juyala dyn_mnc_Kacut dyn_mnc_Kagelr
+		dyn_mnc_Kailun dyn_mnc_Kaiyan dyn_mnc_Kaksiri dyn_mnc_Kala dyn_mnc_Kaldasu
+		dyn_mnc_Kang dyn_mnc_Kanggeda dyn_mnc_Kangsiri dyn_mnc_Kangyili dyn_mnc_Karcin
+		dyn_mnc_Karja dyn_mnc_Karku dyn_mnc_Karla dyn_mnc_Karlaha dyn_mnc_Karnot
+		dyn_mnc_Karnuk dyn_mnc_Kartagir dyn_mnc_Kay dyn_mnc_Kertelr dyn_mnc_Keben
+		dyn_mnc_Keciri dyn_mnc_Kein dyn_mnc_Kelde dyn_mnc_Kemucu dyn_mnc_Kemucut
+		dyn_mnc_Kemukit dyn_mnc_Kercin dyn_mnc_Kerde dyn_mnc_Kere dyn_mnc_Kerit
+		dyn_mnc_Kersun dyn_mnc_Kerut dyn_mnc_Kesiketeng dyn_mnc_Kete dyn_mnc_Keyere
+		yn_mnc_Keykere dyn_mnc_Keyilkelei dyn_mnc_Kodai dyn_mnc_Kode dyn_mnc_Koken
+		dyn_mnc_Kong dyn_mnc_Konggolo dyn_mnc_Kongkeri dyn_mnc_Kongnila dyn_mnc_Koocoli
+		dyn_mnc_Kubuke dyn_mnc_Kubut dyn_mnc_Kubut1 dyn_mnc_Kuicelik dyn_mnc_Kuigiya
+		dyn_mnc_Kuilong dyn_mnc_Kumutu dyn_mnc_Kundule dyn_mnc_Kuwarda dyn_mnc_Kuyala
+		dyn_mnc_Lai dyn_mnc_Laibu dyn_mnc_Laimo dyn_mnc_Lakule dyn_mnc_Lang
+		dyn_mnc_Langgiya dyn_mnc_Layan dyn_mnc_Ledi dyn_mnc_Lei dyn_mnc_Lengburcin
+		dyn_mnc_Li dyn_mnc_Liang dyn_mnc_Lianggiya dyn_mnc_Ligiya dyn_mnc_Liu
+		dyn_mnc_Lin dyn_mnc_Linggirl dyn_mnc_Lingiya dyn_mnc_Liugiya dyn_mnc_Litari
+		dyn_mnc_Liyala dyn_mnc_Liyu dyn_mnc_Lo dyn_mnc_Loca dyn_mnc_Logiya dyn_mnc_Long
+		dyn_mnc_Loyo dyn_mnc_Lu dyn_mnc_Lu1 dyn_mnc_Luruhuo dyn_mnc_Morjigite
+		dyn_mnc_Ma dyn_mnc_Maca dyn_mnc_Magiya dyn_mnc_Magus dyn_mnc_Magut
+		dyn_mnc_Mahalr dyn_mnc_Majak dyn_mnc_Malakur dyn_mnc_Malalr dyn_mnc_Malangga
+		dyn_mnc_Malara dyn_mnc_Manggenut dyn_mnc_Manggico dyn_mnc_Manggiya
+		dyn_mnc_Manggo dyn_mnc_Mangin dyn_mnc_Mangnut dyn_mnc_Manja dyn_mnc_Maoyi
+		dyn_mnc_Mardan dyn_mnc_Margit dyn_mnc_Martun dyn_mnc_Mei dyn_mnc_Meigiya
+		dyn_mnc_Meiheri dyn_mnc_Meile dyn_mnc_Meileng dyn_mnc_Meng dyn_mnc_Mengero
+		dyn_mnc_Menggiya dyn_mnc_Menggosi dyn_mnc_Menggucu dyn_mnc_Menggurgi
+		dyn_mnc_Mengkyire dyn_mnc_Mengnat dyn_mnc_Miao dyn_mnc_Migiya dyn_mnc_Mija
+		dyn_mnc_Min dyn_mnc_Minggan dyn_mnc_Mo dyn_mnc_Mogiya dyn_mnc_Mohuri
+		dyn_mnc_Mokele dyn_mnc_Moketing dyn_mnc_Moketo dyn_mnc_Molci dyn_mnc_Molciri
+		dyn_mnc_Moldire dyn_mnc_Moljere dyn_mnc_Moneher dyn_mnc_Mongeso
+		dyn_mnc_Monggo dyn_mnc_Monggu dyn_mnc_Mongguri dyn_mnc_Morci dyn_mnc_Morcin
+		dyn_mnc_Morcit dyn_mnc_Mordaja dyn_mnc_Mordi dyn_mnc_Mordin dyn_mnc_More
+		dyn_mnc_Morgi dyn_mnc_Morho dyn_mnc_Mosire dyn_mnc_Moyolo dyn_mnc_Mu
+		dyn_mnc_Mu1 dyn_mnc_Muca dyn_mnc_Mudaci dyn_mnc_Mugiya dyn_mnc_Muhelin
+		dyn_mnc_Mukderi dyn_mnc_Muki dyn_mnc_Muktu dyn_mnc_Mulde dyn_mnc_Muliyalian
+		dyn_mnc_Murca dyn_mnc_Muru dyn_mnc_Musecen dyn_mnc_Muya dyn_mnc_Muyan
+		dyn_mnc_Nahata dyn_mnc_Naikiri dyn_mnc_Naikite dyn_mnc_Naiman dyn_mnc_Nakta
+		dyn_mnc_Nalgiya dyn_mnc_Namdulu dyn_mnc_Namutu dyn_mnc_Nanfulu
+		dyn_mnc_Nanggiya dyn_mnc_Nanggiyat dyn_mnc_Nara dyn_mnc_Narai dyn_mnc_Nata
+		dyn_mnc_Naya dyn_mnc_Nayi dyn_mnc_Nedi dyn_mnc_Nere dyn_mnc_Ni
+		dyn_mnc_Nigele dyn_mnc_Nigiya dyn_mnc_Niheri dyn_mnc_Nijuhun dyn_mnc_Nikiri
+		dyn_mnc_Nila dyn_mnc_Nimaca dyn_mnc_Nimaci dyn_mnc_Nimaha dyn_mnc_Nimanggi
+		dyn_mnc_Ning dyn_mnc_Ning1 dyn_mnc_Ninggeri dyn_mnc_Ninggiya dyn_mnc_Ninggiya1
+		dyn_mnc_Ninggiyat dyn_mnc_Ningguta dyn_mnc_Ninju dyn_mnc_Nio dyn_mnc_Nio1
+		dyn_mnc_Niogiya dyn_mnc_Niohe dyn_mnc_Niohere dyn_mnc_Niohule dyn_mnc_Niohuru
+		dyn_mnc_Niohurubu dyn_mnc_Niohut dyn_mnc_Niolun dyn_mnc_Niotu
+		dyn_mnc_Niowanggiyan dyn_mnc_Nioyan dyn_mnc_Niri dyn_mnc_Nisa dyn_mnc_Nisiri
+		dyn_mnc_Niyangniya dyn_mnc_Niyngtu dyn_mnc_Niyongt dyn_mnc_Nolo
+		dyn_mnc_Nonggile dyn_mnc_Nonr dyn_mnc_Noulet dyn_mnc_Nouliet dyn_mnc_Nulu
+		dyn_mnc_Nurhan dyn_mnc_Nutelun dyn_mnc_Pan dyn_mnc_Pang dyn_mnc_Panggiya
+		dyn_mnc_Pei dyn_mnc_Peigiya dyn_mnc_Peng dyn_mnc_Piao dyn_mnc_Piaogiya
+		dyn_mnc_Po dyn_mnc_Pogiya dyn_mnc_Pugiya dyn_mnc_Rao dyn_mnc_Raoguo
+		dyn_mnc_Ru dyn_mnc_Ruburi dyn_mnc_Ruyere dyn_mnc_Sailgi dyn_mnc_Sayinsartu
+		dyn_mnc_Sayin_Noyan dyn_mnc_Salatuluteng dyn_mnc_Selje dyn_mnc_Sereri
+		dyn_mnc_Sernoloyasu dyn_mnc_Socala dyn_mnc_Suduri dyn_mnc_Saca 
+		dyn_mnc_Saca_Giorca dyn_mnc_Sacahai dyn_mnc_Sadala dyn_mnc_Sahalgi
+		dyn_mnc_Sahalian dyn_mnc_Saharca dyn_mnc_Saiheri dyn_mnc_Saiktu
+		dyn_mnc_Saimire dyn_mnc_Sakca dyn_mnc_Sakda dyn_mnc_Sala dyn_mnc_Salatak
+		dyn_mnc_Salatjo dyn_mnc_Salatu dyn_mnc_Saljut dyn_mnc_Samala dyn_mnc_Samargi
+		dyn_mnc_Samusir dyn_mnc_Sang dyn_mnc_Sang1 dyn_mnc_Sanggiya dyn_mnc_Sardu
+		dyn_mnc_Sartu dyn_mnc_Sartuk dyn_mnc_Sartun dyn_mnc_Sarut dyn_mnc_Sayot
+		dyn_mnc_Sece dyn_mnc_Semukiri dyn_mnc_Sen dyn_mnc_Senggiya dyn_mnc_Sengiya
+		dyn_mnc_Senmuri dyn_mnc_Seyan dyn_mnc_Si dyn_mnc_Si1 dyn_mnc_Si2 dyn_mnc_Si3
+		dyn_mnc_Si4 dyn_mnc_Sia dyn_mnc_Siandacan dyn_mnc_Siang dyn_mnc_Siboocan
+		dyn_mnc_Siburu dyn_mnc_Sibusu dyn_mnc_Sicigir dyn_mnc_Sie dyn_mnc_Sifaci
+		dyn_mnc_Sifuca dyn_mnc_S_igiya dyn_mnc_S_igiya1 dyn_mnc_Sija dyn_mnc_Sikde
+		dyn_mnc_Sikegira dyn_mnc_Sikteri dyn_mnc_Silde dyn_mnc_Silergi dyn_mnc_Silin
+		dyn_mnc_Sirin_Gioro dyn_mnc_Siltu dyn_mnc_Siluk dyn_mnc_Silut dyn_mnc_Simara
+		dyn_mnc_Simolie dyn_mnc_Simulu dyn_mnc_Sin dyn_mnc_Sinaminga dyn_mnc_Sinecuk
+		dyn_mnc_Sinet dyn_mnc_Sing dyn_mnc_Sinurhu dyn_mnc_Sio dyn_mnc_Sio1 dyn_mnc_Sira
+		dyn_mnc_Sirbi dyn_mnc_Sirdet dyn_mnc_Sire dyn_mnc_Sirgiya dyn_mnc_Sirha
+		dyn_mnc_Sirhin dyn_mnc_Sirtu dyn_mnc_Sisar dyn_mnc_Sisiya dyn_mnc_Sitara
+		dyn_mnc_Siu dyn_mnc_Siu1 dyn_mnc_Siuca dyn_mnc_Siugi dyn_mnc_Siugiya
+		dyn_mnc_Siuncaol dyn_mnc_Siungin dyn_mnc_Siuniyaote dyn_mnc_Siyogiya
+		dyn_mnc_Siyoheri dyn_mnc_Siyomori dyn_mnc_So dyn_mnc_Soca dyn_mnc_Soceri
+		dyn_mnc_Soceri1 dyn_mnc_Socoro dyn_mnc_Socor dyn_mnc_Sodoli dyn_mnc_Sogiya
+		dyn_mnc_Sogiyala dyn_mnc_Soiehogin dyn_mnc_Solocia dyn_mnc_Solongar
+		dyn_mnc_Solongus dyn_mnc_Sonotu dyn_mnc_Sordo dyn_mnc_Sorgi dyn_mnc_Su
+		dyn_mnc_Suan dyn_mnc_Sue dyn_mnc_S_ufaca dyn_mnc_Sugiya dyn_mnc_S_ugiya
+		dyn_mnc_Sugiya1 dyn_mnc_Suigiya dyn_mnc_Sukca dyn_mnc_S_ukduri dyn_mnc_Sulara
+		dyn_mnc_S_ulu dyn_mnc_Sumari dyn_mnc_Sumir dyn_mnc_Sumuca dyn_mnc_Sumuk
+		dyn_mnc_S_umur dyn_mnc_S_umuri dyn_mnc_S_umuri1 dyn_mnc_S_umuru
+		dyn_mnc_Sun dyn_mnc_Sunbulu dyn_mnc_Suncor dyn_mnc_Sung dyn_mnc_Sung1
+		dyn_mnc_Sunggi dyn_mnc_Sunggiya dyn_mnc_Sungyan dyn_mnc_Sunit dyn_mnc_S_urdu
+		dyn_mnc_Surgiya dyn_mnc_S_uru dyn_mnc_S_uS_an_Gioro dyn_mnc_S_uS_u_Gioro
+		dyn_mnc_Tegi dyn_mnc_Tie dyn_mnc_Tabennutuk dyn_mnc_Taicu dyn_mnc_Taicuru
+		dyn_mnc_Taicut dyn_mnc_Taihut dyn_mnc_Taisinara dyn_mnc_Talbacik dyn_mnc_Tamuca
+		dyn_mnc_Tan dyn_mnc_Tan1 dyn_mnc_Tang dyn_mnc_Tang1 dyn_mnc_Tangda
+		dyn_mnc_Tanggiya dyn_mnc_Tanggu dyn_mnc_Tanggur dyn_mnc_Tanggut
+		dyn_mnc_Tangni dyn_mnc_Tangyan dyn_mnc_Tankai dyn_mnc_Tao dyn_mnc_Taogiya
+		dyn_mnc_Tara dyn_mnc_Tarhunut dyn_mnc_Tatan dyn_mnc_Tatar dyn_mnc_Tatara
+		dyn_mnc_Tergir dyn_mnc_Tian dyn_mnc_Tiangiya dyn_mnc_Tohercin dyn_mnc_Tohoro
+		dyn_mnc_Tolgiya dyn_mnc_Tolot dyn_mnc_Tomo dyn_mnc_Tong dyn_mnc_Tongiya
+		dyn_mnc_Tongala dyn_mnc_Tongelo dyn_mnc_Tonggosu dyn_mnc_Tongnigot 
+		dyn_mnc_Tongniyot dyn_mnc_Tongyangiolo dyn_mnc_Tori dyn_mnc_Tsanggiya
+		dyn_mnc_Tsangmargi dyn_mnc_Tu dyn_mnc_Tu1 dyn_mnc_Tubot dyn_mnc_Tubusu
+		dyn_mnc_Tugiya dyn_mnc_Tukcinara dyn_mnc_Tukdun dyn_mnc_Tuktan dyn_mnc_Tulolut
+		dyn_mnc_Tulri dyn_mnc_Tumen dyn_mnc_Tumot dyn_mnc_Tunggiya dyn_mnc_Tungki
+		dyn_mnc_Tungsaire dyn_mnc_Tungsairi dyn_mnc_Turdun dyn_mnc_Turge dyn_mnc_Turgiya
+		dyn_mnc_Turtara dyn_mnc_Tusala dyn_mnc_Tuseri dyn_mnc_U dyn_mnc_Ucala
+		dyn_mnc_Ucehe dyn_mnc_Uceku dyn_mnc_Ucere dyn_mnc_Ucikiri dyn_mnc_Ucikit
+		dyn_mnc_Uciyarkan dyn_mnc_Ucuke dyn_mnc_Ugigiyala dyn_mnc_Ugiket dyn_mnc_Ugiya
+		dyn_mnc_Ugiya1 dyn_mnc_Uhe dyn_mnc_Uja dyn_mnc_Ujaku dyn_mnc_Ujalhu 
+		dyn_mnc_Ujara dyn_mnc_Ujigit dyn_mnc_Ukeding dyn_mnc_Ukudenggi dyn_mnc_Ukuri
+		dyn_mnc_Ula dyn_mnc_Ulan dyn_mnc_Ulanghai dyn_mnc_Ulanghaigilmo 
+		dyn_mnc_Ulanghat dyn_mnc_Ulat dyn_mnc_Ulatehake dyn_mnc_Ulhanga dyn_mnc_Ulie
+		dyn_mnc_Uligin dyn_mnc_Ulin dyn_mnc_Uling_a dyn_mnc_Ulri dyn_mnc_Ulsi
+		dyn_mnc_Uluri dyn_mnc_Ulut dyn_mnc_Umi dyn_mnc_Umu dyn_mnc_Unat
+		dyn_mnc_Unehucin dyn_mnc_Unemur dyn_mnc_Unin dyn_mnc_Uninci dyn_mnc_Unuci
+		dyn_mnc_Unuhu dyn_mnc_Urda dyn_mnc_Urgeci dyn_mnc_Urgucen dyn_mnc_Urgunkele
+		dyn_mnc_Urhan dyn_mnc_Urhugi dyn_mnc_Urisu dyn_mnc_Urit dyn_mnc_Uru
+		dyn_mnc_Uru1 dyn_mnc_Use dyn_mnc_Usi dyn_mnc_Usira dyn_mnc_Usujan
+		dyn_mnc_Usun dyn_mnc_Usuri dyn_mnc_Uya dyn_mnc_Uyaca dyn_mnc_Uyan
+		dyn_mnc_Uyanki dyn_mnc_Uyara dyn_mnc_Uyo dyn_mnc_Uyu dyn_mnc_Wa
+		dyn_mnc_Walan dyn_mnc_Walgiya dyn_mnc_Wamo dyn_mnc_Wan dyn_mnc_Wang
+		dyn_mnc_Wang1 dyn_mnc_Wanggi dyn_mnc_Wanyan dyn_mnc_Wanggiya 
+		dyn_mnc_Wanggurcin dyn_mnc_Wangjabu dyn_mnc_Wangjar dyn_mnc_WangS_ut
+		dyn_mnc_Wanlioha dyn_mnc_Wargi dyn_mnc_Wari dyn_mnc_Warka dyn_mnc_Wasan
+		dyn_mnc_Wase dyn_mnc_Wegi dyn_mnc_Wei dyn_mnc_Wei1 dyn_mnc_Weigiya 
+		dyn_mnc_Weigut dyn_mnc_Weilalr dyn_mnc_Wen dyn_mnc_Wen1 dyn_mnc_Wenca
+		dyn_mnc_Wencara dyn_mnc_Wenceheng dyn_mnc_Wenda dyn_mnc_Wende
+		dyn_mnc_Wendenge dyn_mnc_Wendu dyn_mnc_Wengari dyn_mnc_Wenggilgin
+		dyn_mnc_Wenggit dyn_mnc_Wenggori dyn_mnc_Wenggot dyn_mnc_Wengiya
+		dyn_mnc_Wengket dyn_mnc_Wengniolo dyn_mnc_Wengniri dyn_mnc_Wengnit
+		dyn_mnc_Wengnot dyn_mnc_Wengsejan dyn_mnc_Wenja dyn_mnc_Wentehe
+		dyn_mnc_Wentun dyn_mnc_Ya dyn_mnc_Yagiya dyn_mnc_Yan dyn_mnc_Yan1
+		dyn_mnc_Yan2 dyn_mnc_Yan3 dyn_mnc_Yang dyn_mnc_Yangai dyn_mnc_Yangeri
+		dyn_mnc_Yanggi dyn_mnc_Yanggiya dyn_mnc_Yangi dyn_mnc_Yangiri dyn_mnc_Yangiya
+		dyn_mnc_Yangna dyn_mnc_Yanja dyn_mnc_Yanju dyn_mnc_Yao dyn_mnc_Yaogiya
+		dyn_mnc_Yarhu dyn_mnc_Yarsara dyn_mnc_Yasu dyn_mnc_Ye dyn_mnc_Yegulut
+		dyn_mnc_Yehe dyn_mnc_Yehele dyn_mnc_Yekejong dyn_mnc_Yekuri dyn_mnc_Yelu
+		dyn_mnc_Yemole dyn_mnc_Yemu dyn_mnc_Yiogeri dyn_mnc_Ying dyn_mnc_Yingai
+		dyn_mnc_Yinggiya dyn_mnc_Yingiya dyn_mnc_Yo dyn_mnc_Yoca dyn_mnc_Yokre
+		dyn_mnc_Yolocin dyn_mnc_Yonot dyn_mnc_Yu dyn_mnc_Yu1 dyn_mnc_Yuan
+		dyn_mnc_Yugiya dyn_mnc_Yugiya1 dyn_mnc_Yuhuru dyn_mnc_Yukmo dyn_mnc_Yukure
+		dyn_mnc_Yulu dyn_mnc_Yur dyn_mnc_Yurku dyn_mnc_Yurkure dyn_mnc_Yutumo
+	}
+
+	male_names = {
+		mnc_Aguda mnc_Ahacu mnc_Atai mnc_Bahai mnc_Baindari mnc_Bugan
+		mnc_Bujantai mnc_BukU_ri mnc_Buyan mnc_Cinggiyanu mnc_Cirgani mnc_Cukungge
+		mnc_CungS_an mnc_Darhan mnc_Fanca mnc_FiyanggU_ mnc_Fuman mnc_Giocangga
+		mnc_Hanpu mnc_Helibo mnc_Hurhan mnc_Jintaiji mnc_Kesina mnc_Limanchu
+		mnc_Mantai mnc_Menggebulu mnc_Minggatu mnc_MO_ngke mnc_Narimbulu mnc_Nikan
+		mnc_Nurhaci mnc_Pochishu mnc_Shilu mnc_Sibeoci mnc_Singgen mnc_Sirke mnc_Suike
+		mnc_S_igiyanu mnc_Taicu mnc_Taksi mnc_Tolo mnc_UlhU_da mnc_Wailan mnc_Wangginu
+		mnc_Wangji mnc_Wugunai mnc_Wulu mnc_Wuyashu mnc_Yangginu mnc_Yingge
+		mnc_YongS_on
+	}
+	female_names = {		
+		# Female-only
+		zh_0022_A zh_0061_A zh_1129_A zh_1369_A zh_2494_A zh_2672_A zh_3046_A zh_3055_A zh_3189_A zh_3276_A
+		zh_3810_A zh_4258_A zh_5126_A zh_5297_A zh_5468_A zh_5571_A zh_5695_A zh_5725_A zh_6591_A zh_6598_A
+		# Either sex
+		zh_0079_A zh_0163_A zh_0193_A zh_0251_A zh_0256_A zh_0308_A zh_0320_A zh_0336_A zh_0418_A zh_0420_A
+		zh_0500_A zh_0516_A zh_0523_A zh_0670_A zh_0689_A zh_0689_A zh_0735_A zh_0948_A zh_1115_A zh_1164_A
+		zh_1172_A zh_1218_A zh_1227_A zh_1331_A zh_1337_A zh_1344_A zh_1355_A zh_1367_A zh_1381_A zh_1395_A zh_1526_A
+		zh_1550_A zh_1565_A zh_1696_A zh_1730_A zh_1738_A zh_1792_A zh_1807_A zh_1813_A zh_1837_A zh_1837_A zh_1854_A
+		zh_1938_A zh_1947_A zh_1970_A zh_1979_A zh_2052_A zh_2398_A zh_2404_A zh_2429_A zh_2490_A zh_2504_A 
+		zh_2514_A zh_2533_A zh_2535_A zh_2541_A zh_2545_A zh_2606_A zh_2638_A zh_2639_A zh_2639_A zh_2710_A
+		zh_2734_A zh_2767_A zh_2837_A zh_2970_A zh_2973_A zh_2976_A zh_3015_A zh_3057_A zh_3068_A zh_3109_A
+		zh_3134_A zh_3152_A zh_3160_A zh_3219_A zh_3390_A zh_3425_A zh_3447_A zh_3552_A zh_3768_A zh_3791_A
+		zh_3829_A zh_3940_A zh_4101_A zh_4102_A zh_4135_A zh_4176_A zh_4320_A zh_4382_A zh_4423_A zh_4428_A
+		zh_4539_A zh_4790_A zh_5019_A zh_5030_A zh_5046_A zh_5333_A zh_5358_A zh_5363_A zh_5364_A zh_5383_A
+		zh_5440_A zh_5478_A zh_5593_A zh_5628_A zh_5633_A zh_5676_A zh_5816_A zh_5988_A zh_6297_A zh_6363_A
+		zh_6389_A zh_6540_A zh_6671_A zh_6855_A zh_6875_A zh_6892_A zh_6900_A zh_6930_A zh_7022_A zh_7122_A
+		zh_7127_A zh_7161_A zh_7183_A zh_7185_A zh_7209_A zh_7227_A zh_7230_A zh_7234_A zh_7299_A zh_7311_A
+		zh_7449_A zh_7703_A zh_7787_A zh_7812_A zh_7893_A zh_8002_A zh_8113_A		
+		# Female-only
+		zh_0022_B zh_0061_B zh_1129_B zh_1369_B zh_2494_B zh_2672_B zh_3046_B zh_3055_B zh_3189_B zh_3276_B
+		zh_3810_B zh_4258_B zh_5126_B zh_5297_B zh_5468_B zh_5571_B zh_5695_B zh_5725_B zh_6591_B zh_6598_B
+		# Either sex
+		zh_0079_B zh_0163_B zh_0193_B zh_0251_B zh_0256_B zh_0308_B zh_0320_B zh_0336_B zh_0418_B zh_0420_B
+		zh_0500_B zh_0516_B zh_0523_B zh_0670_B zh_0689_B zh_0689_B zh_0735_B zh_0948_B zh_1115_B zh_1164_B
+		zh_1172_B zh_1218_B zh_1227_B zh_1331_B zh_1337_B zh_1344_B zh_1355_B zh_1367_B zh_1381_B zh_1395_B zh_1526_B
+		zh_1550_B zh_1565_B zh_1696_B zh_1730_B zh_1738_B zh_1792_B zh_1807_B zh_1813_B zh_1837_B zh_1837_B zh_1854_B
+		zh_1938_B zh_1947_B zh_1970_B zh_1979_B zh_2052_B zh_2398_B zh_2404_B zh_2429_B zh_2490_B zh_2504_B 
+		zh_2514_B zh_2533_B zh_2535_B zh_2541_B zh_2545_B zh_2606_B zh_2638_B zh_2639_B zh_2639_B zh_2710_B
+		zh_2734_B zh_2767_B zh_2837_B zh_2970_B zh_2973_B zh_2976_B zh_3015_B zh_3057_B zh_3068_B zh_3109_B
+		zh_3134_B zh_3152_B zh_3160_B zh_3219_B zh_3390_B zh_3425_B zh_3447_B zh_3552_B zh_3768_B zh_3791_B
+		zh_3829_B zh_3940_B zh_4101_B zh_4102_B zh_4135_B zh_4176_B zh_4320_B zh_4382_B zh_4423_B zh_4428_B
+		zh_4539_B zh_4790_B zh_5019_B zh_5030_B zh_5046_B zh_5333_B zh_5358_B zh_5363_B zh_5364_B zh_5383_B
+		zh_5440_B zh_5478_B zh_5593_B zh_5628_B zh_5633_B zh_5676_B zh_5816_B zh_5988_B zh_6297_B zh_6363_B
+		zh_6389_B zh_6540_B zh_6671_B zh_6855_B zh_6875_B zh_6892_B zh_6900_B zh_6930_B zh_7022_B zh_7122_B
+		zh_7127_B zh_7161_B zh_7183_B zh_7185_B zh_7209_B zh_7227_B zh_7230_B zh_7234_B zh_7299_B zh_7311_B
+		zh_7449_B zh_7703_B zh_7787_B zh_7812_B zh_7893_B zh_8002_B zh_8113_B		
+		# Female-only
+		zh_0022_C zh_0061_C zh_1129_C zh_1369_C zh_2494_C zh_2672_C zh_3046_C zh_3055_C zh_3189_C zh_3276_C
+		zh_3810_C zh_4258_C zh_5126_C zh_5297_C zh_5468_C zh_5571_C zh_5695_C zh_5725_C zh_6591_C zh_6598_C
+		# Either sex
+		zh_0079_C zh_0163_C zh_0193_C zh_0251_C zh_0256_C zh_0308_C zh_0320_C zh_0336_C zh_0418_C zh_0420_C
+		zh_0500_C zh_0516_C zh_0523_C zh_0670_C zh_0689_C zh_0689_C zh_0735_C zh_0948_C zh_1115_C zh_1164_C
+		zh_1172_C zh_1218_C zh_1227_C zh_1331_C zh_1337_C zh_1344_C zh_1355_C zh_1367_C zh_1381_C zh_1395_C zh_1526_C
+		zh_1550_C zh_1565_C zh_1696_C zh_1730_C zh_1738_C zh_1792_C zh_1807_C zh_1813_C zh_1837_C zh_1837_C zh_1854_C
+		zh_1938_C zh_1947_C zh_1970_C zh_1979_C zh_2052_C zh_2398_C zh_2404_C zh_2429_C zh_2490_C zh_2504_C 
+		zh_2514_C zh_2533_C zh_2535_C zh_2541_C zh_2545_C zh_2606_C zh_2638_C zh_2639_C zh_2639_C zh_2710_C
+		zh_2734_C zh_2767_C zh_2837_C zh_2970_C zh_2973_C zh_2976_C zh_3015_C zh_3057_C zh_3068_C zh_3109_C
+		zh_3134_C zh_3152_C zh_3160_C zh_3219_C zh_3390_C zh_3425_C zh_3447_C zh_3552_C zh_3768_C zh_3791_C
+		zh_3829_C zh_3940_C zh_4101_C zh_4102_C zh_4135_C zh_4176_C zh_4320_C zh_4382_C zh_4423_C zh_4428_C
+		zh_4539_C zh_4790_C zh_5019_C zh_5030_C zh_5046_C zh_5333_C zh_5358_C zh_5363_C zh_5364_C zh_5383_C
+		zh_5440_C zh_5478_C zh_5593_C zh_5628_C zh_5633_C zh_5676_C zh_5816_C zh_5988_C zh_6297_C zh_6363_C
+		zh_6389_C zh_6540_C zh_6671_C zh_6855_C zh_6875_C zh_6892_C zh_6900_C zh_6930_C zh_7022_C zh_7122_C
+		zh_7127_C zh_7161_C zh_7183_C zh_7185_C zh_7209_C zh_7227_C zh_7230_C zh_7234_C zh_7299_C zh_7311_C
+		zh_7449_C zh_7703_C zh_7787_C zh_7812_C zh_7893_C zh_8002_C zh_8113_C		
+		# Female-only
+		zh_0022_D zh_0061_D zh_1129_D zh_1369_D zh_2494_D zh_2672_D zh_3046_D zh_3055_D zh_3189_D zh_3276_D
+		zh_3810_D zh_4258_D zh_5126_D zh_5297_D zh_5468_D zh_5571_D zh_5695_D zh_5725_D zh_6591_D zh_6598_D
+		# Either sex
+		zh_0079_D zh_0163_D zh_0193_D zh_0251_D zh_0256_D zh_0308_D zh_0320_D zh_0336_D zh_0418_D zh_0420_D
+		zh_0500_D zh_0516_D zh_0523_D zh_0670_D zh_0689_D zh_0689_D zh_0735_D zh_0948_D zh_1115_D zh_1164_D
+		zh_1172_D zh_1218_D zh_1227_D zh_1331_D zh_1337_D zh_1344_D zh_1355_D zh_1367_D zh_1381_D zh_1395_D zh_1526_D
+		zh_1550_D zh_1565_D zh_1696_D zh_1730_D zh_1738_D zh_1792_D zh_1807_D zh_1813_D zh_1837_D zh_1837_D zh_1854_D
+		zh_1938_D zh_1947_D zh_1970_D zh_1979_D zh_2052_D zh_2398_D zh_2404_D zh_2429_D zh_2490_D zh_2504_D 
+		zh_2514_D zh_2533_D zh_2535_D zh_2541_D zh_2545_D zh_2606_D zh_2638_D zh_2639_D zh_2639_D zh_2710_D
+		zh_2734_D zh_2767_D zh_2837_D zh_2970_D zh_2973_D zh_2976_D zh_3015_D zh_3057_D zh_3068_D zh_3109_D
+		zh_3134_D zh_3152_D zh_3160_D zh_3219_D zh_3390_D zh_3425_D zh_3447_D zh_3552_D zh_3768_D zh_3791_D
+		zh_3829_D zh_3940_D zh_4101_D zh_4102_D zh_4135_D zh_4176_D zh_4320_D zh_4382_D zh_4423_D zh_4428_D
+		zh_4539_D zh_4790_D zh_5019_D zh_5030_D zh_5046_D zh_5333_D zh_5358_D zh_5363_D zh_5364_D zh_5383_D
+		zh_5440_D zh_5478_D zh_5593_D zh_5628_D zh_5633_D zh_5676_D zh_5816_D zh_5988_D zh_6297_D zh_6363_D
+		zh_6389_D zh_6540_D zh_6671_D zh_6855_D zh_6875_D zh_6892_D zh_6900_D zh_6930_D zh_7022_D zh_7122_D
+		zh_7127_D zh_7161_D zh_7183_D zh_7185_D zh_7209_D zh_7227_D zh_7230_D zh_7234_D zh_7299_D zh_7311_D
+		zh_7449_D zh_7703_D zh_7787_D zh_7812_D zh_7893_D zh_8002_D zh_8113_D		
+		# Female-only
+		zh_0022_E zh_0061_E zh_1129_E zh_1369_E zh_2494_E zh_2672_E zh_3046_E zh_3055_E zh_3189_E zh_3276_E
+		zh_3810_E zh_4258_E zh_5126_E zh_5297_E zh_5468_E zh_5571_E zh_5695_E zh_5725_E zh_6591_E zh_6598_E
+		# Either sex
+		zh_0079_E zh_0163_E zh_0193_E zh_0251_E zh_0256_E zh_0308_E zh_0320_E zh_0336_E zh_0418_E zh_0420_E
+		zh_0500_E zh_0516_E zh_0523_E zh_0670_E zh_0689_E zh_0689_E zh_0735_E zh_0948_E zh_1115_E zh_1164_E
+		zh_1172_E zh_1218_E zh_1227_E zh_1331_E zh_1337_E zh_1344_E zh_1355_E zh_1367_E zh_1381_E zh_1395_E zh_1526_E
+		zh_1550_E zh_1565_E zh_1696_E zh_1730_E zh_1738_E zh_1792_E zh_1807_E zh_1813_E zh_1837_E zh_1837_E zh_1854_E
+		zh_1938_E zh_1947_E zh_1970_E zh_1979_E zh_2052_E zh_2398_E zh_2404_E zh_2429_E zh_2490_E zh_2504_E 
+		zh_2514_E zh_2533_E zh_2535_E zh_2541_E zh_2545_E zh_2606_E zh_2638_E zh_2639_E zh_2639_E zh_2710_E
+		zh_2734_E zh_2767_E zh_2837_E zh_2970_E zh_2973_E zh_2976_E zh_3015_E zh_3057_E zh_3068_E zh_3109_E
+		zh_3134_E zh_3152_E zh_3160_E zh_3219_E zh_3390_E zh_3425_E zh_3447_E zh_3552_E zh_3768_E zh_3791_E
+		zh_3829_E zh_3940_E zh_4101_E zh_4102_E zh_4135_E zh_4176_E zh_4320_E zh_4382_E zh_4423_E zh_4428_E
+		zh_4539_E zh_4790_E zh_5019_E zh_5030_E zh_5046_E zh_5333_E zh_5358_E zh_5363_E zh_5364_E zh_5383_E
+		zh_5440_E zh_5478_E zh_5593_E zh_5628_E zh_5633_E zh_5676_E zh_5816_E zh_5988_E zh_6297_E zh_6363_E
+		zh_6389_E zh_6540_E zh_6671_E zh_6855_E zh_6875_E zh_6892_E zh_6900_E zh_6930_E zh_7022_E zh_7122_E
+		zh_7127_E zh_7161_E zh_7183_E zh_7185_E zh_7209_E zh_7227_E zh_7230_E zh_7234_E zh_7299_E zh_7311_E
+		zh_7449_E zh_7703_E zh_7787_E zh_7812_E zh_7893_E zh_8002_E zh_8113_E		
+		# Female-only
+		zh_0022_F zh_0061_F zh_1129_F zh_1369_F zh_2494_F zh_2672_F zh_3046_F zh_3055_F zh_3189_F zh_3276_F
+		zh_3810_F zh_4258_F zh_5126_F zh_5297_F zh_5468_F zh_5571_F zh_5695_F zh_5725_F zh_6591_F zh_6598_F
+		# Either sex
+		zh_0079_F zh_0163_F zh_0193_F zh_0251_F zh_0256_F zh_0308_F zh_0320_F zh_0336_F zh_0418_F zh_0420_F
+		zh_0500_F zh_0516_F zh_0523_F zh_0670_F zh_0689_F zh_0689_F zh_0735_F zh_0948_F zh_1115_F zh_1164_F
+		zh_1172_F zh_1218_F zh_1227_F zh_1331_F zh_1337_F zh_1344_F zh_1355_F zh_1367_F zh_1381_F zh_1395_F zh_1526_F
+		zh_1550_F zh_1565_F zh_1696_F zh_1730_F zh_1738_F zh_1792_F zh_1807_F zh_1813_F zh_1837_F zh_1837_F zh_1854_F
+		zh_1938_F zh_1947_F zh_1970_F zh_1979_F zh_2052_F zh_2398_F zh_2404_F zh_2429_F zh_2490_F zh_2504_F 
+		zh_2514_F zh_2533_F zh_2535_F zh_2541_F zh_2545_F zh_2606_F zh_2638_F zh_2639_F zh_2639_F zh_2710_F
+		zh_2734_F zh_2767_F zh_2837_F zh_2970_F zh_2973_F zh_2976_F zh_3015_F zh_3057_F zh_3068_F zh_3109_F
+		zh_3134_F zh_3152_F zh_3160_F zh_3219_F zh_3390_F zh_3425_F zh_3447_F zh_3552_F zh_3768_F zh_3791_F
+		zh_3829_F zh_3940_F zh_4101_F zh_4102_F zh_4135_F zh_4176_F zh_4320_F zh_4382_F zh_4423_F zh_4428_F
+		zh_4539_F zh_4790_F zh_5019_F zh_5030_F zh_5046_F zh_5333_F zh_5358_F zh_5363_F zh_5364_F zh_5383_F
+		zh_5440_F zh_5478_F zh_5593_F zh_5628_F zh_5633_F zh_5676_F zh_5816_F zh_5988_F zh_6297_F zh_6363_F
+		zh_6389_F zh_6540_F zh_6671_F zh_6855_F zh_6875_F zh_6892_F zh_6900_F zh_6930_F zh_7022_F zh_7122_F
+		zh_7127_F zh_7161_F zh_7183_F zh_7185_F zh_7209_F zh_7227_F zh_7230_F zh_7234_F zh_7299_F zh_7311_F
+		zh_7449_F zh_7703_F zh_7787_F zh_7812_F zh_7893_F zh_8002_F zh_8113_F		
+		# Female-only
+		zh_0022_G zh_0061_G zh_1129_G zh_1369_G zh_2494_G zh_2672_G zh_3046_G zh_3055_G zh_3189_G zh_3276_G
+		zh_3810_G zh_4258_G zh_5126_G zh_5297_G zh_5468_G zh_5571_G zh_5695_G zh_5725_G zh_6591_G zh_6598_G
+		# Either sex
+		zh_0079_G zh_0163_G zh_0193_G zh_0251_G zh_0256_G zh_0308_G zh_0320_G zh_0336_G zh_0418_G zh_0420_G
+		zh_0500_G zh_0516_G zh_0523_G zh_0670_G zh_0689_G zh_0689_G zh_0735_G zh_0948_G zh_1115_G zh_1164_G
+		zh_1172_G zh_1218_G zh_1227_G zh_1331_G zh_1337_G zh_1344_G zh_1355_G zh_1367_G zh_1381_G zh_1395_G zh_1526_G
+		zh_1550_G zh_1565_G zh_1696_G zh_1730_G zh_1738_G zh_1792_G zh_1807_G zh_1813_G zh_1837_G zh_1837_G zh_1854_G
+		zh_1938_G zh_1947_G zh_1970_G zh_1979_G zh_2052_G zh_2398_G zh_2404_G zh_2429_G zh_2490_G zh_2504_G 
+		zh_2514_G zh_2533_G zh_2535_G zh_2541_G zh_2545_G zh_2606_G zh_2638_G zh_2639_G zh_2639_G zh_2710_G
+		zh_2734_G zh_2767_G zh_2837_G zh_2970_G zh_2973_G zh_2976_G zh_3015_G zh_3057_G zh_3068_G zh_3109_G
+		zh_3134_G zh_3152_G zh_3160_G zh_3219_G zh_3390_G zh_3425_G zh_3447_G zh_3552_G zh_3768_G zh_3791_G
+		zh_3829_G zh_3940_G zh_4101_G zh_4102_G zh_4135_G zh_4176_G zh_4320_G zh_4382_G zh_4423_G zh_4428_G
+		zh_4539_G zh_4790_G zh_5019_G zh_5030_G zh_5046_G zh_5333_G zh_5358_G zh_5363_G zh_5364_G zh_5383_G
+		zh_5440_G zh_5478_G zh_5593_G zh_5628_G zh_5633_G zh_5676_G zh_5816_G zh_5988_G zh_6297_G zh_6363_G
+		zh_6389_G zh_6540_G zh_6671_G zh_6855_G zh_6875_G zh_6892_G zh_6900_G zh_6930_G zh_7022_G zh_7122_G
+		zh_7127_G zh_7161_G zh_7183_G zh_7185_G zh_7209_G zh_7227_G zh_7230_G zh_7234_G zh_7299_G zh_7311_G
+		zh_7449_G zh_7703_G zh_7787_G zh_7812_G zh_7893_G zh_8002_G zh_8113_G		
+		# Female-only
+		zh_0022_H zh_0061_H zh_1129_H zh_1369_H zh_2494_H zh_2672_H zh_3046_H zh_3055_H zh_3189_H zh_3276_H
+		zh_3810_H zh_4258_H zh_5126_H zh_5297_H zh_5468_H zh_5571_H zh_5695_H zh_5725_H zh_6591_H zh_6598_H
+		# Either sex
+		zh_0079_H zh_0163_H zh_0193_H zh_0251_H zh_0256_H zh_0308_H zh_0320_H zh_0336_H zh_0418_H zh_0420_H
+		zh_0500_H zh_0516_H zh_0523_H zh_0670_H zh_0689_H zh_0689_H zh_0735_H zh_0948_H zh_1115_H zh_1164_H
+		zh_1172_H zh_1218_H zh_1227_H zh_1331_H zh_1337_H zh_1344_H zh_1355_H zh_1367_H zh_1381_H zh_1395_H zh_1526_H
+		zh_1550_H zh_1565_H zh_1696_H zh_1730_H zh_1738_H zh_1792_H zh_1807_H zh_1813_H zh_1837_H zh_1837_H zh_1854_H
+		zh_1938_H zh_1947_H zh_1970_H zh_1979_H zh_2052_H zh_2398_H zh_2404_H zh_2429_H zh_2490_H zh_2504_H 
+		zh_2514_H zh_2533_H zh_2535_H zh_2541_H zh_2545_H zh_2606_H zh_2638_H zh_2639_H zh_2639_H zh_2710_H
+		zh_2734_H zh_2767_H zh_2837_H zh_2970_H zh_2973_H zh_2976_H zh_3015_H zh_3057_H zh_3068_H zh_3109_H
+		zh_3134_H zh_3152_H zh_3160_H zh_3219_H zh_3390_H zh_3425_H zh_3447_H zh_3552_H zh_3768_H zh_3791_H
+		zh_3829_H zh_3940_H zh_4101_H zh_4102_H zh_4135_H zh_4176_H zh_4320_H zh_4382_H zh_4423_H zh_4428_H
+		zh_4539_H zh_4790_H zh_5019_H zh_5030_H zh_5046_H zh_5333_H zh_5358_H zh_5363_H zh_5364_H zh_5383_H
+		zh_5440_H zh_5478_H zh_5593_H zh_5628_H zh_5633_H zh_5676_H zh_5816_H zh_5988_H zh_6297_H zh_6363_H
+		zh_6389_H zh_6540_H zh_6671_H zh_6855_H zh_6875_H zh_6892_H zh_6900_H zh_6930_H zh_7022_H zh_7122_H
+		zh_7127_H zh_7161_H zh_7183_H zh_7185_H zh_7209_H zh_7227_H zh_7230_H zh_7234_H zh_7299_H zh_7311_H
+		zh_7449_H zh_7703_H zh_7787_H zh_7812_H zh_7893_H zh_8002_H zh_8113_H		
+		# Female-only
+		zh_0022_I zh_0061_I zh_1129_I zh_1369_I zh_2494_I zh_2672_I zh_3046_I zh_3055_I zh_3189_I zh_3276_I
+		zh_3810_I zh_4258_I zh_5126_I zh_5297_I zh_5468_I zh_5571_I zh_5695_I zh_5725_I zh_6591_I zh_6598_I
+		# Either sex
+		zh_0079_I zh_0163_I zh_0193_I zh_0251_I zh_0256_I zh_0308_I zh_0320_I zh_0336_I zh_0418_I zh_0420_I
+		zh_0500_I zh_0516_I zh_0523_I zh_0670_I zh_0689_I zh_0689_I zh_0735_I zh_0948_I zh_1115_I zh_1164_I
+		zh_1172_I zh_1218_I zh_1227_I zh_1331_I zh_1337_I zh_1344_I zh_1355_I zh_1367_I zh_1381_I zh_1395_I zh_1526_I
+		zh_1550_I zh_1565_I zh_1696_I zh_1730_I zh_1738_I zh_1792_I zh_1807_I zh_1813_I zh_1837_I zh_1837_I zh_1854_I
+		zh_1938_I zh_1947_I zh_1970_I zh_1979_I zh_2052_I zh_2398_I zh_2404_I zh_2429_I zh_2490_I zh_2504_I 
+		zh_2514_I zh_2533_I zh_2535_I zh_2541_I zh_2545_I zh_2606_I zh_2638_I zh_2639_I zh_2639_I zh_2710_I
+		zh_2734_I zh_2767_I zh_2837_I zh_2970_I zh_2973_I zh_2976_I zh_3015_I zh_3057_I zh_3068_I zh_3109_I
+		zh_3134_I zh_3152_I zh_3160_I zh_3219_I zh_3390_I zh_3425_I zh_3447_I zh_3552_I zh_3768_I zh_3791_I
+		zh_3829_I zh_3940_I zh_4101_I zh_4102_I zh_4135_I zh_4176_I zh_4320_I zh_4382_I zh_4423_I zh_4428_I
+		zh_4539_I zh_4790_I zh_5019_I zh_5030_I zh_5046_I zh_5333_I zh_5358_I zh_5363_I zh_5364_I zh_5383_I
+		zh_5440_I zh_5478_I zh_5593_I zh_5628_I zh_5633_I zh_5676_I zh_5816_I zh_5988_I zh_6297_I zh_6363_I
+		zh_6389_I zh_6540_I zh_6671_I zh_6855_I zh_6875_I zh_6892_I zh_6900_I zh_6930_I zh_7022_I zh_7122_I
+		zh_7127_I zh_7161_I zh_7183_I zh_7185_I zh_7209_I zh_7227_I zh_7230_I zh_7234_I zh_7299_I zh_7311_I
+		zh_7449_I zh_7703_I zh_7787_I zh_7812_I zh_7893_I zh_8002_I zh_8113_I		
+		# Female-only
+		zh_0022_J zh_0061_J zh_1129_J zh_1369_J zh_2494_J zh_2672_J zh_3046_J zh_3055_J zh_3189_J zh_3276_J
+		zh_3810_J zh_4258_J zh_5126_J zh_5297_J zh_5468_J zh_5571_J zh_5695_J zh_5725_J zh_6591_J zh_6598_J
+		# Either sex
+		zh_0079_J zh_0163_J zh_0193_J zh_0251_J zh_0256_J zh_0308_J zh_0320_J zh_0336_J zh_0418_J zh_0420_J
+		zh_0500_J zh_0516_J zh_0523_J zh_0670_J zh_0689_J zh_0689_J zh_0735_J zh_0948_J zh_1115_J zh_1164_J
+		zh_1172_J zh_1218_J zh_1227_J zh_1331_J zh_1337_J zh_1344_J zh_1355_J zh_1367_J zh_1381_J zh_1395_J zh_1526_J
+		zh_1550_J zh_1565_J zh_1696_J zh_1730_J zh_1738_J zh_1792_J zh_1807_J zh_1813_J zh_1837_J zh_1837_J zh_1854_J
+		zh_1938_J zh_1947_J zh_1970_J zh_1979_J zh_2052_J zh_2398_J zh_2404_J zh_2429_J zh_2490_J zh_2504_J 
+		zh_2514_J zh_2533_J zh_2535_J zh_2541_J zh_2545_J zh_2606_J zh_2638_J zh_2639_J zh_2639_J zh_2710_J
+		zh_2734_J zh_2767_J zh_2837_J zh_2970_J zh_2973_J zh_2976_J zh_3015_J zh_3057_J zh_3068_J zh_3109_J
+		zh_3134_J zh_3152_J zh_3160_J zh_3219_J zh_3390_J zh_3425_J zh_3447_J zh_3552_J zh_3768_J zh_3791_J
+		zh_3829_J zh_3940_J zh_4101_J zh_4102_J zh_4135_J zh_4176_J zh_4320_J zh_4382_J zh_4423_J zh_4428_J
+		zh_4539_J zh_4790_J zh_5019_J zh_5030_J zh_5046_J zh_5333_J zh_5358_J zh_5363_J zh_5364_J zh_5383_J
+		zh_5440_J zh_5478_J zh_5593_J zh_5628_J zh_5633_J zh_5676_J zh_5816_J zh_5988_J zh_6297_J zh_6363_J
+		zh_6389_J zh_6540_J zh_6671_J zh_6855_J zh_6875_J zh_6892_J zh_6900_J zh_6930_J zh_7022_J zh_7122_J
+		zh_7127_J zh_7161_J zh_7183_J zh_7185_J zh_7209_J zh_7227_J zh_7230_J zh_7234_J zh_7299_J zh_7311_J
+		zh_7449_J zh_7703_J zh_7787_J zh_7812_J zh_7893_J zh_8002_J zh_8113_J		
+		# Female-only
+		zh_0022_K zh_0061_K zh_1129_K zh_1369_K zh_2494_K zh_2672_K zh_3046_K zh_3055_K zh_3189_K zh_3276_K
+		zh_3810_K zh_4258_K zh_5126_K zh_5297_K zh_5468_K zh_5571_K zh_5695_K zh_5725_K zh_6591_K zh_6598_K
+		# Either sex
+		zh_0079_K zh_0163_K zh_0193_K zh_0251_K zh_0256_K zh_0308_K zh_0320_K zh_0336_K zh_0418_K zh_0420_K
+		zh_0500_K zh_0516_K zh_0523_K zh_0670_K zh_0689_K zh_0689_K zh_0735_K zh_0948_K zh_1115_K zh_1164_K
+		zh_1172_K zh_1218_K zh_1227_K zh_1331_K zh_1337_K zh_1344_K zh_1355_K zh_1367_K zh_1381_K zh_1395_K zh_1526_K
+		zh_1550_K zh_1565_K zh_1696_K zh_1730_K zh_1738_K zh_1792_K zh_1807_K zh_1813_K zh_1837_K zh_1837_K zh_1854_K
+		zh_1938_K zh_1947_K zh_1970_K zh_1979_K zh_2052_K zh_2398_K zh_2404_K zh_2429_K zh_2490_K zh_2504_K 
+		zh_2514_K zh_2533_K zh_2535_K zh_2541_K zh_2545_K zh_2606_K zh_2638_K zh_2639_K zh_2639_K zh_2710_K
+		zh_2734_K zh_2767_K zh_2837_K zh_2970_K zh_2973_K zh_2976_K zh_3015_K zh_3057_K zh_3068_K zh_3109_K
+		zh_3134_K zh_3152_K zh_3160_K zh_3219_K zh_3390_K zh_3425_K zh_3447_K zh_3552_K zh_3768_K zh_3791_K
+		zh_3829_K zh_3940_K zh_4101_K zh_4102_K zh_4135_K zh_4176_K zh_4320_K zh_4382_K zh_4423_K zh_4428_K
+		zh_4539_K zh_4790_K zh_5019_K zh_5030_K zh_5046_K zh_5333_K zh_5358_K zh_5363_K zh_5364_K zh_5383_K
+		zh_5440_K zh_5478_K zh_5593_K zh_5628_K zh_5633_K zh_5676_K zh_5816_K zh_5988_K zh_6297_K zh_6363_K
+		zh_6389_K zh_6540_K zh_6671_K zh_6855_K zh_6875_K zh_6892_K zh_6900_K zh_6930_K zh_7022_K zh_7122_K
+		zh_7127_K zh_7161_K zh_7183_K zh_7185_K zh_7209_K zh_7227_K zh_7230_K zh_7234_K zh_7299_K zh_7311_K
+		zh_7449_K zh_7703_K zh_7787_K zh_7812_K zh_7893_K zh_8002_K zh_8113_K		
+		# Female-only
+		zh_0022_L zh_0061_L zh_1129_L zh_1369_L zh_2494_L zh_2672_L zh_3046_L zh_3055_L zh_3189_L zh_3276_L
+		zh_3810_L zh_4258_L zh_5126_L zh_5297_L zh_5468_L zh_5571_L zh_5695_L zh_5725_L zh_6591_L zh_6598_L
+		# Either sex
+		zh_0079_L zh_0163_L zh_0193_L zh_0251_L zh_0256_L zh_0308_L zh_0320_L zh_0336_L zh_0418_L zh_0420_L
+		zh_0500_L zh_0516_L zh_0523_L zh_0670_L zh_0689_L zh_0689_L zh_0735_L zh_0948_L zh_1115_L zh_1164_L
+		zh_1172_L zh_1218_L zh_1227_L zh_1331_L zh_1337_L zh_1344_L zh_1355_L zh_1367_L zh_1381_L zh_1395_L zh_1526_L
+		zh_1550_L zh_1565_L zh_1696_L zh_1730_L zh_1738_L zh_1792_L zh_1807_L zh_1813_L zh_1837_L zh_1837_L zh_1854_L
+		zh_1938_L zh_1947_L zh_1970_L zh_1979_L zh_2052_L zh_2398_L zh_2404_L zh_2429_L zh_2490_L zh_2504_L 
+		zh_2514_L zh_2533_L zh_2535_L zh_2541_L zh_2545_L zh_2606_L zh_2638_L zh_2639_L zh_2639_L zh_2710_L
+		zh_2734_L zh_2767_L zh_2837_L zh_2970_L zh_2973_L zh_2976_L zh_3015_L zh_3057_L zh_3068_L zh_3109_L
+		zh_3134_L zh_3152_L zh_3160_L zh_3219_L zh_3390_L zh_3425_L zh_3447_L zh_3552_L zh_3768_L zh_3791_L
+		zh_3829_L zh_3940_L zh_4101_L zh_4102_L zh_4135_L zh_4176_L zh_4320_L zh_4382_L zh_4423_L zh_4428_L
+		zh_4539_L zh_4790_L zh_5019_L zh_5030_L zh_5046_L zh_5333_L zh_5358_L zh_5363_L zh_5364_L zh_5383_L
+		zh_5440_L zh_5478_L zh_5593_L zh_5628_L zh_5633_L zh_5676_L zh_5816_L zh_5988_L zh_6297_L zh_6363_L
+		zh_6389_L zh_6540_L zh_6671_L zh_6855_L zh_6875_L zh_6892_L zh_6900_L zh_6930_L zh_7022_L zh_7122_L
+		zh_7127_L zh_7161_L zh_7183_L zh_7185_L zh_7209_L zh_7227_L zh_7230_L zh_7234_L zh_7299_L zh_7311_L
+		zh_7449_L zh_7703_L zh_7787_L zh_7812_L zh_7893_L zh_8002_L zh_8113_L
+	}
+
+	dynasty_name_first = yes	
+}
+name_list_mongolian = {
+
+	dynasty_names = {
+		dyn_mo_Batbayarii dyn_mo_Bat-Erdeneiin dyn_mo_Batuiin dyn_mo_Bilguunii
+		dyn_mo_Chingisii dyn_mo_Dolgoonii dyn_mo_Ganbaatarii dyn_mo_Ganboldii
+		dyn_mo_Gantulgaiin dyn_mo_Ganzorigii dyn_mo_Lkhagvasurenii dyn_mo_Monkhbatii
+		dyn_mo_Naranbaatarii dyn_mo_Narangerelii dyn_mo_Narantsetsegii dyn_mo_Otgonbayarii
+		dyn_mo_Temuulenii dyn_mo_Togoldorii
+		dyn_mo_Altan-Ochirii dyn_mo_Altanbayarii dyn_mo_Altangerelii dyn_mo_Altansukhii
+		dyn_mo_Amarii dyn_mo_Amarbaatarii dyn_mo_Amarbayasgalanii dyn_mo_Amarboldii
+		dyn_mo_Amarjargalii dyn_mo_Amarmandakhii dyn_mo_Amarsanaaii dyn_mo_Amarzayaii
+		dyn_mo_Amgalanii dyn_mo_Amraaii dyn_mo_Anandii dyn_mo_Ankhbayarii
+		dyn_mo_Ariunboldii dyn_mo_Baasansurenii dyn_mo_Baatarii dyn_mo_Bat-Erdeneii
+		dyn_mo_Bat-Ochirii dyn_mo_Bataarii dyn_mo_Batboldii dyn_mo_Batgerelii 
+		dyn_mo_Batjargalii dyn_mo_Batkhuuii dyn_mo_Batmunkhii dyn_mo_Batnairamdalii
+		dyn_mo_Batsaikhanii dyn_mo_Batsukhii dyn_mo_Battsetsegii dyn_mo_Batzorigii
+		dyn_mo_Bayanjargalii dyn_mo_Bayanmunkhii dyn_mo_Bayarii dyn_mo_Bayarbatii
+		dyn_mo_Bayarmaaii dyn_mo_Bayasgalanii dyn_mo_Bilguunii dyn_mo_Bilguunjargalii
+		dyn_mo_Boldsaikhanii dyn_mo_Bolorii dyn_mo_Byambadorjii dyn_mo_Byambajavii
+		dyn_mo_Byambasurenii dyn_mo_Chinggisii dyn_mo_Chuluunii dyn_mo_Chuluunbaatarii
+		dyn_mo_Dariushii dyn_mo_Davaaii dyn_mo_Davaadorjii dyn_mo_Davaajavii
+		dyn_mo_Dugerii dyn_mo_Dulguunii dyn_mo_Enerelii dyn_mo_Enkhbatii
+		dyn_mo_Enkhtulgaii dyn_mo_Erdembilegii dyn_mo_Erdeneii dyn_mo_Erdenebaatarii
+		dyn_mo_Erdeneboldii dyn_mo_Erdensuvdii dyn_mo_Erdentuyaii dyn_mo_Gan-Erdeneii
+		dyn_mo_Ganbaatarii dyn_mo_Ganbatii dyn_mo_Ganboldii dyn_mo_Gantulgaii
+		dyn_mo_Jargalii dyn_mo_Jargalsaikhanii dyn_mo_Khaliunii dyn_mo_Khishigbatii
+		dyn_mo_Khishigbayarii dyn_mo_Khishigtsetsegii dyn_mo_Khosbayarii
+		dyn_mo_Khurelbaatarii dyn_mo_Mandakhii dyn_mo_Munkh-Orgilii dyn_mo_Munkhbaatarii
+		dyn_mo_Munkhjargalii dyn_mo_Naranbaatarii dyn_mo_Naranbatii dyn_mo_Narangerelii
+		dyn_mo_Narantsetsegii dyn_mo_Narantsogtii dyn_mo_Narmandakhii dyn_mo_Nerguiii
+		dyn_mo_Nyamdorjii dyn_mo_Nyamjargalii dyn_mo_Nyamjavii dyn_mo_Ochirii
+		dyn_mo_Ochirbatii dyn_mo_Odbayarii dyn_mo_Oyunii dyn_mo_Oyun-Erdeneii
+		dyn_mo_Oyunbatii dyn_mo_Oyunboldii dyn_mo_Oyuntsetsegii dyn_mo_Sainkhuuii
+		dyn_mo_Sarangerelii dyn_mo_Sarnaiii dyn_mo_Ser-Odii dyn_mo_Sodnomii
+		dyn_mo_Sodnompurevii dyn_mo_Temuujinii dyn_mo_Temuulenii dyn_mo_Temuurenii
+		dyn_mo_Tserenbatii dyn_mo_Tserendorjii dyn_mo_Tsetsenii dyn_mo_Tsogtbaatarii
+		dyn_mo_Tsolmonii dyn_mo_Tuguldurii dyn_mo_Tumendelgerii dyn_mo_Tumurbaatarii
+		dyn_mo_Tumurbatii dyn_mo_Tuvshinbayarii dyn_mo_Uuganbaatarii dyn_mo_Zolbayarii
+		dyn_mo_Zolzayaii dyn_mo_Zorigtii
+	}
+	
+	male_names = {
+		mo_Batbayar mo_Bat-Erdene mo_Batu mo_Bilguun mo_Chingis mo_Dolgoon mo_Ganbaatar
+		mo_Ganbold mo_Gantulga mo_Ganzorig mo_Lkhagvasuren mo_Monkhbat
+		mo_Naranbaatar mo_Narangerel mo_Narantsetseg mo_Otgonbayar mo_Temuulen
+		mo_Togoldor
+		mo_Altan-Ochir mo_Altanbayar mo_Altangerel mo_Altansukh mo_Amar
+		mo_Amarbaatar mo_Amarbayasgalan mo_Amarbold mo_Amarjargal mo_Amarmandakh
+		mo_Amarsanaa mo_Amarzaya mo_Amgalan mo_Amraa mo_Anand mo_Ankhbayar
+		mo_Ariunbold mo_Baasansuren mo_Baatar mo_Bat-Erdene mo_Bat-Ochir
+		mo_Bataar mo_Batbold mo_Batgerel mo_Batjargal mo_Batkhuu mo_Batmunkh
+		mo_Batnairamdal mo_Batsaikhan mo_Batsukh mo_Battsetseg mo_Batzorig mo_Bayanjargal
+		mo_Bayanmunkh mo_Bayar mo_Bayarbat mo_Bayarmaa mo_Bayasgalan mo_Bilguun
+		mo_Bilguunjargal mo_Boldsaikhan mo_Bolor mo_Byambadorj mo_Byambajav
+		mo_Byambasuren mo_Chinggis mo_Chuluun mo_Chuluunbaatar mo_Dariush
+		mo_Davaa mo_Davaadorj mo_Davaajav mo_Duger mo_Dulguun mo_Enerel mo_Enkhbat
+		mo_Enkhtulga mo_Erdembileg mo_Erdene mo_Erdenebaatar mo_Erdenebold mo_Erdensuvd
+		mo_Erdentuya mo_Gan-Erdene mo_Ganbaatar mo_Ganbat mo_Ganbold mo_Gantulga
+		mo_Jargal mo_Jargalsaikhan mo_Khaliun mo_Khishigbat mo_Khishigbayar
+		mo_Khishigtsetseg mo_Khosbayar mo_Khurelbaatar mo_Mandakh mo_Munkh-Orgil
+		mo_Munkhbaatar mo_Munkhjargal mo_Naranbaatar mo_Naranbat mo_Narangerel
+		mo_Narantsetseg mo_Narantsogt mo_Narmandakh mo_Nergui mo_Nyamdorj
+		mo_Nyamjargal mo_Nyamjav mo_Ochir mo_Ochirbat mo_Odbayar mo_Oyun
+		mo_Oyun-Erdene mo_Oyunbat mo_Oyunbold mo_Oyuntsetseg mo_Sainkhuu mo_Sarangerel
+		mo_Sarnai mo_Ser-Od mo_Sodnom mo_Sodnompurev mo_Temuujin mo_Temuulen
+		mo_Temuuren mo_Tserenbat mo_Tserendorj mo_Tsetsen mo_Tsogtbaatar mo_Tsolmon
+		mo_Tuguldur mo_Tumendelger mo_Tumurbaatar mo_Tumurbat mo_Tuvshinbayar
+		mo_Uuganbaatar mo_Zolbayar mo_Zolzaya mo_Zorigt
+	}
+
+	female_names = {
+		mo_Altansarnai mo_Alantsetseg mo_Ankhbayar mo_Bolormaa mo_Bolortsetseg
+		mo_Enkhjargal mo_Enkhtuya mo_Erdenechimeg mo_Gerel mo_Khulan
+		mo_Maral mo_Monkhtsetseg mo_Nergui mo_Odtsetseg mo_Oyunchimeg mo_Sarangel
+		mo_Sarnai mo_Solongo mo_Temuulen mo_Tsetseg mo_Uyanga mo_Zaya
+	}
+	
+	dynasty_name_first = yes
+}
+name_list_tibetian = {
+
+	dynasty_names = {
+		dyn_bo_Adro dyn_bo_Akyong dyn_bo_Apang dyn_bo_Arik dyn_bo_Azha
+		dyn_bo_Ba dyn_bo_Ber dyn_bo_Bitsa dyn_bo_Bochung dyn_bo_Chakdu_Nyarong
+		dyn_bo_Chakgong dyn_bo_Chakhung dyn_bo_Che dyn_bo_Chim dyn_bo_Cho
+		dyn_bo_Chungpa dyn_bo_Dak dyn_bo_Dakpo_Drumpa dyn_bo_Dawa dyn_bo_Delek_Rabten
+		dyn_bo_Den_Atub_Tsang dyn_bo_Denma dyn_bo_Depa_Tonpo dyn_bo_Dilgo dyn_bo_Dong
+		dyn_bo_Dra dyn_bo_Drangti dyn_bo_Dre dyn_bo_Drenka dyn_bo_Dro dyn_bo_Drokmi
+		dyn_bo_Drom dyn_bo_Dru dyn_bo_Dzeng dyn_bo_Ga dyn_bo_Gar
+		dyn_bo_Gar_Ratsang dyn_bo_Gazi dyn_bo_Getse dyn_bo_Go dyn_bo_Gung dyn_bo_Gurib
+		dyn_bo_Gya dyn_bo_Gyakong_Shedbrutsang dyn_bo_Gyamo dyn_bo_Gyanak_Rawa
+		dyn_bo_Gyangkhar dyn_bo_Gyer dyn_bo_Gyu dyn_bo_Ja dyn_bo_Jadra
+		dyn_bo_Jampel_Dechenling dyn_bo_Janak dyn_bo_Ju dyn_bo_Kharchen dyn_bo_Kheme
+		dyn_bo_Khon dyn_bo_Khyungpo dyn_bo_Kyasu dyn_bo_Kyi dyn_bo_Kyo
+		dyn_bo_Kyuchok dyn_bo_Kyura dyn_bo_Lang dyn_bo_Lasum dyn_bo_Len dyn_bo_Lhalung
+		dyn_bo_Lingmo dyn_bo_Lingtsang dyn_bo_Lomi dyn_bo_Ma dyn_bo_Me dyn_bo_Menge
+		dyn_bo_Meu dyn_bo_Mu dyn_bo_Mukpo dyn_bo_Naktso dyn_bo_Namseling
+		dyn_bo_Nanam dyn_bo_Ngen dyn_bo_Ngenlam dyn_bo_Ngoje dyn_bo_Ngok
+		dyn_bo_Ngulchu dyn_bo_Ngupa dyn_bo_Nub dyn_bo_Nya dyn_bo_Nyak dyn_bo_Nyakre
+		dyn_bo_Nyakshul dyn_bo_Nyang dyn_bo_Nyo dyn_bo_Pugyel dyn_bo_Ra
+		dyn_bo_Rakar_Khyungpo dyn_bo_Ram dyn_bo_Rok dyn_bo_Se dyn_bo_Shar
+		dyn_bo_Shar dyn_bo_Sharkhapa dyn_bo_Shingkhamga dyn_bo_Shupu dyn_bo_Sumpa
+		dyn_bo_Tati_Zhamar dyn_bo_Tong dyn_bo_Tonmi dyn_bo_Trokho_Numai_Pelshul
+		dyn_bo_Trotsik dyn_bo_Tsangsar dyn_bo_Tsedong dyn_bo_Tsongpon dyn_bo_Tsur
+		dyn_bo_Tukwan dyn_bo_Tum dyn_bo_Wangda dyn_bo_Welshul dyn_bo_Wodren
+		dyn_bo_Yi dyn_bo_Yu dyn_bo_Yudra dyn_bo_Yungok dyn_bo_Zamtsa_Ngorang dyn_bo_Zeu
+		dyn_bo_Zhak dyn_bo_Zhangpa dyn_bo_Zhiwatsang dyn_bo_Zi dyn_bo_Zira dyn_bo_Zur
+	}
+	
+	male_names = {
+		bo_Balbar bo_Balgarma bo_Baljin bo_Basang bo_Bhutila bo_Bini bo_Brugmo
+		bo_Bzhichog bo_Chegu bo_Chenmo bo_Choden bo_Chodron bo_Choezom bo_Choimpel
+		bo_Chokey bo_Choepel bo_Dampa bo_Dargye bo_Dhakpa bo_Dhondup bo_Dichen
+		bo_Dkarchung bo_Dolma bo_Dorji bo_Dragpa bo_Drokmi bo_Droelkar bo_Dronma
+		bo_Gawa bo_Gephel bo_Gyaltsen bo_Gyalwa bo_Jampa bo_Jetsun bo_Jetsunma
+		bo_Jigme bo_Jungney bo_Jyotis bo_Karpo bo_Kelden bo_Kelsang bo_Khandro
+		bo_Khyenpa bo_Khyentse bo_Kinley bo_Kunley bo_Legpa bo_Lhakpa bo_Lhundrup
+		bo_Lobsang bo_Loden bo_Losang bo_Lungtog bo_Lungtok bo_Mchogmdzes bo_Metog
+		bo_Metok bo_Migmar bo_Mikyo bo_Mipham bo_Namgyal bo_Namkha bo_Namlang
+		bo_Nangwa bo_Ngawang bo_Ngodup bo_Nidup bo_Nudan bo_Nyima
+		bo_Nyingpo bo_Nyinje bo_Osel bo_Palchen bo_Palden bo_Paldon bo_Palmo
+		bo_Palsang bo_Pasang bo_Pemba bo_Pemma bo_Phuntsok bo_Phurbu bo_Rabten
+		bo_Rangdol bo_Rangdrol bo_Rigzin bo_Rinchen bo_Samten bo_Sangay bo_Sangye
+		bo_Sarjung bo_Shenpen bo_Shenyen bo_Sherab bo_Shonnu bo_Singye bo_Smindrug
+		bo_Tarchin bo_Tenzee bo_Thaye bo_Thinlay bo_Trashi bo_Tsangchung bo_Tselha
+		bo_Tsemo bo_Tsepak bo_Tseten bo_Tsewang bo_Tsondru bo_Tsultrim bo_Ugyen
+		bo_Wangdi bo_Wangdue bo_Wangmo bo_Yabshi bo_Yangchen bo_Yeshe
+		bo_Yonten
+	}
+
+	female_names = {
+		bo_Balbar bo_Balgarma bo_Baljin bo_Basang bo_Bhutila bo_Bini bo_Brugmo
+		bo_Bzhichog bo_Chegu bo_Chenmo bo_Choden bo_Chodron bo_Choezom bo_Choimpel
+		bo_Chokey bo_Choepel bo_Dampa bo_Dargye bo_Dhakpa bo_Dhondup bo_Dichen
+		bo_Dkarchung bo_Dolma bo_Dorji bo_Dragpa bo_Drokmi bo_Droelkar bo_Dronma
+		bo_Gawa bo_Gephel bo_Gyaltsen bo_Gyalwa bo_Jampa bo_Jetsun bo_Jetsunma
+		bo_Jigme bo_Jungney bo_Jyotis bo_Karpo bo_Kelden bo_Kelsang bo_Khandro
+		bo_Khyenpa bo_Khyentse bo_Kinley bo_Kunley bo_Legpa bo_Lhakpa bo_Lhundrup
+		bo_Lobsang bo_Loden bo_Losang bo_Lungtog bo_Lungtok bo_Mchogmdzes bo_Metog
+		bo_Metok bo_Migmar bo_Mikyo bo_Mipham bo_Namgyal bo_Namkha bo_Namlang
+		bo_Nangwa bo_Ngawang bo_Ngodup bo_Nidup bo_Nudan bo_Nyima
+		bo_Nyingpo bo_Nyinje bo_Osel bo_Palchen bo_Palden bo_Paldon bo_Palmo
+		bo_Palsang bo_Pasang bo_Pemba bo_Pemma bo_Phuntsok bo_Phurbu bo_Rabten
+		bo_Rangdol bo_Rangdrol bo_Rigzin bo_Rinchen bo_Samten bo_Sangay bo_Sangye
+		bo_Sarjung bo_Shenpen bo_Shenyen bo_Sherab bo_Shonnu bo_Singye bo_Smindrug
+		bo_Tarchin bo_Tenzee bo_Thaye bo_Thinlay bo_Trashi bo_Tsangchung bo_Tselha
+		bo_Tsemo bo_Tsepak bo_Tseten bo_Tsewang bo_Tsondru bo_Tsultrim bo_Ugyen
+		bo_Wangdi bo_Wangdue bo_Wangmo bo_Yabshi bo_Yangchen bo_Yeshe
+		bo_Yonten
+	}
+}
+name_list_uyghur = {
+
+	dynasty_names = {
+		dyn_ug_Akhun dyn_ug_Alptekin dyn_ug_Muhiti dyn_ug_Sabri dyn_ug_Abdulbaki
+		dyn_ug_Bughra dyn_ug_Abbas dyn_ug_Qasim dyn_ug_Batur dyn_ug_Niyaz
+		dyn_ug_Laylinaman dyn_ug_Abdiqadir dyn_ug_Abdulrixit dyn_ug_Ajiyiming dyn_ug_Sahidi
+		dyn_ug_Ahmet dyn_ug_Tiliwaldi dyn_ug_Hisamudin dyn_ug_Bekri dyn_ug_Azizi
+		dyn_ug_Zakir dyn_ug_Dawamet
+	}
+	
+	male_names = {
+		ug_Alim ug_Alimjan ug_Ehmet ug_Erkin ug_Hoshur ug_Mehmut ug_Mominjan
+		ug_Muhemmet ug_Murat ug_Yusup ug_Abdulla ug_Abduweli ug_Adil ug_Ilham ug_Ismail
+		ug_Nur
+	}
+
+	female_names = {
+		ug_Alfire ug_Alfiya ug_Arzu ug_Aygul ug_Aynur ug_Dilnaz ug_Dilyara ug_Gulbahar
+		ug_Gulyar ug_Mahire ug_Mihrigul ug_Miryam ug_Munire ug_Patigul ug_Patime ug_Paziliya
+		ug_Reyhan ug_Senever
+	}
+}

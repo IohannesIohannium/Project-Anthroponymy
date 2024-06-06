@@ -1,0 +1,1333 @@
+name_list_greek = {
+
+	dynasty_names = {
+		dyn_el_Papadopoulos dyn_el_Vlahos dyn_el_Angelopoulos dyn_el_Nikolaidis
+		dyn_el_Georgiou dyn_el_Petridis dyn_el_Athanasiadis dyn_el_Dimitriadis
+		dyn_el_Papadakis dyn_el_Panagiotopoulos dyn_el_Adamidis dyn_el_Adamis
+		dyn_el_Adamopoulos dyn_el_Aesopos dyn_el_Agapitos dyn_el_Agelakos dyn_el_Aggelis
+		dyn_el_Agnes dyn_el_Agnos dyn_el_Aivaliotis dyn_el_Alexakis dyn_el_Alexandropoulos
+		dyn_el_Alexiou dyn_el_Alexis dyn_el_Alexopoulos dyn_el_Alexopoulou dyn_el_Aliferis
+		dyn_el_Anagnostopoulos dyn_el_Anagnostopoulou dyn_el_Anagnostou dyn_el_Anagyrou
+		dyn_el_Anastasiadis dyn_el_Anastasiou dyn_el_Anastasopoulos dyn_el_Anastos
+		dyn_el_Andreadis dyn_el_Andreou dyn_el_Andreoulakis dyn_el_Andris dyn_el_Andronis
+		dyn_el_Andropoulos dyn_el_Andros dyn_el_Androutsos dyn_el_Andrulis
+		dyn_el_Angavanakis dyn_el_Angelis dyn_el_Angelopoulos dyn_el_Angelos dyn_el_Aniston
+		dyn_el_Anistonopoulos dyn_el_Anninos dyn_el_Anthis dyn_el_Antimisiaris dyn_el_Antipas
+		dyn_el_Antoniades dyn_el_Antoniadis dyn_el_Antoniou dyn_el_Antonopoulos
+		dyn_el_Antonopoulou dyn_el_Antos dyn_el_Apostle dyn_el_Apostol dyn_el_Apostolides
+		dyn_el_Apostolidis dyn_el_Apostolopoulos dyn_el_Apostolos dyn_el_Apostolou
+		dyn_el_Apsouris dyn_el_Argires dyn_el_Argiris dyn_el_Argitakos dyn_el_Argos
+		dyn_el_Argyra dyn_el_Argyropoulos dyn_el_Arvanitis dyn_el_Asikis dyn_el_Athan
+		dyn_el_Athanas dyn_el_Athanasiou dyn_el_Athanasopoulos dyn_el_Athanasopoulou
+		dyn_el_Athanassiadi dyn_el_Athans dyn_el_Athens dyn_el_Atsidakos dyn_el_Avgerinos
+		dyn_el_Avramidis dyn_el_Axelos dyn_el_Axios dyn_el_Azios dyn_el_Bakirdzis
+		dyn_el_Balafoutis dyn_el_Balezos dyn_el_Balouris dyn_el_Bandaloukas dyn_el_Barraboutis
+		dyn_el_Batsakis dyn_el_Beldekas dyn_el_Bonazountas dyn_el_Bordovalos dyn_el_Botsaris
+		dyn_el_Boukalis dyn_el_Bourekas dyn_el_Bourganu dyn_el_Bourikas dyn_el_Boutaris
+		dyn_el_Bouzalis dyn_el_Bouzios dyn_el_Brettos dyn_el_Brisimitzakis dyn_el_Callas
+		dyn_el_Calogerakis dyn_el_Camarinos dyn_el_Cangelaris dyn_el_Cantakis dyn_el_Cappas
+		dyn_el_Caras dyn_el_Carides dyn_el_Carpanos dyn_el_Catranides dyn_el_Catsanos
+		dyn_el_Chagares dyn_el_Chakiris dyn_el_Chatzis dyn_el_Chris dyn_el_Chrissochoidis
+		dyn_el_Christakis dyn_el_Christakos dyn_el_Christides dyn_el_Christodolou
+		dyn_el_Christodoulacos dyn_el_Christodoulou dyn_el_Christofis dyn_el_Christopoulos
+		dyn_el_Christopoulou dyn_el_Christos dyn_el_Christou dyn_el_Chronis
+		dyn_el_Chrysanthopoulos dyn_el_Colakides dyn_el_Conetas dyn_el_Constandouros
+		dyn_el_Constantine dyn_el_Constantinos dyn_el_Contopoulos dyn_el_Contos
+		dyn_el_Contoyannopoulos dyn_el_Cosmatos dyn_el_Cosmetatos dyn_el_Costas
+		dyn_el_Cotsadis dyn_el_Cotzias dyn_el_Coutros dyn_el_Dalianis dyn_el_Damaskinos
+		dyn_el_Danas dyn_el_Dasios dyn_el_Daskalakis dyn_el_Deligiannis dyn_el_Deligiorgis
+		dyn_el_Delivorias dyn_el_Demakis dyn_el_Demas dyn_el_Demataki dyn_el_Demertzis
+		dyn_el_Demetriou dyn_el_Demetrious dyn_el_Demopoulos dyn_el_Demos
+		dyn_el_Diakogeorgiou dyn_el_Diakoumis dyn_el_Diamantidis dyn_el_Diamantis
+		dyn_el_Diamantopoulos dyn_el_Diasakos dyn_el_Dimakakos dyn_el_Dimas
+		dyn_el_Dimitrakopoulos dyn_el_Dimitrakos dyn_el_Dimitras dyn_el_Dimitri
+		dyn_el_Dimitrion dyn_el_Dimitriou dyn_el_Dimitris dyn_el_Dimitropoulos
+		dyn_el_Dimopoulos dyn_el_Dimopoulou dyn_el_Dimou dyn_el_Dimoulakis dyn_el_Dioletis
+		dyn_el_Dionisopoulos dyn_el_Diplarakos dyn_el_Dokos dyn_el_Dontas dyn_el_Doucas
+		dyn_el_Doukas dyn_el_Doukatelis dyn_el_Dounias dyn_el_Douros dyn_el_Doxiadis
+		dyn_el_Drakopoulos dyn_el_Dreliozis dyn_el_Dritsas dyn_el_Drivakis dyn_el_Drossos
+		dyn_el_Dukakis dyn_el_Economides dyn_el_Economopoulos dyn_el_Economou
+		dyn_el_Efstathiou dyn_el_Eleftheriadis dyn_el_Eleftherios dyn_el_Eleftheriou
+		dyn_el_Eliades dyn_el_Eliopoulos dyn_el_Elipandas dyn_el_Evriviades dyn_el_Fafalios
+		dyn_el_Farakos dyn_el_Farmakis dyn_el_Fikaras dyn_el_Fikias dyn_el_Fikioris
+		dyn_el_Fikri dyn_el_Filippou dyn_el_Filis dyn_el_Fitrakis dyn_el_Fitzios dyn_el_Flessas
+		dyn_el_Florakis dyn_el_Floros dyn_el_Flytzanis dyn_el_Forakis dyn_el_Foros
+		dyn_el_Fotiadis dyn_el_Fotinopoulos dyn_el_Fotopoulos dyn_el_Fotos dyn_el_Fourakis
+		dyn_el_Fragouli dyn_el_Frangopoulos dyn_el_Frangos dyn_el_Gagari dyn_el_Gaitanis
+		dyn_el_Gakidis dyn_el_Galanis dyn_el_Galanopoulos dyn_el_Galitsis dyn_el_Gatchis
+		dyn_el_Gatchopoulos dyn_el_Gatsioudis dyn_el_Gatzioudis dyn_el_Gavras dyn_el_Gavril
+		dyn_el_Gavrilopoulos dyn_el_Gazis dyn_el_Gazonas dyn_el_Geanekos dyn_el_Georgakis
+		dyn_el_Georgakopoulos dyn_el_Georganas dyn_el_Georganis dyn_el_Georgas
+		dyn_el_George dyn_el_Georgeakopoulos dyn_el_Georgenes dyn_el_Georghiou
+		dyn_el_Georgiades dyn_el_Georgiadi dyn_el_Georgiadis dyn_el_Georgiadou
+		dyn_el_Georgiopoulou dyn_el_Georgopoulos dyn_el_Georgopoulou
+		dyn_el_Georgousopoulos dyn_el_Gerasimopoulos dyn_el_Ghertsos dyn_el_Gianakis
+		dyn_el_Gianakopoulos dyn_el_Gianaras dyn_el_Giangos dyn_el_Giannacopulos
+		dyn_el_Giannakakos dyn_el_Giannakis dyn_el_Giannakopoulos dyn_el_Giannakopoulou
+		dyn_el_Giannakos dyn_el_Giannaros dyn_el_Giannelis dyn_el_Giannidis
+		dyn_el_Giannioglou dyn_el_Giannopoulos dyn_el_Giannopoulou dyn_el_Gianopoulos
+		dyn_el_Gianoutsos dyn_el_Gidakos dyn_el_Giorgiou dyn_el_Giougis dyn_el_Giouzelis
+		dyn_el_Gizikis dyn_el_Gkatzoulis dyn_el_Glezos dyn_el_Glynatsis dyn_el_Gogos
+		dyn_el_Gomatos dyn_el_Gonce dyn_el_Gondicas dyn_el_Gonidakis dyn_el_Gounaris
+		dyn_el_Grammatakakis dyn_el_Gravari dyn_el_Gregoriou dyn_el_Gretes
+		dyn_el_Grigoriadis dyn_el_Grivas dyn_el_Hadiaris dyn_el_Hadjiyianakies dyn_el_Hadzilacos
+		dyn_el_Hagias dyn_el_Halkias dyn_el_Hallas dyn_el_Harames dyn_el_Hardouvelis
+		dyn_el_Haritopoulos dyn_el_Haritos dyn_el_Hassiotis dyn_el_Hatzichristou dyn_el_Hatzis
+		dyn_el_Hatzjiandreu dyn_el_Hondos dyn_el_Honjas dyn_el_Horiatis dyn_el_Houdzoumis
+		dyn_el_Houlis dyn_el_Hristopoulos dyn_el_Iatrides dyn_el_Iliadis dyn_el_Iliopoulos
+		dyn_el_Iliopoulou dyn_el_Ioannides dyn_el_Ioannidis dyn_el_Ioannidou dyn_el_Ioannou
+		dyn_el_Iymperopoulou dyn_el_Janetopoulos dyn_el_Janetos dyn_el_Kabitsis
+		dyn_el_Kachiros dyn_el_Kairis dyn_el_Kaisaris dyn_el_Kakavetsis dyn_el_Kaklamanakis
+		dyn_el_Kakos dyn_el_Kakouris dyn_el_Kaladosis dyn_el_Kalakos dyn_el_Kallas
+		dyn_el_Kallergis dyn_el_Kalogeria dyn_el_Kalogeropoulos dyn_el_Kalogiannis
+		dyn_el_Kaloxylos dyn_el_Kalvos dyn_el_Kanaris dyn_el_Kanavos dyn_el_Kanellopoulos
+		dyn_el_Kapataidakis dyn_el_Kaphandaris dyn_el_Kapsalis dyn_el_Kapsimalles dyn_el_Kara
+		dyn_el_Karabachos dyn_el_Karabatsos dyn_el_Karabinis dyn_el_Karabinos
+		dyn_el_Karabochos dyn_el_Karadimos dyn_el_Karafilis dyn_el_Karagentsidis
+		dyn_el_Karageorgis dyn_el_Karageorgos dyn_el_Karagiannis dyn_el_Karaglanis
+		dyn_el_Karagogeos dyn_el_Karagounis dyn_el_Karahalios dyn_el_Karaiskakis
+		dyn_el_Karakatsani dyn_el_Karakinos dyn_el_Karakotsios dyn_el_Karamanlis
+		dyn_el_Karameros dyn_el_Karanasos dyn_el_Karaoulanis dyn_el_Karatossos
+		dyn_el_Karavidas dyn_el_Kardasis dyn_el_Karras dyn_el_Karvelas dyn_el_Kasomoulis
+		dyn_el_Katevatis dyn_el_Katramados dyn_el_Katsafanas dyn_el_Katsambis
+		dyn_el_Katsantonis dyn_el_Katsaros dyn_el_Katsiavrias dyn_el_Katsivalis
+		dyn_el_Katsourinis dyn_el_Kavadas dyn_el_Kavouras dyn_el_Kefakis dyn_el_Kefalas
+		dyn_el_Kiakidis dyn_el_Kilaras dyn_el_Kiriakopoulos dyn_el_Kitromilides dyn_el_Kladis
+		dyn_el_Klaras dyn_el_Kofides dyn_el_Kofidis dyn_el_Kokkali dyn_el_Kokkinos
+		dyn_el_Kokoris dyn_el_Kokoros dyn_el_Kokotis dyn_el_Kolettis dyn_el_Koliavas
+		dyn_el_Kollias dyn_el_Kolokotronis dyn_el_Kolovos dyn_el_Komvopoulos dyn_el_Kondylis
+		dyn_el_Konidaris dyn_el_Konstantinidis dyn_el_Konstantinidou dyn_el_Konstantinou
+		dyn_el_Konstantopoulos dyn_el_Kontoghiorghes dyn_el_Kontogiannis dyn_el_Kontopoulos
+		dyn_el_Kontos dyn_el_Kontostathis dyn_el_Kontou dyn_el_Kopidakis dyn_el_Kopsas
+		dyn_el_Korbas dyn_el_Koryllos dyn_el_Koryzis dyn_el_Koskotas dyn_el_Kosmas
+		dyn_el_Kosoulas dyn_el_Kostakes dyn_el_Kostakis dyn_el_Kostanopoulos dyn_el_Kostas
+		dyn_el_Kostopoulos dyn_el_Kostopoulou dyn_el_Kostovassilis dyn_el_Kostovilis
+		dyn_el_Kotopouli dyn_el_Kotsiakis dyn_el_Kotsilimbis dyn_el_Kotsiopoulos dyn_el_Kotsos
+		dyn_el_Kotsovilis dyn_el_Koufos dyn_el_Kouklakis dyn_el_Kouklis dyn_el_Koukoudimos
+		dyn_el_Koulaxizis dyn_el_Koulogeorge dyn_el_Koulouris dyn_el_Koulpasis
+		dyn_el_Koumaditis dyn_el_Koumanidis dyn_el_Koumarelos dyn_el_Koumoundouros
+		dyn_el_Koundouriotis dyn_el_Kountouroudas dyn_el_Kouretas dyn_el_Kourniakis
+		dyn_el_Kouropoulos dyn_el_Koutsogiannis dyn_el_Koutsolioutsou dyn_el_Koutsopodiotis
+		dyn_el_Koutsopoulos dyn_el_Koutsoubous dyn_el_Kouvelas dyn_el_Kraikos
+		dyn_el_Kranidiotis dyn_el_Krekas dyn_el_Kringos dyn_el_Kristopoulos dyn_el_Kritikos
+		dyn_el_Kritopoulos dyn_el_Ktenidis dyn_el_Kutras dyn_el_Kyriakopolous dyn_el_Kyriakou
+		dyn_el_Kyriazis dyn_el_Kyritsis dyn_el_Ladas dyn_el_Lagidis dyn_el_Lakiotis
+		dyn_el_Lalagos dyn_el_Lalas dyn_el_Lambadarios dyn_el_Lambrakis dyn_el_Lambrinides
+		dyn_el_Lambrinidis dyn_el_Lambrinos dyn_el_Lambros dyn_el_Lamprou dyn_el_Lazaridis
+		dyn_el_Lefkopoulos dyn_el_Lekas dyn_el_Leonidis dyn_el_Leontarakis dyn_el_Letsos
+		dyn_el_Liakos dyn_el_Lianis dyn_el_Liatos dyn_el_Lillis dyn_el_Limberakis dyn_el_Limnios
+		dyn_el_Linos dyn_el_Lipsanos dyn_el_Livanos dyn_el_Logarakis dyn_el_Loizides
+		dyn_el_Lolonis dyn_el_Lolos dyn_el_Lontos dyn_el_Louganis dyn_el_Loukidis
+		dyn_el_Loukopoulou dyn_el_Louros dyn_el_Louvaris dyn_el_Louverdis dyn_el_Lykoudis
+		dyn_el_Machairas dyn_el_Macrakis dyn_el_Macridis dyn_el_Maganas dyn_el_Magdalinos
+		dyn_el_Magos dyn_el_Magoulas dyn_el_Maharis dyn_el_Makarezos dyn_el_Makrides
+		dyn_el_Makrigiannis dyn_el_Makris dyn_el_Makrodimitris dyn_el_Malavazos
+		dyn_el_Malihoudis dyn_el_Mamalis dyn_el_Mamas dyn_el_Mamoulelis dyn_el_Mandas
+		dyn_el_Mandekos dyn_el_Maneates dyn_el_Manetas dyn_el_Mangakis dyn_el_Maniatis
+		dyn_el_Manis dyn_el_Manolakis dyn_el_Manos dyn_el_Manoukatakis dyn_el_Maragos
+		dyn_el_Marandos dyn_el_Marangopoulos dyn_el_Margaritis dyn_el_Marinatos
+		dyn_el_Marinos dyn_el_Markakis dyn_el_Markezinis dyn_el_Markianos
+		dyn_el_Markopoulos dyn_el_Markou dyn_el_Markoulides dyn_el_Markoullides
+		dyn_el_Matsoukis dyn_el_Mavridis dyn_el_Mavridou dyn_el_Mavrogordatos
+		dyn_el_Mavrokordatos dyn_el_Mavromattes dyn_el_Mavromichalis dyn_el_Mavromikhalis
+		dyn_el_Mavronicolas dyn_el_Mavropoulos dyn_el_Mavros dyn_el_Mavrostomos
+		dyn_el_Maximos dyn_el_Mehalitsenos dyn_el_Meimaris dyn_el_Melas
+		dyn_el_Melissanides dyn_el_Melissinos dyn_el_Melonakos dyn_el_Mentis dyn_el_Mercouri
+		dyn_el_Mersinias dyn_el_Mestas dyn_el_Metaxas dyn_el_Metrofanis dyn_el_Metropoulos
+		dyn_el_Michailidis dyn_el_Michalaras dyn_el_Michalis dyn_el_Michalopoulos
+		dyn_el_Mihas dyn_el_Mikalis dyn_el_Mikhalakopoulos dyn_el_Mikos dyn_el_Milionis
+		dyn_el_Milios dyn_el_Missiakos dyn_el_Mitropoulos dyn_el_Mitros dyn_el_Mitrou
+		dyn_el_Mitsinikos dyn_el_Mitsos dyn_el_Mitsotakis dyn_el_Moraitopoulos dyn_el_Morikis
+		dyn_el_Morphis dyn_el_Moskos dyn_el_Mosos dyn_el_Mossos dyn_el_Moumoulidis
+		dyn_el_Moundalexis dyn_el_Moutsopoulos dyn_el_Mylonas dyn_el_Myron dyn_el_Mytaras
+		dyn_el_Nafpliotis dyn_el_Nagos dyn_el_Neonakis dyn_el_Niamonitos dyn_el_Niarkhos
+		dyn_el_Nicas dyn_el_Nicolaou dyn_el_Nicopoulos dyn_el_Nikolaides dyn_el_Nikolaidou
+		dyn_el_Nikolakakos dyn_el_Nikolakopoulos dyn_el_Nikolaou dyn_el_Nikolopoulos
+		dyn_el_Nikolopoulou dyn_el_Onassis dyn_el_Orfanos dyn_el_Oikonomou dyn_el_Pagonis
+		dyn_el_Pagoulatos dyn_el_Paitakes dyn_el_Palamas dyn_el_Pallis dyn_el_Paloumbas
+		dyn_el_Panagiatopoulos dyn_el_Panagiopoulou dyn_el_Panagiotakis dyn_el_Panagiotidis
+		dyn_el_Panagiotopoulou dyn_el_Panagiotou dyn_el_Panagopoulos dyn_el_Panagopoulou
+		dyn_el_Panagotacos dyn_el_Panagou dyn_el_Panagoulias dyn_el_Panagoulis
+		dyn_el_Panaotis dyn_el_Panaretos dyn_el_Panas dyn_el_Panayides
+		dyn_el_Panayiotopoulos dyn_el_Panayiotou dyn_el_Panetsos dyn_el_Pangalos
+		dyn_el_Paniyiris dyn_el_Panos dyn_el_Panou dyn_el_Panoulias dyn_el_Pantazis
+		dyn_el_Pantelakis dyn_el_Pantelakos dyn_el_Pantermakis dyn_el_Pantopoulos
+		dyn_el_Papacalodoucas dyn_el_Papachristopoulos dyn_el_Papachristou
+		dyn_el_Papaconstantinou dyn_el_Papadakos dyn_el_Papadatos dyn_el_Papadelias
+		dyn_el_Papademetriou dyn_el_Papadias dyn_el_Papadimitriou dyn_el_Papadis
+		dyn_el_Papadopoulou dyn_el_Papadopulos dyn_el_Papaevangelou dyn_el_Papafagos
+		dyn_el_Papageorgakopoulou dyn_el_Papageorge dyn_el_Papageorgiou dyn_el_Papagiannis
+		dyn_el_Papagiannopoulos dyn_el_Papagos dyn_el_Papaiannou dyn_el_Papailias
+		dyn_el_Papaioannou dyn_el_Papakonstantinou dyn_el_Papakostas dyn_el_Papalexopoulos
+		dyn_el_Papamichelis dyn_el_Papanastasiou dyn_el_Papandreou dyn_el_Papanicolau
+		dyn_el_Papanicoliaou dyn_el_Papanikolaou dyn_el_Papanos dyn_el_Papantoniou
+		dyn_el_Paparrigopoulos dyn_el_Papas dyn_el_Papasotiriou dyn_el_Papastavrou
+		dyn_el_Papastefan dyn_el_Papasthenasiou dyn_el_Papatamelis dyn_el_Papathanasiou
+		dyn_el_Papathanassiou dyn_el_Papathemetrios dyn_el_Papatheodorou
+		dyn_el_Papatsakonas dyn_el_Papavasiliou dyn_el_Papazoglou dyn_el_Paphides
+		dyn_el_Papoulia dyn_el_Papoulias dyn_el_Papoulis dyn_el_Papoutsis dyn_el_Pappadakis
+		dyn_el_Pappadopoulos dyn_el_Pappageorge dyn_el_Pappayiorgas dyn_el_Paraskevopoulos
+		dyn_el_Paraskevopoulou dyn_el_Paraskos dyn_el_Parastadidis dyn_el_Paschalis
+		dyn_el_Passas dyn_el_Patrakis dyn_el_Patras dyn_el_Patrianakos dyn_el_Patronis
+		dyn_el_Patsatzis dyn_el_Patselas dyn_el_Pattakos dyn_el_Pavlakakis dyn_el_Pavlatos
+		dyn_el_Pavli dyn_el_Pavlidis dyn_el_Pavlidou dyn_el_Pavlou dyn_el_Pefanis
+		dyn_el_Pelakides dyn_el_Pelas dyn_el_Pentzopoulos dyn_el_Pepelasis dyn_el_Perris
+		dyn_el_Petimezas dyn_el_Petrakis dyn_el_Petrakos dyn_el_Petrides dyn_el_Petridou
+		dyn_el_Petropoulos dyn_el_Petropoulou dyn_el_Petros dyn_el_Petrou dyn_el_Pezas
+		dyn_el_Pezos dyn_el_Philipousis dyn_el_Picoulas dyn_el_Pintzopoulos dyn_el_Plevritis
+		dyn_el_Polakis dyn_el_Polihronakis dyn_el_Politis dyn_el_Polychrones
+		dyn_el_Polychroniadis dyn_el_Polychronopoulos dyn_el_Polydorides dyn_el_Polydoros
+		dyn_el_Polymeropoulos dyn_el_Polyzos dyn_el_Polyzou dyn_el_Popotas
+		dyn_el_Porpurogenitos dyn_el_Potamianos dyn_el_Poulakidas dyn_el_Poulakis
+		dyn_el_Pouliadis dyn_el_Poulinakis dyn_el_Poutous dyn_el_Prassas dyn_el_Pratkanis
+		dyn_el_Preftokis dyn_el_Prevalakis dyn_el_Protopapas dyn_el_Protopsaltis
+		dyn_el_Proussalidi dyn_el_Psacharopoulos dyn_el_Psaros dyn_el_Psaroulakis
+		dyn_el_Psiharis dyn_el_Ptohos dyn_el_Pulos dyn_el_Rachiotis dyn_el_Rallis
+		dyn_el_Rapsomanikis dyn_el_Raptis dyn_el_Razakis dyn_el_Razelos dyn_el_Rellis
+		dyn_el_Res dyn_el_Rigas dyn_el_Rigatos dyn_el_Rigopoulos dyn_el_Rizos
+		dyn_el_Romanides dyn_el_Rorris dyn_el_Roufanis dyn_el_Rousakis dyn_el_Rousses
+		dyn_el_Roussos dyn_el_Roussou dyn_el_Routsis dyn_el_Rozaklis dyn_el_Saatsakis
+		dyn_el_Saias dyn_el_Sakelaris dyn_el_Sakellaridis dyn_el_Sakellariou dyn_el_Sakis
+		dyn_el_Sakkas dyn_el_Sakkis dyn_el_Samaras dyn_el_Samiotis dyn_el_Samos
+		dyn_el_Sanassis dyn_el_Sarandakos dyn_el_Sarantakis dyn_el_Sarantis
+		dyn_el_Sarantopoulos dyn_el_Sarbanes dyn_el_Sardzetakis dyn_el_Sargetakis
+		dyn_el_Sarhanis dyn_el_Saris dyn_el_Saropoulos dyn_el_Sarris dyn_el_Savakis
+		dyn_el_Savalos dyn_el_Savidis dyn_el_Savvaides dyn_el_Savvas dyn_el_Savvidis
+		dyn_el_Serghis dyn_el_Shinas dyn_el_Siannas dyn_el_Siantos dyn_el_Sideris
+		dyn_el_Sidiropoulos dyn_el_Sidiropoulou dyn_el_Sigountos dyn_el_Simoulis
+		dyn_el_Sioutas dyn_el_Siozopoulos dyn_el_Sitaras dyn_el_Sitilis dyn_el_Skalkidis
+		dyn_el_Skandalis dyn_el_Skarlatos dyn_el_Skiotis dyn_el_Sklavenitis dyn_el_Skouloudis
+		dyn_el_Skouphas dyn_el_Skouras dyn_el_Skouzas dyn_el_Softhis dyn_el_Sokorelis
+		dyn_el_Sophoulis dyn_el_Sordinas dyn_el_Sortras dyn_el_Sotiriou dyn_el_Sotiris
+		dyn_el_Sotiropoulos dyn_el_Sotiropoulou dyn_el_Souflas dyn_el_Soukis dyn_el_Souris
+		dyn_el_Sousanis dyn_el_Souvaltzis dyn_el_Spanos dyn_el_Spanou dyn_el_Spanoudis
+		dyn_el_Spelas dyn_el_Speliopoulos dyn_el_Speronis dyn_el_Spilitopoulos
+		dyn_el_Spiridakou dyn_el_Spirodakis dyn_el_Spiropoulos dyn_el_Spyridonidis
+		dyn_el_Spyropoulos dyn_el_Spyropoulou dyn_el_Stagias dyn_el_Stamatas
+		dyn_el_Stamatelopoulos dyn_el_Stamatelos dyn_el_Stamatiou dyn_el_Stamatopoulos
+		dyn_el_Stamos dyn_el_Stamou dyn_el_Stasinopoulos dyn_el_Stathakis
+		dyn_el_Stathopoulos dyn_el_Stavrakis dyn_el_Stavrianakis dyn_el_Stavrianos
+		dyn_el_Stavrides dyn_el_Stavropoulos dyn_el_Stavropoulou dyn_el_Stavros
+		dyn_el_Stavrou dyn_el_Stavroula dyn_el_Stefanidis dyn_el_Stefanos dyn_el_Stefanou
+		dyn_el_Stephanopoulos dyn_el_Stephanos dyn_el_Stergiopoulos dyn_el_Stergiou
+		dyn_el_Stigas dyn_el_Stournas dyn_el_Strategakis dyn_el_Stratigos dyn_el_Stratis
+		dyn_el_Strilakos dyn_el_Stroggylis dyn_el_Stroubakos dyn_el_Stylianopoulos
+		dyn_el_Stylianou dyn_el_Suflas dyn_el_Surphlis dyn_el_Svoronos dyn_el_Symiakos
+		dyn_el_Syriopoulos dyn_el_Tableriou dyn_el_Taflambas dyn_el_Takes dyn_el_Talimanidis
+		dyn_el_Talitsikas dyn_el_Tavoularis dyn_el_Telis dyn_el_Terovolas dyn_el_Thanopoulou
+		dyn_el_Theodorakis dyn_el_Theodorakos dyn_el_Theodoratos dyn_el_Theodoridis
+		dyn_el_Theodoropoulos dyn_el_Theodoropoulou dyn_el_Theodorou dyn_el_Theofilopoulos
+		dyn_el_Theophilos dyn_el_Theotokis dyn_el_Thermos dyn_el_Thexorthopolis dyn_el_Toles
+		dyn_el_Tomaras dyn_el_Tomopoulos dyn_el_Topalis dyn_el_Totolos dyn_el_Touchakis
+		dyn_el_Toulopoulos dyn_el_Tountas dyn_el_Tourna dyn_el_Toutoulis dyn_el_Trachanas
+		dyn_el_Tragakes dyn_el_Trakatellis dyn_el_Trampakoulos dyn_el_Triantafillou
+		dyn_el_Triantafyllou dyn_el_Triantis dyn_el_Trikoupis dyn_el_Tripatsas dyn_el_Triphyllis
+		dyn_el_Tripodakis dyn_el_Tsahalis dyn_el_Tsakiris dyn_el_Tsakonas dyn_el_Tsakoumis
+		dyn_el_Tsakrios dyn_el_Tsaldaris dyn_el_Tsambourlis dyn_el_Tsamis dyn_el_Tsangaris
+		dyn_el_Tsantakis dyn_el_Tsaousidis dyn_el_Tsardikos dyn_el_Tsatsas dyn_el_Tsatsos
+		dyn_el_Tsavdaridou dyn_el_Tselikas dyn_el_Tselios dyn_el_Tsembelis dyn_el_Tsiakkas
+		dyn_el_Tsiaris dyn_el_Tsibris dyn_el_Tsichrintzis dyn_el_Tsikouna dyn_el_Tsimicalis
+		dyn_el_Tsiolakoudi dyn_el_Tsirigolis dyn_el_Tsirimokos dyn_el_Tsokas dyn_el_Tsongas
+		dyn_el_Tsoni dyn_el_Tsopelas dyn_el_Tsouderos dyn_el_Tsoumada dyn_el_Tzannetakis
+		dyn_el_Tzelepis dyn_el_Tzivas dyn_el_Vadeki dyn_el_Vaitsos dyn_el_Vakirtzis
+		dyn_el_Vakros dyn_el_Valaoritis dyn_el_Valasellis dyn_el_Valkanas dyn_el_Vamvakidis
+		dyn_el_Vaphiadis dyn_el_Vardakas dyn_el_Vardakastanis dyn_el_Vardoulakis
+		dyn_el_Varvaressos dyn_el_Varvitsiotes dyn_el_Vasdeki dyn_el_Vasdekis dyn_el_Vasil
+		dyn_el_Vasilakis dyn_el_Vasilas dyn_el_Vasileiou dyn_el_Vasiliadis dyn_el_Vasiliou
+		dyn_el_Vasilopoulos dyn_el_Vassiliadis dyn_el_Vassilides dyn_el_Vassiliou
+		dyn_el_Vassilopoulos dyn_el_Vastakis dyn_el_Vatatzes dyn_el_Vavourakis
+		dyn_el_Velissaropoulos dyn_el_Veloukhiotis dyn_el_Veremis dyn_el_Vergopoulos
+		dyn_el_Veriopoulos dyn_el_Violakis dyn_el_Vlachos dyn_el_Vlachou dyn_el_Vlachoutsicos
+		dyn_el_Vlakhos dyn_el_Vlakhou dyn_el_Volakis dyn_el_Vossos dyn_el_Voudouris
+		dyn_el_Voulgaris dyn_el_Vourlis dyn_el_Voutira dyn_el_Voutsas dyn_el_Vouyoukilis
+		dyn_el_Vozoras dyn_el_Vrettos dyn_el_Vrionis dyn_el_Vrotsis dyn_el_Vrotsos
+		dyn_el_Xanthos dyn_el_Xanthou dyn_el_Xenakes dyn_el_Xenakis dyn_el_Xenos
+		dyn_el_Xirafis dyn_el_Xydis dyn_el_Yanakakis dyn_el_Yannakis dyn_el_Yannas
+		dyn_el_Yannopoulos dyn_el_Yantsios dyn_el_Yeroulanos dyn_el_Yfantis dyn_el_Yialouris
+		dyn_el_Ypsilantis dyn_el_Zafiropoulos dyn_el_Zahakis dyn_el_Zakhariadis dyn_el_Zarikos
+		dyn_el_Zavos dyn_el_Zemenides dyn_el_Zenakes dyn_el_Zengos dyn_el_Zenos
+		dyn_el_Ziembekakis dyn_el_Zikos dyn_el_Zogopoulos dyn_el_Zografos dyn_el_Zomopoulos
+		dyn_el_Zorbas dyn_el_Zouvelekis dyn_el_Zuliamis
+	}
+	
+	male_names = {
+		el_Abestoles el_Achilleas el_Achilles el_Adamantios el_Adonis el_Agapios el_Agias
+		el_Aiakos el_Aineias el_Aiolos el_Aleda el_Alekos el_Alexander el_Alexandros el_Alexios
+		el_Alexis el_Alexiou el_Ambrosios el_Anakletos el_Anastasios el_Anastassios el_Andonios
+		el_Andreas el_Andros el_Angelo el_Angelos el_Aniketos el_Anninos el_Antonios el_Antonis
+		el_Apostolis el_Apostolos el_Argyros el_Ari el_Arion el_Aris el_Aristides el_Aristotelis
+		el_Arsenios el_Athan el_Athanasios el_Athanassios el_Athinagoras el_Athones
+		el_Augustinos el_Bikos el_Boreas el_Carolos el_Charalambos el_Charalampos el_Charilaos
+		el_Christodoulos el_Christoforos el_Christos el_Chrysostomos el_Cletus el_Constandinos
+		el_Constantinos el_Cosmo el_Costa el_Costas el_Crist el_Damianos el_Demetri
+		el_Demetrios el_Demetris el_Demosthenes el_Dighenis el_Dimitri el_Dimitrios el_Dimitris
+		el_Dino el_Dion el_Dionysios el_Dionyssios el_Dimitris el_Doxiadis el_Drymiotes
+		el_Efstathios el_Efstratios el_Efthimios el_Eleftherios el_Elias el_Emmanouil el_Emmanuel
+		el_Emmanuil el_Epameinondas el_Epaminondas el_Evangelos el_Evangelos el_Evgenios
+		el_Evis el_Evripides el_Fanos el_Filipas el_Fotis el_George el_Georges el_Georghios
+		el_Georgios el_Gerasimos el_Giannis el_Giatas el_Giorgos el_Glafkos el_Gondikas
+		el_Gregorios el_Grigorios el_Grigoris el_Haralambos el_Harrys el_Herakles el_Hermes
+		el_Hippocrates el_Hristos el_Iacovos el_Iakovos el_Iannis el_Iason el_Ignatios el_Ilias
+		el_Ioannes el_Ioannis el_Isaakios el_Isidoros el_Kalinikos el_Kharilaos el_Kimon el_Kleanthe
+		el_Koinos el_Konstandinos el_Konstantinos el_Kosmas el_Kosta el_Kostantinos el_Kostas
+		el_Kris el_Kristion el_Kymon el_Kypros el_Kyriacos el_Kyriakos el_Lambro el_Lambros
+		el_Laurentios el_Lazaros el_Leandros el_Lefteris el_Leo el_Leonidas el_Leontios el_Loukas
+		el_Loukianos el_Makarios el_Makis el_Manolis el_Manos el_Marinos el_Marios el_Marko
+		el_Markos el_Martinos el_Matthaios el_Maximos el_Metrophanes el_Michail el_Michalis
+		el_Milos el_Miltiades el_Miltos el_Moris el_Myron el_Nathanael el_Nektarios el_Neophytos
+		el_Nickolas el_Nico el_Nicolaon el_Nicolas el_Nikodemos el_Nikolaos el_Odysseas
+		el_Odysseus el_Orestis el_Orion el_Othon el_Panagiote el_Panagiotis el_Panayiotis
+		el_Panayotis el_Panicos el_Panos el_Pantelis el_Paulos el_Pausanias el_Pavlos el_Pericles
+		el_Periklis el_Petros el_Philippos el_Photios el_Platon el_Polyvios el_Prokopios el_Rhigas
+		el_Romanos el_Samaras el_Savas el_Savvas el_Sebastianos el_Sergios el_Silvanos el_Simos
+		el_Skyros el_Socrates el_Solon el_Sophocles el_Sotirios el_Sotiris el_Spiridon el_Spiro
+		el_Spyridon el_Spyros el_Stamatis el_Stathis el_Stavros el_Stefanos el_Stelios
+		el_Stephanos el_Sterghios el_Stratis el_Stratos el_Stylianos el_Tasos el_Tassos el_Tataki
+		el_Thaddaios el_Thanasios el_Thanasis el_Thanos el_Themestoclis el_Theodore
+		el_Theodoros el_Theodosios el_Theofanis el_Theologos el_Theophanis el_Thrasyvoulos
+		el_Timotheos el_Titos el_Triandafillos el_Tzannas el_Vaggelis el_Vaios el_Valerios
+		el_Vangelis el_Vardis el_Vasileios el_Vasilios el_Vasilis el_Vassilios el_Vassilis el_Xenophon
+		el_Yannas el_Yanni el_Yannis el_Yiannis el_Yiannos el_Yiorgos el_Yioryios el_Zacharias
+		el_Zaharias el_Zenon
+	}
+
+	female_names = {
+		el_Acacia el_Acantha el_Adonia el_Adora el_Aeola el_Afroditi el_Aglaia el_Agathe el_Agathi
+		el_Aikaterine el_Aikaterini el_Akilina el_Alala el_Aldora el_Aleka el_Aleki el_Aleni el_Alesia
+		el_Alethea el_Alexandra el_Alexandria el_Alexi el_Alexine el_Alexis el_Alexxa el_Althaia
+		el_Ambrosia el_Ana el_Anastacia el_Anastasia el_Anatolia el_Andriana el_Andromeda
+		el_Andromede el_Androniki el_Androula el_Anemone el_Angela el_Angele el_Angelee
+		el_Angeliki el_Anna el_Annagletha el_Anthaia el_Anthoula el_Anthy el_Antigone el_Antonia
+		el_Aphrodite el_Argiro el_Ariadne el_Aristea el_Aristoula el_Artemis el_Artemisia
+		el_Aspasia el_Atalante el_Athanasia el_Athena el_Athina el_Avthokia el_Barbara el_Basiliki
+		el_Calandra el_Calantha el_Calista el_Calla el_Cassa el_Cassia el_Charis el_Charissa
+		el_Chloe el_Chloris el_Chrisoula el_Chrissitha el_Christiane el_Christina el_Christine
+		el_Chrysanthe el_Chryseis el_Chryssi el_Clematia el_Cleopatra el_Clio el_Costandina
+		el_Cressida el_Cyma el_Cynara el_Damara el_Damaris el_Danae el_Deianira el_Delia
+		el_Demetra el_Demitria el_Denise el_Despina el_Diana el_Diantha el_Dido el_Dimitra
+		el_Dionisia el_Dominica el_Dorkas el_Drusilla el_Effrossini el_Effrosyni el_Efpraxia
+		el_Efthimia el_Eftimia el_Eirene el_Ekati el_Ekaterine el_Ekaterini el_Eleftheria
+		el_Eleftheriani el_Elektra el_Elena el_Eleni el_Elewteria el_Elewtheria el_Elina el_Elisa
+		el_Emalia el_Ereini el_Erene el_Erianthe el_Eudocia el_Eudora el_Eudoxia el_Eugenia
+		el_Euphemia el_Euphrosyne el_Evaggelia el_Evanthia el_Evdokia el_Evgenia el_Eyaggelia
+		el_Filanthi el_Fotini el_Gaea el_Galatea el_Georgia el_Gioulli el_Halcyone el_Helen
+		el_Helena el_Helia el_Hera el_Hlois el_Ianthe el_Ilektra el_Iliana el_Ioanna el_Iona
+		el_Iphigenia el_Irene el_Irini el_Iris el_Isaura el_Junia el_Juno el_Kali el_Kaliopi el_Kalliope
+		el_Kalyca el_Katerine el_Katina el_Khloe el_Konstanta el_Konstantina el_Kore el_Koren
+		el_Kynthia el_Kyriaki el_Lamprini el_Lexi el_Lida el_Lilika el_Lugaretzia el_Lydia el_Maia
+		el_Margarita el_Maria el_Marianthi el_Marina el_Maroula el_Medora el_Melaina
+		el_Melanie el_Melantha el_Melina el_Melissa el_Melpomeni el_Metaxia el_Miranta
+		el_Myropi el_Nafsika el_Nana el_Neona el_Nerissa el_Nicole el_Niki el_Nikola el_Nitsa
+		el_Odessa el_Olympia el_Ophelia el_Ourania el_Pamfilia el_Panagiota el_Pannayita
+		el_Paraskevi el_Pareskevi el_Parthenia el_Pavlina el_Phaedra el_Phaidra el_Phedra
+		el_Philana el_Philippa el_Philomela el_Phoebe el_Phyllis el_Rena el_Rhea el_Rodanthi
+		el_Rodothea el_Salome el_Selene el_Sia el_Smaragda el_Smaragdi el_Sofia el_Sophia
+		el_Sotiria el_Soula el_Stamata el_Stavroula el_Stefania el_Styliani el_Tassia el_Tassula
+		el_Tattiana el_Tekla el_Thalassa el_Thaleia el_Thalia el_Thania el_Tharsia el_Thekla
+		el_Theodora el_Theodosia el_Theodosoulla el_Theone el_Theophano el_Theresa el_Tia
+		el_Timothea el_Tina el_Toula el_Vanessa el_Vasiliki el_Vasiliky el_Vassiliki el_Xanthe
+		el_Xanthippe el_Xantippe el_Xena el_Xenia el_Xylia el_Yana el_Yiannoula el_Zacharenia
+		el_Zelia el_Zenaida el_Zenobia el_Zoe el_Zoi
+	}
+	
+	king_names = {
+		royal_Ioannis royal_Othon royal_Georgios royal_Konstantinos
+		royal_Nicholas royal_Alexandros royal_Paulos royal_Andreas royal_Christophoros
+		royal_Petros
+	}
+	queen_names = {
+		royal_Amalia royal_Olga royal_Alexandra royal_Maria royal_Sophia royal_Heleni
+		royal_Irini royal_Catherini royal_Aspasia
+	}
+}
+name_list_albanian = {
+
+	dynasty_names = {
+		dyn_sq_Abazi dyn_sq_Ademi dyn_sq_Agani dyn_sq_Agolli dyn_sq_Ahmetaj
+		dyn_sq_Ahmeti dyn_sq_Ajeti dyn_sq_Aliaj dyn_sq_Alikaj dyn_sq_Aliu dyn_sq_Alla
+		dyn_sq_Arapi dyn_sq_Arbnori dyn_sq_Arifi dyn_sq_Asllani dyn_sq_Avdiu dyn_sq_Azemi
+		dyn_sq_Bajraktari dyn_sq_Bajrami dyn_sq_Bala dyn_sq_Balla dyn_sq_Balliu dyn_sq_Bardhi
+		dyn_sq_Bardici dyn_sq_Basha dyn_sq_Bega dyn_sq_Begaj dyn_sq_Bejta dyn_sq_Bektashi
+		dyn_sq_Belushi dyn_sq_Beqiri dyn_sq_Berberi dyn_sq_Berisha dyn_sq_Blaku
+		dyn_sq_Bogdani dyn_sq_Boshnjaku dyn_sq_Brahimi dyn_sq_Bregu dyn_sq_Broci
+		dyn_sq_Brozi dyn_sq_Bushaj dyn_sq_Bushati dyn_sq_Bushi dyn_sq_Bytyqi dyn_sq_Canaj
+		dyn_sq_Cani dyn_sq_Caushi dyn_sq_Ceka dyn_sq_Cela dyn_sq_Cobaj dyn_sq_Collaku
+		dyn_sq_Corbajram dyn_sq_Culaj dyn_sq_Cumani dyn_sq_Daci dyn_sq_Dashi dyn_sq_Dauti
+		dyn_sq_Deda dyn_sq_Dedej dyn_sq_Dedja dyn_sq_Delvina dyn_sq_Dema dyn_sq_Demaci
+		dyn_sq_Demiri dyn_sq_Dervishi dyn_sq_Dhamo dyn_sq_Dhima dyn_sq_Dibra dyn_sq_Doci
+		dyn_sq_Doda dyn_sq_Domi dyn_sq_Dreshaj dyn_sq_Duka dyn_sq_Dukagjini dyn_sq_Duro
+		dyn_sq_Dushku dyn_sq_Dzaferi dyn_sq_Elezi dyn_sq_Elshani dyn_sq_Emini
+		dyn_sq_Evangjeli dyn_sq_Fakaj dyn_sq_Fazliu dyn_sq_Frasheri dyn_sq_Gacaferi
+		dyn_sq_Gashi dyn_sq_Gega dyn_sq_Gegaj dyn_sq_Gegprifti dyn_sq_Gjata dyn_sq_Gjergji
+		dyn_sq_Gjika dyn_sq_Gjikokaj dyn_sq_Gjini dyn_sq_Gjoka dyn_sq_Gjokaj dyn_sq_Gjonaj
+		dyn_sq_Gjoni dyn_sq_Goga dyn_sq_Grazdani dyn_sq_Gurakuqi dyn_sq_Guri
+		dyn_sq_Hajdari dyn_sq_Hajdini dyn_sq_Halilaj dyn_sq_Halili dyn_sq_Halimi dyn_sq_Haliti
+		dyn_sq_Hasa dyn_sq_Hasanaj dyn_sq_Hasangjekaj dyn_sq_Hasani dyn_sq_Haxhi
+		dyn_sq_Haxhiu dyn_sq_Haziri dyn_sq_Hisari dyn_sq_Hoti dyn_sq_Hoxha dyn_sq_Hoxhaj
+		dyn_sq_Hysa dyn_sq_Hysenaj dyn_sq_Hyseni dyn_sq_Hysi dyn_sq_Ibrahimi dyn_sq_Idrizi
+		dyn_sq_Imeri dyn_sq_Isai dyn_sq_Islami dyn_sq_Ismaili dyn_sq_Isufaj dyn_sq_Isufi
+		dyn_sq_Jakupi dyn_sq_Jani dyn_sq_Jasari dyn_sq_Jashari dyn_sq_Kabashi dyn_sq_Kadriu
+		dyn_sq_Kalaj dyn_sq_Kaleci dyn_sq_Kamberi dyn_sq_Kapllani dyn_sq_Karaj
+		dyn_sq_Kastrati dyn_sq_Kelmendi dyn_sq_Koci dyn_sq_Kodra dyn_sq_Koka dyn_sq_Kola
+		dyn_sq_Kona dyn_sq_Kongoli dyn_sq_Kosova dyn_sq_Kotta dyn_sq_Kraja dyn_sq_Krasniqi
+		dyn_sq_Kristo dyn_sq_Kristoja dyn_sq_Kryeziu dyn_sq_Kuci dyn_sq_Kuka dyn_sq_Kula
+		dyn_sq_Kupi dyn_sq_Kuqi dyn_sq_Kurti dyn_sq_Kutishi dyn_sq_Laci dyn_sq_Lala
+		dyn_sq_Lamaj dyn_sq_Latifi dyn_sq_Lazami dyn_sq_Leka dyn_sq_Lika dyn_sq_Likaj
+		dyn_sq_Lila dyn_sq_Limani dyn_sq_Lleshi dyn_sq_Logoreci dyn_sq_Lokaj dyn_sq_Loshaj
+		dyn_sq_Loshi dyn_sq_Luga dyn_sq_Lumaj dyn_sq_Mala dyn_sq_Malaj dyn_sq_Mali
+		dyn_sq_Maliqi dyn_sq_Maloku dyn_sq_Manjani dyn_sq_Marishta dyn_sq_Marku
+		dyn_sq_Maxharraj dyn_sq_Meco dyn_sq_Mehmeti dyn_sq_Meksi dyn_sq_Mema
+		dyn_sq_Meshkalla dyn_sq_Meta dyn_sq_Metaj dyn_sq_Mezini dyn_sq_Miftari
+		dyn_sq_Mishaxhi dyn_sq_Molla dyn_sq_Morina dyn_sq_Muca dyn_sq_Mucaj dyn_sq_Muja
+		dyn_sq_Muka dyn_sq_Murati dyn_sq_Musliu dyn_sq_Mustafa dyn_sq_Myftari
+		dyn_sq_Naci dyn_sq_Ndreu dyn_sq_Nesimi dyn_sq_Nexhipi dyn_sq_Neziri dyn_sq_Nikolla
+		dyn_sq_Noli dyn_sq_Nooja dyn_sq_Nushi dyn_sq_Oseku dyn_sq_Osmani dyn_sq_Papa
+		dyn_sq_Papazisi dyn_sq_Peci dyn_sq_Permeti dyn_sq_Pernaska dyn_sq_Pipa
+		dyn_sq_Pllana dyn_sq_Prendi dyn_sq_Prenkpalaj dyn_sq_Prifti dyn_sq_Prishtina
+		dyn_sq_Pula dyn_sq_Qerimi dyn_sq_Qosja dyn_sq_Rama dyn_sq_Ramadani dyn_sq_Ramaj
+		dyn_sq_Rexha dyn_sq_Rexhepi dyn_sq_Ristani dyn_sq_Ruci dyn_sq_Sadiku dyn_sq_Sadiraj
+		dyn_sq_Sahiti dyn_sq_Salihu dyn_sq_Saliu dyn_sq_Saraci dyn_sq_Sava dyn_sq_Seferi
+		dyn_sq_Sejdiu dyn_sq_Selimi dyn_sq_Selmani dyn_sq_Shabani dyn_sq_Shahini
+		dyn_sq_Shala dyn_sq_Shaqiri dyn_sq_Shehaj dyn_sq_Shehi dyn_sq_Shehu dyn_sq_Shibani
+		dyn_sq_Shima dyn_sq_Shkembi dyn_sq_Shkodra dyn_sq_Shkreli dyn_sq_Shkurti
+		dyn_sq_Shyti dyn_sq_Siliqi dyn_sq_Sina dyn_sq_Sinani dyn_sq_Skenderi dyn_sq_Sokoli
+		dyn_sq_Spahiu dyn_sq_Sula dyn_sq_Sulaj dyn_sq_Syla dyn_sq_Sylaj dyn_sq_Sylejmani
+		dyn_sq_Tabaku dyn_sq_Tahiri dyn_sq_Thaqi dyn_sq_Thika dyn_sq_Tirana dyn_sq_Tola
+		dyn_sq_Tolaj dyn_sq_Tolka dyn_sq_Toska dyn_sq_Toskaj dyn_sq_Tosku dyn_sq_Troshani
+		dyn_sq_Tzeka dyn_sq_Uka dyn_sq_Useni dyn_sq_Vata dyn_sq_Veliu dyn_sq_Veseli
+		dyn_sq_Xhafa dyn_sq_Xhaferi dyn_sq_Xhanari dyn_sq_Xhaxhka dyn_sq_Xhelili
+		dyn_sq_Xhumba dyn_sq_Ymeri dyn_sq_Zagreda dyn_sq_Zaimi dyn_sq_Zeka dyn_sq_Zeneli
+		dyn_sq_Zeqiri dyn_sq_Zhugli dyn_sq_Zhuzhumi dyn_sq_Zogaj dyn_sq_Zogolli
+	}
+	
+	male_names = {
+		sq_Abdurrahman sq_Abdyl sq_Adem sq_Adil sq_Admir sq_Adnan sq_Adriatik sq_Afrim
+		sq_Agim sq_Agron sq_Ahmet sq_Alban sq_Aleksander sq_Ali sq_Altin sq_Andi sq_Anton
+		sq_Arben sq_Arber sq_Ardian sq_Arian sq_Arif sq_Armend sq_Arsim sq_Arsllan sq_Artan
+		sq_Asllan sq_Avdi sq_Avdullah sq_Avdyl sq_Avni sq_Azem sq_Bajram sq_Bame sq_Bashkim
+		sq_Bedri sq_Behar sq_Behxhet sq_Bekim sq_Beqir sq_Besim sq_Besnik sq_Binak sq_Bislim
+		sq_Bledar sq_Blerim sq_Brahim sq_Bujar sq_Burim sq_Defrim sq_Dervish sq_Dhimiter
+		sq_Dhimitri sq_Dijamant sq_Dritan sq_Driton sq_Ekrem sq_Eljas sq_Emro sq_Endri
+		sq_Enver sq_Ermal sq_Erion sq_Ervin sq_Eshref sq_Fadil sq_Fatmir sq_Faton sq_Fatos
+		sq_Fazli sq_Fehmi sq_Feriz sq_Festim sq_Fisnik sq_Fitim sq_Flamur sq_Florim sq_Fuat
+		sq_Gani sq_Gazmend sq_Genc sq_Gezim sq_Gjergj sq_Gzim sq_Hajdar sq_Hajrullah
+		sq_Haki sq_Halil sq_Halit sq_Hamit sq_Hasan sq_Haxhi sq_Hazir sq_Hoxha sq_Hysen
+		sq_Hysni sq_Ibrahim sq_Ibush sq_Idriz sq_Igli sq_Ilir sq_Iljaz sq_Isa sq_Ismajl sq_Ismet
+		sq_Isuf sq_Izet sq_Jakup sq_Jeton sq_Jevdet sq_Jusuf sq_Kadri sq_Kamber sq_Kastriot
+		sq_Kreshnik sq_Kujtim sq_Labinot sq_Leka sq_Llokman sq_Luan sq_Lulzim sq_Maxhun
+		sq_Mehmet sq_Menduh sq_Mensur sq_Mentor sq_Miftar sq_Muhamet sq_Muharrem
+		sq_Mujeye sq_Murat sq_Musa sq_Mustafe sq_Mustafeye sq_Naim sq_Naser sq_Nazim
+		sq_Nazmi sq_Nexhat sq_Nexhdet sq_Nexhmedin sq_Nezir sq_Nuho sq_Nuredin sq_Osman
+		sq_Perparim sq_Petrit sq_Qamil sq_Qazim sq_Qerim sq_Ragip sq_Ramadan sq_Ramazan
+		sq_Rame sq_Ramiz sq_Rasim sq_Reshat sq_Rexe sq_Rexhep sq_Rifat sq_Riza sq_Robert
+		sq_Rrahim sq_Rrahman sq_Rrustem sq_Ruzhdi sq_Sabit sq_Sabri sq_Sadik sq_Sadri
+		sq_Safet sq_Sahit sq_Sali sq_Sami sq_Samih sq_Sejdi sq_Sejdo sq_Selim sq_Senad
+		sq_Shaban sq_Shaip sq_Shefki sq_Shefqet sq_Shemsi sq_Sherif sq_Shkelqim sq_Skhelzen
+		sq_Shpend sq_Shpetim sq_Skender sq_Skeyender sq_Smajl sq_Sokol sq_Sotir sq_Syle
+		sq_Sylejman sq_Tane sq_Tahir sq_Thoma sq_Ukeye sq_Urim sq_Valdet sq_Valon sq_Vesel
+		sq_Veton sq_Visar sq_Xhafer sq_Xhaviet sq_Xhavit sq_Xheladin sq_Xhelal sq_Xhemajl
+		sq_Xhemal sq_Xheme sq_Xhemo sq_Xhevat sq_Xhevdet sq_Xhezmi sq_Ylber sq_Yll
+		sq_Ymer sq_Zejnullah sq_Zeke sq_Zenel sq_Zenun sq_Zeqir sq_Zymer
+	}
+
+	female_names = {
+		sq_Ada sq_Adelina sq_Adile sq_Aferdita sq_Aida sq_Aishe sq_Alba sq_Albana sq_Albane
+		sq_Alisa sq_Alketa sq_Amela sq_Amida sq_Ana sq_Angjelka sq_Ani sq_Anila sq_Anisa
+		sq_Ardiana sq_Ardita sq_Ariana sq_Arta sq_Astrit sq_Atdhe sq_Atixhe sq_Avdije sq_Bafta
+		sq_Baftije sq_Bedrije sq_Besa sq_Besarta sq_Braniola sq_Brikena sq_Bukurie sq_Dafina
+		sq_Daso sq_Deshira sq_Dhurata sq_Domenika sq_Donika sq_Drita sq_Eda sq_Edita
+		sq_Edona sq_Elda sq_Elona sq_Emina sq_Emine sq_Emira sq_Eneida sq_Enisa sq_Enkeleda
+		sq_Entela sq_Eriola sq_Ermira sq_Esma sq_Fatie sq_Fatime sq_Fatma sq_Fatmire
+		sq_Feriha sq_Fitime sq_Fitnete sq_Fitore sq_Flora sq_Flore sq_Flutra sq_Flutura sq_Gjelina
+		sq_Gjilferije sq_Gjyldane sq_Habibe sq_Halise sq_Hanife sq_Have sq_Haxhire sq_Hyrete
+		sq_Iliriana sq_Ilirjana sq_Indrit sq_Jelena sq_Jonida sq_Jonita sq_Julie sq_Katerina
+		sq_Kimete sq_Klarita sq_Ledia sq_Lindiana sq_Lindita sq_Liria sq_Liridona sq_Lirie
+		sq_Lulieta sq_Luljeta sq_Luljete sq_Lulzime sq_Lumnija sq_Lumnije sq_Lumturia
+		sq_Lumturie sq_Lutvije sq_Majlinda sq_Manjola sq_Mara sq_Maria sq_Maxhide sq_Medie
+		sq_Meliha sq_Melinda sq_Mergime sq_Merita sq_Mevlide sq_Mevlude sq_Mide sq_Milfete
+		sq_Mihria sq_Mimoza sq_Minera sq_Mira sq_Miradija sq_Miranda sq_Mirela sq_Mirjeta
+		sq_Mirlinda sq_Mirsada sq_Myzafete sq_Nada sq_Nafije sq_Naxhie sq_Nazime sq_Nexhmie
+		sq_Nua sq_Nurije sq_Oneda sq_Pranvera sq_Qanije sq_Qelibije sq_Rabie sq_Rabo
+		sq_Resmie sq_Roze sq_Rrita sq_Rrezarta sq_Rudina sq_Ruhije sq_Sabihete sq_Sabije
+		sq_Sadije sq_Sadike sq_Safete sq_Sahide sq_Samira sq_Sanije sq_Sebahete sq_Sebiha
+		sq_Sefade sq_Selvete sq_Senie sq_Senije sq_Sevda sq_Shefkije sq_Shejnaze sq_Shemsie
+		sq_Shengul sq_Sheqere sq_Shina sq_Shpresa sq_Shqipe sq_Shqiponja sq_Sonija sq_Sonila
+		sq_Suada sq_Suela sq_Sultana sq_Sura sq_Suzana sq_Syrena sq_Teuta sq_Valbona
+		sq_Vjollca sq_Vjosa sq_Vlora sq_Xhemale sq_Xhevrije sq_Zahide sq_Zamira sq_Zelfije
+		sq_Ziga sq_Zija sq_Zoja
+	}
+}
+name_list_romanian = {
+
+	dynasty_names = {
+		dyn_ro_Popa dyn_ro_Popescu dyn_ro_Pop dyn_ro_Radu dyn_ro_Dumitru dyn_ro_Stan
+		dyn_ro_Stoica dyn_ro_Gheorghe dyn_ro_Matei dyn_ro_Ciobanu dyn_ro_Bura
+		dyn_ro_Adrian dyn_ro_Agafitei dyn_ro_Albu dyn_ro_Albusul dyn_ro_Alecsandri
+		dyn_ro_Alexandrescu dyn_ro_Alexandru dyn_ro_Alina dyn_ro_Amanare dyn_ro_Ana
+		dyn_ro_Andreea dyn_ro_Andrei dyn_ro_Anghel dyn_ro_Anton dyn_ro_Antonescu
+		dyn_ro_Apostol dyn_ro_Ardelean dyn_ro_Arsenie dyn_ro_Avram dyn_ro_Babescu
+		dyn_ro_Baciu dyn_ro_Badea dyn_ro_Bajenaru dyn_ro_Balamuti dyn_ro_Balan
+		dyn_ro_Balcescu dyn_ro_Banica dyn_ro_Barbu dyn_ro_Barnut dyn_ro_Basu dyn_ro_Baram
+		dyn_ro_Blandiana dyn_ro_Bogdan dyn_ro_Bogdan dyn_ro_Bortoi dyn_ro_Brancoveanu
+		dyn_ro_Brancusi dyn_ro_Bratianu dyn_ro_Bratu dyn_ro_Breaban dyn_ro_Bubuira
+		dyn_ro_Bucur dyn_ro_Bucuresti dyn_ro_Buhaescu dyn_ro_Butacu dyn_ro_Calin
+		dyn_ro_Cantacuzino dyn_ro_Cantu dyn_ro_Capraru dyn_ro_Cardei dyn_ro_Catalin
+		dyn_ro_Ceausescu dyn_ro_Cernea dyn_ro_Chiriac dyn_ro_Chirita dyn_ro_Chisca
+		dyn_ro_Chitul dyn_ro_Cristescu dyn_ro_Ciobotaru dyn_ro_Cioran dyn_ro_Ciorbea
+		dyn_ro_Ceuca dyn_ro_Ciumas dyn_ro_Codreanu dyn_ro_Cojocaru dyn_ro_Coman
+		dyn_ro_Comaneci dyn_ro_Constantin dyn_ro_Constantinescu dyn_ro_Cornea
+		dyn_ro_Cosma dyn_ro_Cosescu dyn_ro_Costache dyn_ro_Costea dyn_ro_Costin
+		dyn_ro_Craciun dyn_ro_Crainic dyn_ro_Cretu dyn_ro_Crisan dyn_ro_Cristea
+		dyn_ro_Cristescu dyn_ro_Cristian dyn_ro_Cristina dyn_ro_Croitoru dyn_ro_Cuza
+		dyn_ro_Dacianu dyn_ro_Damian dyn_ro_Dan dyn_ro_Dantescu dyn_ro_Daniel
+		dyn_ro_Daniela dyn_ro_Dascalu dyn_ro_David dyn_ro_Dej dyn_ro_Diaconescu
+		dyn_ro_Diaconu dyn_ro_Dima dyn_ro_Dinca dyn_ro_Dinescu dyn_ro_Dinu dyn_ro_Dobos
+		dyn_ro_Dobra dyn_ro_Dobre dyn_ro_Dobrogeanu dyn_ro_Dobos dyn_ro_Dragan
+		dyn_ro_Dragaica dyn_ro_Dragomir dyn_ro_Druta dyn_ro_Dumitrache dyn_ro_Dumitrascu
+		dyn_ro_Dumitrescu dyn_ro_Dumitru dyn_ro_Eminescu dyn_ro_Enache dyn_ro_Ene
+		dyn_ro_Enescu dyn_ro_Enescu dyn_ro_Filip dyn_ro_Filipescu dyn_ro_Florea
+		dyn_ro_Florescu dyn_ro_Florin dyn_ro_Gabor dyn_ro_Gabriel dyn_ro_Gabriela
+		dyn_ro_Galca dyn_ro_Gavrila dyn_ro_Georgescu dyn_ro_Gheorghiu dyn_ro_Georgian
+		dyn_ro_Gheorghiu dyn_ro_Ghita dyn_ro_Gica dyn_ro_Gogoasa dyn_ro_Gore dyn_ro_Grasu
+		dyn_ro_Grecu dyn_ro_Grigore dyn_ro_Grosu dyn_ro_Groza dyn_ro_Hagi dyn_ro_Hategan
+		dyn_ro_Iacob dyn_ro_Iancu dyn_ro_Banescu dyn_ro_Ierunca dyn_ro_Ignat dyn_ro_Ilie
+		dyn_ro_Iliescu dyn_ro_Ioan dyn_ro_Ioana dyn_ro_Ion dyn_ro_Ionescu dyn_ro_Ionita
+		dyn_ro_Ionut dyn_ro_Iordache dyn_ro_Iordanescu dyn_ro_Irimescu dyn_ro_Irimia
+		dyn_ro_Istrate dyn_ro_Istrati dyn_ro_Ivan dyn_ro_Ionescu dyn_ro_Kazahu dyn_ro_Cobori
+		dyn_ro_Kogalniceanu dyn_ro_Creanga dyn_ro_Lacatus dyn_ro_Lacusta dyn_ro_Lazar
+		dyn_ro_Leonte dyn_ro_Lixandru dyn_ro_Lovinescu dyn_ro_Luca dyn_ro_Lucescu
+		dyn_ro_Lungu dyn_ro_Lupan dyn_ro_Lupescu dyn_ro_Lupu dyn_ro_Magaru
+		dyn_ro_Maiorescu dyn_ro_Mandruleano dyn_ro_Manea dyn_ro_Maniu dyn_ro_Manole
+		dyn_ro_Marcu dyn_ro_Marian dyn_ro_Marin dyn_ro_Marinescu dyn_ro_Marius
+		dyn_ro_Martin dyn_ro_Matescu dyn_ro_Mazilu dyn_ro_Melite dyn_ro_Micu
+		dyn_ro_Mihaela dyn_ro_Mihai dyn_ro_Mihailescu dyn_ro_Mihaila dyn_ro_Mihalache
+		dyn_ro_Mihnea dyn_ro_Mircea dyn_ro_Mariuta dyn_ro_Miron dyn_ro_Mirenescu
+		dyn_ro_Mocanu dyn_ro_Moise dyn_ro_Moldovan dyn_ro_Moldoveanu dyn_ro_Morarescu
+		dyn_ro_Morariu dyn_ro_Moraru dyn_ro_Muntean dyn_ro_Munteanu dyn_ro_Munteanu
+		dyn_ro_Muresan dyn_ro_Murguletu dyn_ro_Musat dyn_ro_Nastase dyn_ro_Neacsu
+		dyn_ro_Neagoe dyn_ro_Neagu dyn_ro_Nechita dyn_ro_Neculai dyn_ro_Nedelcu
+		dyn_ro_Negulescu dyn_ro_Negura dyn_ro_Nicolae dyn_ro_Nicolescu dyn_ro_Niculae
+		dyn_ro_Niculescu dyn_ro_Nistor dyn_ro_Nita dyn_ro_Nitu dyn_ro_Nutu dyn_ro_Oancea
+		dyn_ro_Olaru dyn_ro_Olteanu dyn_ro_Oprea dyn_ro_Oros dyn_ro_Ovidiu dyn_ro_Pana
+		dyn_ro_Panait dyn_ro_Pancratiu dyn_ro_Parasca dyn_ro_Paraschiv dyn_ro_Pascu
+		dyn_ro_Patrascu dyn_ro_Petrescu dyn_ro_Paun dyn_ro_Pavel dyn_ro_Palinco
+		dyn_ro_Pescariu dyn_ro_Petre dyn_ro_Petrescu dyn_ro_Petris dyn_ro_Pirvut
+		dyn_ro_Plescan dyn_ro_Popi dyn_ro_Popovici dyn_ro_Preda dyn_ro_Radulescu
+		dyn_ro_Roman dyn_ro_Rosca dyn_ro_Rosu dyn_ro_Rotaru dyn_ro_Rus dyn_ro_Rusu
+		dyn_ro_Sabiau dyn_ro_Sagna dyn_ro_Sandu dyn_ro_Sandulescu dyn_ro_Sava dyn_ro_Savu
+		dyn_ro_Silezianu dyn_ro_Serban dyn_ro_Serbanescu dyn_ro_Sarguiesc dyn_ro_Salivasi
+		dyn_ro_Simion dyn_ro_Serbu dyn_ro_Soare dyn_ro_Solomonici dyn_ro_Sparlea
+		dyn_ro_Stanciu dyn_ro_Stancu dyn_ro_Stanescu dyn_ro_Stefan dyn_ro_Stefanescu
+		dyn_ro_Stefanoiu dyn_ro_Stelei dyn_ro_Stinga dyn_ro_Stoian dyn_ro_Stroe dyn_ro_Suciu
+		dyn_ro_Tanase dyn_ro_Tarii dyn_ro_Tatarescu dyn_ro_Teodorescu dyn_ro_Tepele
+		dyn_ro_Tirlea dyn_ro_Toader dyn_ro_Toma dyn_ro_Tudor dyn_ro_Tudose dyn_ro_Tugulan
+		dyn_ro_Turcu dyn_ro_Ungureanu dyn_ro_Ursu dyn_ro_Urzica dyn_ro_Valceanu
+		dyn_ro_Vasile dyn_ro_Vasilescu dyn_ro_Vasiliu dyn_ro_Viscan dyn_ro_Vlad
+		dyn_ro_Vladimirescu dyn_ro_Ladoiu dyn_ro_Vladut dyn_ro_Voicu dyn_ro_Voinea
+		dyn_ro_Vulpesc dyn_ro_Ionescu dyn_ro_Zaharia dyn_ro_Zamfir dyn_ro_Zelos
+	}
+	
+	male_names = {
+		ro_Adrian ro_Alexandru ro_Alexandru-Bogdan ro_Alin ro_Andrei ro_Anghel ro_Anton
+		ro_Atanasie ro_Augustin ro_Aurel ro_Aurelian ro_Bogdan ro_Bogdan-Nicolae ro_Calin
+		ro_Catalin ro_Cezar ro_Ciprian ro_Claudiu ro_Claudiu-Marius ro_Constantin ro_Cornel
+		ro_Corneliu ro_Cosmin ro_Costin ro_Costinel ro_Cristian ro_Cristian-Gheorghe ro_Cristinei
+		ro_Damian ro_Dan ro_Daniel ro_Dan-Ioan ro_Danut ro_Dimitrie ro_Dimitrie_Marius
+		ro_Dinu ro_Dionisie ro_Dorel ro_Dorian ro_Dorin ro_Doru ro_Dracul ro_Dragos ro_Dumitru
+		ro_Dusa ro_Eftimie ro_Emanuel ro_Emil ro_Emilian ro_Eugen ro_Eugenio ro_Flaviu
+		ro_Florentin ro_Florian ro_Florin ro_Florinel ro_Francisc ro_Gabriel ro_Gelu ro_Gheorghe
+		ro_Gratian ro_Grigore ro_Haralambie ro_Horatiu ro_Horia ro_Iacob ro_Iancu ro_Ignati
+		ro_Ilie ro_Ioan ro_Ion ro_Ionel ro_Ionut ro_Ion_Vasile ro_Iosif ro_Iulian ro_Iuliu
+		ro_Laurentiu ro_Liviu ro_Lucian ro_Lucian-Florin ro_Marcel ro_Marcu ro_Marian ro_Marin
+		ro_Marius ro_Matei ro_Mihai ro_Mihai-Adrian ro_Mihail ro_Mircea ro_Mirel ro_Mugur
+		ro_Neculai ro_Nelu ro_Nicolae ro_Nicolae-Dan ro_Nicu ro_Niculae ro_Octavian ro_Ovidiu
+		ro_Paul ro_Pavel ro_Petre ro_Petru ro_Radu ro_Radu-Calin ro_Rafael ro_Rares ro_Raul
+		ro_Razvan ro_Remus ro_Robert ro_Romeo ro_Romul ro_Sandu ro_Sebastian ro_Serban
+		ro_Sergiu ro_Sever ro_Silvestru ro_Silviu ro_Simion ro_Sorin ro_Spiru ro_Stefan ro_Teodor
+		ro_Tiberiu ro_Timotei ro_Titus ro_Toader ro_Toma ro_Traian ro_Tudor ro_Valentin
+		ro_Valentin-Cristian ro_Valer ro_Valeriu ro_Vasile ro_Vasile-Ciprian ro_Vasile-Cristian
+		ro_Victor ro_Viorel ro_Virgil ro_Virgiliu ro_Vlad ro_Voicu
+	}
+
+	female_names = {
+		ro_Adela ro_Adina ro_Adriana ro_Adriana-Nicoleta ro_Alexandra ro_Alexandrina ro_Alice
+		ro_Alina ro_Alma ro_Ana ro_Ana-Luminita ro_Anamaria ro_Anca ro_Ancuta ro_Andreea
+		ro_Aneta ro_Anghelina ro_Antoaneta ro_Aurela ro_Aurica ro_Aurora ro_Bianca ro_Camelia
+		ro_Cararea ro_Carmen ro_Catalina ro_Cecilia ro_Claudia ro_Codruta ro_Constanta
+		ro_Corina ro_Cornelia ro_Cosmina ro_Cristina ro_Dana ro_Daniela ro_Delia ro_Delia-Silvia
+		ro_Diana ro_Doina ro_Dora ro_Dorina ro_Draguta ro_Dumitra ro_Ecaterina ro_Elena
+		ro_Elisabeta ro_Elvira ro_Emilia ro_Emilia ro_Eufrosina ro_Eugenia ro_Felicia
+		ro_Felicia_Gabriela ro_Flavia ro_Florica ro_Florina ro_Gabriela ro_Georgeta ro_Georgiana
+		ro_Georgica ro_Georgina ro_Georgina_Viorica ro_Gina ro_Iulia ro_Gratiela ro_Hortenzia
+		ro_Ileana ro_Ioana ro_Ioana-Bianca ro_Ionela ro_Irina ro_Iulia ro_Iuliana ro_Izabela
+		ro_Jenica ro_Larisa ro_Laura ro_Lavinia ro_Liana ro_Lidia ro_Ligia ro_Liliana ro_Livia
+		ro_Loredana ro_Luminita ro_Madalina ro_Magdalena ro_Manuela ro_Marcela ro_Margareta
+		ro_Maria ro_Maria_Cristina ro_Maria_Elena ro_Mariana ro_Maricica ro_Marina
+		ro_Marioara ro_Mihaela ro_Mihaela_Diana ro_Mirela ro_Monica ro_Nadia ro_Natalia
+		ro_Nicoleta ro_Oana ro_Octavia ro_Olimpia ro_Olivia ro_Paula ro_Pauliana ro_Petruta
+		ro_Rada ro_Raluca ro_Ramona ro_Regina ro_Rodica ro_Romina ro_Roxana ro_Rucsandra
+		ro_Ruxandra ro_Sabina ro_Sanda ro_Sidonia ro_Silvia ro_Simona ro_Simona-Maria
+		ro_Simziana ro_Smaranda ro_Sofia ro_Sorana ro_Sorina ro_Stefana ro_Suzana ro_Teodora
+		ro_Tinduta ro_Valentina ro_Valeria ro_Balica ro_Veronica ro_Victoria ro_Violeta ro_Viorela
+		ro_Viorica ro_Virginia
+	}
+}
+name_list_church_slavonic = {
+# This should be revised eventually
+# For surnames, rather than using the Russian -ov, the ending -isht (-ищь) should be
+# preferred.
+
+	female_last_names = {
+		dyn_cu_Adamov_f dyn_cu_Andreiov_f dyn_cu_Avenirov_f dyn_cu_Avraamov_f
+		dyn_cu_Bartholomeiov_f dyn_cu_Danilov_f dyn_cu_Davidov_f dyn_cu_Filippov_f dyn_cu_Gabriilov_f
+		dyn_cu_Iakovov_f dyn_cu_Iliov_f dyn_cu_Ioannov_f dyn_cu_Iosifov_f dyn_cu_Isaakov_f
+		dyn_cu_Lucov_f dyn_cu_Mattheiov_f dyn_cu_Matthiov_f dyn_cu_Mikhailov_f dyn_cu_Moyseiov_f
+		dyn_cu_Onisimov_f dyn_cu_Payelov_f dyn_cu_Petrov_f dyn_cu_Rubimov_f dyn_cu_Samuilov_f
+		dyn_cu_Simonov_f dyn_cu_Stefanov_f dyn_cu_Symeonov_f dyn_cu_Thomov_f dyn_cu_Timotheiov_f
+		dyn_cu_Titov_f dyn_cu_Varnavov_f dyn_cu_Veniaminov_f dyn_cu_Zakhariov_f
+	}
+
+	dynasty_names = {
+		dyn_cu_Adamov dyn_cu_Andreiov dyn_cu_Avenirov dyn_cu_Avraamov
+		dyn_cu_Bartholomeiov dyn_cu_Danilov dyn_cu_Davidov dyn_cu_Filippov dyn_cu_Gabriilov
+		dyn_cu_Iakovov dyn_cu_Iliov dyn_cu_Ioannov dyn_cu_Iosifov dyn_cu_Isaakov
+		dyn_cu_Lucov dyn_cu_Mattheiov dyn_cu_Matthiov dyn_cu_Mikhailov dyn_cu_Moyseiov
+		dyn_cu_Onisimov dyn_cu_Payelov dyn_cu_Petrov dyn_cu_Rubimov dyn_cu_Samuilov
+		dyn_cu_Simonov dyn_cu_Stefanov dyn_cu_Symeonov dyn_cu_Thomov dyn_cu_Timotheiov
+		dyn_cu_Titov dyn_cu_Varnavov dyn_cu_Veniaminov dyn_cu_Zakhariov
+	}
+	
+	male_names = {
+		cu_Adam cu_Andrei cu_Avenir cu_Avraam cu_Bartholomei cu_Danil cu_David cu_Filipp
+		cu_Gabriil cu_Iakov cu_Ilia cu_Ioann cu_Iosif cu_Isaak cu_Luca cu_Matthei cu_Matthia
+		cu_Mikhail cu_Moysei cu_Onisim cu_Payel cu_Petr cu_Rubim cu_Samuil cu_Simon
+		cu_Stefan cu_Symeon cu_Thoma cu_Timothei cu_Tit cu_Varnava cu_Veniamin cu_Zakharia
+	}
+
+	female_names = {
+		cu_Anna cu_Elisabet cu_Esthir cu_Eva cu_Iudith cu_Lydia cu_Magdalina cu_Maria
+		cu_Martha cu_Ruth cu_Sarra cu_Sousanna
+	}
+	
+	king_names = {
+		royal_Milos royal_Mihailo royal_Milan royal_Petar royal_Djordje royal_Arsenije
+		royal_Aleksandar royal_Nikola royal_Mirko royal_Danilo royal_Boris royal_Kyril
+	}
+	queen_names = {
+		royal_Ljubica royal_Natalija royal_Draga royal_Anka royal_Jelena royal_Evdokija
+	}
+}
+name_list_bulgarian = {
+
+	female_last_names = {
+		dyn_bg_Aleksandrov_f dyn_bg_Aleksiev_f dyn_bg_Alexandrov_f dyn_bg_Alexiev_f
+		dyn_bg_Aliev_f dyn_bg_Andonov_f dyn_bg_Andov_f dyn_bg_Andreev_f 
+		dyn_bg_Angelov_f dyn_bg_Antonov_f dyn_bg_Apostolov_f dyn_bg_Asenov_f
+		dyn_bg_Atanasov_f dyn_bg_Avramov_f dyn_bg_Balakov_f dyn_bg_Balev_f
+		dyn_bg_Beron_f dyn_bg_Blagoev_f dyn_bg_Bogdanov_f dyn_bg_Bojidarov_f
+		dyn_bg_Bojilov_f dyn_bg_Bonev_f dyn_bg_Borimirov_f dyn_bg_Borisov_f
+		dyn_bg_Boshkov_f dyn_bg_Botev_f dyn_bg_Boyanov_f dyn_bg_Bozinov_f
+		dyn_bg_Brakalov_f dyn_bg_Brankov_f dyn_bg_Briski_f dyn_bg_Brukhalov_f
+		dyn_bg_Choroleev_f dyn_bg_Christov_f dyn_bg_Cvetkov_f dyn_bg_Davidov_f
+		dyn_bg_Deskov_f dyn_bg_Dimitrov_f dyn_bg_Dimov_f dyn_bg_Dinev_f
+		dyn_bg_Dobrev_f dyn_bg_Donchev_f dyn_bg_Donev_f dyn_bg_Dounev_f
+		dyn_bg_Draganov_f dyn_bg_Dzhurov_f dyn_bg_Evanov_f dyn_bg_Filipov_f
+		dyn_bg_Firfov_f dyn_bg_Ganchev_f dyn_bg_Ganev_f dyn_bg_Genchev_f
+		dyn_bg_Genov_f dyn_bg_Georghiev_f dyn_bg_Georgiev_f dyn_bg_Gergiev_f
+		dyn_bg_Ginchev_f dyn_bg_Gogov_f dyn_bg_Gospodinov_f dyn_bg_Grigorov_f
+		dyn_bg_Gruev_f dyn_bg_Guentchev_f dyn_bg_Gueorgiev_f dyn_bg_Hasanov_f
+		dyn_bg_Hinov_f dyn_bg_Hlutev_f dyn_bg_Hristov_f dyn_bg_Hubchev_f
+		dyn_bg_Ignatiev_f dyn_bg_Ignatov_f dyn_bg_Iliev_f dyn_bg_Iloski_f dyn_bg_Ivanov_f
+		dyn_bg_Ivaylov_f dyn_bg_Janev_f dyn_bg_Jordanov_f dyn_bg_Jovtvev_f
+		dyn_bg_Kamenov_f dyn_bg_Karanov_f dyn_bg_Karavelov_f dyn_bg_Karshakov_f
+		dyn_bg_Katzarov_f dyn_bg_Kirilov_f dyn_bg_Kirov_f dyn_bg_Kiryakov_f
+		dyn_bg_Kishishev_f dyn_bg_Kolev_f dyn_bg_Konstantinov_f dyn_bg_Kostadinov_f
+		dyn_bg_Kostov_f dyn_bg_Kovachev_f dyn_bg_Kozlek_f dyn_bg_Krastev_f
+		dyn_bg_Kremenliev_f dyn_bg_Krumov_f dyn_bg_Krupov_f dyn_bg_Langov_f
+		dyn_bg_Lazarov_f dyn_bg_Lechkov_f dyn_bg_Liapchev_f dyn_bg_Lomek_f
+		dyn_bg_Lukanov_f dyn_bg_Lunchev_f dyn_bg_Maleev_f dyn_bg_Manolov_f
+		dyn_bg_Marinov_f dyn_bg_Markhov_f dyn_bg_Markov_f dyn_bg_Matev_f
+		dyn_bg_Matov_f dyn_bg_Metodiev_f dyn_bg_Mihailov_f dyn_bg_Mihaylov_f
+		dyn_bg_Mihov_f dyn_bg_Milanov_f dyn_bg_Milev_f dyn_bg_Minchev_f
+		dyn_bg_Minkov_f dyn_bg_Mitkov_f dyn_bg_Mitov_f dyn_bg_Mladenov_f
+		dyn_bg_Nachev_f dyn_bg_Naydenov_f dyn_bg_Nedelchev_f dyn_bg_Nenov_f
+		dyn_bg_Nikolaev_f dyn_bg_Nikolov_f dyn_bg_Panayotov_f dyn_bg_Paskalev_f
+		dyn_bg_Pavlov_f dyn_bg_Peev_f dyn_bg_Penchev_f dyn_bg_Pendarev_f
+		dyn_bg_Penev_f dyn_bg_Penov_f dyn_bg_Petkov_f dyn_bg_Petrinski_f dyn_bg_Petrov_f
+		dyn_bg_Popov_f dyn_bg_Prandjev_f dyn_bg_Prandzhev_f dyn_bg_Radev_f
+		dyn_bg_Raev_f dyn_bg_Rangelov_f dyn_bg_Rusev_f dyn_bg_Savov_f dyn_bg_Simeonov_f
+		dyn_bg_Sirakov_f dyn_bg_Slavov_f dyn_bg_Sofiyanski_f dyn_bg_Spasov_f
+		dyn_bg_Spassov_f dyn_bg_Spirov_f dyn_bg_Stamboliev_f dyn_bg_Stanchev_f 
+		dyn_bg_Stanev_f dyn_bg_Stankov_f dyn_bg_Stanoytchev_f dyn_bg_Stefanov_f
+		dyn_bg_Stoev_f dyn_bg_Stoianov_f dyn_bg_Stoickkov_f dyn_bg_Stoilov_f
+		dyn_bg_Stojanov_f dyn_bg_Stoyanov_f dyn_bg_Stoychev_f dyn_bg_Stoykov_f
+		dyn_bg_Strashilov_f dyn_bg_Svetkov_f dyn_bg_Tanev_f dyn_bg_Tasev_f
+		dyn_bg_Terziev_f dyn_bg_Tihanek_f dyn_bg_Todorov_f dyn_bg_Tomash_f
+		dyn_bg_Tomov_f dyn_bg_Tonev_f dyn_bg_Tontchev_f dyn_bg_Trifonov_f
+		dyn_bg_Tsankov_f dyn_bg_Tsvetanov_f dyn_bg_Tsvetkov_f dyn_bg_Tzekin_f
+		dyn_bg_Uzunov_f dyn_bg_Valchev_f dyn_bg_Valkov_f dyn_bg_Vasilev_f
+		dyn_bg_Vassilev_f dyn_bg_Velev_f dyn_bg_Velikov_f dyn_bg_Velkov_f
+		dyn_bg_Videnov_f dyn_bg_Vlamidirov_f dyn_bg_Vulchanov_f dyn_bg_Yanev_f
+		dyn_bg_Yankov_f dyn_bg_Yordanov_f dyn_bg_Yordanyotov_f dyn_bg_Yotov_f
+		dyn_bg_Zahariev_f dyn_bg_Zdravkov_f dyn_bg_Zelenogorski_f dyn_bg_Zhelev_f
+		dyn_bg_Zhivkov_f dyn_bg_Zlatev_f 
+	}
+
+	dynasty_names = {
+		dyn_bg_Aleksandrov dyn_bg_Aleksiev dyn_bg_Alexandrov dyn_bg_Alexiev dyn_bg_Aliev
+		dyn_bg_Andonov dyn_bg_Andov dyn_bg_Andreev dyn_bg_Angelov dyn_bg_Antonov
+		dyn_bg_Apostolov dyn_bg_Asenov dyn_bg_Atanasov dyn_bg_Avramov dyn_bg_Balakov
+		dyn_bg_Balev dyn_bg_Beron dyn_bg_Blagoev dyn_bg_Bogdanov dyn_bg_Bojidarov
+		dyn_bg_Bojilov dyn_bg_Bonev dyn_bg_Borimirov dyn_bg_Borisov dyn_bg_Boshkov
+		dyn_bg_Botev dyn_bg_Boyanov dyn_bg_Bozinov dyn_bg_Brakalov dyn_bg_Brankov
+		dyn_bg_Briski dyn_bg_Brukhalov dyn_bg_Choroleev dyn_bg_Christov dyn_bg_Cvetkov
+		dyn_bg_Davidov dyn_bg_Deskov dyn_bg_Dimitrov dyn_bg_Dimov dyn_bg_Dinev
+		dyn_bg_Dobrev dyn_bg_Donchev dyn_bg_Donev dyn_bg_Dounev dyn_bg_Draganov
+		dyn_bg_Dzhurov dyn_bg_Evanov dyn_bg_Filipov dyn_bg_Firfov dyn_bg_Ganchev
+		dyn_bg_Ganev dyn_bg_Genchev dyn_bg_Genov dyn_bg_Georghiev dyn_bg_Georgiev
+		dyn_bg_Gergiev dyn_bg_Ginchev dyn_bg_Gogov dyn_bg_Gospodinov dyn_bg_Grigorov
+		dyn_bg_Gruev dyn_bg_Guentchev dyn_bg_Gueorgiev dyn_bg_Hasanov dyn_bg_Hinov
+		dyn_bg_Hlutev dyn_bg_Hristov dyn_bg_Hubchev dyn_bg_Ignatiev dyn_bg_Ignatov
+		dyn_bg_Iliev dyn_bg_Iloski dyn_bg_Ivanov dyn_bg_Ivaylov dyn_bg_Janev dyn_bg_Jordanov
+		dyn_bg_Jovtvev dyn_bg_Kamenov dyn_bg_Karanov dyn_bg_Karavelov dyn_bg_Karshakov
+		dyn_bg_Katzarov dyn_bg_Kirilov dyn_bg_Kirov dyn_bg_Kiryakov dyn_bg_Kishishev
+		dyn_bg_Kolev dyn_bg_Konstantinov dyn_bg_Kostadinov dyn_bg_Kostov dyn_bg_Kovachev
+		dyn_bg_Kozlek dyn_bg_Krastev dyn_bg_Kremenliev dyn_bg_Krumov dyn_bg_Krupov
+		dyn_bg_Langov dyn_bg_Lazarov dyn_bg_Lechkov dyn_bg_Liapchev dyn_bg_Lomek
+		dyn_bg_Lukanov dyn_bg_Lunchev dyn_bg_Maleev dyn_bg_Manolov dyn_bg_Marinov
+		dyn_bg_Markhov dyn_bg_Markov dyn_bg_Matev dyn_bg_Matov dyn_bg_Metodiev
+		dyn_bg_Mihailov dyn_bg_Mihaylov dyn_bg_Mihov dyn_bg_Milanov dyn_bg_Milev
+		dyn_bg_Minchev dyn_bg_Minkov dyn_bg_Mitkov dyn_bg_Mitov dyn_bg_Mladenov
+		dyn_bg_Nachev dyn_bg_Naydenov dyn_bg_Nedelchev dyn_bg_Nenov dyn_bg_Nikolaev
+		dyn_bg_Nikolov dyn_bg_Panayotov dyn_bg_Paskalev dyn_bg_Pavlov dyn_bg_Peev
+		dyn_bg_Penchev dyn_bg_Pendarev dyn_bg_Penev dyn_bg_Penov dyn_bg_Petkov
+		dyn_bg_Petrinski dyn_bg_Petrov dyn_bg_Popov dyn_bg_Prandjev dyn_bg_Prandzhev
+		dyn_bg_Radev dyn_bg_Raev dyn_bg_Rangelov dyn_bg_Rusev dyn_bg_Savov
+		dyn_bg_Simeonov dyn_bg_Sirakov dyn_bg_Slavov dyn_bg_Sofiyanski dyn_bg_Spasov
+		dyn_bg_Spassov dyn_bg_Spirov dyn_bg_Stamboliev dyn_bg_Stanchev dyn_bg_Stanev
+		dyn_bg_Stankov dyn_bg_Stanoytchev dyn_bg_Stefanov dyn_bg_Stoev dyn_bg_Stoianov
+		dyn_bg_Stoickkov dyn_bg_Stoilov dyn_bg_Stojanov dyn_bg_Stoyanov dyn_bg_Stoychev
+		dyn_bg_Stoykov dyn_bg_Strashilov dyn_bg_Svetkov dyn_bg_Tanev dyn_bg_Tasev
+		dyn_bg_Terziev dyn_bg_Tihanek dyn_bg_Todorov dyn_bg_Tomash dyn_bg_Tomov
+		dyn_bg_Tonev dyn_bg_Tontchev dyn_bg_Trifonov dyn_bg_Tsankov dyn_bg_Tsvetanov
+		dyn_bg_Tsvetkov dyn_bg_Tzekin dyn_bg_Uzunov dyn_bg_Valchev dyn_bg_Valkov
+		dyn_bg_Vasilev dyn_bg_Vassilev dyn_bg_Velev dyn_bg_Velikov dyn_bg_Velkov
+		dyn_bg_Videnov dyn_bg_Vlamidirov dyn_bg_Vulchanov dyn_bg_Yanev dyn_bg_Yankov
+		dyn_bg_Yordanov dyn_bg_Yordanyotov dyn_bg_Yotov dyn_bg_Zahariev dyn_bg_Zdravkov
+		dyn_bg_Zelenogorski dyn_bg_Zhelev dyn_bg_Zhivkov dyn_bg_Zlatev
+	}
+	
+	male_names = {
+		bg_Adrian bg_Alekko bg_Aleksandur bg_Andrey bg_Angelar bg_Aspanuch bg_Asparuh
+		bg_Atanas bg_Blagun bg_Bogdan bg_Bogomil bg_Boian bg_Bojidar bg_Boleslav bg_Boris
+		bg_Borislav bg_Boyko bg_Branimir bg_Bulchru bg_Danail bg_Desislav bg_Dimitar
+		bg_Dimitur bg_Dobri bg_Dragan bg_Dragija bg_Dragomir bg_Emanyil bg_Emil bg_Erazm
+		bg_Galin bg_Gavril bg_Gedeon bg_Georgi bg_Georgiu bg_Gorazd bg_Gosho bg_Grigori
+		bg_Grisha bg_Grozdan bg_Gruev bg_Hristo bg_Iassen bg_Iavor bg_Ieronim bg_Ilian bg_Iliia
+		bg_Iordan bg_Isus_Navin bg_Ivan bg_Ivaylo bg_Jivko bg_Kazimir bg_Khristo bg_Kimon
+		bg_Kiril bg_Konstantin bg_Kosta bg_Krasimir bg_Kristo bg_Krum bg_Liuben bg_Ljubomir
+		bg_Lyuben bg_Lyubomir bg_Matei bg_Mihail bg_Milan bg_Milen bg_Miroslav bg_Mladen
+		bg_Momchil bg_Nayden bg_Nedelcho bg_Nikola bg_Nikolai bg_Nikolay bg_Ognian
+		bg_Ognyan bg_Pavel bg_Pentcho bg_Petar bg_Peter bg_Petko bg_Petur bg_Plamen bg_Rad
+		bg_Radko bg_Radomir bg_Radoslav bg_Rayko bg_Rimvidas bg_Rumen bg_Ruslan bg_Sabas
+		bg_Samuil bg_Sander bg_Sasho bg_Sava bg_Simeon bg_Spas bg_Stanimir bg_Stanislav
+		bg_Stanko bg_Stefan bg_Stoian bg_Stoyan bg_Symeon bg_Tihomir bg_Todor bg_Trifon
+		bg_Tsvetan bg_Tzvetomir bg_Valko bg_Vasil bg_Veniamin bg_Ventseslav bg_Ventzislav
+		bg_Veselin bg_Vesselin bg_Vihar bg_Vladimir bg_Vladislav bg_Yasen bg_Yavor bg_Yuliy
+		bg_Zdravko bg_Zhelyazko bg_Zhivko bg_Zhon bg_Zlatan bg_Zlatko
+	}
+
+	female_names = {
+		bg_Agnessa bg_Albena bg_Amaliia bg_Ana bg_Anastasija bg_Aneliya bg_Anna bg_Arebela
+		bg_Beloslava bg_Bilyana bg_Bisera bg_Blagorodna bg_Blaguna bg_Bogdana bg_Bonislava
+		bg_Borislava bg_Boyana bg_Boyka bg_Bozhidara bg_Branimira bg_Darina bg_Denitsa
+		bg_Desislava bg_Dessislava bg_Diana bg_Doroteia bg_Ekaterina bg_Elena bg_Elene
+		bg_Elissaveta bg_Eliza bg_Elizabeta bg_Emilia bg_Febeia bg_Fidanka bg_Genoveva
+		bg_Gergana bg_Grozda bg_Grozdana bg_Iaga bg_Iglika bg_Ilyana bg_Inessa bg_Irena
+		bg_Irina bg_Iuliia bg_Iurka bg_Iva bg_Ivanka bg_Jordanka bg_Kalina bg_Katerina
+		bg_Khristina bg_Kira bg_Kiriana bg_Korneliia bg_Krasimira bg_Krassimira bg_Lili bg_Liliana
+		bg_Lillia bg_Liudmila bg_Liudmilla bg_Lora bg_Lyudmila bg_Manuella bg_Margarita
+		bg_Maria bg_Marketa bg_Martina bg_Mila bg_Milena bg_Mira bg_Monika bg_Nadeja
+		bg_Nadezhda bg_Nataliia bg_Nedelya bg_Nevena bg_Nora bg_Ognyana bg_Paraskeva
+		bg_Pavalina bg_Pavlina bg_Penka bg_Petia bg_Rada bg_Radina bg_Radka bg_Radoslava
+		bg_Rahil bg_Rayka bg_Rayna bg_Rossitza bg_Roumiana bg_Rumania bg_Sesiliia bg_Snevana
+		bg_Snezhana bg_Stanislava bg_Stanka bg_Stefana bg_Stefka bg_Stoyanka bg_Svetla
+		bg_Svetlana bg_Tania bg_Temenuzhda bg_Teodora bg_Tereza bg_Todora bg_Todorka
+		bg_Tsveta bg_Tsvetanka bg_Tzanka bg_Tzonka bg_Tzvetelina bg_Veneta bg_Vesselina
+		bg_Violeta bg_Vladimira bg_Vyara bg_Yana bg_Yordanka bg_Zhivka bg_Zlatka bg_Zora
+	}
+	
+	king_names = {
+		royal_Milos royal_Mihailo royal_Milan royal_Petar royal_Djordje royal_Arsenije
+		royal_Aleksandar royal_Nikola royal_Mirko royal_Danilo royal_Boris royal_Kyril
+	}
+	queen_names = {
+		royal_Ljubica royal_Natalija royal_Draga royal_Anka royal_Jelena royal_Evdokija
+	}
+}
+name_list_yugoslav = {
+# Serbo-Croatian family names. No given names here!
+
+	dynasty_names = {
+		dyn_sh_Abadzic dyn_sh_Abramovic dyn_sh_Adamovic dyn_sh_Ancic dyn_sh_Andric
+		dyn_sh_Andrijasevic dyn_sh_Androic dyn_sh_Anic dyn_sh_Anicic dyn_sh_Antic
+		dyn_sh_Antolic dyn_sh_Antonic dyn_sh_Antunovic dyn_sh_Aracic dyn_sh_Aralica
+		dyn_sh_Arambasic dyn_sh_Arapovic dyn_sh_Babic dyn_sh_Bacic dyn_sh_Bagaric
+		dyn_sh_Bajic dyn_sh_Bakaric dyn_sh_Bakic dyn_sh_Bakovic dyn_sh_Bakula
+		dyn_sh_Balasevic dyn_sh_Balic dyn_sh_Banovic dyn_sh_Baric dyn_sh_Barisic
+		dyn_sh_Barukcic dyn_sh_Basic dyn_sh_Batinovic dyn_sh_Bebek dyn_sh_Bebic
+		dyn_sh_Begic dyn_sh_Begovic dyn_sh_Bekic dyn_sh_Belic dyn_sh_Bencic dyn_sh_Berislavic
+		dyn_sh_Berkovic dyn_sh_Bezjak dyn_sh_Bilic dyn_sh_Biscan dyn_sh_Biskup
+		dyn_sh_Biskupic dyn_sh_Blazevic dyn_sh_Blazic dyn_sh_Boban dyn_sh_Bobic
+		dyn_sh_Bodrozic dyn_sh_Bodul dyn_sh_Bogdanovich dyn_sh_Bogovic dyn_sh_Bojanic
+		dyn_sh_Bojic dyn_sh_Bokun dyn_sh_Bonacic dyn_sh_Boric dyn_sh_Boskovic
+		dyn_sh_Bosnic dyn_sh_Bosnjak dyn_sh_Bosnjakovic dyn_sh_Bozic dyn_sh_Bradaric
+		dyn_sh_Bradic dyn_sh_Brajkovic dyn_sh_Bratulic dyn_sh_Brdar dyn_sh_Brekalo
+		dyn_sh_Brkic dyn_sh_Brlic dyn_sh_Broz dyn_sh_Brozovic dyn_sh_Bubalo dyn_sh_Budimir
+		dyn_sh_Budisa dyn_sh_Bujas dyn_sh_Bukvic dyn_sh_Bulic dyn_sh_Buljevic
+		dyn_sh_Buljubasic dyn_sh_Bunjevcevic dyn_sh_Buric dyn_sh_Busic dyn_sh_Butorac
+		dyn_sh_Cacic dyn_sh_Caktas dyn_sh_Caleta dyn_sh_Carapic dyn_sh_Causic dyn_sh_Cavar
+		dyn_sh_Cerneka dyn_sh_Cilic dyn_sh_Cindric dyn_sh_Cingrija dyn_sh_Cipric dyn_sh_Cirjak
+		dyn_sh_Cizmic dyn_sh_Colic dyn_sh_Cop dyn_sh_Copic dyn_sh_Coric dyn_sh_Corluka
+		dyn_sh_Cosic dyn_sh_Crijevic dyn_sh_Crncic dyn_sh_Crnkovic dyn_sh_Culina dyn_sh_Culo
+		dyn_sh_Cupic dyn_sh_Curkovic dyn_sh_Cvek dyn_sh_Cvjeticanin dyn_sh_Dadic
+		dyn_sh_Dalic dyn_sh_Damijanic dyn_sh_Damjanic dyn_sh_Damjanovic dyn_sh_Dancevic
+		dyn_sh_Danicic dyn_sh_Davidovic dyn_sh_Dedic dyn_sh_Delic dyn_sh_Demirovic
+		dyn_sh_Djerek dyn_sh_Devcic dyn_sh_Devic dyn_sh_Dezic dyn_sh_Diklic dyn_sh_Dincic
+		dyn_sh_Djakovic dyn_sh_Dodig dyn_sh_Dodik dyn_sh_Dominikovic dyn_sh_Doncic
+		dyn_sh_Draganja dyn_sh_Dragic dyn_sh_Dragicevic dyn_sh_Dragojevic dyn_sh_Dragovic
+		dyn_sh_Draskovic dyn_sh_Drazeta dyn_sh_Drmic dyn_sh_Dudan dyn_sh_Dujmovic
+		dyn_sh_Djuric dyn_sh_Dzono dyn_sh_Elezovic dyn_sh_Erakovic dyn_sh_Erceg dyn_sh_Erlic
+		dyn_sh_Fancovic dyn_sh_Feric dyn_sh_Filipovic dyn_sh_Forlani dyn_sh_Franic
+		dyn_sh_Franulovic dyn_sh_Gabric dyn_sh_Gacesa dyn_sh_Gagula dyn_sh_Galic
+		dyn_sh_Galovic dyn_sh_Gavrilovic dyn_sh_Gegic dyn_sh_Glavan dyn_sh_Glavas
+		dyn_sh_Glavina dyn_sh_Gledevic dyn_sh_Golic dyn_sh_Golubic dyn_sh_Goluza
+		dyn_sh_Govic dyn_sh_Granic dyn_sh_Graovac dyn_sh_Grbic dyn_sh_Grgic
+		dyn_sh_Grgurevic dyn_sh_Grubisic dyn_sh_Gudelj dyn_sh_Gutic dyn_sh_Hadzic
+		dyn_sh_Haracic dyn_sh_Harambasic dyn_sh_Haramija dyn_sh_Herceg dyn_sh_Herjavec
+		dyn_sh_Hodak dyn_sh_Horvat dyn_sh_Hrgota dyn_sh_Hrkac dyn_sh_Ignjatic dyn_sh_Ilic
+		dyn_sh_Ilicic dyn_sh_Ilijic dyn_sh_Ivancevic dyn_sh_Ivancic dyn_sh_Ivanek
+		dyn_sh_IvanicIvanisevic dyn_sh_Ivankovic dyn_sh_Ivanovic dyn_sh_Ivekovic dyn_sh_Ivic
+		dyn_sh_Ivkovic dyn_sh_Jagic dyn_sh_Jajalo dyn_sh_Jakovina dyn_sh_Jakovljevic
+		dyn_sh_Jaksic dyn_sh_Janic dyn_sh_Janjic dyn_sh_Jankovic dyn_sh_Japundza
+		dyn_sh_Jedvaj dyn_sh_Jelacic dyn_sh_Jelavic dyn_sh_Jelenic dyn_sh_Jelic dyn_sh_Jelicic
+		dyn_sh_Jerkovic dyn_sh_Jezic dyn_sh_Jezina dyn_sh_Jokovic dyn_sh_Jonjic
+		dyn_sh_Josipovic dyn_sh_Jovancevic dyn_sh_Jovic dyn_sh_Jozic dyn_sh_Jugovic
+		dyn_sh_Jukic dyn_sh_Juras dyn_sh_Jurcevic dyn_sh_Juric dyn_sh_Juricic dyn_sh_Jurisic
+		dyn_sh_Jurjevic dyn_sh_Jurkovic dyn_sh_Kacic dyn_sh_Kalaus dyn_sh_Kalinic
+		dyn_sh_Kapetanovic dyn_sh_Kapic dyn_sh_Kapitanovic dyn_sh_Karacic dyn_sh_Karapandza
+		dyn_sh_Kardum dyn_sh_Karic dyn_sh_Karisik dyn_sh_Karlovic dyn_sh_Marcelic
+		dyn_sh_Katanic dyn_sh_Katic dyn_sh_Klepac dyn_sh_Klesic dyn_sh_Klisanin dyn_sh_Kljajic
+		dyn_sh_Kljakovic dyn_sh_Klobucar dyn_sh_Knezevic dyn_sh_Kokic dyn_sh_Kokotovic
+		dyn_sh_Kolar dyn_sh_Kolega dyn_sh_Kolesar dyn_sh_Komljenovic dyn_sh_Komsic
+		dyn_sh_Korlevic dyn_sh_Kos dyn_sh_Kosanovic dyn_sh_Kosor dyn_sh_Kostadinovic
+		dyn_sh_Kostelic dyn_sh_Kostovic dyn_sh_Kotromanovic dyn_sh_Kovac dyn_sh_Kovacec
+		dyn_sh_Kovacev dyn_sh_Kovacevic dyn_sh_Kovacic dyn_sh_Kozul dyn_sh_Kozulj
+		dyn_sh_Krajinovic dyn_sh_Kralj dyn_sh_Kraljevic dyn_sh_Kramaric dyn_sh_Kranjcar
+		dyn_sh_Krasic dyn_sh_Krcmar dyn_sh_Krekovic dyn_sh_Kresoja dyn_sh_Kristic
+		dyn_sh_Kristic dyn_sh_Krizic dyn_sh_Krncevic dyn_sh_Kruzic dyn_sh_Krzan
+		dyn_sh_Kucinic dyn_sh_Kujundzic dyn_sh_Kukoc dyn_sh_Kulic dyn_sh_Kuljeric
+		dyn_sh_Kurelac dyn_sh_Kurtovic dyn_sh_Kvesic dyn_sh_Kvrzic dyn_sh_Lalic
+		dyn_sh_Lambasa dyn_sh_Lasic dyn_sh_Latas dyn_sh_Lenkovic dyn_sh_Leovac
+		dyn_sh_Lesjak dyn_sh_Leskovic dyn_sh_Letica dyn_sh_Lisjak dyn_sh_Livaja
+		dyn_sh_Livakovic dyn_sh_Liveric dyn_sh_Ljubicic dyn_sh_Ljubojevic dyn_sh_Loncar
+		dyn_sh_Loncarevic dyn_sh_Loncaric dyn_sh_Lorkovic dyn_sh_Lovren dyn_sh_Lovric
+		dyn_sh_Lovrovic dyn_sh_Luburic dyn_sh_Lucic dyn_sh_Lucic dyn_sh_Lukacevic
+		dyn_sh_Luketic dyn_sh_Lukic dyn_sh_Luksic dyn_sh_Lulic dyn_sh_Macek dyn_sh_Maganjic
+		dyn_sh_Maglica dyn_sh_Majer dyn_sh_Majic dyn_sh_Majstorovic dyn_sh_Maletic
+		dyn_sh_Maljkovic dyn_sh_Malkovich dyn_sh_Mamic dyn_sh_Mandic dyn_sh_Mandich
+		dyn_sh_Mandusic dyn_sh_Mandzukic dyn_sh_Marasovic dyn_sh_Marcic dyn_sh_Maric
+		dyn_sh_Maricic dyn_sh_Marinkovic dyn_sh_Marinovic dyn_sh_Marjanovic
+		dyn_sh_Markovic dyn_sh_Marojevic dyn_sh_Marotti dyn_sh_Marovic dyn_sh_Martic
+		dyn_sh_Martinovic dyn_sh_Marusic dyn_sh_Matanovic dyn_sh_Matic dyn_sh_Matijevic
+		dyn_sh_Matko dyn_sh_Matkovic dyn_sh_Matos dyn_sh_Matosevic dyn_sh_Matulovic
+		dyn_sh_Mazuranic dyn_sh_Mecava dyn_sh_Mesic dyn_sh_Mesic dyn_sh_Mestrovic
+		dyn_sh_Mezulic dyn_sh_Mihic dyn_sh_Mijacika dyn_sh_Mijatovic dyn_sh_Mikic
+		dyn_sh_Miksic dyn_sh_Mikulic dyn_sh_Milanovic dyn_sh_Milardovic dyn_sh_Miletic
+		dyn_sh_Milic dyn_sh_Milicevic dyn_sh_Milicevic dyn_sh_Milicic dyn_sh_Milinovic
+		dyn_sh_Miljkovic dyn_sh_Milobar dyn_sh_Milosevic dyn_sh_Minic dyn_sh_Mirkovic
+		dyn_sh_Mirovic dyn_sh_Misak dyn_sh_Misic dyn_sh_Miskovic dyn_sh_Mladenovic
+		dyn_sh_Mlinaric dyn_sh_Modric dyn_sh_Mrdeza dyn_sh_Mrkonjic dyn_sh_Mrnavic
+		dyn_sh_Mrsic dyn_sh_Mrsic dyn_sh_Mudrinic dyn_sh_Muhic dyn_sh_Muhoberac
+		dyn_sh_Mulic dyn_sh_Musulin dyn_sh_Nadoveza dyn_sh_Najman dyn_sh_Nakic
+		dyn_sh_Nazor dyn_sh_Nikic dyn_sh_Nikis dyn_sh_Nikolic dyn_sh_Ninkovic dyn_sh_Nisic
+		dyn_sh_Nizic dyn_sh_Njiric dyn_sh_Novak dyn_sh_Novakovic dyn_sh_Novosel
+		dyn_sh_Novoselic dyn_sh_Obratov dyn_sh_Ogresta dyn_sh_Ojdanic dyn_sh_Olic
+		dyn_sh_Olujic dyn_sh_Oreskovic dyn_sh_Orlic dyn_sh_Orsanic dyn_sh_Ostojic
+		dyn_sh_Pacariz dyn_sh_Pandurovic dyn_sh_Pasalic dyn_sh_Paunovic dyn_sh_Pavelic
+		dyn_sh_Pavic dyn_sh_Pavicic dyn_sh_Pavkovic dyn_sh_Pavletic dyn_sh_Pavlich
+		dyn_sh_Pavlicic dyn_sh_Pavlovic dyn_sh_Pejakovic dyn_sh_Pejcinovic dyn_sh_Pejic
+		dyn_sh_Pera dyn_sh_Peric dyn_sh_Perica dyn_sh_Perisic dyn_sh_Perkovic
+		dyn_sh_Perosevic dyn_sh_Perovic dyn_sh_Perusko dyn_sh_Petkovic dyn_sh_Petric
+		dyn_sh_Petricevic dyn_sh_Petronijevic dyn_sh_Petrovic dyn_sh_Pijevic dyn_sh_Pilipovic
+		dyn_sh_Pivaric dyn_sh_Plantak dyn_sh_Pletikosic dyn_sh_Podrug dyn_sh_Pokaz
+		dyn_sh_Polic dyn_sh_Ponos dyn_sh_Poparic dyn_sh_Popovic dyn_sh_Posavec
+		dyn_sh_Pozgaj dyn_sh_Pralija dyn_sh_Prelec dyn_sh_Prelog dyn_sh_Primorac
+		dyn_sh_Princip dyn_sh_Prkacin dyn_sh_Prpic dyn_sh_Puhovski dyn_sh_Pulisic
+		dyn_sh_Puncec dyn_sh_Pusic dyn_sh_Pusic dyn_sh_Puskaric dyn_sh_Racic dyn_sh_Racki
+		dyn_sh_Racunica dyn_sh_Radic dyn_sh_Radman dyn_sh_Radonic dyn_sh_Radonjic
+		dyn_sh_Rados dyn_sh_Radosevic dyn_sh_Radovanovic dyn_sh_Rajcic dyn_sh_Rajic
+		dyn_sh_Rakic dyn_sh_Rakitic dyn_sh_Rancic dyn_sh_Raseta dyn_sh_Rasic dyn_sh_Rastic
+		dyn_sh_Ratkovic dyn_sh_Ravlic dyn_sh_Rebic dyn_sh_Resetar dyn_sh_Resetar
+		dyn_sh_Ribar dyn_sh_Rodes dyn_sh_Rodic dyn_sh_Roglic dyn_sh_Roksandic dyn_sh_Roso
+		dyn_sh_Rozga dyn_sh_Rozic dyn_sh_Rozic dyn_sh_Rudic dyn_sh_Rukavina dyn_sh_Ruzic
+		dyn_sh_Sabolic dyn_sh_Sakac dyn_sh_Sakic dyn_sh_Sakic dyn_sh_Sakota dyn_sh_Salopek
+		dyn_sh_Sancic dyn_sh_Santic dyn_sh_Saracevic dyn_sh_Sarcevic dyn_sh_Saric
+		dyn_sh_Sasic dyn_sh_Segrt dyn_sh_Sekulic dyn_sh_Selak dyn_sh_Separovic dyn_sh_Seper
+		dyn_sh_Serdarusic dyn_sh_Sertic dyn_sh_Seselj dyn_sh_Sikic dyn_sh_Silic dyn_sh_Siljeg
+		dyn_sh_Simenc dyn_sh_Simic dyn_sh_Simic dyn_sh_Simonovic dyn_sh_Simovic
+		dyn_sh_Simun dyn_sh_Simunic dyn_sh_Simunovic dyn_sh_Sinkovic dyn_sh_Sipek
+		dyn_sh_Sirko dyn_sh_Sirola dyn_sh_Skok dyn_sh_Skoko dyn_sh_Skoric dyn_sh_Skoro
+		dyn_sh_Skrlec dyn_sh_Skrmetta dyn_sh_Skugor dyn_sh_Slabinac dyn_sh_Smiciklas
+		dyn_sh_Soda dyn_sh_Sokac dyn_sh_Sokol dyn_sh_Sokolovic dyn_sh_Soldo
+		dyn_sh_Sorkocevic dyn_sh_Sovagovic dyn_sh_Spajic dyn_sh_Spanic dyn_sh_Spiranovic
+		dyn_sh_Spiric dyn_sh_Spoljaric dyn_sh_Srsen dyn_sh_Srzentic dyn_sh_Stampalija
+		dyn_sh_Stanic dyn_sh_Stanich dyn_sh_Stankovic dyn_sh_Starcevic dyn_sh_Starcevich
+		dyn_sh_Stepinac dyn_sh_Stimac dyn_sh_Stipancevic dyn_sh_Stipcevic dyn_sh_Stipetic
+		dyn_sh_Glavinic dyn_sh_Stipic dyn_sh_Stjepanovic dyn_sh_Stojanovic dyn_sh_Stojic
+		dyn_sh_Stosic dyn_sh_Strinic dyn_sh_Stulic dyn_sh_Subasic dyn_sh_Suker
+		dyn_sh_Sulentic dyn_sh_Sumich dyn_sh_Sunjic dyn_sh_Supuk dyn_sh_Suput
+		dyn_sh_Susak dyn_sh_Sutalo dyn_sh_Suton dyn_sh_Svarc dyn_sh_Sverko dyn_sh_Talajic
+		dyn_sh_Tinjic dyn_sh_Tomas dyn_sh_Tomasevic dyn_sh_Tomasovic dyn_sh_Tomcic
+		dyn_sh_Tomic dyn_sh_Tomljanovic dyn_sh_Tomljenovic dyn_sh_Tonkovic
+		dyn_sh_Tonkovich dyn_sh_Toperic dyn_sh_Topic dyn_sh_Tosic dyn_sh_Trbojevic
+		dyn_sh_Trinajstic dyn_sh_Tripkovic dyn_sh_Tudman dyn_sh_Turkovic dyn_sh_Ugrenovic
+		dyn_sh_Ujevic dyn_sh_Valentic dyn_sh_Varvodic dyn_sh_Veic dyn_sh_Vekic
+		dyn_sh_Veselica dyn_sh_Vidakovic dyn_sh_Vidosevic dyn_sh_Vidosic dyn_sh_Vidovic
+		dyn_sh_Viskovic dyn_sh_Viskovic dyn_sh_Visnjic dyn_sh_Vitaic dyn_sh_Vladic
+		dyn_sh_Vladislavic dyn_sh_Vlahov dyn_sh_Vlahovic dyn_sh_Vlak dyn_sh_Vlaovic
+		dyn_sh_Vlasic dyn_sh_Vlatkovic dyn_sh_Voinovich dyn_sh_Vorkapic dyn_sh_Vrandecic
+		dyn_sh_Vranic dyn_sh_Vranjes dyn_sh_Vranjkovic dyn_sh_Vrankovic dyn_sh_Vrdoljak
+		dyn_sh_Vrhovac dyn_sh_Vrhovec dyn_sh_Vrljic dyn_sh_Vrsaljko dyn_sh_Vucetic
+		dyn_sh_Vucevic dyn_sh_Vuckovic dyn_sh_Vuckovich dyn_sh_Vujcic dyn_sh_Vujevic
+		dyn_sh_Vujic dyn_sh_Vujovic dyn_sh_Vukas dyn_sh_Vukasinovic dyn_sh_Vukasovic
+		dyn_sh_Vukcevic dyn_sh_Vukelic dyn_sh_Vukic dyn_sh_Vukicevic dyn_sh_Vukovic
+		dyn_sh_Vuksan dyn_sh_Vuksanovic dyn_sh_Vuletic dyn_sh_Vulic dyn_sh_Vulin
+		dyn_sh_Vuskovic dyn_sh_Yelich dyn_sh_Zadro dyn_sh_Zagar dyn_sh_Zagorac
+		dyn_sh_Zaninovic dyn_sh_Zebic dyn_sh_Zec dyn_sh_Zekic dyn_sh_Zelic dyn_sh_Zeljkovic
+		dyn_sh_Zeravica dyn_sh_Zezelj dyn_sh_Zigic dyn_sh_Zilic dyn_sh_Zivkovic dyn_sh_Zivulic
+		dyn_sh_Zlatkovic dyn_sh_Zoric dyn_sh_Zorko dyn_sh_Zovko dyn_sh_Zrilic dyn_sh_Zrncic
+		dyn_sh_Zubcic dyn_sh_Zuparic dyn_sh_Zuvela
+	}
+	
+	male_names = {
+		
+	}
+
+	female_names = {
+		
+	}
+	
+	king_names = {
+		royal_Milos royal_Mihailo royal_Milan royal_Petar royal_Djordje royal_Arsenije
+		royal_Aleksandar royal_Nikola royal_Mirko royal_Danilo royal_Boris royal_Kyril
+	}
+	queen_names = {
+		royal_Ljubica royal_Natalija royal_Draga royal_Anka royal_Jelena royal_Evdokija
+	}
+}
+name_list_slovene = {
+	dynasty_names = {
+		dyn_sl_Adamic dyn_sl_Ahacic dyn_sl_Aljaz dyn_sl_Avsenik dyn_sl_Babnik
+		dyn_sl_Bedene dyn_sl_Bezjak dyn_sl_Bizjak dyn_sl_Bogataj dyn_sl_Bogovic
+		dyn_sl_Bozic dyn_sl_Bratanovic dyn_sl_Bravnicar dyn_sl_Bricelj dyn_sl_Cadez
+		dyn_sl_Cebulj dyn_sl_Ceferin dyn_sl_Ceh dyn_sl_Cerne dyn_sl_Cesen dyn_sl_Cop
+		dyn_sl_Crnic dyn_sl_Cvek dyn_sl_Debeljak dyn_sl_Debenjak dyn_sl_Dolinar
+		dyn_sl_Doncic dyn_sl_Dovzan dyn_sl_Drnovsek dyn_sl_Erjavec dyn_sl_Ermenc
+		dyn_sl_Gaspar dyn_sl_Gazvoda dyn_sl_Glavan dyn_sl_Glazar dyn_sl_Gliha
+		dyn_sl_Globocnik dyn_sl_Godec dyn_sl_Golic dyn_sl_Golicic dyn_sl_Golob
+		dyn_sl_Gomboc dyn_sl_Gosar dyn_sl_Gradisnik dyn_sl_Grafenauer dyn_sl_Gregorc
+		dyn_sl_Gregoric dyn_sl_Gruden dyn_sl_Hadalin dyn_sl_Hercog dyn_sl_Hocevar
+		dyn_sl_Horjak dyn_sl_Horvat dyn_sl_Hribar dyn_sl_Hrovat dyn_sl_Jakopin
+		dyn_sl_Janez dyn_sl_Janezic dyn_sl_Jansa dyn_sl_Jazbec dyn_sl_Jelenic
+		dyn_sl_Jereb dyn_sl_Jesih dyn_sl_Jezersek dyn_sl_Jurkovic dyn_sl_Juvan
+		dyn_sl_Kastelic dyn_sl_Kavcic dyn_sl_Klemencic dyn_sl_Klepac dyn_sl_Kleva
+		dyn_sl_Klinar dyn_sl_Klobucar dyn_sl_Klobuchar dyn_sl_Knavs dyn_sl_Knez
+		dyn_sl_Kocijancic dyn_sl_Kokot dyn_sl_Kolar dyn_sl_Komar dyn_sl_Kopitar
+		dyn_sl_Korosec dyn_sl_Kos dyn_sl_Kosir dyn_sl_Kotnik dyn_sl_Kovac
+		dyn_sl_Kovacevic dyn_sl_Kovacic dyn_sl_Krajnc dyn_sl_Kralj dyn_sl_Kramberger
+		dyn_sl_Kranjec dyn_sl_Krecic dyn_sl_Krivec dyn_sl_Krizaj dyn_sl_Kriznar
+		dyn_sl_Krusec dyn_sl_Kucan dyn_sl_Lajovic dyn_sl_Lakota dyn_sl_Lampic
+		dyn_sl_Langerholc dyn_sl_Lapajne dyn_sl_Lesjak dyn_sl_Lipovsek dyn_sl_Loncar
+		dyn_sl_Macek dyn_sl_Majer dyn_sl_Majerle dyn_sl_Marguc dyn_sl_Marotti
+		dyn_sl_Martic dyn_sl_Marusic dyn_sl_Mavretic dyn_sl_Mavric dyn_sl_Medak
+		dyn_sl_Mihelic dyn_sl_Mlakar dyn_sl_Modric dyn_sl_Mohoric dyn_sl_Murko
+		dyn_sl_Music dyn_sl_Novak dyn_sl_Oblak dyn_sl_Ocko dyn_sl_Oresnik dyn_sl_Osterc
+		dyn_sl_Pahor dyn_sl_Pajenk dyn_sl_Petek dyn_sl_Petelin dyn_sl_Petric
+		dyn_sl_Petrovic dyn_sl_Pirih dyn_sl_Pirjevec dyn_sl_Pirnat dyn_sl_Planinc
+		dyn_sl_Plibersek dyn_sl_Pogacar dyn_sl_Potocnik dyn_sl_Pregelj dyn_sl_Pregl
+		dyn_sl_Prelec dyn_sl_Prelog dyn_sl_Prevc dyn_sl_Puc dyn_sl_Puh dyn_sl_Pusnik
+		dyn_sl_Ramovs dyn_sl_Rebula dyn_sl_Robar dyn_sl_Robida dyn_sl_Rogelj
+		dyn_sl_Rozman dyn_sl_Rudonja dyn_sl_Rupnik dyn_sl_Sarec dyn_sl_Savnik
+		dyn_sl_Scuka dyn_sl_Simenc dyn_sl_Sinkovec dyn_sl_Skerjanc dyn_sl_Skerlj
+		dyn_sl_Skok dyn_sl_Slokar dyn_sl_Smole dyn_sl_Smrekar dyn_sl_Snoj dyn_sl_Sraka
+		dyn_sl_Srebotnik dyn_sl_Stanich dyn_sl_Strnad dyn_sl_Strukelj dyn_sl_Struna
+		dyn_sl_Stuhec dyn_sl_Subic dyn_sl_Sustar dyn_sl_Tepes dyn_sl_Ticar
+		dyn_sl_Tkalec dyn_sl_Tomsic dyn_sl_Trdina dyn_sl_Troha dyn_sl_Trstenjak
+		dyn_sl_Udrih dyn_sl_Velikonja dyn_sl_Vidmar dyn_sl_Vodopivec dyn_sl_Vogrincic
+		dyn_sl_Vovk dyn_sl_Vrabel dyn_sl_Vrhovec dyn_sl_Vuckic dyn_sl_Vurnik
+		dyn_sl_Zagar dyn_sl_Zajc dyn_sl_Zalar dyn_sl_Zbogar dyn_sl_Zdovc dyn_sl_Zec
+		dyn_sl_Zerjav dyn_sl_Zezelj dyn_sl_Zibert dyn_sl_Zidansek dyn_sl_Zigon
+		dyn_sl_Znidarsic dyn_sl_Zorc dyn_sl_Zorko dyn_sl_Zupan dyn_sl_Zuzek dyn_sl_Zver
+		dyn_sl_Zvizej 
+	}
+	male_names = {
+		sl_Adolf sl_Albert sl_Albin sl_Ales sl_Aljaz sl_Aljosa sl_Alojz sl_Alvin
+		sl_Andrej sl_Anton sl_Antoni sl_Antonijo sl_Anze sl_Avgust sl_Berislav
+		sl_Blagoje sl_Blaz sl_Bogdan sl_Bogomil sl_Bojan sl_Boris sl_Borut sl_Bosko
+		sl_Bostjan sl_Bozidar sl_Bozo sl_Branimir sl_Branislav sl_Ciril sl_Dalibor
+		sl_Damjan sl_Daniel sl_Danijel sl_Darko sl_David sl_Davor sl_Davorin sl_Dejan
+		sl_Dmitry sl_Dobroslav sl_Drago sl_Dragoljub sl_Dragoslav sl_Dusan sl_Dusko
+		sl_Ernest sl_Ernest sl_Fran sl_France sl_Goran sl_Gorazd sl_Gordan sl_Gustav
+		sl_Herbert sl_Ivan sl_Ive sl_Iztok sl_Jadranko sl_Jaka sl_Janez sl_Janko
+		sl_Jaroslav sl_Jernej sl_Josip sl_Josko sl_Joze sl_Jure sl_Jurij sl_Karel
+		sl_Karlo sl_Karol sl_Klemen sl_Kristjan sl_Leopold sl_Ljubo sl_Lojze sl_Lovro
+		sl_Lubomir sl_Luka sl_Marjan sl_Marko sl_Matej sl_Matevz sl_Matic sl_Matija
+		sl_Matjaz sl_Mihael sl_Milan sl_Milivoj sl_Milko sl_Milomir sl_Milovan
+		sl_Miodrag sl_Miral sl_Miroslav sl_Nastja sl_Nenad sl_Neven sl_Nikolaj
+		sl_Ognjen sl_Primoz sl_Radomir sl_Ratimir sl_Ratko sl_Roberto sl_Rok sl_Roman
+		sl_Rostislav sl_Rudolph sl_Samo sl_Sandi sl_Slavko sl_Slavoljub sl_Sobieslav
+		sl_Stanimir sl_Stanko sl_Tadej sl_Tihomir sl_Tilen sl_Tomaz sl_Tonci sl_Tone
+		sl_Tonko sl_Vadim sl_Valentin sl_Velimir sl_Veselin sl_Vid sl_Vinko sl_Vitomir
+		sl_Vladimir sl_Vladislav sl_Vuk sl_Vukasin sl_Vukmir sl_Yury sl_Zdravko
+		sl_Zeljko sl_Ziga sl_Zivko sl_Zlatan sl_Zlatko sl_Zorko sl_Zvonimir 
+	}
+	female_names = {
+		sl_Adrijana sl_Agatha sl_Ajda sl_Albina sl_Ana sl_Andreja sl_Anka sl_Antonija
+		sl_Barbara sl_Biljana sl_Bozena sl_Branka sl_Brigita sl_Danica sl_Darina
+		sl_Denisa sl_Dijana sl_Dobroniega sl_Dora sl_Draga sl_Elena sl_Emma sl_Eva
+		sl_Galina sl_Gorana sl_Gordana sl_Ivica sl_Jadranka sl_Jasna sl_Jelena
+		sl_Judita sl_Kaja sl_Karlina sl_Karolina sl_Katarina sl_Katya sl_Lada sl_Lara
+		sl_Lina sl_Ljuba sl_Ljubica sl_Lucija sl_Ludmila sl_Maria sl_Marija sl_Marijana
+		sl_Marjana sl_Marta sl_Mateja sl_Melania sl_Milena sl_Milica sl_Mira sl_Mirjana
+		sl_Mojca sl_Nada sl_Nadia sl_Nastja sl_Natalia sl_Natasa sl_Nena sl_Nevena
+		sl_Nika sl_Nikolina sl_Nina sl_Olga sl_Pavla sl_Renata sl_Romana sl_Ruslana
+		sl_Sasa sl_Snezana sl_Sofija sl_Stanislava sl_Stefania sl_Svijetlana sl_Tamara
+		sl_Tanja sl_Tatiana sl_Tonja sl_Tonka sl_Ursa sl_Urska sl_Valentina sl_Valeria
+		sl_Veronica sl_Vesna sl_Vida sl_Viktorija 
+	}
+	
+	king_names = {
+		royal_Milos royal_Mihailo royal_Milan royal_Petar royal_Djordje royal_Arsenije
+		royal_Aleksandar royal_Nikola royal_Mirko royal_Danilo royal_Boris royal_Kyril
+	}
+	queen_names = {
+		royal_Ljubica royal_Natalija royal_Draga royal_Anka royal_Jelena royal_Evdokija
+	}
+}
+sublist_croatian = {
+	male_names = {
+		hr_Abda hr_Abdija hr_Abdon hr_Abel hr_Abelo hr_Absalon hr_Aca hr_Aco
+		hr_Adalberto hr_Adam hr_Adolfo hr_Adrijan hr_Agapit hr_Agapito hr_Agaton
+		hr_Ahacije hr_Ahilej hr_Aka hr_Akaca hr_Akacije hr_Akila hr_Alberto hr_Albin
+		hr_Aleksa hr_Aleksandar hr_Aleksije hr_Alekso hr_Alfons hr_Alfonso hr_Alfred
+		hr_Alfredo hr_Alojz hr_Alojzie hr_Amadej hr_Amado hr_Amand hr_Amat hr_Ambroz
+		hr_Ambrozije hr_Amos hr_Anaklet hr_Ananija hr_Ananije hr_Anastasije
+		hr_Anastazije hr_Anatol hr_Anatolije hr_Andra hr_Andrea hr_Andrija hr_Angelo
+		hr_Anicet hr_Anselmo hr_Ante hr_Antonije hr_Antun hr_Anzelmo hr_Anzgar
+		hr_Andel hr_Andelko hr_Andelo hr_Apolinar hr_Apolonije hr_Aristid hr_Arkadije
+		hr_Arnoldo hr_Aron hr_Arsa hr_Arsenije hr_Artur hr_Atanasije hr_Atanzije
+		hr_August hr_Augustin hr_Aurelijan hr_Aurelije hr_Avel hr_Avelj hr_Avgust
+		hr_Avgustin hr_Avisalon hr_Avrelijan hr_Avrelije hr_Aciles hr_Baldassar
+		hr_Baldo hr_Balduin hr_Baltaar hr_Baltasar hr_Banjamin hr_Barnaba hr_Bartol
+		hr_Bartoldo hr_Bartolomej hr_Bartul hr_Batista hr_Bazil hr_Bazilije hr_Beda
+		hr_Benedik hr_Benedikto hr_Benjamin hr_Benko hr_Beno hr_Bernardin hr_Bernardo
+		hr_Bertoldo hr_Bertrand hr_Bertrando hr_Blaza hr_Blaze hr_Blazo hr_Bogdan
+		hr_Bogomil hr_Bogomir hr_Bogoslav hr_Bogumil hr_Boleslav hr_Bonaventura
+		hr_Bonifacije hr_Bora hr_Boris hr_Borislav hr_Borivoje hr_Boro hr_Bosilko
+		hr_Bosko hr_Bostijan hr_Boza hr_Bozidar hr_Bozo hr_Brane hr_Branislav
+		hr_Branko hr_Brikci hr_Bruno hr_Celestin hr_Cezar hr_Cezarije hr_Ciprijan
+		hr_Cira hr_Cirijak hr_Cirilo hr_Cveta hr_Cvetk hr_Cvetko hr_Cvieto hr_Cvijetin
+		hr_Cvijetko hr_Cvijeto hr_Cvjetko hr_Damas hr_Damjan hr_Danilo hr_Danco
+		hr_Darije hr_Darko hr_Darco hr_David hr_Dedeon hr_Demetrije hr_Deodat
+		hr_Derasim hr_Derman hr_Desider hr_Desiderije hr_Deziderije hr_Dimce hr_Dimco
+		hr_Dimitar hr_Dimitrije hr_Dioklecijan hr_Dionizije hr_Djoka hr_Djoko
+		hr_Djordje hr_Djura hr_Djuro hr_Dmitar hr_Dolfo hr_Domicijan hr_Dominik
+		hr_Donat hr_Dragan hr_Dragisa hr_Dragmir hr_Drago hr_Dragoslav hr_Dragutin
+		hr_Draza hr_Dusko hr_Dusan hr_Eberhard hr_Edgar hr_Edmund hr_Edo hr_Edvardo
+		hr_Edvin hr_Efrem hr_Egbart hr_Egberto hr_Egidije hr_Egido hr_Eleazar
+		hr_Eleuterije hr_Eligije hr_Emanuel hr_Emanuil hr_Emerik hr_Emil hr_Emilije
+		hr_Emilo hr_Engelbart hr_Engelberto hr_Eno hr_Enoh hr_Erazmo hr_Erhardo
+		hr_Erik hr_Ernesto hr_Ervin hr_Ervino hr_Eufemije hr_Eugen hr_Eugenije
+		hr_Eulogije hr_Eustahije hr_Evaldo hr_Evaristo hr_Evdoksije hr_Everardo
+		hr_Evfimije hr_Evgenije hr_Evlogije hr_Ezav hr_Ezekijel hr_Fabijan hr_Fabije
+		hr_Fafajlo hr_Faust hr_Favst hr_Felicijan hr_Feliks hr_Ferdinando hr_Fidel
+		hr_Filemon hr_Filibert hr_Filiberto hr_Filimon hr_Filip hr_Firmin hr_Firmino
+		hr_Flavijan hr_Flavije hr_Flor hr_Florencije hr_Florentije hr_Florentin
+		hr_Florijan hr_Florio hr_Fonso hr_Fortunato hr_Fran hr_Francisko hr_Frane
+		hr_Franko hr_Friderik hr_Fridrih hr_Gabrijel hr_Gabro hr_Gajo hr_Gal hr_Galo
+		hr_Gapito hr_Gapo hr_Gapce hr_Gaudencije hr_Gavdencije hr_Gavra hr_Gavril
+		hr_Gavro hr_Gaspar hr_Gedeon hr_Gelazije hr_Geno hr_Georgije hr_Gera
+		hr_Geraldo hr_Gerardo hr_Gerasim hr_Gerdo hr_German hr_Gervazije hr_Gjuro
+		hr_Glisa hr_Gojko hr_Golub hr_Gordan hr_Gordijan hr_Gotardo hr_Gotfrid
+		hr_Gracijan hr_Gregor hr_Gregorije hr_Grgul hr_Grgur hr_Grigor hr_Grigorije
+		hr_Grjur hr_Guntram hr_Gusta hr_Gustav hr_Gustavo hr_Gusto hr_Guco hr_Gvido
+		hr_Gvidon hr_Hadrijan hr_Harald hr_Haraldo hr_Hektor hr_Heliodor hr_Heno
+		hr_Henoh hr_Henrih hr_Henrik hr_Heraklije hr_Heraklo hr_Herbart hr_Herberto
+		hr_Herkul hr_Herman hr_Hermenegildo hr_Higin hr_Hijacinto hr_Hijeronim
+		hr_Hilarij hr_Hilarije hr_Hipolito hr_Honorat hr_Honorije hr_Horacije
+		hr_Hortenzije hr_Hristivoje hr_Huberto hr_Hugo hr_Igidije hr_Igido hr_Ignacij
+		hr_Ignacije hr_Ignjat hr_Ilarije hr_Ilarko hr_Ilarco hr_Ildefons hr_Ildefonso
+		hr_Ilija hr_Inocent hr_Inocentije hr_Inca hr_Inco hr_Irenej hr_Isa hr_Isak
+		hr_Isav hr_Isidor hr_Ivan hr_Ive hr_Ivica hr_Ivo hr_Ivon hr_Iza hr_Izidor
+		hr_Jaka hr_Jakinto hr_Jako hr_Jakob hr_Jakov hr_Jaksa hr_Januarije hr_Jaros
+		hr_Jasa hr_Jazon hr_Jasa hr_Jeleazar hr_Jeremija hr_Jeremijas hr_Jerko
+		hr_Jerolim hr_Jeronim hr_Jevdoksije hr_Jevrem hr_Joachim hr_Job hr_Jodko
+		hr_Jodok hr_Jonatan hr_Jonas hr_Jordan hr_Josafat hr_Josip hr_Joso hr_Jota
+		hr_Jov hr_Jova hr_Jovan hr_Jovica hr_Jovo hr_Jozafat hr_Jozip hr_Josko hr_Jost
+		hr_Joze hr_Jozef hr_Jukundo hr_Jula hr_Julijan hr_Julije hr_Julijo hr_Julo
+		hr_Juraj hr_Jure hr_Justin hr_Justinijan hr_Kajetan hr_Kajfas hr_Kajfes
+		hr_Kajo hr_Kalist hr_Kalist hr_Kamilo hr_Kandid hr_Kanut hr_Karlo hr_Kasijan
+		hr_Kazimir hr_Kaspar hr_Kilijan hr_Kinto hr_Kiprijan hr_Kir hr_Kirijak
+		hr_Kiril hr_Kirilo hr_Klaudije hr_Klement hr_Kleofa hr_Kleofas hr_Klet
+		hr_Kliment hr_Koloman hr_Kolumbo hr_Kondrat hr_Konrad hr_Konstantije
+		hr_Konstantin hr_Kornelije hr_Kornilije hr_Kosta hr_Kozma hr_Krispin
+		hr_Kristijan hr_Kristo hr_Kristof hr_Kristofor hr_Krizanto hr_Krstitelj
+		hr_Ksaver hr_Ksaverije hr_Kuzma hr_Kuzman hr_Kvintilijan hr_Kvintin hr_Kvinto
+		hr_Kvirin hr_Lamberto hr_Landro hr_Lav hr_Lavrentije hr_Laza hr_Lazar
+		hr_Leander hr_Lefter hr_Lenard hr_Lenardo hr_Leon hr_Leonard hr_Leonardo
+		hr_Leone hr_Leonid hr_Leopold hr_Leopoldo hr_Lin hr_Lino hr_Livije hr_Ljuba
+		hr_Ljubisa hr_Ljubomir hr_Lojze hr_Longin hr_Lotar hr_Lovre hr_Lovrinac
+		hr_Lovrjenac hr_Lovro hr_Lucijan hr_Lucije hr_Luco hr_Ludovik hr_Ludvik
+		hr_Lujom hr_Luka hr_Lukijan hr_Lukije hr_Lukrecije hr_Lup hr_Magnus hr_Makarij
+		hr_Makarije hr_Maksim hr_Maksimilijan hr_Makso hr_Malahija hr_Mamerto
+		hr_Manojlo hr_Mansvet hr_Marcel hr_Marcelin hr_Marcijan hr_Marijan hr_Marije
+		hr_Marin hr_Marinko hr_Marjan hr_Mark hr_Marka hr_Markijan hr_Marko hr_Martin
+		hr_Marco hr_Mate hr_Matej hr_Mateja hr_Matija hr_Matijas hr_Matijaz hr_Mato
+		hr_Mauricije hr_Mavricije hr_Mavrikije hr_Medardo hr_Medo hr_Meletije
+		hr_Melhior hr_Metod hr_Metodija hr_Metodije hr_Mecislav hr_Mica hr_Miha
+		hr_Mihail hr_Mihajlo hr_Miho hr_Mihovil hr_Mijo hr_Milan hr_Mile hr_Milenko
+		hr_Milko hr_Milorad hr_Milovan hr_Milos hr_Miltijad hr_Milutin hr_Miodrag
+		hr_Mirko hr_Miroslav hr_Mita hr_Mitja hr_Mitko hr_Misa hr_Modest hr_Mojsij
+		hr_Mojsija hr_Mojsije hr_Moma hr_Momir hr_Momcilo hr_Napoleon hr_Narcis
+		hr_Nastas hr_Natalij hr_Natalis hr_Natan hr_Naza hr_Nazarije hr_Nedeljko
+		hr_Nestor hr_Nidja hr_Nidzo hr_Nika hr_Nikandar hr_Nikifor hr_Niko hr_Nikodim
+		hr_Nikola hr_Nicifor hr_Nico hr_Norberto hr_Ognjen hr_Oktavia hr_Oktavijan
+		hr_Olaf hr_Oleg hr_Olgerd hr_Olimpije hr_Olimpo hr_Onufrije hr_Onufro
+		hr_Orlando hr_Oskar hr_Otmar hr_Oto hr_Otomar hr_Oton hr_Ovida hr_Ovidije
+		hr_Pafnucije hr_Pafnutije hr_Paja hr_Pamfilije hr_Pamfilo hr_Pantalejmon
+		hr_Pantaleon hr_Paskal hr_Pasko hr_Patricije hr_Patrik hr_Patrikije hr_Paulin
+		hr_Pava hr_Paval hr_Pavao hr_Pavle hr_Pavlin hr_Pavo hr_Pera hr_Peregrin
+		hr_Perica hr_Pero hr_Petar hr_Petka hr_Petre hr_Petronije hr_Pijo hr_Placid
+		hr_Polde hr_Pompej hr_Predrag hr_Primo hr_Prisk hr_Prisko hr_Prokop
+		hr_Prokopije hr_Prosper hr_Protasije hr_Protazije hr_Prospar hr_Prudencije
+		hr_Prudentije hr_Ptolomej hr_Rade hr_Radko hr_Radomir hr_Radovan hr_Rafael
+		hr_Rafajlo hr_Rajko hr_Rajmundo hr_Rajner hr_Rajnerije hr_Ranko hr_Ratimir
+		hr_Ratko hr_Ratomir hr_Rejnoldo hr_Remigije hr_Renat hr_Rihard hr_Rikardo
+		hr_Rinaldo hr_Risto hr_Robert hr_Roberto hr_Roderiko hr_Roger hr_Rogero hr_Roh
+		hr_Rok hr_Roko hr_Rolan hr_Rolando hr_Roman hr_Romualdo hr_Rudi hr_Rudolfo
+		hr_Rufino hr_Rufo hr_Rugjer hr_Rudero hr_Saba hr_Sadok hr_Sadot hr_Salamon
+		hr_Salomon hr_Samson hr_Samuil hr_Samuilo hr_Saturnin hr_Saul hr_Sava hr_Savin
+		hr_Savo hr_Savva hr_Sasa hr_Scepan hr_Sebald hr_Sebaldo hr_Sebastijan
+		hr_Sebastijan hr_Serafin hr_Serafino hr_Sergij hr_Sergije hr_Servacije
+		hr_Serdo hr_Sever hr_Severino hr_Severo hr_Sigismund hr_Sikst hr_Siksto
+		hr_Silvan hr_Silvano hr_Silverije hr_Silvestar hr_Silvije hr_Silvo hr_Sima
+		hr_Simeon hr_Simeun hr_Simforijan hr_Simo hr_Simplicije hr_Slavan hr_Slavko
+		hr_Slavoljub hr_Smiljan hr_Sofronije hr_Solomun hr_Soter hr_Sotir hr_Spas
+		hr_Spase hr_Spasoje hr_Spiridion hr_Spiridon hr_Srecko hr_Stana hr_Stane
+		hr_Stanislav hr_Stanko hr_Stanoje hr_Stefa hr_Stefan hr_Stepan hr_Steva
+		hr_Stevan hr_Stevo hr_Stiepo hr_Stijepo hr_Stipa hr_Stjepan hr_Stojan
+		hr_Stojko hr_Sulpicije hr_Sveta hr_Svetko hr_Svetomir hr_Tade hr_Tadej
+		hr_Tadija hr_Tado hr_Tanasije hr_Taras hr_Tarasije hr_Telesfor hr_Teobaldo
+		hr_Teodor hr_Teodorik hr_Teodosije hr_Teodot hr_Teodozije hr_Teofan hr_Teofil
+		hr_Terencije hr_Terentije hr_Tiberije hr_Tiburcije hr_Timon hr_Timotej
+		hr_Timotije hr_Tit hr_Tito hr_Tivurtije hr_Tobija hr_Tobijas hr_Todor hr_Tolja
+		hr_Tolko hr_Toma hr_Tomas hr_Tomislav hr_Tomko hr_Tomo hr_Toni hr_Tonko
+		hr_Tonci hr_Tovija hr_Tosa hr_Trajan hr_Trajko hr_Ubaldo hr_Ulrih hr_Ulrik
+		hr_Uras hr_Urba hr_Urban hr_Urija hr_Ursin hr_Ursino hr_Valda hr_Valdemar
+		hr_Valentin hr_Valerijan hr_Valerije hr_Valtazar hr_Valter hr_Vartolomej
+		hr_Vasa hr_Vasil hr_Vasilije hr_Vaso hr_Vatroslav hr_Velimir hr_Velja
+		hr_Veljko hr_Velko hr_Venancije hr_Venceslav hr_Vendelin hr_Vendo hr_Venedikto
+		hr_Venjamin hr_Venco hr_Vergil hr_Verne hr_Verner hr_Vicentije hr_Vicko hr_Vid
+		hr_Vida hr_Vikentije hr_Viktor hr_Viktorin hr_Vilhelm hr_Vilibald hr_Vilibaldo
+		hr_Vilim hr_Vincencije hr_Vinko hr_Virgilije hr_Visko hr_Vita hr_Vital
+		hr_Vitalis hr_Vito hr_Vitomir hr_Vitor hr_Vjenceslav hr_Vlada hr_Vladislav
+		hr_Vlado hr_Vlaho hr_Vlas hr_Vlatko hr_Voja hr_Vojislav hr_Vojteh hr_Vojtjeh
+		hr_Vuk hr_Vuka hr_Vuko hr_Vukol hr_Vule hr_Vuletin hr_Vucko hr_Zaharija
+		hr_Zakej hr_Zarko hr_Zdravko hr_Zefirin hr_Zeno hr_Zenobije hr_Zenon
+		hr_Zigfrid hr_Zinovije hr_Zlatan hr_Zlatko hr_Zoran hr_Zorislav hr_Zosim
+		hr_Zozim hr_Zvjezdan hr_Zvonimir hr_Zvonko hr_Ðuro hr_Cir hr_Cira hr_Caslav
+		hr_Ceda hr_Cedomir hr_Cesar hr_Cira hr_Ciril hr_Dirolamo hr_Dordije hr_Durade
+		hr_Salomun hr_Sandor hr_Sime hr_Spiro hr_Zarko hr_Ziga hr_Zigmund hr_Zivan
+		hr_Zivko hr_Zivojin 
+	}
+	female_names = {
+		hr_Adela hr_Adelajda hr_Adrijana hr_Afra hr_Agata hr_Agnes hr_Agnesa hr_Agneza
+		hr_Akilina hr_Ala hr_Alberta hr_Albertina hr_Albina hr_Aldona hr_Aleksa
+		hr_Aleksandra hr_Aleksija hr_Alenka hr_Alfreda hr_Alica hr_Alicija hr_Alina
+		hr_Alma hr_Alojzija hr_Amadeja hr_Amalija hr_Amanda hr_Amata hr_Ana
+		hr_Anastasija hr_Anastazija hr_Anatolija hr_Angela hr_Anica hr_Aniceta hr_Anka
+		hr_Anselma hr_Anzelma hr_Anci hr_Ancica hr_Andela hr_Andelija hr_Andelina
+		hr_Apolinara hr_Apolonija hr_Arkadija hr_Atanasija hr_Atanazija hr_Augusta
+		hr_Augustina hr_Aurelija hr_Aurora hr_Avgusta hr_Avgustina hr_Avrelija
+		hr_Balbina hr_Barba hr_Barbara hr_Batilda hr_Beata hr_Beatrica hr_Beatrike
+		hr_Beatrice hr_Bendika hr_Benedikta hr_Bernadeta hr_Bernarda hr_Bernardina
+		hr_Berta hr_Beta hr_Biba hr_Bibijana hr_Bina hr_Blanka hr_Blazenka hr_Blazka
+		hr_Bogdana hr_Bogdanka hr_Bogomilka hr_Bogomirka hr_Bogumilka hr_Bojana
+		hr_Bojka hr_Boleslava hr_Bonifacija hr_Borislava hr_Borka hr_Bosa hr_Bosiljka
+		hr_Boska hr_Bozana hr_Bozidarka hr_Branislava hr_Branka hr_Brankica hr_Brigita
+		hr_Ceca hr_Cecilija hr_Cela hr_Celestina hr_Cezarija hr_Cezarka hr_Cirijaka
+		hr_Cirila hr_Cvetana hr_Cvetanka hr_Dana hr_Danica hr_Danila hr_Danilka
+		hr_Danka hr_Dara hr_Darija hr_Darinka hr_Debora hr_Desa hr_Desanka hr_Dijana
+		hr_Doma hr_Domica hr_Domicila hr_Dominika hr_Domitila hr_Domka hr_Domca
+		hr_Doroteja hr_Draga hr_Dragana hr_Dragica hr_Dragoslava hr_Dusanka hr_Edita
+		hr_Edvin hr_Ela hr_Elena hr_Eleonora hr_Elisa hr_Eliza hr_Elizabeta hr_Ellena
+		hr_Elsa hr_Elvira hr_Elza hr_Ema hr_Emica hr_Emila hr_Emilija hr_Erika
+		hr_Ervina hr_Erzika hr_Esmeralda hr_Estera hr_Eufemija hr_Eufrozina
+		hr_Eugenija hr_Eulalija hr_Eustahija hr_Eva hr_Evdoksija hr_Evelina
+		hr_Evfimija hr_Evfrosinija hr_Evgenija hr_Fausta hr_Favsta hr_Fela hr_Felicija
+		hr_Felicita hr_Ferdinanda hr_Feva hr_Fevra hr_Fevronija hr_Filomena hr_Flavija
+		hr_Flavijana hr_Flora hr_Florencija hr_Florentina hr_Franciska hr_Franka
+		hr_Frida hr_Friderika hr_Gaja hr_Gala hr_Galca hr_Gata hr_Gaudencija
+		hr_Gavdencija hr_Gaca hr_Gena hr_Genofeva hr_Geralda hr_Germana hr_Gertruda
+		hr_Gisela hr_Gizela hr_Golubica hr_Gotfrida hr_Griselda hr_Grizelda hr_Gusta
+		hr_Gustava hr_Hadrijana hr_Haritina hr_Hedviga hr_Helena hr_Hema hr_Hermina
+		hr_Hijacinta hr_Hilarija hr_Hilda hr_Hildegarda hr_Honorata hr_Hortenzija
+		hr_Ida hr_Ifigenija hr_Ilarija hr_Ilda hr_Ildegarda hr_Ira hr_Irena hr_Isaija
+		hr_Isidora hr_Ivana hr_Ivanka hr_Ive hr_Ivo hr_Ivon hr_Iza hr_Izabela
+		hr_Izaija hr_Izidora hr_Jaga hr_Jana hr_Jane hr_Janica hr_Janka hr_Jasna
+		hr_Jefimija hr_Jela hr_Jele hr_Jelena hr_Jelenka hr_Jelisaveta hr_Jelka
+		hr_Jevdoksija hr_Jola hr_Jolanta hr_Josipa hr_Josipina hr_Jovanka hr_Judita
+		hr_Jukunda hr_Jula hr_Julija hr_Julijana hr_Julka hr_Justa hr_Justina hr_Jutka
+		hr_Kaja hr_Kalista hr_Kamila hr_Karolina hr_Kata hr_Katarina hr_Kate hr_Katica
+		hr_Katja hr_Kazimirka hr_Kisela hr_Klara hr_Klaudija hr_Klavda hr_Klementina
+		hr_Klota hr_Klotilda hr_Koleta hr_Konkordija hr_Konstancija hr_Konstantina
+		hr_Kordula hr_Korina hr_Kornelija hr_Kosa hr_Kosovka hr_Krispina hr_Krista
+		hr_Kristina hr_Kunegunda hr_Kunigunda hr_Kvirina hr_Lala hr_Laura hr_Lavinija
+		hr_Lela hr_Lelica hr_Lenka hr_Leokadija hr_Leona hr_Leonida hr_Leonija
+		hr_Leopolda hr_Lepa hr_Leposava hr_Leticija hr_Lida hr_Lidija hr_Lila
+		hr_Lilija hr_Lina hr_Linka hr_Ljiljana hr_Ljuba hr_Ljubava hr_Ljubica
+		hr_Ljubija hr_Ljubna hr_Ljudmila hr_Lora hr_Luca hr_Luce hr_Lucija hr_Lucijana
+		hr_Ludvia hr_Ludvika hr_Lujza hr_Lukrecia hr_Luca hr_Magda hr_Magdalena
+		hr_Makrina hr_Maksima hr_Malvina hr_Mara hr_Marcela hr_Marcelina hr_Marcijana
+		hr_Mare hr_Margareta hr_Margarita hr_Margita hr_Marica hr_Marija hr_Marijana
+		hr_Marijanka hr_Marina hr_Marinka hr_Mariska hr_Marta hr_Martina hr_Matilda
+		hr_Mela hr_Melanija hr_Mecislava hr_Mia hr_Mica hr_Miha hr_Mihajla hr_Mila
+		hr_Milada hr_Milanka hr_Milena hr_Milica hr_Milka hr_Mira hr_Mirka
+		hr_Miroslava hr_Miroslavka hr_Monika hr_Nada hr_Nadezda hr_Nata hr_Natalija
+		hr_Natasa hr_Neda hr_Nedeljka hr_Nevena hr_Nevenka hr_Nike hr_Ofelija
+		hr_Oktavija hr_Ola hr_Olga hr_Olgica hr_Olimpa hr_Olimpija hr_Olivera
+		hr_Ortenzija hr_Otilija hr_Pamfila hr_Pamfilija hr_Pankrac hr_Paola
+		hr_Paskalina hr_Patricija hr_Paula hr_Pava hr_Pave hr_Pavica hr_Pavla hr_Pela
+		hr_Pelaga hr_Pelagija hr_Pepa hr_Peregrina hr_Perpetuja hr_Peta hr_Petra
+		hr_Petrana hr_Petrinja hr_Petronija hr_Petronila hr_Petrunjela hr_Pija
+		hr_Placida hr_Pola hr_Polonka hr_Prakseda hr_Priscila hr_Priska hr_Prudencija
+		hr_Pulherija hr_Rade hr_Rafaela hr_Rafajla hr_Rahela hr_Rajmunda hr_Rajna
+		hr_Rajnera hr_Rajnerija hr_Rebeka hr_Regina hr_Rejna hr_Renata hr_Reveka
+		hr_Rita hr_Romana hr_Rotija hr_Roza hr_Rozalija hr_Roza hr_Rut hr_Ruta
+		hr_Ruska hr_Ruza hr_Ruzica hr_Sabina hr_Salomeja hr_Sandra hr_Sara hr_Sava
+		hr_Saveta hr_Savina hr_Savka hr_Sasa hr_Saska hr_Selma hr_Severina hr_Sibila
+		hr_Sidonija hr_Sidorka hr_Silva hr_Silvija hr_Simena hr_Simeona hr_Simica
+		hr_Simka hr_Skolastika hr_Slava hr_Slavka hr_Smaragda hr_Smilja hr_Smiljka
+		hr_Sofija hr_Sofka hr_Sofronija hr_Sonja hr_Spasa hr_Spasenija hr_Stana
+		hr_Stane hr_Stanica hr_Stanislava hr_Stanka hr_Stanojka hr_Stasa hr_Stefa
+		hr_Stefanija hr_Stefka hr_Stela hr_Steva hr_Stevana hr_Stinka hr_Stjepanka
+		hr_Stose hr_Suzana hr_Tadeja hr_Tanasija hr_Tanja hr_Tatijana hr_Tatjana
+		hr_Tekla hr_Teodora hr_Teodosija hr_Teodozija hr_Teofana hr_Teofanija
+		hr_Teofila hr_Tereza hr_Terezija hr_Tilda hr_Todora hr_Tolka hr_Tosa hr_Urska
+		hr_Ursula hr_Valburga hr_Valerija hr_Valerijana hr_Valerjanka hr_Vanda
+		hr_Varvara hr_Veljka hr_Venceslava hr_Venedika hr_Vera hr_Verica hr_Veronika
+		hr_Veroslava hr_Vida hr_Vidojka hr_Vidosava hr_Vika hr_Viki hr_Vikta
+		hr_Viktorija hr_Vilhelmina hr_Vilma hr_Vincenca hr_Vinka hr_Virginija
+		hr_Vivijana hr_Vjenceslava hr_Vjera hr_Vjoleta hr_Vlada hr_Vladana hr_Vladica
+		hr_Vladimir hr_Vladislava hr_Vlado hr_Vlatko hr_Vuka hr_Vukosava hr_Vucica
+		hr_Zaga hr_Zagorka hr_Zdenka hr_Zenka hr_Zenobija hr_Zinovija hr_Zita hr_Zlata
+		hr_Zlatija hr_Zlatka hr_Zora hr_Zorica hr_Zorka hr_Zvjezda hr_Zvjezdana
+		hr_Cira hr_Cirka hr_Dukonda hr_Sarlota hr_Spela hr_Zivana hr_Zivka 
+	}
+}
+sublist_serbian = {
+	# Orthodox names
+	male_names = {
+		sh_Berislav sh_Berivoj sh_Blago sh_Bogdan sh_Bogumil sh_Bogoljub sh_Bogomil sh_Bojan
+		sh_Boris sh_Borislav sh_Borna sh_Bozetjeh sh_Bozidar sh_Bozo sh_Bratislav sh_Budimir
+		sh_Branimir sh_Brajko sh_Branko sh_Braslav sh_Bratoljub sh_Cvitko sh_Cvjetko sh_Caslav
+		sh_Castimir sh_Cedomir sh_Dalibor sh_Damir sh_Darko sh_Davor sh_Desimir sh_Dobroslav
+		sh_Dobrovit sh_Domagoj sh_Dragan sh_Drago sh_Dragoslav sh_Dragutin sh_Dragomir
+		sh_Drazen sh_Drziha sh_Drzislav sh_Godemir sh_Gojko sh_Gojislav sh_Gojslav sh_Goran
+		sh_Grubisa sh_Hrvatin sh_Hrvoj sh_Hrvoje sh_Hrvoslav sh_Kazimir sh_Kazimir sh_Jasenko
+		sh_Klonimir sh_Kresimir sh_Krsevan sh_Lavoslav sh_Ljubomir sh_Ljudevit sh_Milan sh_Mile
+		sh_Milivoj sh_Milovan sh_Miljenko sh_Mirko sh_Miroslav sh_Miros sh_Mislav sh_Mladen
+		sh_Mojmir sh_Mutimir sh_Nediljko sh_Nedjeljko sh_Nenad sh_Ognjen sh_Ostoja sh_Ozren
+		sh_Predrag sh_Pribislav sh_Prvan sh_Prvoslav sh_Prvos sh_Radimir sh_Radomir sh_Rados
+		sh_Rajko sh_Ranko sh_Ratimir sh_Ratko sh_Rato sh_Radovan sh_Radoslav sh_Slaven
+		sh_Slavisa sh_Slavoljub sh_Slavomir sh_Smiljan sh_Spomenko sh_Srebrenko sh_Srecko
+		sh_Stanislav sh_Stanko sh_Strahimir sh_Svetoslav sh_Tihomil sh_Tihomir sh_Tjesimir
+		sh_Tomislav sh_Tomo sh_Tvrtko sh_Trpimir sh_Vatroslav sh_Veceslav sh_Vedran
+		sh_Velimir sh_Veselko sh_Vidoslav sh_Vjekoslav sh_Vjenceslav sh_Viseslav sh_Vitomir
+		sh_Vjeran sh_Vladimir sh_Vlado sh_Vlatko sh_Vojmil sh_Vojnomir sh_Vuk sh_Zdenko
+		sh_Zdeslav sh_Zdravko sh_Zorislav sh_Zoran sh_Zrinko sh_Zrinoslav sh_Zlatko sh_Zvonimir
+		sh_Zvonko sh_Zarko sh_Zelimir sh_Zeljko sh_Zivko
+		sh_Aleksandar sh_Andrej  sh_Andrija sh_Ante sh_Antun sh_Danijel sh_David sh_Dominik
+		sh_Djordje sh_Edvard sh_Filip sh_Franjo sh_Fridrik sh_Gavrilo sh_Grgur sh_Henrik
+		sh_Ilija sh_Ivan sh_Jakov sh_Josip sh_Juraj sh_Karlo sh_Kristofer sh_Lav sh_Ljudevit
+		sh_Lovro sh_Luka sh_Marko sh_Matej sh_Mihael sh_Mihovil sh_Mikula sh_Nikola
+		sh_Niksha sh_Paval sh_Petar sh_Rikard sh_Sebastijan sh_Silvestar sh_Shimun sh_Srdjan
+		sh_Stjepan sh_Todor sh_Toma sh_Vasilije sh_Vilim sh_Vinko
+		#
+		sh_Aleksandar sh_Aleksej sh_Ambrozije sh_Ananija sh_Andrej sh_Andrija sh_Anto
+		sh_Antonije sh_Atanasije sh_Bartolomej sh_Christofor sh_Damjan sh_Danijel
+		sh_Danilo sh_Danko sh_Dimitrije sh_Dmitar sh_Dominik sh_Emilijan sh_Filip
+		sh_Gavrilo sh_Glicerije sh_Grgur sh_Ignjatije sh_Ilija sh_Ilinka sh_Isidor
+		sh_Ivan sh_Jadran sh_Jadranko sh_Jakov sh_Jevsevije sh_Joakim sh_Jordan
+		sh_Josif sh_Jovan sh_Julije sh_Justin sh_Kalinik sh_Kiprijan sh_Konstantin
+		sh_Kozma sh_Kristijan sh_Kuzman sh_Leon sh_Leonid sh_Luca sh_Marin sh_Marinko
+		sh_Martin sh_Matej sh_Mihajlo sh_Nikola sh_Nićifor sh_Onufrije sh_Patrik
+		sh_Pavle sh_Petar sh_Prokopije sh_Rafail sh_Sava sh_Sebastijan sh_Sergije
+		sh_Silvestar sh_Simeon sh_Simo sh_Soter sh_Spiridon sh_Stefan sh_Stevan
+		sh_Stevo sh_Stjepan sh_Telemah sh_Teodor sh_Teodosije sh_Teofan sh_Teofil
+		sh_Teofilakt sh_Tit sh_Titus sh_Todor sh_Toma sh_Trifon sh_Vasilije
+		sh_Vladimir sh_Djordje sh_Djuradj 
+	}
+	female_names = {
+		sh_Berislava sh_Blaga sh_Blagica sh_Bogdana sh_Bogomila sh_Bogumila sh_Borka
+		sh_Borislava sh_Bozena sh_Bozica sh_Bozidarka sh_Branimira sh_Branka sh_Buga sh_Cvita
+		sh_Cvijeta sh_Danica sh_Davorka sh_Divna sh_Dragana sh_Dragica sh_Dragomirka
+		sh_Dragomira sh_Draginja sh_Dragina sh_Draga sh_Drazenka sh_Dubravka sh_Dunja
+		sh_Hrvoja sh_Hrvojka sh_Jasenka sh_Jasna sh_Ljuba sh_Ljubica sh_Mila sh_Milica
+		sh_Miljenka sh_Mislava sh_Mira sh_Mirjana sh_Mirka sh_Misirka sh_Mirna sh_Mojmira
+		sh_Morana sh_Nada sh_Neda sh_Nediljka sh_Nevenka sh_Ognjenka sh_Ranka sh_Raseljka
+		sh_Ratka sh_Ruza sh_Ruzica sh_Sanja sh_Slava sh_Slavica sh_Slavenka sh_Smiljana
+		sh_Spomenka sh_Srebrenka sh_Stanislava sh_Stana sh_Stanka sh_Snjeska sh_Snjezana
+		sh_Suncana sh_Suncica sh_Tjeha sh_Tihana sh_Tihomila sh_Tuga sh_Vedrana sh_Vera
+		sh_Verica sh_Vjera sh_Vesna sh_Vjekoslava sh_Vlasta sh_Vlatka sh_Zdenka sh_Zlata
+		sh_Zora sh_Zorica sh_Zorka sh_Zrinka sh_Zrina sh_Zvjezdana sh_Zvonimira sh_Zvonka
+		sh_Zeljka sh_Zivka
+		sh_Ana sh_Andjelka sh_Jelena sh_Katarina sh_Marija sh_Marina sh_Natalija sh_Sofija
+		#
+		sh_Aleksandra sh_Ana sh_Anastasija sh_Anda sh_Andela sh_Atanasija sh_Damjana 
+		sh_Doroteja sh_Efimija sh_Efrosinija sh_Eufrosina sh_Filipa sh_Irena
+		sh_Isidora sh_Jelena sh_Jelisaveta sh_Julija sh_Julita sh_Kaliopa sh_Katarina
+		sh_Kristina sh_Lidija sh_Marija sh_Marina sh_Marta sh_Natalija sh_Nikoleta
+		sh_Nikolina sh_Olga sh_Olgica sh_Paraskeva sh_Sandra sh_Sofija sh_Tatjana
+		sh_Teodora sh_Teodosija sh_Vasilija sh_Durada 
+	}
+}
+sublist_bosniak = {
+	# Islamic names
+	dynasty_names = {
+	
+	}
+	male_names = {
+		bih_Abdullah bih_Adem bih_Ademir bih_Adnan bih_Ahmad bih_Aldin bih_Alen
+		bih_Ali bih_Alija bih_Amer bih_Amir bih_Ammar bih_Arif bih_Asad bih_Asem
+		bih_Atif bih_Avdo bih_Bekir bih_Burhan bih_Daud bih_Demir bih_Ekrem bih_Eldin
+		bih_Erol bih_Farid bih_Habib bih_Hakim bih_Halim bih_Hamid bih_Hamza
+		bih_Haris  bih_Harun bih_Hashim bih_Hasib bih_Hazem bih_Hikmet bih_Isa
+		bih_Ismail bih_Jahja bih_Jafar bih_Kareem bih_Kemal bih_Kenan bih_Kerim
+		bih_Khalid bih_Khalil bih_Khattab bih_Mahmud bih_Mansur bih_Mehmed
+		bih_Muhammad bih_Musa bih_Mustafa bih_Nadeem bih_Naim bih_Nasir bih_Nermin
+		bih_Omar bih_Osman bih_Qasim bih_Rahman bih_Safet bih_Saleh bih_Salim bih_Sami
+		bih_Samir bih_Sanel bih_Sejad bih_Senad bih_Suleiman bih_Sulejman bih_Taher
+		bih_Vahid bih_Vedad bih_Zaid 
+	}
+	female_names = {
+		bih_Adela bih_Aisha bih_Amira bih_Azra bih_Biljana bih_Branka bih_Esma
+		bih_Farida bih_Fatima bih_Gordana bih_Habiba bih_Hajra bih_Halima bih_Hamida
+		bih_Hana bih_Hanifa bih_Hatidzha bih_Hawa bih_Jadranka bih_Jamila bih_Jasmina
+		bih_Karima bih_Lamia bih_Latifa bih_Madiha bih_Marijana bih_Maryam bih_Milena
+		bih_Mira bih_Mirjana bih_Mirsada bih_Naila bih_Nayla bih_Radmila bih_Rahima
+		bih_Salma bih_Samira bih_Sanela bih_Sava bih_Shejla bih_Svjetlana bih_Tahira
+		bih_Vesna bih_Zahra bih_Zlata bih_Zora 
+	}
+}
